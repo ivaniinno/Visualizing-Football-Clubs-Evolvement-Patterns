@@ -9,6 +9,7 @@ class AveragePointsSpider(scrapy.Spider):
     start_urls = ['https://www.transfermarkt.world']
     years_start = 2014 #inclusive
     years_end = 2025 #exclusive
+    seen_team_ids = set()
 
     def start_requests(self) -> Iterable[Request]:
         with open("sorted_teams.json", 'r', encoding='utf-8') as file:

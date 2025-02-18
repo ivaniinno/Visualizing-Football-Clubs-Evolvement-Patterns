@@ -4,23 +4,30 @@ import json
 from scrapy import Request
 
 
-class KaderSpider(scrapy.Spider):
-    name = 'kader_spider'
+class MissingKaderSpider(scrapy.Spider):
+    name = 'missing_kader_spider'
     start_urls = ['https://www.transfermarkt.world']
     years_start = 2014 #inclusive
     years_end = 2025 #exclusive
     seen_team_ids = set()
 
     def start_requests(self) -> Iterable[Request]:
-        with open("sorted_teams.json", 'r', encoding='utf-8') as file:
-            data = json.load(file)
+        with open("missing_years.json", 'r', encoding='utf-8') as file:
+            missing_years = json.load(file)
 
-        for item in data:
-            link = item['Link_to_team'].replace("startseite", "kader") + '/plus/0/galerie/0?saison_id='
-            country = item['Country_Name']
-            for year in range(self.years_start, self.years_end):
-                url = f"https://www.transfermarkt.world{link}{year}"
-                yield scrapy.Request(url, callback=self.parse, meta={'saison_id': year, 'country': country})
+        with open("sorted_teams.json", 'r', encoding='utf-8') as file:
+            teams = json.load(file)
+
+        missing_years_map = {item['TeamID']: item['LeftYears'] for item in missing_years}
+
+        for team in teams:
+            team_id = team['TeamID']
+            if team_id in missing_years_map:
+                link = team['Link_to_team'].replace("startseite", "kader") + '/plus/0/galerie/0?saison_id='
+                country = team['Country_Name']
+                for year in missing_years_map[team_id]:
+                    url = f"https://www.transfermarkt.world{link}{year}"
+                    yield scrapy.Request(url, callback=self.parse, meta={'saison_id': year, 'country': country})
 
     def parse(self, response):
         year = response.meta['saison_id']
