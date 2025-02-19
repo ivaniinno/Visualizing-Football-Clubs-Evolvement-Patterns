@@ -1,22 +1,22 @@
-from os import urandom
 from flask import Flask, render_template, send_from_directory, make_response
 
 app = Flask(__name__)
 
+csp = (
+        f"default-src *;"
+        f"script-src 'self'"
+    )
+
+
+@app.after_request
+def apply_csp_headers(resp):
+    resp.headers['Content-Security-Policy'] = csp
+    return resp
+
+
 @app.route('/')
 def index():
-    nonce = urandom(16).hex()
-    
-    csp = (
-        f"default-src 'self';"
-        f"style-src 'self' 'unsafe-inline';"
-        f"script-src 'self' 'nonce-{nonce}';"
-        f"connect-src 'self';"
-    )
-    
-    response = make_response(render_template('index.html', nonce=nonce))
-    response.headers['Content-Security-Policy'] = csp
-    return response
+    return make_response(render_template('index.html'))
 
 
 @app.route('/data')
