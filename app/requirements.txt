@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 asttokens==2.4.1
 attrs==25.1.0
 Automat==24.8.1
@@ -5,6 +6,14 @@ blinker==1.9.0
 certifi==2025.1.31
 cffi==1.17.1
 charset-normalizer==3.4.1
+=======
+Flask==3.0.3
+Werkzeug>=3.1.0
+gunicorn==21.2.0
+python-dotenv==1.0.1
+psycopg2-binary==2.9.9
+Jinja2==3.1.5
+>>>>>>> Stashed changes
 click==8.1.8
 colorama==0.4.6
 comm==0.2.2
