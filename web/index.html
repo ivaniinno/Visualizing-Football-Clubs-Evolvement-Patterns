@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Football World Heatmap</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Football World Heatmap</h1>
+    <div class="controls">
+        <div>
+            <label for="measure">Select Measure:</label>
+            <select id="measure">
+                <option value="total_cost">Total Cost</option>
+                <option value="average_cost">Average Cost</option>
+            </select>
+        </div>
+        <div class="timeline">
+            <button id="prev-year">&#8592; Previous</button>
+            <span id="current-year">2014</span>
+            <button id="next-year">Next &#8594;</button>
+            <button id="play-toggle">Play</button>
+        </div>
+    </div>
+    <div id="map-container">
+        <div id="map"></div>
+        <div class="legend" id="legend"></div>
+        <div id="country-info">
+            <h3>Country Info</h3>
+            <p>Select a country to see details</p>
+        </div>
+    </div>
+    <div class="zoom-controls">
+        <button id="zoom-in">Zoom In</button>
+        <button id="zoom-out">Zoom Out</button>
+        <button id="reset">Reset</button>
+    </div>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
