@@ -165,61 +165,6 @@
         "AverageAge": 24.9
     },
     {
-        "TeamID": 1007,
-        "Year": 2014,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 1007,
-        "Year": 2015,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 1007,
-        "Year": 2016,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 1007,
-        "Year": 2017,
-        "AverageAge": 26.3
-    },
-    {
-        "TeamID": 1007,
-        "Year": 2018,
-        "AverageAge": 26.9
-    },
-    {
-        "TeamID": 1007,
-        "Year": 2019,
-        "AverageAge": 24.7
-    },
-    {
-        "TeamID": 1007,
-        "Year": 2020,
-        "AverageAge": 25.8
-    },
-    {
-        "TeamID": 1007,
-        "Year": 2021,
-        "AverageAge": 26.4
-    },
-    {
-        "TeamID": 1007,
-        "Year": 2022,
-        "AverageAge": 25.4
-    },
-    {
-        "TeamID": 1007,
-        "Year": 2023,
-        "AverageAge": 25.1
-    },
-    {
-        "TeamID": 1007,
-        "Year": 2024,
-        "AverageAge": 24.2
-    },
-    {
         "TeamID": 1008,
         "Year": 2014,
         "AverageAge": 22.5
@@ -891,6 +836,11 @@
     },
     {
         "TeamID": 1049,
+        "Year": 2016,
+        "AverageAge": 25.3
+    },
+    {
+        "TeamID": 1049,
         "Year": 2017,
         "AverageAge": 24.7
     },
@@ -1038,61 +988,6 @@
         "TeamID": 10532,
         "Year": 2024,
         "AverageAge": 26.5
-    },
-    {
-        "TeamID": 10540,
-        "Year": 2014,
-        "AverageAge": 24.9
-    },
-    {
-        "TeamID": 10540,
-        "Year": 2015,
-        "AverageAge": 24.0
-    },
-    {
-        "TeamID": 10540,
-        "Year": 2016,
-        "AverageAge": 26.1
-    },
-    {
-        "TeamID": 10540,
-        "Year": 2017,
-        "AverageAge": 26.3
-    },
-    {
-        "TeamID": 10540,
-        "Year": 2018,
-        "AverageAge": 25.0
-    },
-    {
-        "TeamID": 10540,
-        "Year": 2019,
-        "AverageAge": 26.0
-    },
-    {
-        "TeamID": 10540,
-        "Year": 2020,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 10540,
-        "Year": 2021,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 10540,
-        "Year": 2022,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 10540,
-        "Year": 2023,
-        "AverageAge": 22.8
-    },
-    {
-        "TeamID": 10540,
-        "Year": 2024,
-        "AverageAge": 25.5
     },
     {
         "TeamID": 1058,
@@ -1251,6 +1146,11 @@
     },
     {
         "TeamID": 1059,
+        "Year": 2023,
+        "AverageAge": 21.9
+    },
+    {
+        "TeamID": 1059,
         "Year": 2024,
         "AverageAge": 23.8
     },
@@ -1268,6 +1168,11 @@
         "TeamID": 10603,
         "Year": 2016,
         "AverageAge": 23.7
+    },
+    {
+        "TeamID": 10603,
+        "Year": 2017,
+        "AverageAge": 25.8
     },
     {
         "TeamID": 10603,
@@ -1311,6 +1216,11 @@
     },
     {
         "TeamID": 10604,
+        "Year": 2015,
+        "AverageAge": 25.7
+    },
+    {
+        "TeamID": 10604,
         "Year": 2016,
         "AverageAge": 25.4
     },
@@ -1331,6 +1241,11 @@
     },
     {
         "TeamID": 10604,
+        "Year": 2020,
+        "AverageAge": 26.2
+    },
+    {
+        "TeamID": 10604,
         "Year": 2021,
         "AverageAge": 27.3
     },
@@ -1348,6 +1263,16 @@
         "TeamID": 10604,
         "Year": 2024,
         "AverageAge": 26.0
+    },
+    {
+        "TeamID": 10605,
+        "Year": 2014,
+        "AverageAge": 24.7
+    },
+    {
+        "TeamID": 10605,
+        "Year": 2015,
+        "AverageAge": 25.8
     },
     {
         "TeamID": 10605,
@@ -1511,6 +1436,11 @@
     },
     {
         "TeamID": 10625,
+        "Year": 2015,
+        "AverageAge": 26.4
+    },
+    {
+        "TeamID": 10625,
         "Year": 2016,
         "AverageAge": 26.9
     },
@@ -1671,6 +1601,11 @@
     },
     {
         "TeamID": 10690,
+        "Year": 2015,
+        "AverageAge": 25.5
+    },
+    {
+        "TeamID": 10690,
         "Year": 2016,
         "AverageAge": 26.1
     },
@@ -1746,6 +1681,11 @@
     },
     {
         "TeamID": 10694,
+        "Year": 2020,
+        "AverageAge": 24.2
+    },
+    {
+        "TeamID": 10694,
         "Year": 2021,
         "AverageAge": 24.4
     },
@@ -1758,6 +1698,11 @@
         "TeamID": 10694,
         "Year": 2023,
         "AverageAge": 23.5
+    },
+    {
+        "TeamID": 10694,
+        "Year": 2024,
+        "AverageAge": 26.1
     },
     {
         "TeamID": 10695,
@@ -1831,6 +1776,11 @@
     },
     {
         "TeamID": 10734,
+        "Year": 2017,
+        "AverageAge": 23.8
+    },
+    {
+        "TeamID": 10734,
         "Year": 2018,
         "AverageAge": 25.0
     },
@@ -1888,6 +1838,11 @@
         "TeamID": 10747,
         "Year": 2018,
         "AverageAge": 30.4
+    },
+    {
+        "TeamID": 10747,
+        "Year": 2019,
+        "AverageAge": 31.5
     },
     {
         "TeamID": 10747,
@@ -1951,6 +1906,16 @@
     },
     {
         "TeamID": 1075,
+        "Year": 2021,
+        "AverageAge": 24.8
+    },
+    {
+        "TeamID": 1075,
+        "Year": 2022,
+        "AverageAge": 25.3
+    },
+    {
+        "TeamID": 1075,
         "Year": 2023,
         "AverageAge": 26.6
     },
@@ -1960,54 +1925,9 @@
         "AverageAge": 24.8
     },
     {
-        "TeamID": 10791,
+        "TeamID": 1082,
         "Year": 2014,
-        "AverageAge": 24.9
-    },
-    {
-        "TeamID": 10791,
-        "Year": 2015,
-        "AverageAge": 25.0
-    },
-    {
-        "TeamID": 10791,
-        "Year": 2016,
-        "AverageAge": 25.5
-    },
-    {
-        "TeamID": 10791,
-        "Year": 2017,
-        "AverageAge": 26.7
-    },
-    {
-        "TeamID": 10791,
-        "Year": 2018,
-        "AverageAge": 26.2
-    },
-    {
-        "TeamID": 10791,
-        "Year": 2019,
-        "AverageAge": 25.3
-    },
-    {
-        "TeamID": 10791,
-        "Year": 2020,
-        "AverageAge": 25.5
-    },
-    {
-        "TeamID": 10791,
-        "Year": 2022,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 10791,
-        "Year": 2023,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 10791,
-        "Year": 2024,
-        "AverageAge": NaN
+        "AverageAge": 25.7
     },
     {
         "TeamID": 1082,
@@ -2086,6 +2006,11 @@
     },
     {
         "TeamID": 1083,
+        "Year": 2019,
+        "AverageAge": 22.9
+    },
+    {
+        "TeamID": 1083,
         "Year": 2020,
         "AverageAge": 24.7
     },
@@ -2108,6 +2033,11 @@
         "TeamID": 1083,
         "Year": 2024,
         "AverageAge": 25.2
+    },
+    {
+        "TeamID": 10854,
+        "Year": 2014,
+        "AverageAge": 28.2
     },
     {
         "TeamID": 10854,
@@ -2138,6 +2068,11 @@
         "TeamID": 10854,
         "Year": 2020,
         "AverageAge": 26.8
+    },
+    {
+        "TeamID": 10854,
+        "Year": 2021,
+        "AverageAge": 29.5
     },
     {
         "TeamID": 10854,
@@ -2176,6 +2111,21 @@
     },
     {
         "TeamID": 10883,
+        "Year": 2018,
+        "AverageAge": 24.5
+    },
+    {
+        "TeamID": 10883,
+        "Year": 2019,
+        "AverageAge": 23.3
+    },
+    {
+        "TeamID": 10883,
+        "Year": 2020,
+        "AverageAge": 21.8
+    },
+    {
+        "TeamID": 10883,
         "Year": 2021,
         "AverageAge": 22.2
     },
@@ -2196,6 +2146,11 @@
     },
     {
         "TeamID": 1090,
+        "Year": 2014,
+        "AverageAge": 23.5
+    },
+    {
+        "TeamID": 1090,
         "Year": 2015,
         "AverageAge": 23.7
     },
@@ -2203,6 +2158,16 @@
         "TeamID": 1090,
         "Year": 2016,
         "AverageAge": 24.1
+    },
+    {
+        "TeamID": 1090,
+        "Year": 2017,
+        "AverageAge": 23.7
+    },
+    {
+        "TeamID": 1090,
+        "Year": 2018,
+        "AverageAge": 23.7
     },
     {
         "TeamID": 1090,
@@ -2236,6 +2201,11 @@
     },
     {
         "TeamID": 1091,
+        "Year": 2014,
+        "AverageAge": 25.8
+    },
+    {
+        "TeamID": 1091,
         "Year": 2015,
         "AverageAge": 24.2
     },
@@ -2263,6 +2233,11 @@
         "TeamID": 1091,
         "Year": 2020,
         "AverageAge": 26.0
+    },
+    {
+        "TeamID": 1091,
+        "Year": 2021,
+        "AverageAge": 26.9
     },
     {
         "TeamID": 1091,
@@ -2311,6 +2286,11 @@
     },
     {
         "TeamID": 1096,
+        "Year": 2020,
+        "AverageAge": 25.7
+    },
+    {
+        "TeamID": 1096,
         "Year": 2021,
         "AverageAge": 25.5
     },
@@ -2325,9 +2305,19 @@
         "AverageAge": 24.4
     },
     {
+        "TeamID": 1096,
+        "Year": 2024,
+        "AverageAge": 25.8
+    },
+    {
         "TeamID": 11,
         "Year": 2014,
         "AverageAge": 24.5
+    },
+    {
+        "TeamID": 11,
+        "Year": 2015,
+        "AverageAge": 25.2
     },
     {
         "TeamID": 11,
@@ -2336,8 +2326,18 @@
     },
     {
         "TeamID": 11,
+        "Year": 2017,
+        "AverageAge": 25.4
+    },
+    {
+        "TeamID": 11,
         "Year": 2018,
         "AverageAge": 25.4
+    },
+    {
+        "TeamID": 11,
+        "Year": 2019,
+        "AverageAge": 24.8
     },
     {
         "TeamID": 11,
@@ -2351,8 +2351,18 @@
     },
     {
         "TeamID": 11,
+        "Year": 2022,
+        "AverageAge": 24.0
+    },
+    {
+        "TeamID": 11,
         "Year": 2023,
         "AverageAge": 24.6
+    },
+    {
+        "TeamID": 11,
+        "Year": 2024,
+        "AverageAge": 26.7
     },
     {
         "TeamID": 1100,
@@ -2366,7 +2376,17 @@
     },
     {
         "TeamID": 1100,
+        "Year": 2016,
+        "AverageAge": 24.2
+    },
+    {
+        "TeamID": 1100,
         "Year": 2017,
+        "AverageAge": 23.8
+    },
+    {
+        "TeamID": 1100,
+        "Year": 2018,
         "AverageAge": 23.8
     },
     {
@@ -2406,13 +2426,93 @@
     },
     {
         "TeamID": 1101,
+        "Year": 2015,
+        "AverageAge": 24.2
+    },
+    {
+        "TeamID": 1101,
+        "Year": 2016,
+        "AverageAge": 23.9
+    },
+    {
+        "TeamID": 1101,
+        "Year": 2017,
+        "AverageAge": 24.4
+    },
+    {
+        "TeamID": 1101,
         "Year": 2018,
+        "AverageAge": 23.5
+    },
+    {
+        "TeamID": 1101,
+        "Year": 2019,
+        "AverageAge": 24.2
+    },
+    {
+        "TeamID": 1101,
+        "Year": 2020,
+        "AverageAge": 22.1
+    },
+    {
+        "TeamID": 1101,
+        "Year": 2021,
+        "AverageAge": 22.8
+    },
+    {
+        "TeamID": 1101,
+        "Year": 2022,
+        "AverageAge": 22.9
+    },
+    {
+        "TeamID": 1101,
+        "Year": 2023,
+        "AverageAge": 22.7
+    },
+    {
+        "TeamID": 1101,
+        "Year": 2024,
+        "AverageAge": 25.5
+    },
+    {
+        "TeamID": 1102,
+        "Year": 2014,
+        "AverageAge": 22.9
+    },
+    {
+        "TeamID": 1102,
+        "Year": 2015,
+        "AverageAge": 23.7
+    },
+    {
+        "TeamID": 1102,
+        "Year": 2016,
+        "AverageAge": 23.8
+    },
+    {
+        "TeamID": 1102,
+        "Year": 2017,
         "AverageAge": 23.5
     },
     {
         "TeamID": 1102,
         "Year": 2018,
         "AverageAge": 21.7
+    },
+    {
+        "TeamID": 1102,
+        "Year": 2019,
+        "AverageAge": 20.7
+    },
+    {
+        "TeamID": 1102,
+        "Year": 2020,
+        "AverageAge": 23.6
+    },
+    {
+        "TeamID": 1102,
+        "Year": 2021,
+        "AverageAge": 23.6
     },
     {
         "TeamID": 1102,
@@ -3583,116 +3683,6 @@
         "TeamID": 119,
         "Year": 2024,
         "AverageAge": 25.9
-    },
-    {
-        "TeamID": 11907,
-        "Year": 2014,
-        "AverageAge": 25.4
-    },
-    {
-        "TeamID": 11907,
-        "Year": 2015,
-        "AverageAge": 25.4
-    },
-    {
-        "TeamID": 11907,
-        "Year": 2016,
-        "AverageAge": 23.4
-    },
-    {
-        "TeamID": 11907,
-        "Year": 2017,
-        "AverageAge": 24.4
-    },
-    {
-        "TeamID": 11907,
-        "Year": 2018,
-        "AverageAge": 21.8
-    },
-    {
-        "TeamID": 11907,
-        "Year": 2019,
-        "AverageAge": 22.5
-    },
-    {
-        "TeamID": 11907,
-        "Year": 2020,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 11907,
-        "Year": 2021,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 11907,
-        "Year": 2022,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 11907,
-        "Year": 2023,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 11907,
-        "Year": 2024,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 11910,
-        "Year": 2014,
-        "AverageAge": 29.6
-    },
-    {
-        "TeamID": 11910,
-        "Year": 2015,
-        "AverageAge": 29.5
-    },
-    {
-        "TeamID": 11910,
-        "Year": 2016,
-        "AverageAge": 27.1
-    },
-    {
-        "TeamID": 11910,
-        "Year": 2017,
-        "AverageAge": 27.3
-    },
-    {
-        "TeamID": 11910,
-        "Year": 2018,
-        "AverageAge": 29.2
-    },
-    {
-        "TeamID": 11910,
-        "Year": 2019,
-        "AverageAge": 30.9
-    },
-    {
-        "TeamID": 11910,
-        "Year": 2020,
-        "AverageAge": 26.6
-    },
-    {
-        "TeamID": 11910,
-        "Year": 2021,
-        "AverageAge": 27.5
-    },
-    {
-        "TeamID": 11910,
-        "Year": 2022,
-        "AverageAge": 26.1
-    },
-    {
-        "TeamID": 11910,
-        "Year": 2023,
-        "AverageAge": 26.7
-    },
-    {
-        "TeamID": 11910,
-        "Year": 2024,
-        "AverageAge": NaN
     },
     {
         "TeamID": 11912,
@@ -5070,61 +5060,6 @@
         "AverageAge": 24.7
     },
     {
-        "TeamID": 13499,
-        "Year": 2014,
-        "AverageAge": 25.7
-    },
-    {
-        "TeamID": 13499,
-        "Year": 2015,
-        "AverageAge": 27.8
-    },
-    {
-        "TeamID": 13499,
-        "Year": 2016,
-        "AverageAge": 26.6
-    },
-    {
-        "TeamID": 13499,
-        "Year": 2017,
-        "AverageAge": 26.1
-    },
-    {
-        "TeamID": 13499,
-        "Year": 2018,
-        "AverageAge": 25.5
-    },
-    {
-        "TeamID": 13499,
-        "Year": 2019,
-        "AverageAge": 26.1
-    },
-    {
-        "TeamID": 13499,
-        "Year": 2020,
-        "AverageAge": 26.9
-    },
-    {
-        "TeamID": 13499,
-        "Year": 2021,
-        "AverageAge": 23.1
-    },
-    {
-        "TeamID": 13499,
-        "Year": 2022,
-        "AverageAge": 22.4
-    },
-    {
-        "TeamID": 13499,
-        "Year": 2023,
-        "AverageAge": 22.6
-    },
-    {
-        "TeamID": 13499,
-        "Year": 2024,
-        "AverageAge": NaN
-    },
-    {
         "TeamID": 1391,
         "Year": 2014,
         "AverageAge": 23.2
@@ -6168,61 +6103,6 @@
         "TeamID": 162,
         "Year": 2024,
         "AverageAge": 24.4
-    },
-    {
-        "TeamID": 16239,
-        "Year": 2014,
-        "AverageAge": 27.1
-    },
-    {
-        "TeamID": 16239,
-        "Year": 2015,
-        "AverageAge": 26.4
-    },
-    {
-        "TeamID": 16239,
-        "Year": 2016,
-        "AverageAge": 26.4
-    },
-    {
-        "TeamID": 16239,
-        "Year": 2017,
-        "AverageAge": 27.6
-    },
-    {
-        "TeamID": 16239,
-        "Year": 2018,
-        "AverageAge": 27.9
-    },
-    {
-        "TeamID": 16239,
-        "Year": 2019,
-        "AverageAge": 27.6
-    },
-    {
-        "TeamID": 16239,
-        "Year": 2020,
-        "AverageAge": 27.6
-    },
-    {
-        "TeamID": 16239,
-        "Year": 2021,
-        "AverageAge": 26.1
-    },
-    {
-        "TeamID": 16239,
-        "Year": 2022,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 16239,
-        "Year": 2023,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 16239,
-        "Year": 2024,
-        "AverageAge": NaN
     },
     {
         "TeamID": 163,
@@ -8040,61 +7920,6 @@
         "AverageAge": 24.2
     },
     {
-        "TeamID": 21934,
-        "Year": 2014,
-        "AverageAge": 24.4
-    },
-    {
-        "TeamID": 21934,
-        "Year": 2015,
-        "AverageAge": 25.7
-    },
-    {
-        "TeamID": 21934,
-        "Year": 2016,
-        "AverageAge": 24.2
-    },
-    {
-        "TeamID": 21934,
-        "Year": 2017,
-        "AverageAge": 25.2
-    },
-    {
-        "TeamID": 21934,
-        "Year": 2018,
-        "AverageAge": 25.2
-    },
-    {
-        "TeamID": 21934,
-        "Year": 2019,
-        "AverageAge": 21.8
-    },
-    {
-        "TeamID": 21934,
-        "Year": 2020,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 21934,
-        "Year": 2021,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 21934,
-        "Year": 2022,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 21934,
-        "Year": 2023,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 21934,
-        "Year": 2024,
-        "AverageAge": NaN
-    },
-    {
         "TeamID": 22010,
         "Year": 2014,
         "AverageAge": 26.9
@@ -8368,61 +8193,6 @@
         "TeamID": 22499,
         "Year": 2024,
         "AverageAge": 27.0
-    },
-    {
-        "TeamID": 22502,
-        "Year": 2014,
-        "AverageAge": 24.6
-    },
-    {
-        "TeamID": 22502,
-        "Year": 2015,
-        "AverageAge": 24.6
-    },
-    {
-        "TeamID": 22502,
-        "Year": 2016,
-        "AverageAge": 24.9
-    },
-    {
-        "TeamID": 22502,
-        "Year": 2017,
-        "AverageAge": 26.2
-    },
-    {
-        "TeamID": 22502,
-        "Year": 2018,
-        "AverageAge": 26.9
-    },
-    {
-        "TeamID": 22502,
-        "Year": 2019,
-        "AverageAge": 24.2
-    },
-    {
-        "TeamID": 22502,
-        "Year": 2020,
-        "AverageAge": 24.5
-    },
-    {
-        "TeamID": 22502,
-        "Year": 2021,
-        "AverageAge": 22.7
-    },
-    {
-        "TeamID": 22502,
-        "Year": 2022,
-        "AverageAge": 21.4
-    },
-    {
-        "TeamID": 22502,
-        "Year": 2023,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 22502,
-        "Year": 2024,
-        "AverageAge": 26.0
     },
     {
         "TeamID": 2259,
@@ -9138,61 +8908,6 @@
         "TeamID": 234,
         "Year": 2024,
         "AverageAge": 24.4
-    },
-    {
-        "TeamID": 23611,
-        "Year": 2014,
-        "AverageAge": 25.8
-    },
-    {
-        "TeamID": 23611,
-        "Year": 2015,
-        "AverageAge": 25.8
-    },
-    {
-        "TeamID": 23611,
-        "Year": 2016,
-        "AverageAge": 24.9
-    },
-    {
-        "TeamID": 23611,
-        "Year": 2017,
-        "AverageAge": 25.0
-    },
-    {
-        "TeamID": 23611,
-        "Year": 2018,
-        "AverageAge": 25.6
-    },
-    {
-        "TeamID": 23611,
-        "Year": 2019,
-        "AverageAge": 25.0
-    },
-    {
-        "TeamID": 23611,
-        "Year": 2020,
-        "AverageAge": 24.8
-    },
-    {
-        "TeamID": 23611,
-        "Year": 2021,
-        "AverageAge": 27.1
-    },
-    {
-        "TeamID": 23611,
-        "Year": 2022,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 23611,
-        "Year": 2023,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 23611,
-        "Year": 2024,
-        "AverageAge": NaN
     },
     {
         "TeamID": 23777,
@@ -10735,61 +10450,6 @@
         "AverageAge": 24.4
     },
     {
-        "TeamID": 26326,
-        "Year": 2014,
-        "AverageAge": 23.7
-    },
-    {
-        "TeamID": 26326,
-        "Year": 2015,
-        "AverageAge": 22.3
-    },
-    {
-        "TeamID": 26326,
-        "Year": 2016,
-        "AverageAge": 24.5
-    },
-    {
-        "TeamID": 26326,
-        "Year": 2017,
-        "AverageAge": 29.7
-    },
-    {
-        "TeamID": 26326,
-        "Year": 2018,
-        "AverageAge": 29.6
-    },
-    {
-        "TeamID": 26326,
-        "Year": 2019,
-        "AverageAge": 28.8
-    },
-    {
-        "TeamID": 26326,
-        "Year": 2020,
-        "AverageAge": 24.8
-    },
-    {
-        "TeamID": 26326,
-        "Year": 2021,
-        "AverageAge": 25.9
-    },
-    {
-        "TeamID": 26326,
-        "Year": 2022,
-        "AverageAge": 28.5
-    },
-    {
-        "TeamID": 26326,
-        "Year": 2023,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 26326,
-        "Year": 2024,
-        "AverageAge": NaN
-    },
-    {
         "TeamID": 265,
         "Year": 2014,
         "AverageAge": 25.4
@@ -10955,61 +10615,6 @@
         "AverageAge": 26.5
     },
     {
-        "TeamID": 26985,
-        "Year": 2014,
-        "AverageAge": 26.9
-    },
-    {
-        "TeamID": 26985,
-        "Year": 2015,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 26985,
-        "Year": 2016,
-        "AverageAge": 22.5
-    },
-    {
-        "TeamID": 26985,
-        "Year": 2017,
-        "AverageAge": 21.0
-    },
-    {
-        "TeamID": 26985,
-        "Year": 2018,
-        "AverageAge": 24.1
-    },
-    {
-        "TeamID": 26985,
-        "Year": 2019,
-        "AverageAge": 23.5
-    },
-    {
-        "TeamID": 26985,
-        "Year": 2020,
-        "AverageAge": 23.2
-    },
-    {
-        "TeamID": 26985,
-        "Year": 2021,
-        "AverageAge": 23.1
-    },
-    {
-        "TeamID": 26985,
-        "Year": 2022,
-        "AverageAge": 22.3
-    },
-    {
-        "TeamID": 26985,
-        "Year": 2023,
-        "AverageAge": 22.7
-    },
-    {
-        "TeamID": 26985,
-        "Year": 2024,
-        "AverageAge": 23.1
-    },
-    {
         "TeamID": 27,
         "Year": 2014,
         "AverageAge": 26.1
@@ -11063,61 +10668,6 @@
         "TeamID": 27,
         "Year": 2024,
         "AverageAge": 27.6
-    },
-    {
-        "TeamID": 27114,
-        "Year": 2014,
-        "AverageAge": 25.2
-    },
-    {
-        "TeamID": 27114,
-        "Year": 2015,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 27114,
-        "Year": 2016,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 27114,
-        "Year": 2017,
-        "AverageAge": 27.5
-    },
-    {
-        "TeamID": 27114,
-        "Year": 2018,
-        "AverageAge": 25.8
-    },
-    {
-        "TeamID": 27114,
-        "Year": 2019,
-        "AverageAge": 24.6
-    },
-    {
-        "TeamID": 27114,
-        "Year": 2020,
-        "AverageAge": 25.4
-    },
-    {
-        "TeamID": 27114,
-        "Year": 2021,
-        "AverageAge": 25.1
-    },
-    {
-        "TeamID": 27114,
-        "Year": 2022,
-        "AverageAge": 25.5
-    },
-    {
-        "TeamID": 27114,
-        "Year": 2023,
-        "AverageAge": 25.7
-    },
-    {
-        "TeamID": 27114,
-        "Year": 2024,
-        "AverageAge": 26.3
     },
     {
         "TeamID": 27116,
@@ -11615,61 +11165,6 @@
         "AverageAge": 23.6
     },
     {
-        "TeamID": 2782,
-        "Year": 2014,
-        "AverageAge": 23.4
-    },
-    {
-        "TeamID": 2782,
-        "Year": 2015,
-        "AverageAge": 24.0
-    },
-    {
-        "TeamID": 2782,
-        "Year": 2016,
-        "AverageAge": 24.0
-    },
-    {
-        "TeamID": 2782,
-        "Year": 2017,
-        "AverageAge": 24.6
-    },
-    {
-        "TeamID": 2782,
-        "Year": 2018,
-        "AverageAge": 23.2
-    },
-    {
-        "TeamID": 2782,
-        "Year": 2019,
-        "AverageAge": 23.3
-    },
-    {
-        "TeamID": 2782,
-        "Year": 2020,
-        "AverageAge": 22.9
-    },
-    {
-        "TeamID": 2782,
-        "Year": 2021,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 2782,
-        "Year": 2022,
-        "AverageAge": 19.2
-    },
-    {
-        "TeamID": 2782,
-        "Year": 2023,
-        "AverageAge": 17.0
-    },
-    {
-        "TeamID": 2782,
-        "Year": 2024,
-        "AverageAge": 19.1
-    },
-    {
         "TeamID": 2784,
         "Year": 2014,
         "AverageAge": 27.3
@@ -11888,61 +11383,6 @@
         "TeamID": 2790,
         "Year": 2024,
         "AverageAge": 25.0
-    },
-    {
-        "TeamID": 28082,
-        "Year": 2014,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 28082,
-        "Year": 2015,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 28082,
-        "Year": 2016,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 28082,
-        "Year": 2017,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 28082,
-        "Year": 2018,
-        "AverageAge": 26.3
-    },
-    {
-        "TeamID": 28082,
-        "Year": 2019,
-        "AverageAge": 25.1
-    },
-    {
-        "TeamID": 28082,
-        "Year": 2020,
-        "AverageAge": 26.0
-    },
-    {
-        "TeamID": 28082,
-        "Year": 2021,
-        "AverageAge": 25.8
-    },
-    {
-        "TeamID": 28082,
-        "Year": 2022,
-        "AverageAge": 26.1
-    },
-    {
-        "TeamID": 28082,
-        "Year": 2023,
-        "AverageAge": 25.2
-    },
-    {
-        "TeamID": 28082,
-        "Year": 2024,
-        "AverageAge": 25.1
     },
     {
         "TeamID": 28095,
@@ -12220,61 +11660,6 @@
         "AverageAge": 24.4
     },
     {
-        "TeamID": 2861,
-        "Year": 2014,
-        "AverageAge": 26.7
-    },
-    {
-        "TeamID": 2861,
-        "Year": 2015,
-        "AverageAge": 27.3
-    },
-    {
-        "TeamID": 2861,
-        "Year": 2016,
-        "AverageAge": 26.5
-    },
-    {
-        "TeamID": 2861,
-        "Year": 2017,
-        "AverageAge": 26.0
-    },
-    {
-        "TeamID": 2861,
-        "Year": 2018,
-        "AverageAge": 25.2
-    },
-    {
-        "TeamID": 2861,
-        "Year": 2019,
-        "AverageAge": 26.1
-    },
-    {
-        "TeamID": 2861,
-        "Year": 2020,
-        "AverageAge": 24.6
-    },
-    {
-        "TeamID": 2861,
-        "Year": 2021,
-        "AverageAge": 23.4
-    },
-    {
-        "TeamID": 2861,
-        "Year": 2022,
-        "AverageAge": 24.3
-    },
-    {
-        "TeamID": 2861,
-        "Year": 2023,
-        "AverageAge": 24.0
-    },
-    {
-        "TeamID": 2861,
-        "Year": 2024,
-        "AverageAge": NaN
-    },
-    {
         "TeamID": 28633,
         "Year": 2014,
         "AverageAge": 26.9
@@ -12328,116 +11713,6 @@
         "TeamID": 28633,
         "Year": 2024,
         "AverageAge": 27.0
-    },
-    {
-        "TeamID": 28936,
-        "Year": 2014,
-        "AverageAge": 23.3
-    },
-    {
-        "TeamID": 28936,
-        "Year": 2015,
-        "AverageAge": 23.9
-    },
-    {
-        "TeamID": 28936,
-        "Year": 2016,
-        "AverageAge": 22.8
-    },
-    {
-        "TeamID": 28936,
-        "Year": 2017,
-        "AverageAge": 25.1
-    },
-    {
-        "TeamID": 28936,
-        "Year": 2018,
-        "AverageAge": 22.9
-    },
-    {
-        "TeamID": 28936,
-        "Year": 2019,
-        "AverageAge": 20.5
-    },
-    {
-        "TeamID": 28936,
-        "Year": 2020,
-        "AverageAge": 20.2
-    },
-    {
-        "TeamID": 28936,
-        "Year": 2021,
-        "AverageAge": 19.7
-    },
-    {
-        "TeamID": 28936,
-        "Year": 2022,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 28936,
-        "Year": 2023,
-        "AverageAge": 24.0
-    },
-    {
-        "TeamID": 28936,
-        "Year": 2024,
-        "AverageAge": 24.7
-    },
-    {
-        "TeamID": 28958,
-        "Year": 2014,
-        "AverageAge": 30.1
-    },
-    {
-        "TeamID": 28958,
-        "Year": 2015,
-        "AverageAge": 28.2
-    },
-    {
-        "TeamID": 28958,
-        "Year": 2016,
-        "AverageAge": 28.2
-    },
-    {
-        "TeamID": 28958,
-        "Year": 2017,
-        "AverageAge": 27.3
-    },
-    {
-        "TeamID": 28958,
-        "Year": 2018,
-        "AverageAge": 28.0
-    },
-    {
-        "TeamID": 28958,
-        "Year": 2019,
-        "AverageAge": 30.4
-    },
-    {
-        "TeamID": 28958,
-        "Year": 2020,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 28958,
-        "Year": 2021,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 28958,
-        "Year": 2022,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 28958,
-        "Year": 2023,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 28958,
-        "Year": 2024,
-        "AverageAge": NaN
     },
     {
         "TeamID": 29,
@@ -13540,116 +12815,6 @@
         "AverageAge": 26.2
     },
     {
-        "TeamID": 31276,
-        "Year": 2014,
-        "AverageAge": 26.3
-    },
-    {
-        "TeamID": 31276,
-        "Year": 2015,
-        "AverageAge": 27.3
-    },
-    {
-        "TeamID": 31276,
-        "Year": 2016,
-        "AverageAge": 24.1
-    },
-    {
-        "TeamID": 31276,
-        "Year": 2017,
-        "AverageAge": 23.3
-    },
-    {
-        "TeamID": 31276,
-        "Year": 2018,
-        "AverageAge": 23.9
-    },
-    {
-        "TeamID": 31276,
-        "Year": 2019,
-        "AverageAge": 27.2
-    },
-    {
-        "TeamID": 31276,
-        "Year": 2020,
-        "AverageAge": 26.8
-    },
-    {
-        "TeamID": 31276,
-        "Year": 2021,
-        "AverageAge": 25.5
-    },
-    {
-        "TeamID": 31276,
-        "Year": 2022,
-        "AverageAge": 25.5
-    },
-    {
-        "TeamID": 31276,
-        "Year": 2023,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 31276,
-        "Year": 2024,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 3137,
-        "Year": 2014,
-        "AverageAge": 27.6
-    },
-    {
-        "TeamID": 3137,
-        "Year": 2015,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 3137,
-        "Year": 2016,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 3137,
-        "Year": 2017,
-        "AverageAge": 26.5
-    },
-    {
-        "TeamID": 3137,
-        "Year": 2018,
-        "AverageAge": 28.0
-    },
-    {
-        "TeamID": 3137,
-        "Year": 2019,
-        "AverageAge": 26.4
-    },
-    {
-        "TeamID": 3137,
-        "Year": 2020,
-        "AverageAge": 26.0
-    },
-    {
-        "TeamID": 3137,
-        "Year": 2021,
-        "AverageAge": 25.8
-    },
-    {
-        "TeamID": 3137,
-        "Year": 2022,
-        "AverageAge": 25.6
-    },
-    {
-        "TeamID": 3137,
-        "Year": 2023,
-        "AverageAge": 25.9
-    },
-    {
-        "TeamID": 3137,
-        "Year": 2024,
-        "AverageAge": 24.5
-    },
-    {
         "TeamID": 31614,
         "Year": 2014,
         "AverageAge": 25.3
@@ -14530,61 +13695,6 @@
         "AverageAge": 28.3
     },
     {
-        "TeamID": 33206,
-        "Year": 2014,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 33206,
-        "Year": 2015,
-        "AverageAge": 24.2
-    },
-    {
-        "TeamID": 33206,
-        "Year": 2016,
-        "AverageAge": 23.7
-    },
-    {
-        "TeamID": 33206,
-        "Year": 2017,
-        "AverageAge": 24.9
-    },
-    {
-        "TeamID": 33206,
-        "Year": 2018,
-        "AverageAge": 25.1
-    },
-    {
-        "TeamID": 33206,
-        "Year": 2019,
-        "AverageAge": 25.2
-    },
-    {
-        "TeamID": 33206,
-        "Year": 2020,
-        "AverageAge": 24.8
-    },
-    {
-        "TeamID": 33206,
-        "Year": 2021,
-        "AverageAge": 24.5
-    },
-    {
-        "TeamID": 33206,
-        "Year": 2022,
-        "AverageAge": 24.0
-    },
-    {
-        "TeamID": 33206,
-        "Year": 2023,
-        "AverageAge": 24.7
-    },
-    {
-        "TeamID": 33206,
-        "Year": 2024,
-        "AverageAge": 26.2
-    },
-    {
         "TeamID": 336,
         "Year": 2014,
         "AverageAge": 23.8
@@ -14970,61 +14080,6 @@
         "AverageAge": 24.3
     },
     {
-        "TeamID": 3461,
-        "Year": 2014,
-        "AverageAge": 33.5
-    },
-    {
-        "TeamID": 3461,
-        "Year": 2015,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 3461,
-        "Year": 2016,
-        "AverageAge": 20.9
-    },
-    {
-        "TeamID": 3461,
-        "Year": 2017,
-        "AverageAge": 25.5
-    },
-    {
-        "TeamID": 3461,
-        "Year": 2018,
-        "AverageAge": 26.5
-    },
-    {
-        "TeamID": 3461,
-        "Year": 2019,
-        "AverageAge": 25.7
-    },
-    {
-        "TeamID": 3461,
-        "Year": 2020,
-        "AverageAge": 25.4
-    },
-    {
-        "TeamID": 3461,
-        "Year": 2021,
-        "AverageAge": 25.0
-    },
-    {
-        "TeamID": 3461,
-        "Year": 2022,
-        "AverageAge": 25.0
-    },
-    {
-        "TeamID": 3461,
-        "Year": 2023,
-        "AverageAge": 24.3
-    },
-    {
-        "TeamID": 3461,
-        "Year": 2024,
-        "AverageAge": 25.8
-    },
-    {
         "TeamID": 3463,
         "Year": 2014,
         "AverageAge": 26.9
@@ -15355,61 +14410,6 @@
         "AverageAge": 20.9
     },
     {
-        "TeamID": 3592,
-        "Year": 2014,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 3592,
-        "Year": 2015,
-        "AverageAge": 31.7
-    },
-    {
-        "TeamID": 3592,
-        "Year": 2016,
-        "AverageAge": 32.7
-    },
-    {
-        "TeamID": 3592,
-        "Year": 2017,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 3592,
-        "Year": 2018,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 3592,
-        "Year": 2019,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 3592,
-        "Year": 2020,
-        "AverageAge": 26.7
-    },
-    {
-        "TeamID": 3592,
-        "Year": 2021,
-        "AverageAge": 25.9
-    },
-    {
-        "TeamID": 3592,
-        "Year": 2022,
-        "AverageAge": 25.6
-    },
-    {
-        "TeamID": 3592,
-        "Year": 2023,
-        "AverageAge": 24.4
-    },
-    {
-        "TeamID": 3592,
-        "Year": 2024,
-        "AverageAge": 24.8
-    },
-    {
         "TeamID": 36,
         "Year": 2014,
         "AverageAge": 26.3
@@ -15463,61 +14463,6 @@
         "TeamID": 36,
         "Year": 2024,
         "AverageAge": 28.7
-    },
-    {
-        "TeamID": 3649,
-        "Year": 2014,
-        "AverageAge": 23.9
-    },
-    {
-        "TeamID": 3649,
-        "Year": 2015,
-        "AverageAge": 23.6
-    },
-    {
-        "TeamID": 3649,
-        "Year": 2016,
-        "AverageAge": 24.2
-    },
-    {
-        "TeamID": 3649,
-        "Year": 2017,
-        "AverageAge": 25.8
-    },
-    {
-        "TeamID": 3649,
-        "Year": 2018,
-        "AverageAge": 27.1
-    },
-    {
-        "TeamID": 3649,
-        "Year": 2019,
-        "AverageAge": 25.0
-    },
-    {
-        "TeamID": 3649,
-        "Year": 2020,
-        "AverageAge": 25.3
-    },
-    {
-        "TeamID": 3649,
-        "Year": 2021,
-        "AverageAge": 24.8
-    },
-    {
-        "TeamID": 3649,
-        "Year": 2022,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 3649,
-        "Year": 2023,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 3649,
-        "Year": 2024,
-        "AverageAge": NaN
     },
     {
         "TeamID": 365,
@@ -16565,61 +15510,6 @@
         "AverageAge": 24.7
     },
     {
-        "TeamID": 37989,
-        "Year": 2014,
-        "AverageAge": 27.3
-    },
-    {
-        "TeamID": 37989,
-        "Year": 2015,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 37989,
-        "Year": 2016,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 37989,
-        "Year": 2017,
-        "AverageAge": 26.0
-    },
-    {
-        "TeamID": 37989,
-        "Year": 2018,
-        "AverageAge": 25.2
-    },
-    {
-        "TeamID": 37989,
-        "Year": 2019,
-        "AverageAge": 24.9
-    },
-    {
-        "TeamID": 37989,
-        "Year": 2020,
-        "AverageAge": 25.1
-    },
-    {
-        "TeamID": 37989,
-        "Year": 2021,
-        "AverageAge": 23.8
-    },
-    {
-        "TeamID": 37989,
-        "Year": 2022,
-        "AverageAge": 25.1
-    },
-    {
-        "TeamID": 37989,
-        "Year": 2023,
-        "AverageAge": 26.5
-    },
-    {
-        "TeamID": 37989,
-        "Year": 2024,
-        "AverageAge": 26.5
-    },
-    {
         "TeamID": 38204,
         "Year": 2014,
         "AverageAge": 27.5
@@ -17335,61 +16225,6 @@
         "AverageAge": 26.3
     },
     {
-        "TeamID": 39803,
-        "Year": 2014,
-        "AverageAge": 27.2
-    },
-    {
-        "TeamID": 39803,
-        "Year": 2015,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 39803,
-        "Year": 2016,
-        "AverageAge": 25.2
-    },
-    {
-        "TeamID": 39803,
-        "Year": 2017,
-        "AverageAge": 24.7
-    },
-    {
-        "TeamID": 39803,
-        "Year": 2018,
-        "AverageAge": 26.3
-    },
-    {
-        "TeamID": 39803,
-        "Year": 2019,
-        "AverageAge": 26.8
-    },
-    {
-        "TeamID": 39803,
-        "Year": 2020,
-        "AverageAge": 27.3
-    },
-    {
-        "TeamID": 39803,
-        "Year": 2021,
-        "AverageAge": 26.7
-    },
-    {
-        "TeamID": 39803,
-        "Year": 2022,
-        "AverageAge": 26.4
-    },
-    {
-        "TeamID": 39803,
-        "Year": 2023,
-        "AverageAge": 23.9
-    },
-    {
-        "TeamID": 39803,
-        "Year": 2024,
-        "AverageAge": 25.1
-    },
-    {
         "TeamID": 40,
         "Year": 2014,
         "AverageAge": 24.3
@@ -17775,61 +16610,6 @@
         "AverageAge": 24.6
     },
     {
-        "TeamID": 40604,
-        "Year": 2014,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 40604,
-        "Year": 2015,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 40604,
-        "Year": 2016,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 40604,
-        "Year": 2017,
-        "AverageAge": 27.4
-    },
-    {
-        "TeamID": 40604,
-        "Year": 2018,
-        "AverageAge": 26.8
-    },
-    {
-        "TeamID": 40604,
-        "Year": 2019,
-        "AverageAge": 26.6
-    },
-    {
-        "TeamID": 40604,
-        "Year": 2020,
-        "AverageAge": 25.6
-    },
-    {
-        "TeamID": 40604,
-        "Year": 2021,
-        "AverageAge": 25.5
-    },
-    {
-        "TeamID": 40604,
-        "Year": 2022,
-        "AverageAge": 25.8
-    },
-    {
-        "TeamID": 40604,
-        "Year": 2023,
-        "AverageAge": 25.5
-    },
-    {
-        "TeamID": 40604,
-        "Year": 2024,
-        "AverageAge": 27.5
-    },
-    {
         "TeamID": 40812,
         "Year": 2014,
         "AverageAge": 26.6
@@ -17940,61 +16720,6 @@
         "AverageAge": 23.0
     },
     {
-        "TeamID": 41061,
-        "Year": 2014,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 41061,
-        "Year": 2015,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 41061,
-        "Year": 2016,
-        "AverageAge": 25.4
-    },
-    {
-        "TeamID": 41061,
-        "Year": 2017,
-        "AverageAge": 23.2
-    },
-    {
-        "TeamID": 41061,
-        "Year": 2018,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 41061,
-        "Year": 2019,
-        "AverageAge": 24.6
-    },
-    {
-        "TeamID": 41061,
-        "Year": 2020,
-        "AverageAge": 23.9
-    },
-    {
-        "TeamID": 41061,
-        "Year": 2021,
-        "AverageAge": 23.9
-    },
-    {
-        "TeamID": 41061,
-        "Year": 2022,
-        "AverageAge": 24.3
-    },
-    {
-        "TeamID": 41061,
-        "Year": 2023,
-        "AverageAge": 21.4
-    },
-    {
-        "TeamID": 41061,
-        "Year": 2024,
-        "AverageAge": 24.2
-    },
-    {
         "TeamID": 41133,
         "Year": 2014,
         "AverageAge": 19.7
@@ -18048,61 +16773,6 @@
         "TeamID": 41133,
         "Year": 2024,
         "AverageAge": 24.2
-    },
-    {
-        "TeamID": 41231,
-        "Year": 2014,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 41231,
-        "Year": 2015,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 41231,
-        "Year": 2016,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 41231,
-        "Year": 2017,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 41231,
-        "Year": 2018,
-        "AverageAge": 26.2
-    },
-    {
-        "TeamID": 41231,
-        "Year": 2019,
-        "AverageAge": 27.1
-    },
-    {
-        "TeamID": 41231,
-        "Year": 2020,
-        "AverageAge": 26.7
-    },
-    {
-        "TeamID": 41231,
-        "Year": 2021,
-        "AverageAge": 28.2
-    },
-    {
-        "TeamID": 41231,
-        "Year": 2022,
-        "AverageAge": 28.1
-    },
-    {
-        "TeamID": 41231,
-        "Year": 2023,
-        "AverageAge": 25.9
-    },
-    {
-        "TeamID": 41231,
-        "Year": 2024,
-        "AverageAge": 26.0
     },
     {
         "TeamID": 413,
@@ -18600,61 +17270,6 @@
         "AverageAge": 25.8
     },
     {
-        "TeamID": 42310,
-        "Year": 2014,
-        "AverageAge": 16.5
-    },
-    {
-        "TeamID": 42310,
-        "Year": 2015,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 42310,
-        "Year": 2016,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 42310,
-        "Year": 2017,
-        "AverageAge": 24.4
-    },
-    {
-        "TeamID": 42310,
-        "Year": 2018,
-        "AverageAge": 18.7
-    },
-    {
-        "TeamID": 42310,
-        "Year": 2019,
-        "AverageAge": 19.8
-    },
-    {
-        "TeamID": 42310,
-        "Year": 2020,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 42310,
-        "Year": 2021,
-        "AverageAge": 21.7
-    },
-    {
-        "TeamID": 42310,
-        "Year": 2022,
-        "AverageAge": 23.1
-    },
-    {
-        "TeamID": 42310,
-        "Year": 2023,
-        "AverageAge": 23.9
-    },
-    {
-        "TeamID": 42310,
-        "Year": 2024,
-        "AverageAge": 25.0
-    },
-    {
         "TeamID": 42546,
         "Year": 2014,
         "AverageAge": 38.2
@@ -18928,61 +17543,6 @@
         "TeamID": 430,
         "Year": 2024,
         "AverageAge": 25.7
-    },
-    {
-        "TeamID": 43032,
-        "Year": 2014,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 43032,
-        "Year": 2015,
-        "AverageAge": 26.4
-    },
-    {
-        "TeamID": 43032,
-        "Year": 2016,
-        "AverageAge": 25.8
-    },
-    {
-        "TeamID": 43032,
-        "Year": 2017,
-        "AverageAge": 26.2
-    },
-    {
-        "TeamID": 43032,
-        "Year": 2018,
-        "AverageAge": 27.4
-    },
-    {
-        "TeamID": 43032,
-        "Year": 2019,
-        "AverageAge": 26.0
-    },
-    {
-        "TeamID": 43032,
-        "Year": 2020,
-        "AverageAge": 27.2
-    },
-    {
-        "TeamID": 43032,
-        "Year": 2021,
-        "AverageAge": 28.2
-    },
-    {
-        "TeamID": 43032,
-        "Year": 2022,
-        "AverageAge": 28.8
-    },
-    {
-        "TeamID": 43032,
-        "Year": 2023,
-        "AverageAge": 28.5
-    },
-    {
-        "TeamID": 43032,
-        "Year": 2024,
-        "AverageAge": 28.2
     },
     {
         "TeamID": 4313,
@@ -19313,61 +17873,6 @@
         "TeamID": 4391,
         "Year": 2024,
         "AverageAge": 27.4
-    },
-    {
-        "TeamID": 43957,
-        "Year": 2014,
-        "AverageAge": 21.2
-    },
-    {
-        "TeamID": 43957,
-        "Year": 2015,
-        "AverageAge": 21.1
-    },
-    {
-        "TeamID": 43957,
-        "Year": 2016,
-        "AverageAge": 20.6
-    },
-    {
-        "TeamID": 43957,
-        "Year": 2017,
-        "AverageAge": 20.7
-    },
-    {
-        "TeamID": 43957,
-        "Year": 2018,
-        "AverageAge": 21.3
-    },
-    {
-        "TeamID": 43957,
-        "Year": 2019,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 43957,
-        "Year": 2020,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 43957,
-        "Year": 2021,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 43957,
-        "Year": 2022,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 43957,
-        "Year": 2023,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 43957,
-        "Year": 2024,
-        "AverageAge": NaN
     },
     {
         "TeamID": 44,
@@ -19863,61 +18368,6 @@
         "TeamID": 45457,
         "Year": 2024,
         "AverageAge": 26.7
-    },
-    {
-        "TeamID": 45520,
-        "Year": 2014,
-        "AverageAge": 24.5
-    },
-    {
-        "TeamID": 45520,
-        "Year": 2015,
-        "AverageAge": 26.2
-    },
-    {
-        "TeamID": 45520,
-        "Year": 2016,
-        "AverageAge": 24.0
-    },
-    {
-        "TeamID": 45520,
-        "Year": 2017,
-        "AverageAge": 24.7
-    },
-    {
-        "TeamID": 45520,
-        "Year": 2018,
-        "AverageAge": 23.5
-    },
-    {
-        "TeamID": 45520,
-        "Year": 2019,
-        "AverageAge": 27.3
-    },
-    {
-        "TeamID": 45520,
-        "Year": 2020,
-        "AverageAge": 27.9
-    },
-    {
-        "TeamID": 45520,
-        "Year": 2021,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 45520,
-        "Year": 2022,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 45520,
-        "Year": 2023,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 45520,
-        "Year": 2024,
-        "AverageAge": NaN
     },
     {
         "TeamID": 45574,
@@ -20745,116 +19195,6 @@
         "AverageAge": 25.7
     },
     {
-        "TeamID": 48712,
-        "Year": 2014,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 48712,
-        "Year": 2015,
-        "AverageAge": 23.8
-    },
-    {
-        "TeamID": 48712,
-        "Year": 2016,
-        "AverageAge": 24.2
-    },
-    {
-        "TeamID": 48712,
-        "Year": 2017,
-        "AverageAge": 23.9
-    },
-    {
-        "TeamID": 48712,
-        "Year": 2018,
-        "AverageAge": 23.5
-    },
-    {
-        "TeamID": 48712,
-        "Year": 2019,
-        "AverageAge": 24.1
-    },
-    {
-        "TeamID": 48712,
-        "Year": 2020,
-        "AverageAge": 24.9
-    },
-    {
-        "TeamID": 48712,
-        "Year": 2021,
-        "AverageAge": 23.2
-    },
-    {
-        "TeamID": 48712,
-        "Year": 2022,
-        "AverageAge": 23.1
-    },
-    {
-        "TeamID": 48712,
-        "Year": 2023,
-        "AverageAge": 23.4
-    },
-    {
-        "TeamID": 48712,
-        "Year": 2024,
-        "AverageAge": 23.7
-    },
-    {
-        "TeamID": 49149,
-        "Year": 2014,
-        "AverageAge": 22.3
-    },
-    {
-        "TeamID": 49149,
-        "Year": 2015,
-        "AverageAge": 17.7
-    },
-    {
-        "TeamID": 49149,
-        "Year": 2016,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 49149,
-        "Year": 2017,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 49149,
-        "Year": 2018,
-        "AverageAge": 22.5
-    },
-    {
-        "TeamID": 49149,
-        "Year": 2019,
-        "AverageAge": 24.1
-    },
-    {
-        "TeamID": 49149,
-        "Year": 2020,
-        "AverageAge": 23.6
-    },
-    {
-        "TeamID": 49149,
-        "Year": 2021,
-        "AverageAge": 24.5
-    },
-    {
-        "TeamID": 49149,
-        "Year": 2022,
-        "AverageAge": 26.2
-    },
-    {
-        "TeamID": 49149,
-        "Year": 2023,
-        "AverageAge": 25.9
-    },
-    {
-        "TeamID": 49149,
-        "Year": 2024,
-        "AverageAge": 25.8
-    },
-    {
         "TeamID": 4949,
         "Year": 2014,
         "AverageAge": 24.6
@@ -21350,61 +19690,6 @@
         "AverageAge": 22.4
     },
     {
-        "TeamID": 50983,
-        "Year": 2014,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 50983,
-        "Year": 2015,
-        "AverageAge": 24.1
-    },
-    {
-        "TeamID": 50983,
-        "Year": 2016,
-        "AverageAge": 25.7
-    },
-    {
-        "TeamID": 50983,
-        "Year": 2017,
-        "AverageAge": 25.7
-    },
-    {
-        "TeamID": 50983,
-        "Year": 2018,
-        "AverageAge": 24.7
-    },
-    {
-        "TeamID": 50983,
-        "Year": 2019,
-        "AverageAge": 24.0
-    },
-    {
-        "TeamID": 50983,
-        "Year": 2020,
-        "AverageAge": 23.6
-    },
-    {
-        "TeamID": 50983,
-        "Year": 2021,
-        "AverageAge": 23.0
-    },
-    {
-        "TeamID": 50983,
-        "Year": 2022,
-        "AverageAge": 22.0
-    },
-    {
-        "TeamID": 50983,
-        "Year": 2023,
-        "AverageAge": 21.5
-    },
-    {
-        "TeamID": 50983,
-        "Year": 2024,
-        "AverageAge": 23.1
-    },
-    {
         "TeamID": 520,
         "Year": 2014,
         "AverageAge": 24.7
@@ -21513,61 +19798,6 @@
         "TeamID": 5223,
         "Year": 2024,
         "AverageAge": 25.3
-    },
-    {
-        "TeamID": 5228,
-        "Year": 2014,
-        "AverageAge": 22.0
-    },
-    {
-        "TeamID": 5228,
-        "Year": 2015,
-        "AverageAge": 22.2
-    },
-    {
-        "TeamID": 5228,
-        "Year": 2016,
-        "AverageAge": 23.0
-    },
-    {
-        "TeamID": 5228,
-        "Year": 2017,
-        "AverageAge": 21.7
-    },
-    {
-        "TeamID": 5228,
-        "Year": 2018,
-        "AverageAge": 22.8
-    },
-    {
-        "TeamID": 5228,
-        "Year": 2019,
-        "AverageAge": 25.6
-    },
-    {
-        "TeamID": 5228,
-        "Year": 2020,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 5228,
-        "Year": 2021,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 5228,
-        "Year": 2022,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 5228,
-        "Year": 2023,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 5228,
-        "Year": 2024,
-        "AverageAge": NaN
     },
     {
         "TeamID": 53152,
@@ -21735,61 +19965,6 @@
         "AverageAge": 28.3
     },
     {
-        "TeamID": 53453,
-        "Year": 2014,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 53453,
-        "Year": 2015,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 53453,
-        "Year": 2016,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 53453,
-        "Year": 2017,
-        "AverageAge": 18.5
-    },
-    {
-        "TeamID": 53453,
-        "Year": 2018,
-        "AverageAge": 25.0
-    },
-    {
-        "TeamID": 53453,
-        "Year": 2019,
-        "AverageAge": 26.0
-    },
-    {
-        "TeamID": 53453,
-        "Year": 2020,
-        "AverageAge": 25.2
-    },
-    {
-        "TeamID": 53453,
-        "Year": 2021,
-        "AverageAge": 25.8
-    },
-    {
-        "TeamID": 53453,
-        "Year": 2022,
-        "AverageAge": 26.7
-    },
-    {
-        "TeamID": 53453,
-        "Year": 2023,
-        "AverageAge": 27.1
-    },
-    {
-        "TeamID": 53453,
-        "Year": 2024,
-        "AverageAge": 26.8
-    },
-    {
         "TeamID": 535,
         "Year": 2014,
         "AverageAge": 25.3
@@ -21843,61 +20018,6 @@
         "TeamID": 535,
         "Year": 2024,
         "AverageAge": 26.2
-    },
-    {
-        "TeamID": 53646,
-        "Year": 2014,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 53646,
-        "Year": 2015,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 53646,
-        "Year": 2016,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 53646,
-        "Year": 2017,
-        "AverageAge": 23.6
-    },
-    {
-        "TeamID": 53646,
-        "Year": 2018,
-        "AverageAge": 25.6
-    },
-    {
-        "TeamID": 53646,
-        "Year": 2019,
-        "AverageAge": 25.2
-    },
-    {
-        "TeamID": 53646,
-        "Year": 2020,
-        "AverageAge": 26.5
-    },
-    {
-        "TeamID": 53646,
-        "Year": 2021,
-        "AverageAge": 28.3
-    },
-    {
-        "TeamID": 53646,
-        "Year": 2022,
-        "AverageAge": 27.2
-    },
-    {
-        "TeamID": 53646,
-        "Year": 2023,
-        "AverageAge": 25.3
-    },
-    {
-        "TeamID": 53646,
-        "Year": 2024,
-        "AverageAge": 25.0
     },
     {
         "TeamID": 5378,
@@ -22173,61 +20293,6 @@
         "TeamID": 543,
         "Year": 2024,
         "AverageAge": 26.2
-    },
-    {
-        "TeamID": 54585,
-        "Year": 2014,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 54585,
-        "Year": 2015,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 54585,
-        "Year": 2016,
-        "AverageAge": 26.1
-    },
-    {
-        "TeamID": 54585,
-        "Year": 2017,
-        "AverageAge": 27.4
-    },
-    {
-        "TeamID": 54585,
-        "Year": 2018,
-        "AverageAge": 25.3
-    },
-    {
-        "TeamID": 54585,
-        "Year": 2019,
-        "AverageAge": 25.5
-    },
-    {
-        "TeamID": 54585,
-        "Year": 2020,
-        "AverageAge": 26.4
-    },
-    {
-        "TeamID": 54585,
-        "Year": 2021,
-        "AverageAge": 26.3
-    },
-    {
-        "TeamID": 54585,
-        "Year": 2022,
-        "AverageAge": 26.5
-    },
-    {
-        "TeamID": 54585,
-        "Year": 2023,
-        "AverageAge": 26.0
-    },
-    {
-        "TeamID": 54585,
-        "Year": 2024,
-        "AverageAge": 26.4
     },
     {
         "TeamID": 5544,
@@ -22556,61 +20621,6 @@
     },
     {
         "TeamID": 5771,
-        "Year": 2024,
-        "AverageAge": 26.1
-    },
-    {
-        "TeamID": 57890,
-        "Year": 2014,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 57890,
-        "Year": 2015,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 57890,
-        "Year": 2016,
-        "AverageAge": 24.6
-    },
-    {
-        "TeamID": 57890,
-        "Year": 2017,
-        "AverageAge": 24.6
-    },
-    {
-        "TeamID": 57890,
-        "Year": 2018,
-        "AverageAge": 26.4
-    },
-    {
-        "TeamID": 57890,
-        "Year": 2019,
-        "AverageAge": 27.0
-    },
-    {
-        "TeamID": 57890,
-        "Year": 2020,
-        "AverageAge": 26.1
-    },
-    {
-        "TeamID": 57890,
-        "Year": 2021,
-        "AverageAge": 25.7
-    },
-    {
-        "TeamID": 57890,
-        "Year": 2022,
-        "AverageAge": 26.1
-    },
-    {
-        "TeamID": 57890,
-        "Year": 2023,
-        "AverageAge": 25.9
-    },
-    {
-        "TeamID": 57890,
         "Year": 2024,
         "AverageAge": 26.1
     },
@@ -23110,61 +21120,6 @@
         "AverageAge": 24.5
     },
     {
-        "TeamID": 60368,
-        "Year": 2014,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 60368,
-        "Year": 2015,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 60368,
-        "Year": 2016,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 60368,
-        "Year": 2017,
-        "AverageAge": 22.8
-    },
-    {
-        "TeamID": 60368,
-        "Year": 2018,
-        "AverageAge": 24.1
-    },
-    {
-        "TeamID": 60368,
-        "Year": 2019,
-        "AverageAge": 24.2
-    },
-    {
-        "TeamID": 60368,
-        "Year": 2020,
-        "AverageAge": 25.4
-    },
-    {
-        "TeamID": 60368,
-        "Year": 2021,
-        "AverageAge": 25.2
-    },
-    {
-        "TeamID": 60368,
-        "Year": 2022,
-        "AverageAge": 22.8
-    },
-    {
-        "TeamID": 60368,
-        "Year": 2023,
-        "AverageAge": 27.7
-    },
-    {
-        "TeamID": 60368,
-        "Year": 2024,
-        "AverageAge": 28.0
-    },
-    {
         "TeamID": 605,
         "Year": 2014,
         "AverageAge": 24.2
@@ -23218,61 +21173,6 @@
         "TeamID": 605,
         "Year": 2024,
         "AverageAge": 28.2
-    },
-    {
-        "TeamID": 60551,
-        "Year": 2014,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 60551,
-        "Year": 2015,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 60551,
-        "Year": 2016,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 60551,
-        "Year": 2017,
-        "AverageAge": 24.7
-    },
-    {
-        "TeamID": 60551,
-        "Year": 2018,
-        "AverageAge": 25.3
-    },
-    {
-        "TeamID": 60551,
-        "Year": 2019,
-        "AverageAge": 26.0
-    },
-    {
-        "TeamID": 60551,
-        "Year": 2020,
-        "AverageAge": 24.5
-    },
-    {
-        "TeamID": 60551,
-        "Year": 2021,
-        "AverageAge": 25.8
-    },
-    {
-        "TeamID": 60551,
-        "Year": 2022,
-        "AverageAge": 26.9
-    },
-    {
-        "TeamID": 60551,
-        "Year": 2023,
-        "AverageAge": 25.7
-    },
-    {
-        "TeamID": 60551,
-        "Year": 2024,
-        "AverageAge": NaN
     },
     {
         "TeamID": 6066,
@@ -23825,61 +21725,6 @@
         "AverageAge": 27.8
     },
     {
-        "TeamID": 61955,
-        "Year": 2014,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 61955,
-        "Year": 2015,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 61955,
-        "Year": 2016,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 61955,
-        "Year": 2017,
-        "AverageAge": 27.0
-    },
-    {
-        "TeamID": 61955,
-        "Year": 2018,
-        "AverageAge": 26.1
-    },
-    {
-        "TeamID": 61955,
-        "Year": 2019,
-        "AverageAge": 26.3
-    },
-    {
-        "TeamID": 61955,
-        "Year": 2020,
-        "AverageAge": 25.1
-    },
-    {
-        "TeamID": 61955,
-        "Year": 2021,
-        "AverageAge": 25.2
-    },
-    {
-        "TeamID": 61955,
-        "Year": 2022,
-        "AverageAge": 26.9
-    },
-    {
-        "TeamID": 61955,
-        "Year": 2023,
-        "AverageAge": 25.5
-    },
-    {
-        "TeamID": 61955,
-        "Year": 2024,
-        "AverageAge": 24.9
-    },
-    {
         "TeamID": 62,
         "Year": 2014,
         "AverageAge": 24.5
@@ -23933,61 +21778,6 @@
         "TeamID": 62,
         "Year": 2024,
         "AverageAge": 24.9
-    },
-    {
-        "TeamID": 62026,
-        "Year": 2014,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 62026,
-        "Year": 2015,
-        "AverageAge": 28.7
-    },
-    {
-        "TeamID": 62026,
-        "Year": 2016,
-        "AverageAge": 37.4
-    },
-    {
-        "TeamID": 62026,
-        "Year": 2017,
-        "AverageAge": 26.6
-    },
-    {
-        "TeamID": 62026,
-        "Year": 2018,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 62026,
-        "Year": 2019,
-        "AverageAge": 25.9
-    },
-    {
-        "TeamID": 62026,
-        "Year": 2020,
-        "AverageAge": 26.3
-    },
-    {
-        "TeamID": 62026,
-        "Year": 2021,
-        "AverageAge": 23.8
-    },
-    {
-        "TeamID": 62026,
-        "Year": 2022,
-        "AverageAge": 25.5
-    },
-    {
-        "TeamID": 62026,
-        "Year": 2023,
-        "AverageAge": 27.3
-    },
-    {
-        "TeamID": 62026,
-        "Year": 2024,
-        "AverageAge": 27.3
     },
     {
         "TeamID": 621,
@@ -24428,116 +22218,6 @@
         "TeamID": 6365,
         "Year": 2024,
         "AverageAge": 21.3
-    },
-    {
-        "TeamID": 63993,
-        "Year": 2014,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 63993,
-        "Year": 2015,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 63993,
-        "Year": 2016,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 63993,
-        "Year": 2017,
-        "AverageAge": 24.2
-    },
-    {
-        "TeamID": 63993,
-        "Year": 2018,
-        "AverageAge": 25.0
-    },
-    {
-        "TeamID": 63993,
-        "Year": 2019,
-        "AverageAge": 25.6
-    },
-    {
-        "TeamID": 63993,
-        "Year": 2020,
-        "AverageAge": 25.2
-    },
-    {
-        "TeamID": 63993,
-        "Year": 2021,
-        "AverageAge": 25.3
-    },
-    {
-        "TeamID": 63993,
-        "Year": 2022,
-        "AverageAge": 26.0
-    },
-    {
-        "TeamID": 63993,
-        "Year": 2023,
-        "AverageAge": 25.2
-    },
-    {
-        "TeamID": 63993,
-        "Year": 2024,
-        "AverageAge": 26.4
-    },
-    {
-        "TeamID": 64534,
-        "Year": 2014,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 64534,
-        "Year": 2015,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 64534,
-        "Year": 2016,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 64534,
-        "Year": 2017,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 64534,
-        "Year": 2018,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 64534,
-        "Year": 2019,
-        "AverageAge": 26.4
-    },
-    {
-        "TeamID": 64534,
-        "Year": 2020,
-        "AverageAge": 25.6
-    },
-    {
-        "TeamID": 64534,
-        "Year": 2021,
-        "AverageAge": 26.2
-    },
-    {
-        "TeamID": 64534,
-        "Year": 2022,
-        "AverageAge": 26.3
-    },
-    {
-        "TeamID": 64534,
-        "Year": 2023,
-        "AverageAge": 27.0
-    },
-    {
-        "TeamID": 64534,
-        "Year": 2024,
-        "AverageAge": 28.2
     },
     {
         "TeamID": 64780,
@@ -25585,116 +23265,6 @@
         "AverageAge": 24.7
     },
     {
-        "TeamID": 69752,
-        "Year": 2014,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 69752,
-        "Year": 2015,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 69752,
-        "Year": 2016,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 69752,
-        "Year": 2017,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 69752,
-        "Year": 2018,
-        "AverageAge": 23.4
-    },
-    {
-        "TeamID": 69752,
-        "Year": 2019,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 69752,
-        "Year": 2020,
-        "AverageAge": 22.9
-    },
-    {
-        "TeamID": 69752,
-        "Year": 2021,
-        "AverageAge": 23.5
-    },
-    {
-        "TeamID": 69752,
-        "Year": 2022,
-        "AverageAge": 23.4
-    },
-    {
-        "TeamID": 69752,
-        "Year": 2023,
-        "AverageAge": 23.9
-    },
-    {
-        "TeamID": 69752,
-        "Year": 2024,
-        "AverageAge": 23.9
-    },
-    {
-        "TeamID": 6993,
-        "Year": 2014,
-        "AverageAge": 23.8
-    },
-    {
-        "TeamID": 6993,
-        "Year": 2015,
-        "AverageAge": 24.2
-    },
-    {
-        "TeamID": 6993,
-        "Year": 2016,
-        "AverageAge": 24.4
-    },
-    {
-        "TeamID": 6993,
-        "Year": 2017,
-        "AverageAge": 25.1
-    },
-    {
-        "TeamID": 6993,
-        "Year": 2018,
-        "AverageAge": 24.0
-    },
-    {
-        "TeamID": 6993,
-        "Year": 2019,
-        "AverageAge": 23.9
-    },
-    {
-        "TeamID": 6993,
-        "Year": 2020,
-        "AverageAge": 22.2
-    },
-    {
-        "TeamID": 6993,
-        "Year": 2021,
-        "AverageAge": 22.4
-    },
-    {
-        "TeamID": 6993,
-        "Year": 2022,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 6993,
-        "Year": 2023,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 6993,
-        "Year": 2024,
-        "AverageAge": NaN
-    },
-    {
         "TeamID": 708,
         "Year": 2014,
         "AverageAge": 24.8
@@ -27290,61 +24860,6 @@
         "AverageAge": 25.9
     },
     {
-        "TeamID": 80996,
-        "Year": 2014,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 80996,
-        "Year": 2015,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 80996,
-        "Year": 2016,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 80996,
-        "Year": 2017,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 80996,
-        "Year": 2018,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 80996,
-        "Year": 2019,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 80996,
-        "Year": 2020,
-        "AverageAge": 24.5
-    },
-    {
-        "TeamID": 80996,
-        "Year": 2021,
-        "AverageAge": 25.6
-    },
-    {
-        "TeamID": 80996,
-        "Year": 2022,
-        "AverageAge": 25.9
-    },
-    {
-        "TeamID": 80996,
-        "Year": 2023,
-        "AverageAge": 24.0
-    },
-    {
-        "TeamID": 80996,
-        "Year": 2024,
-        "AverageAge": 26.1
-    },
-    {
         "TeamID": 810,
         "Year": 2014,
         "AverageAge": 26.1
@@ -27895,61 +25410,6 @@
         "AverageAge": 24.7
     },
     {
-        "TeamID": 8715,
-        "Year": 2014,
-        "AverageAge": 26.1
-    },
-    {
-        "TeamID": 8715,
-        "Year": 2015,
-        "AverageAge": 26.6
-    },
-    {
-        "TeamID": 8715,
-        "Year": 2016,
-        "AverageAge": 25.9
-    },
-    {
-        "TeamID": 8715,
-        "Year": 2017,
-        "AverageAge": 24.7
-    },
-    {
-        "TeamID": 8715,
-        "Year": 2018,
-        "AverageAge": 22.1
-    },
-    {
-        "TeamID": 8715,
-        "Year": 2019,
-        "AverageAge": 21.4
-    },
-    {
-        "TeamID": 8715,
-        "Year": 2020,
-        "AverageAge": 22.8
-    },
-    {
-        "TeamID": 8715,
-        "Year": 2021,
-        "AverageAge": 23.0
-    },
-    {
-        "TeamID": 8715,
-        "Year": 2022,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 8715,
-        "Year": 2023,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 8715,
-        "Year": 2024,
-        "AverageAge": NaN
-    },
-    {
         "TeamID": 8780,
         "Year": 2014,
         "AverageAge": 23.8
@@ -28168,61 +25628,6 @@
         "TeamID": 8956,
         "Year": 2024,
         "AverageAge": 26.2
-    },
-    {
-        "TeamID": 8969,
-        "Year": 2014,
-        "AverageAge": 27.4
-    },
-    {
-        "TeamID": 8969,
-        "Year": 2015,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 8969,
-        "Year": 2016,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 8969,
-        "Year": 2017,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 8969,
-        "Year": 2018,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 8969,
-        "Year": 2019,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 8969,
-        "Year": 2020,
-        "AverageAge": 26.8
-    },
-    {
-        "TeamID": 8969,
-        "Year": 2021,
-        "AverageAge": 26.3
-    },
-    {
-        "TeamID": 8969,
-        "Year": 2022,
-        "AverageAge": 24.8
-    },
-    {
-        "TeamID": 8969,
-        "Year": 2023,
-        "AverageAge": 25.4
-    },
-    {
-        "TeamID": 8969,
-        "Year": 2024,
-        "AverageAge": 28.2
     },
     {
         "TeamID": 9026,
@@ -29103,61 +26508,6 @@
         "TeamID": 987,
         "Year": 2024,
         "AverageAge": 25.8
-    },
-    {
-        "TeamID": 98841,
-        "Year": 2014,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 98841,
-        "Year": 2015,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 98841,
-        "Year": 2016,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 98841,
-        "Year": 2017,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 98841,
-        "Year": 2018,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 98841,
-        "Year": 2019,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 98841,
-        "Year": 2020,
-        "AverageAge": NaN
-    },
-    {
-        "TeamID": 98841,
-        "Year": 2021,
-        "AverageAge": 25.5
-    },
-    {
-        "TeamID": 98841,
-        "Year": 2022,
-        "AverageAge": 25.9
-    },
-    {
-        "TeamID": 98841,
-        "Year": 2023,
-        "AverageAge": 24.3
-    },
-    {
-        "TeamID": 98841,
-        "Year": 2024,
-        "AverageAge": 27.6
     },
     {
         "TeamID": 995,
