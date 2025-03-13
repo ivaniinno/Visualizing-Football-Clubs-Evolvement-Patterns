@@ -261,16 +261,16 @@ function drawVerticalAxis(yAxisScale, measure) {
   removeElementIfExists('legend-axis');
   legendSvg.append('g')
     .attr('id', 'legend-axis')
-    .attr('transform', 'translate(75, 50) scale(1)') // Position the axis; adjust as needed
+    .attr('transform', 'translate(75, 50) scale(1)')
     .call(yAxis);
   removeElementIfExists('legend-axis-title');
   legendSvg.append('text')
     .attr('id', 'legend-axis-title')
-    .attr('transform', 'rotate(-90)') // Rotate the text for vertical axis
-    .attr('y', 13) // Position it to the left of the axis
-    .attr('x', -130) // Position it at the middle of the axis
-    .attr('dy', '1em') // Adjustments for positioning
-    .style('text-anchor', 'middle') // Center the text
+    .attr('transform', 'rotate(-90)')
+    .attr('y', 13)
+    .attr('x', -130) 
+    .attr('dy', '1em') 
+    .style('text-anchor', 'middle')
     .text(document.getElementById("measure").options[document.getElementById("measure").selectedIndex].text);
 }
 
@@ -325,7 +325,7 @@ const zoomToSelectedCountries = () => {
   var minY = Number.POSITIVE_INFINITY;
   var maxX = Number.NEGATIVE_INFINITY;
   var maxY = Number.NEGATIVE_INFINITY;
-  selectedCountriesGeoJSON.forEach((geojson) => { // [process all GeoJSON polygons in all selected countries to find the furthest reaches in terms of X and Y coordinate]
+  selectedCountriesGeoJSON.forEach((geojson) => { 
     const bounds = path.bounds(geojson);
     minX = Math.min(minX, bounds[0][0]);
     minY = Math.min(minY, bounds[0][1]);
@@ -340,9 +340,9 @@ const zoomToSelectedCountries = () => {
   const newScale = Math.max(1, Math.min(4, 0.9 / Math.max(dx / width, dy / height)));
 
   const transform = d3.zoomIdentity
-    .translate(width / 2, height / 2) // translate to center of map
-    .scale(newScale)  // scale to the newScale factor
-    .translate(-x, -y)   // translate to the newly calculate focus point
+    .translate(width / 2, height / 2)
+    .scale(newScale)
+    .translate(-x, -y) 
 
   g.transition().duration(750).call(zoom.transform, transform);
 }
