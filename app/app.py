@@ -1,12 +1,13 @@
 from flask import Flask, render_template, send_from_directory, make_response
+from routes.api import api_bp
 
 app = Flask(__name__)
+app.register_blueprint(api_bp)
 
 csp = (
         f"default-src *;"
         f"script-src 'self'"
     )
-
 
 @app.after_request
 def apply_csp_headers(resp):
@@ -17,12 +18,3 @@ def apply_csp_headers(resp):
 @app.route('/')
 def index():
     return make_response(render_template('index.html'))
-
-
-@app.route('/data')
-def get_data():
-    return send_from_directory('data', 'dataset.json')
-
-
-if __name__ == '__main__':
-    app.run(debug=True)
