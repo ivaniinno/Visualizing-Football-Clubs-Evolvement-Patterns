@@ -1,0 +1,9297 @@
+[
+    {
+        "TeamID": 3,
+        "Year": 2014,
+        "TransferBalance": -8300
+    },
+    {
+        "TeamID": 3,
+        "Year": 2015,
+        "TransferBalance": -1730
+    },
+    {
+        "TeamID": 3,
+        "Year": 2016,
+        "TransferBalance": 10650
+    },
+    {
+        "TeamID": 3,
+        "Year": 2017,
+        "TransferBalance": -32550
+    },
+    {
+        "TeamID": 3,
+        "Year": 2018,
+        "TransferBalance": 29900
+    },
+    {
+        "TeamID": 3,
+        "Year": 2019,
+        "TransferBalance": -13400
+    },
+    {
+        "TeamID": 3,
+        "Year": 2020,
+        "TransferBalance": -3500
+    },
+    {
+        "TeamID": 3,
+        "Year": 2021,
+        "TransferBalance": 22900
+    },
+    {
+        "TeamID": 3,
+        "Year": 2022,
+        "TransferBalance": 6070
+    },
+    {
+        "TeamID": 3,
+        "Year": 2023,
+        "TransferBalance": 600
+    },
+    {
+        "TeamID": 3,
+        "Year": 2024,
+        "TransferBalance": 3100
+    },
+    {
+        "TeamID": 5,
+        "Year": 2014,
+        "TransferBalance": 11300
+    },
+    {
+        "TeamID": 5,
+        "Year": 2015,
+        "TransferBalance": -91120
+    },
+    {
+        "TeamID": 5,
+        "Year": 2016,
+        "TransferBalance": -4410
+    },
+    {
+        "TeamID": 5,
+        "Year": 2017,
+        "TransferBalance": -146780
+    },
+    {
+        "TeamID": 5,
+        "Year": 2018,
+        "TransferBalance": -106540
+    },
+    {
+        "TeamID": 5,
+        "Year": 2019,
+        "TransferBalance": -84850
+    },
+    {
+        "TeamID": 5,
+        "Year": 2020,
+        "TransferBalance": 19630
+    },
+    {
+        "TeamID": 5,
+        "Year": 2021,
+        "TransferBalance": -95320
+    },
+    {
+        "TeamID": 5,
+        "Year": 2022,
+        "TransferBalance": -47180
+    },
+    {
+        "TeamID": 5,
+        "Year": 2023,
+        "TransferBalance": -61110
+    },
+    {
+        "TeamID": 5,
+        "Year": 2024,
+        "TransferBalance": -70900
+    },
+    {
+        "TeamID": 11,
+        "Year": 2014,
+        "TransferBalance": -91180
+    },
+    {
+        "TeamID": 11,
+        "Year": 2015,
+        "TransferBalance": -24000
+    },
+    {
+        "TeamID": 11,
+        "Year": 2016,
+        "TransferBalance": -102650
+    },
+    {
+        "TeamID": 11,
+        "Year": 2017,
+        "TransferBalance": 9550
+    },
+    {
+        "TeamID": 11,
+        "Year": 2018,
+        "TransferBalance": -71050
+    },
+    {
+        "TeamID": 11,
+        "Year": 2019,
+        "TransferBalance": -107150
+    },
+    {
+        "TeamID": 11,
+        "Year": 2020,
+        "TransferBalance": -66850
+    },
+    {
+        "TeamID": 11,
+        "Year": 2021,
+        "TransferBalance": -136000
+    },
+    {
+        "TeamID": 11,
+        "Year": 2022,
+        "TransferBalance": -162600
+    },
+    {
+        "TeamID": 11,
+        "Year": 2023,
+        "TransferBalance": -165900
+    },
+    {
+        "TeamID": 11,
+        "Year": 2024,
+        "TransferBalance": -25110
+    },
+    {
+        "TeamID": 12,
+        "Year": 2014,
+        "TransferBalance": -59810
+    },
+    {
+        "TeamID": 12,
+        "Year": 2015,
+        "TransferBalance": 41400
+    },
+    {
+        "TeamID": 12,
+        "Year": 2016,
+        "TransferBalance": -26070
+    },
+    {
+        "TeamID": 12,
+        "Year": 2017,
+        "TransferBalance": 74800
+    },
+    {
+        "TeamID": 12,
+        "Year": 2018,
+        "TransferBalance": -15880
+    },
+    {
+        "TeamID": 12,
+        "Year": 2019,
+        "TransferBalance": -10230
+    },
+    {
+        "TeamID": 12,
+        "Year": 2020,
+        "TransferBalance": -26100
+    },
+    {
+        "TeamID": 12,
+        "Year": 2021,
+        "TransferBalance": -114820
+    },
+    {
+        "TeamID": 12,
+        "Year": 2022,
+        "TransferBalance": 72020
+    },
+    {
+        "TeamID": 12,
+        "Year": 2023,
+        "TransferBalance": 63200
+    },
+    {
+        "TeamID": 12,
+        "Year": 2024,
+        "TransferBalance": -76900
+    },
+    {
+        "TeamID": 13,
+        "Year": 2014,
+        "TransferBalance": -31050
+    },
+    {
+        "TeamID": 13,
+        "Year": 2015,
+        "TransferBalance": 33000
+    },
+    {
+        "TeamID": 13,
+        "Year": 2016,
+        "TransferBalance": -34800
+    },
+    {
+        "TeamID": 13,
+        "Year": 2017,
+        "TransferBalance": 8400
+    },
+    {
+        "TeamID": 13,
+        "Year": 2018,
+        "TransferBalance": -110100
+    },
+    {
+        "TeamID": 13,
+        "Year": 2019,
+        "TransferBalance": 68950
+    },
+    {
+        "TeamID": 13,
+        "Year": 2020,
+        "TransferBalance": -8700
+    },
+    {
+        "TeamID": 13,
+        "Year": 2021,
+        "TransferBalance": -62950
+    },
+    {
+        "TeamID": 13,
+        "Year": 2022,
+        "TransferBalance": -1250
+    },
+    {
+        "TeamID": 13,
+        "Year": 2023,
+        "TransferBalance": 46600
+    },
+    {
+        "TeamID": 13,
+        "Year": 2024,
+        "TransferBalance": -91100
+    },
+    {
+        "TeamID": 14,
+        "Year": 2014,
+        "TransferBalance": 5830
+    },
+    {
+        "TeamID": 14,
+        "Year": 2015,
+        "TransferBalance": -885
+    },
+    {
+        "TeamID": 14,
+        "Year": 2016,
+        "TransferBalance": 50
+    },
+    {
+        "TeamID": 14,
+        "Year": 2017,
+        "TransferBalance": 3500
+    },
+    {
+        "TeamID": 14,
+        "Year": 2018,
+        "TransferBalance": 400
+    },
+    {
+        "TeamID": 14,
+        "Year": 2019,
+        "TransferBalance": 100
+    },
+    {
+        "TeamID": 14,
+        "Year": 2020,
+        "TransferBalance": 480
+    },
+    {
+        "TeamID": 14,
+        "Year": 2021,
+        "TransferBalance": 1700
+    },
+    {
+        "TeamID": 14,
+        "Year": 2022,
+        "TransferBalance": -2400
+    },
+    {
+        "TeamID": 14,
+        "Year": 2023,
+        "TransferBalance": 600
+    },
+    {
+        "TeamID": 14,
+        "Year": 2024,
+        "TransferBalance": 4000
+    },
+    {
+        "TeamID": 15,
+        "Year": 2014,
+        "TransferBalance": -20960
+    },
+    {
+        "TeamID": 15,
+        "Year": 2015,
+        "TransferBalance": 3250
+    },
+    {
+        "TeamID": 15,
+        "Year": 2016,
+        "TransferBalance": -39600
+    },
+    {
+        "TeamID": 15,
+        "Year": 2017,
+        "TransferBalance": 40100
+    },
+    {
+        "TeamID": 15,
+        "Year": 2018,
+        "TransferBalance": 13500
+    },
+    {
+        "TeamID": 15,
+        "Year": 2019,
+        "TransferBalance": -66200
+    },
+    {
+        "TeamID": 15,
+        "Year": 2020,
+        "TransferBalance": 44800
+    },
+    {
+        "TeamID": 15,
+        "Year": 2021,
+        "TransferBalance": -12010
+    },
+    {
+        "TeamID": 15,
+        "Year": 2022,
+        "TransferBalance": -4900
+    },
+    {
+        "TeamID": 15,
+        "Year": 2023,
+        "TransferBalance": -13800
+    },
+    {
+        "TeamID": 15,
+        "Year": 2024,
+        "TransferBalance": -21850
+    },
+    {
+        "TeamID": 16,
+        "Year": 2014,
+        "TransferBalance": -60400
+    },
+    {
+        "TeamID": 16,
+        "Year": 2015,
+        "TransferBalance": 22550
+    },
+    {
+        "TeamID": 16,
+        "Year": 2016,
+        "TransferBalance": -30100
+    },
+    {
+        "TeamID": 16,
+        "Year": 2017,
+        "TransferBalance": 148360
+    },
+    {
+        "TeamID": 16,
+        "Year": 2018,
+        "TransferBalance": 23700
+    },
+    {
+        "TeamID": 16,
+        "Year": 2019,
+        "TransferBalance": -16250
+    },
+    {
+        "TeamID": 16,
+        "Year": 2020,
+        "TransferBalance": -49650
+    },
+    {
+        "TeamID": 16,
+        "Year": 2021,
+        "TransferBalance": 64500
+    },
+    {
+        "TeamID": 16,
+        "Year": 2022,
+        "TransferBalance": -22600
+    },
+    {
+        "TeamID": 16,
+        "Year": 2023,
+        "TransferBalance": 54800
+    },
+    {
+        "TeamID": 16,
+        "Year": 2024,
+        "TransferBalance": -30600
+    },
+    {
+        "TeamID": 18,
+        "Year": 2014,
+        "TransferBalance": 5150
+    },
+    {
+        "TeamID": 18,
+        "Year": 2015,
+        "TransferBalance": -22300
+    },
+    {
+        "TeamID": 18,
+        "Year": 2016,
+        "TransferBalance": 3850
+    },
+    {
+        "TeamID": 18,
+        "Year": 2017,
+        "TransferBalance": -6170
+    },
+    {
+        "TeamID": 18,
+        "Year": 2018,
+        "TransferBalance": 400
+    },
+    {
+        "TeamID": 18,
+        "Year": 2019,
+        "TransferBalance": -6400
+    },
+    {
+        "TeamID": 18,
+        "Year": 2020,
+        "TransferBalance": -13500
+    },
+    {
+        "TeamID": 18,
+        "Year": 2021,
+        "TransferBalance": -5550
+    },
+    {
+        "TeamID": 18,
+        "Year": 2022,
+        "TransferBalance": -1000
+    },
+    {
+        "TeamID": 18,
+        "Year": 2023,
+        "TransferBalance": -4480
+    },
+    {
+        "TeamID": 18,
+        "Year": 2024,
+        "TransferBalance": -7700
+    },
+    {
+        "TeamID": 24,
+        "Year": 2014,
+        "TransferBalance": -575
+    },
+    {
+        "TeamID": 24,
+        "Year": 2015,
+        "TransferBalance": 280
+    },
+    {
+        "TeamID": 24,
+        "Year": 2016,
+        "TransferBalance": 8250
+    },
+    {
+        "TeamID": 24,
+        "Year": 2017,
+        "TransferBalance": -19290
+    },
+    {
+        "TeamID": 24,
+        "Year": 2018,
+        "TransferBalance": -10050
+    },
+    {
+        "TeamID": 24,
+        "Year": 2019,
+        "TransferBalance": 32170
+    },
+    {
+        "TeamID": 24,
+        "Year": 2020,
+        "TransferBalance": 6950
+    },
+    {
+        "TeamID": 24,
+        "Year": 2021,
+        "TransferBalance": 14950
+    },
+    {
+        "TeamID": 24,
+        "Year": 2022,
+        "TransferBalance": -6910
+    },
+    {
+        "TeamID": 24,
+        "Year": 2023,
+        "TransferBalance": 60900
+    },
+    {
+        "TeamID": 24,
+        "Year": 2024,
+        "TransferBalance": 48190
+    },
+    {
+        "TeamID": 26,
+        "Year": 2014,
+        "TransferBalance": 3450
+    },
+    {
+        "TeamID": 26,
+        "Year": 2015,
+        "TransferBalance": 22000
+    },
+    {
+        "TeamID": 26,
+        "Year": 2016,
+        "TransferBalance": 13630
+    },
+    {
+        "TeamID": 26,
+        "Year": 2017,
+        "TransferBalance": 18170
+    },
+    {
+        "TeamID": 26,
+        "Year": 2018,
+        "TransferBalance": 14280
+    },
+    {
+        "TeamID": 26,
+        "Year": 2019,
+        "TransferBalance": 23200
+    },
+    {
+        "TeamID": 26,
+        "Year": 2020,
+        "TransferBalance": -7220
+    },
+    {
+        "TeamID": 26,
+        "Year": 2021,
+        "TransferBalance": 23300
+    },
+    {
+        "TeamID": 26,
+        "Year": 2022,
+        "TransferBalance": -12750
+    },
+    {
+        "TeamID": 26,
+        "Year": 2023,
+        "TransferBalance": 39130
+    },
+    {
+        "TeamID": 26,
+        "Year": 2024,
+        "TransferBalance": 24060
+    },
+    {
+        "TeamID": 27,
+        "Year": 2014,
+        "TransferBalance": -4700
+    },
+    {
+        "TeamID": 27,
+        "Year": 2015,
+        "TransferBalance": -57750
+    },
+    {
+        "TeamID": 27,
+        "Year": 2016,
+        "TransferBalance": -17700
+    },
+    {
+        "TeamID": 27,
+        "Year": 2017,
+        "TransferBalance": -84250
+    },
+    {
+        "TeamID": 27,
+        "Year": 2018,
+        "TransferBalance": 70000
+    },
+    {
+        "TeamID": 27,
+        "Year": 2019,
+        "TransferBalance": -85500
+    },
+    {
+        "TeamID": 27,
+        "Year": 2020,
+        "TransferBalance": -43750
+    },
+    {
+        "TeamID": 27,
+        "Year": 2021,
+        "TransferBalance": -55200
+    },
+    {
+        "TeamID": 27,
+        "Year": 2022,
+        "TransferBalance": -24600
+    },
+    {
+        "TeamID": 27,
+        "Year": 2023,
+        "TransferBalance": -12080
+    },
+    {
+        "TeamID": 27,
+        "Year": 2024,
+        "TransferBalance": -64650
+    },
+    {
+        "TeamID": 29,
+        "Year": 2014,
+        "TransferBalance": -38260
+    },
+    {
+        "TeamID": 29,
+        "Year": 2015,
+        "TransferBalance": -37200
+    },
+    {
+        "TeamID": 29,
+        "Year": 2016,
+        "TransferBalance": -25200
+    },
+    {
+        "TeamID": 29,
+        "Year": 2017,
+        "TransferBalance": -76820
+    },
+    {
+        "TeamID": 29,
+        "Year": 2018,
+        "TransferBalance": -71150
+    },
+    {
+        "TeamID": 29,
+        "Year": 2019,
+        "TransferBalance": -33200
+    },
+    {
+        "TeamID": 29,
+        "Year": 2020,
+        "TransferBalance": -69950
+    },
+    {
+        "TeamID": 29,
+        "Year": 2021,
+        "TransferBalance": 6500
+    },
+    {
+        "TeamID": 29,
+        "Year": 2022,
+        "TransferBalance": 20530
+    },
+    {
+        "TeamID": 29,
+        "Year": 2023,
+        "TransferBalance": 42300
+    },
+    {
+        "TeamID": 29,
+        "Year": 2024,
+        "TransferBalance": 33450
+    },
+    {
+        "TeamID": 31,
+        "Year": 2014,
+        "TransferBalance": -52160
+    },
+    {
+        "TeamID": 31,
+        "Year": 2015,
+        "TransferBalance": -35950
+    },
+    {
+        "TeamID": 31,
+        "Year": 2016,
+        "TransferBalance": 9080
+    },
+    {
+        "TeamID": 31,
+        "Year": 2017,
+        "TransferBalance": 10850
+    },
+    {
+        "TeamID": 31,
+        "Year": 2018,
+        "TransferBalance": -140880
+    },
+    {
+        "TeamID": 31,
+        "Year": 2019,
+        "TransferBalance": 37600
+    },
+    {
+        "TeamID": 31,
+        "Year": 2020,
+        "TransferBalance": -67600
+    },
+    {
+        "TeamID": 31,
+        "Year": 2021,
+        "TransferBalance": -61350
+    },
+    {
+        "TeamID": 31,
+        "Year": 2022,
+        "TransferBalance": -65100
+    },
+    {
+        "TeamID": 31,
+        "Year": 2023,
+        "TransferBalance": -111300
+    },
+    {
+        "TeamID": 31,
+        "Year": 2024,
+        "TransferBalance": 5000
+    },
+    {
+        "TeamID": 33,
+        "Year": 2014,
+        "TransferBalance": 4200
+    },
+    {
+        "TeamID": 33,
+        "Year": 2015,
+        "TransferBalance": 20100
+    },
+    {
+        "TeamID": 33,
+        "Year": 2016,
+        "TransferBalance": 18000
+    },
+    {
+        "TeamID": 33,
+        "Year": 2017,
+        "TransferBalance": -42200
+    },
+    {
+        "TeamID": 33,
+        "Year": 2018,
+        "TransferBalance": -16050
+    },
+    {
+        "TeamID": 33,
+        "Year": 2019,
+        "TransferBalance": -10050
+    },
+    {
+        "TeamID": 33,
+        "Year": 2020,
+        "TransferBalance": 6000
+    },
+    {
+        "TeamID": 33,
+        "Year": 2021,
+        "TransferBalance": 39950
+    },
+    {
+        "TeamID": 33,
+        "Year": 2022,
+        "TransferBalance": 13420
+    },
+    {
+        "TeamID": 33,
+        "Year": 2023,
+        "TransferBalance": 15750
+    },
+    {
+        "TeamID": 33,
+        "Year": 2024,
+        "TransferBalance": 8720
+    },
+    {
+        "TeamID": 36,
+        "Year": 2014,
+        "TransferBalance": 5900
+    },
+    {
+        "TeamID": 36,
+        "Year": 2015,
+        "TransferBalance": -22030
+    },
+    {
+        "TeamID": 36,
+        "Year": 2016,
+        "TransferBalance": 1400
+    },
+    {
+        "TeamID": 36,
+        "Year": 2017,
+        "TransferBalance": -3320
+    },
+    {
+        "TeamID": 36,
+        "Year": 2018,
+        "TransferBalance": -4090
+    },
+    {
+        "TeamID": 36,
+        "Year": 2019,
+        "TransferBalance": -540
+    },
+    {
+        "TeamID": 36,
+        "Year": 2020,
+        "TransferBalance": 4110
+    },
+    {
+        "TeamID": 36,
+        "Year": 2021,
+        "TransferBalance": -12790
+    },
+    {
+        "TeamID": 36,
+        "Year": 2022,
+        "TransferBalance": -12810
+    },
+    {
+        "TeamID": 36,
+        "Year": 2023,
+        "TransferBalance": -3130
+    },
+    {
+        "TeamID": 36,
+        "Year": 2024,
+        "TransferBalance": -37360
+    },
+    {
+        "TeamID": 39,
+        "Year": 2014,
+        "TransferBalance": -2520
+    },
+    {
+        "TeamID": 39,
+        "Year": 2015,
+        "TransferBalance": 20350
+    },
+    {
+        "TeamID": 39,
+        "Year": 2016,
+        "TransferBalance": -3510
+    },
+    {
+        "TeamID": 39,
+        "Year": 2017,
+        "TransferBalance": 8300
+    },
+    {
+        "TeamID": 39,
+        "Year": 2018,
+        "TransferBalance": 26100
+    },
+    {
+        "TeamID": 39,
+        "Year": 2019,
+        "TransferBalance": -3700
+    },
+    {
+        "TeamID": 39,
+        "Year": 2020,
+        "TransferBalance": 11700
+    },
+    {
+        "TeamID": 39,
+        "Year": 2021,
+        "TransferBalance": 10150
+    },
+    {
+        "TeamID": 39,
+        "Year": 2022,
+        "TransferBalance": 4250
+    },
+    {
+        "TeamID": 39,
+        "Year": 2023,
+        "TransferBalance": 13550
+    },
+    {
+        "TeamID": 39,
+        "Year": 2024,
+        "TransferBalance": 26250
+    },
+    {
+        "TeamID": 40,
+        "Year": 2014,
+        "TransferBalance": -3200
+    },
+    {
+        "TeamID": 40,
+        "Year": 2015,
+        "TransferBalance": 11300
+    },
+    {
+        "TeamID": 40,
+        "Year": 2016,
+        "TransferBalance": -9250
+    },
+    {
+        "TeamID": 40,
+        "Year": 2017,
+        "TransferBalance": -4350
+    },
+    {
+        "TeamID": 40,
+        "Year": 2018,
+        "TransferBalance": 29250
+    },
+    {
+        "TeamID": 40,
+        "Year": 2019,
+        "TransferBalance": 45250
+    },
+    {
+        "TeamID": 40,
+        "Year": 2020,
+        "TransferBalance": 17000
+    },
+    {
+        "TeamID": 40,
+        "Year": 2021,
+        "TransferBalance": 9050
+    },
+    {
+        "TeamID": 40,
+        "Year": 2022,
+        "TransferBalance": 11200
+    },
+    {
+        "TeamID": 40,
+        "Year": 2023,
+        "TransferBalance": 11600
+    },
+    {
+        "TeamID": 40,
+        "Year": 2024,
+        "TransferBalance": 6000
+    },
+    {
+        "TeamID": 44,
+        "Year": 2014,
+        "TransferBalance": 4950
+    },
+    {
+        "TeamID": 44,
+        "Year": 2015,
+        "TransferBalance": -2380
+    },
+    {
+        "TeamID": 44,
+        "Year": 2016,
+        "TransferBalance": -1700
+    },
+    {
+        "TeamID": 44,
+        "Year": 2017,
+        "TransferBalance": 4000
+    },
+    {
+        "TeamID": 44,
+        "Year": 2018,
+        "TransferBalance": 900
+    },
+    {
+        "TeamID": 44,
+        "Year": 2019,
+        "TransferBalance": -87260
+    },
+    {
+        "TeamID": 44,
+        "Year": 2020,
+        "TransferBalance": -20800
+    },
+    {
+        "TeamID": 44,
+        "Year": 2021,
+        "TransferBalance": 30100
+    },
+    {
+        "TeamID": 44,
+        "Year": 2022,
+        "TransferBalance": 14800
+    },
+    {
+        "TeamID": 44,
+        "Year": 2023,
+        "TransferBalance": 27800
+    },
+    {
+        "TeamID": 44,
+        "Year": 2024,
+        "TransferBalance": 12350
+    },
+    {
+        "TeamID": 46,
+        "Year": 2014,
+        "TransferBalance": 6650
+    },
+    {
+        "TeamID": 46,
+        "Year": 2015,
+        "TransferBalance": 12870
+    },
+    {
+        "TeamID": 46,
+        "Year": 2016,
+        "TransferBalance": -146130
+    },
+    {
+        "TeamID": 46,
+        "Year": 2017,
+        "TransferBalance": -58390
+    },
+    {
+        "TeamID": 46,
+        "Year": 2018,
+        "TransferBalance": -6430
+    },
+    {
+        "TeamID": 46,
+        "Year": 2019,
+        "TransferBalance": -125280
+    },
+    {
+        "TeamID": 46,
+        "Year": 2020,
+        "TransferBalance": -43800
+    },
+    {
+        "TeamID": 46,
+        "Year": 2021,
+        "TransferBalance": 163000
+    },
+    {
+        "TeamID": 46,
+        "Year": 2022,
+        "TransferBalance": -40830
+    },
+    {
+        "TeamID": 46,
+        "Year": 2023,
+        "TransferBalance": 53530
+    },
+    {
+        "TeamID": 46,
+        "Year": 2024,
+        "TransferBalance": -61910
+    },
+    {
+        "TeamID": 58,
+        "Year": 2014,
+        "TransferBalance": 5400
+    },
+    {
+        "TeamID": 58,
+        "Year": 2015,
+        "TransferBalance": 21130
+    },
+    {
+        "TeamID": 58,
+        "Year": 2016,
+        "TransferBalance": 1000
+    },
+    {
+        "TeamID": 58,
+        "Year": 2017,
+        "TransferBalance": 34700
+    },
+    {
+        "TeamID": 58,
+        "Year": 2018,
+        "TransferBalance": -11030
+    },
+    {
+        "TeamID": 58,
+        "Year": 2019,
+        "TransferBalance": 10390
+    },
+    {
+        "TeamID": 58,
+        "Year": 2020,
+        "TransferBalance": 38080
+    },
+    {
+        "TeamID": 58,
+        "Year": 2021,
+        "TransferBalance": 7400
+    },
+    {
+        "TeamID": 58,
+        "Year": 2022,
+        "TransferBalance": 24970
+    },
+    {
+        "TeamID": 58,
+        "Year": 2023,
+        "TransferBalance": 8370
+    },
+    {
+        "TeamID": 58,
+        "Year": 2024,
+        "TransferBalance": 13550
+    },
+    {
+        "TeamID": 60,
+        "Year": 2014,
+        "TransferBalance": 4250
+    },
+    {
+        "TeamID": 60,
+        "Year": 2015,
+        "TransferBalance": 20820
+    },
+    {
+        "TeamID": 60,
+        "Year": 2016,
+        "TransferBalance": -11630
+    },
+    {
+        "TeamID": 60,
+        "Year": 2017,
+        "TransferBalance": 8150
+    },
+    {
+        "TeamID": 60,
+        "Year": 2018,
+        "TransferBalance": 4280
+    },
+    {
+        "TeamID": 60,
+        "Year": 2019,
+        "TransferBalance": -9400
+    },
+    {
+        "TeamID": 60,
+        "Year": 2020,
+        "TransferBalance": 23600
+    },
+    {
+        "TeamID": 60,
+        "Year": 2021,
+        "TransferBalance": 5050
+    },
+    {
+        "TeamID": 60,
+        "Year": 2022,
+        "TransferBalance": 9030
+    },
+    {
+        "TeamID": 60,
+        "Year": 2023,
+        "TransferBalance": 34300
+    },
+    {
+        "TeamID": 60,
+        "Year": 2024,
+        "TransferBalance": -7100
+    },
+    {
+        "TeamID": 62,
+        "Year": 2014,
+        "TransferBalance": 330
+    },
+    {
+        "TeamID": 62,
+        "Year": 2015,
+        "TransferBalance": -3600
+    },
+    {
+        "TeamID": 62,
+        "Year": 2016,
+        "TransferBalance": -4950
+    },
+    {
+        "TeamID": 62,
+        "Year": 2017,
+        "TransferBalance": 3660
+    },
+    {
+        "TeamID": 62,
+        "Year": 2018,
+        "TransferBalance": -10990
+    },
+    {
+        "TeamID": 62,
+        "Year": 2019,
+        "TransferBalance": 18570
+    },
+    {
+        "TeamID": 62,
+        "Year": 2020,
+        "TransferBalance": 19230
+    },
+    {
+        "TeamID": 62,
+        "Year": 2021,
+        "TransferBalance": 16790
+    },
+    {
+        "TeamID": 62,
+        "Year": 2022,
+        "TransferBalance": 13540
+    },
+    {
+        "TeamID": 62,
+        "Year": 2023,
+        "TransferBalance": 7310
+    },
+    {
+        "TeamID": 62,
+        "Year": 2024,
+        "TransferBalance": 18860
+    },
+    {
+        "TeamID": 76,
+        "Year": 2014,
+        "TransferBalance": 1800
+    },
+    {
+        "TeamID": 76,
+        "Year": 2015,
+        "TransferBalance": 175
+    },
+    {
+        "TeamID": 76,
+        "Year": 2016,
+        "TransferBalance": 2950
+    },
+    {
+        "TeamID": 76,
+        "Year": 2017,
+        "TransferBalance": 150
+    },
+    {
+        "TeamID": 76,
+        "Year": 2018,
+        "TransferBalance": 755
+    },
+    {
+        "TeamID": 76,
+        "Year": 2019,
+        "TransferBalance": 2500
+    },
+    {
+        "TeamID": 76,
+        "Year": 2020,
+        "TransferBalance": -390
+    },
+    {
+        "TeamID": 76,
+        "Year": 2021,
+        "TransferBalance": 2780
+    },
+    {
+        "TeamID": 76,
+        "Year": 2022,
+        "TransferBalance": 2500
+    },
+    {
+        "TeamID": 76,
+        "Year": 2023,
+        "TransferBalance": 6680
+    },
+    {
+        "TeamID": 76,
+        "Year": 2024,
+        "TransferBalance": 3030
+    },
+    {
+        "TeamID": 79,
+        "Year": 2014,
+        "TransferBalance": -10050
+    },
+    {
+        "TeamID": 79,
+        "Year": 2015,
+        "TransferBalance": 4880
+    },
+    {
+        "TeamID": 79,
+        "Year": 2016,
+        "TransferBalance": 34700
+    },
+    {
+        "TeamID": 79,
+        "Year": 2017,
+        "TransferBalance": -23300
+    },
+    {
+        "TeamID": 79,
+        "Year": 2018,
+        "TransferBalance": -32510
+    },
+    {
+        "TeamID": 79,
+        "Year": 2019,
+        "TransferBalance": 54090
+    },
+    {
+        "TeamID": 79,
+        "Year": 2020,
+        "TransferBalance": -7450
+    },
+    {
+        "TeamID": 79,
+        "Year": 2021,
+        "TransferBalance": 26340
+    },
+    {
+        "TeamID": 79,
+        "Year": 2022,
+        "TransferBalance": 37610
+    },
+    {
+        "TeamID": 79,
+        "Year": 2023,
+        "TransferBalance": 28200
+    },
+    {
+        "TeamID": 79,
+        "Year": 2024,
+        "TransferBalance": -11580
+    },
+    {
+        "TeamID": 82,
+        "Year": 2014,
+        "TransferBalance": -38800
+    },
+    {
+        "TeamID": 82,
+        "Year": 2015,
+        "TransferBalance": 43200
+    },
+    {
+        "TeamID": 82,
+        "Year": 2016,
+        "TransferBalance": 13400
+    },
+    {
+        "TeamID": 82,
+        "Year": 2017,
+        "TransferBalance": -36750
+    },
+    {
+        "TeamID": 82,
+        "Year": 2018,
+        "TransferBalance": -35200
+    },
+    {
+        "TeamID": 82,
+        "Year": 2019,
+        "TransferBalance": -20500
+    },
+    {
+        "TeamID": 82,
+        "Year": 2020,
+        "TransferBalance": -10900
+    },
+    {
+        "TeamID": 82,
+        "Year": 2021,
+        "TransferBalance": -58480
+    },
+    {
+        "TeamID": 82,
+        "Year": 2022,
+        "TransferBalance": -13470
+    },
+    {
+        "TeamID": 82,
+        "Year": 2023,
+        "TransferBalance": -2600
+    },
+    {
+        "TeamID": 82,
+        "Year": 2024,
+        "TransferBalance": -19050
+    },
+    {
+        "TeamID": 89,
+        "Year": 2014,
+        "TransferBalance": -150
+    },
+    {
+        "TeamID": 89,
+        "Year": 2015,
+        "TransferBalance": -1370
+    },
+    {
+        "TeamID": 89,
+        "Year": 2016,
+        "TransferBalance": 800
+    },
+    {
+        "TeamID": 89,
+        "Year": 2017,
+        "TransferBalance": -1380
+    },
+    {
+        "TeamID": 89,
+        "Year": 2018,
+        "TransferBalance": 4000
+    },
+    {
+        "TeamID": 89,
+        "Year": 2019,
+        "TransferBalance": -8800
+    },
+    {
+        "TeamID": 89,
+        "Year": 2020,
+        "TransferBalance": 5220
+    },
+    {
+        "TeamID": 89,
+        "Year": 2021,
+        "TransferBalance": -550
+    },
+    {
+        "TeamID": 89,
+        "Year": 2022,
+        "TransferBalance": 6020
+    },
+    {
+        "TeamID": 89,
+        "Year": 2023,
+        "TransferBalance": -30600
+    },
+    {
+        "TeamID": 89,
+        "Year": 2024,
+        "TransferBalance": 6700
+    },
+    {
+        "TeamID": 114,
+        "Year": 2014,
+        "TransferBalance": -13120
+    },
+    {
+        "TeamID": 114,
+        "Year": 2015,
+        "TransferBalance": 12950
+    },
+    {
+        "TeamID": 114,
+        "Year": 2016,
+        "TransferBalance": -1040
+    },
+    {
+        "TeamID": 114,
+        "Year": 2017,
+        "TransferBalance": 21550
+    },
+    {
+        "TeamID": 114,
+        "Year": 2018,
+        "TransferBalance": 8890
+    },
+    {
+        "TeamID": 114,
+        "Year": 2019,
+        "TransferBalance": -14980
+    },
+    {
+        "TeamID": 114,
+        "Year": 2020,
+        "TransferBalance": -1680
+    },
+    {
+        "TeamID": 114,
+        "Year": 2021,
+        "TransferBalance": -7350
+    },
+    {
+        "TeamID": 114,
+        "Year": 2022,
+        "TransferBalance": -14650
+    },
+    {
+        "TeamID": 114,
+        "Year": 2023,
+        "TransferBalance": -26000
+    },
+    {
+        "TeamID": 114,
+        "Year": 2024,
+        "TransferBalance": -25260
+    },
+    {
+        "TeamID": 119,
+        "Year": 2014,
+        "TransferBalance": -2000
+    },
+    {
+        "TeamID": 119,
+        "Year": 2015,
+        "TransferBalance": -3100
+    },
+    {
+        "TeamID": 119,
+        "Year": 2016,
+        "TransferBalance": 908
+    },
+    {
+        "TeamID": 119,
+        "Year": 2017,
+        "TransferBalance": 1080
+    },
+    {
+        "TeamID": 119,
+        "Year": 2018,
+        "TransferBalance": 2510
+    },
+    {
+        "TeamID": 119,
+        "Year": 2019,
+        "TransferBalance": 5000
+    },
+    {
+        "TeamID": 119,
+        "Year": 2020,
+        "TransferBalance": 25
+    },
+    {
+        "TeamID": 119,
+        "Year": 2021,
+        "TransferBalance": -2000
+    },
+    {
+        "TeamID": 119,
+        "Year": 2022,
+        "TransferBalance": 8680
+    },
+    {
+        "TeamID": 119,
+        "Year": 2023,
+        "TransferBalance": 5230
+    },
+    {
+        "TeamID": 119,
+        "Year": 2024,
+        "TransferBalance": -1450
+    },
+    {
+        "TeamID": 121,
+        "Year": 2014,
+        "TransferBalance": -25700
+    },
+    {
+        "TeamID": 121,
+        "Year": 2015,
+        "TransferBalance": 11820
+    },
+    {
+        "TeamID": 121,
+        "Year": 2016,
+        "TransferBalance": 4200
+    },
+    {
+        "TeamID": 121,
+        "Year": 2017,
+        "TransferBalance": -5340
+    },
+    {
+        "TeamID": 121,
+        "Year": 2018,
+        "TransferBalance": 1200
+    },
+    {
+        "TeamID": 121,
+        "Year": 2019,
+        "TransferBalance": -41900
+    },
+    {
+        "TeamID": 121,
+        "Year": 2020,
+        "TransferBalance": -13320
+    },
+    {
+        "TeamID": 121,
+        "Year": 2021,
+        "TransferBalance": -5540
+    },
+    {
+        "TeamID": 121,
+        "Year": 2022,
+        "TransferBalance": -6340
+    },
+    {
+        "TeamID": 121,
+        "Year": 2023,
+        "TransferBalance": 7950
+    },
+    {
+        "TeamID": 121,
+        "Year": 2024,
+        "TransferBalance": -6300
+    },
+    {
+        "TeamID": 122,
+        "Year": 2014,
+        "TransferBalance": 3350
+    },
+    {
+        "TeamID": 122,
+        "Year": 2015,
+        "TransferBalance": -150
+    },
+    {
+        "TeamID": 122,
+        "Year": 2016,
+        "TransferBalance": 5250
+    },
+    {
+        "TeamID": 122,
+        "Year": 2017,
+        "TransferBalance": 1480
+    },
+    {
+        "TeamID": 122,
+        "Year": 2018,
+        "TransferBalance": 3290
+    },
+    {
+        "TeamID": 122,
+        "Year": 2019,
+        "TransferBalance": 2830
+    },
+    {
+        "TeamID": 122,
+        "Year": 2020,
+        "TransferBalance": -1100
+    },
+    {
+        "TeamID": 122,
+        "Year": 2021,
+        "TransferBalance": 4050
+    },
+    {
+        "TeamID": 122,
+        "Year": 2022,
+        "TransferBalance": 12810
+    },
+    {
+        "TeamID": 122,
+        "Year": 2023,
+        "TransferBalance": 8240
+    },
+    {
+        "TeamID": 122,
+        "Year": 2024,
+        "TransferBalance": 15860
+    },
+    {
+        "TeamID": 124,
+        "Year": 2014,
+        "TransferBalance": 1280
+    },
+    {
+        "TeamID": 124,
+        "Year": 2015,
+        "TransferBalance": -622
+    },
+    {
+        "TeamID": 124,
+        "Year": 2016,
+        "TransferBalance": -2020
+    },
+    {
+        "TeamID": 124,
+        "Year": 2017,
+        "TransferBalance": -6930
+    },
+    {
+        "TeamID": 124,
+        "Year": 2018,
+        "TransferBalance": -8190
+    },
+    {
+        "TeamID": 124,
+        "Year": 2019,
+        "TransferBalance": -10660
+    },
+    {
+        "TeamID": 124,
+        "Year": 2020,
+        "TransferBalance": -10700
+    },
+    {
+        "TeamID": 124,
+        "Year": 2021,
+        "TransferBalance": 11200
+    },
+    {
+        "TeamID": 124,
+        "Year": 2022,
+        "TransferBalance": 14910
+    },
+    {
+        "TeamID": 124,
+        "Year": 2023,
+        "TransferBalance": -3450
+    },
+    {
+        "TeamID": 124,
+        "Year": 2024,
+        "TransferBalance": -13910
+    },
+    {
+        "TeamID": 131,
+        "Year": 2014,
+        "TransferBalance": -84920
+    },
+    {
+        "TeamID": 131,
+        "Year": 2015,
+        "TransferBalance": -12700
+    },
+    {
+        "TeamID": 131,
+        "Year": 2016,
+        "TransferBalance": -90950
+    },
+    {
+        "TeamID": 131,
+        "Year": 2017,
+        "TransferBalance": -142600
+    },
+    {
+        "TeamID": 131,
+        "Year": 2018,
+        "TransferBalance": 4950
+    },
+    {
+        "TeamID": 131,
+        "Year": 2019,
+        "TransferBalance": -149600
+    },
+    {
+        "TeamID": 131,
+        "Year": 2020,
+        "TransferBalance": 42460
+    },
+    {
+        "TeamID": 131,
+        "Year": 2021,
+        "TransferBalance": 17260
+    },
+    {
+        "TeamID": 131,
+        "Year": 2022,
+        "TransferBalance": -118500
+    },
+    {
+        "TeamID": 131,
+        "Year": 2023,
+        "TransferBalance": 65600
+    },
+    {
+        "TeamID": 131,
+        "Year": 2024,
+        "TransferBalance": -19400
+    },
+    {
+        "TeamID": 141,
+        "Year": 2014,
+        "TransferBalance": -11590
+    },
+    {
+        "TeamID": 141,
+        "Year": 2015,
+        "TransferBalance": 10760
+    },
+    {
+        "TeamID": 141,
+        "Year": 2016,
+        "TransferBalance": -11660
+    },
+    {
+        "TeamID": 141,
+        "Year": 2017,
+        "TransferBalance": -8090
+    },
+    {
+        "TeamID": 141,
+        "Year": 2018,
+        "TransferBalance": 2310
+    },
+    {
+        "TeamID": 141,
+        "Year": 2019,
+        "TransferBalance": -1120
+    },
+    {
+        "TeamID": 141,
+        "Year": 2020,
+        "TransferBalance": -821
+    },
+    {
+        "TeamID": 141,
+        "Year": 2021,
+        "TransferBalance": -29950
+    },
+    {
+        "TeamID": 141,
+        "Year": 2022,
+        "TransferBalance": -31440
+    },
+    {
+        "TeamID": 141,
+        "Year": 2023,
+        "TransferBalance": 16660
+    },
+    {
+        "TeamID": 141,
+        "Year": 2024,
+        "TransferBalance": -20800
+    },
+    {
+        "TeamID": 144,
+        "Year": 2014,
+        "TransferBalance": 7650
+    },
+    {
+        "TeamID": 144,
+        "Year": 2015,
+        "TransferBalance": 5740
+    },
+    {
+        "TeamID": 144,
+        "Year": 2016,
+        "TransferBalance": 14950
+    },
+    {
+        "TeamID": 144,
+        "Year": 2017,
+        "TransferBalance": 8000
+    },
+    {
+        "TeamID": 144,
+        "Year": 2018,
+        "TransferBalance": 11530
+    },
+    {
+        "TeamID": 144,
+        "Year": 2019,
+        "TransferBalance": 2490
+    },
+    {
+        "TeamID": 144,
+        "Year": 2020,
+        "TransferBalance": 10600
+    },
+    {
+        "TeamID": 144,
+        "Year": 2021,
+        "TransferBalance": 2150
+    },
+    {
+        "TeamID": 144,
+        "Year": 2022,
+        "TransferBalance": 1600
+    },
+    {
+        "TeamID": 144,
+        "Year": 2023,
+        "TransferBalance": 6400
+    },
+    {
+        "TeamID": 144,
+        "Year": 2024,
+        "TransferBalance": 20000
+    },
+    {
+        "TeamID": 148,
+        "Year": 2014,
+        "TransferBalance": -4330
+    },
+    {
+        "TeamID": 148,
+        "Year": 2015,
+        "TransferBalance": 16250
+    },
+    {
+        "TeamID": 148,
+        "Year": 2016,
+        "TransferBalance": -31200
+    },
+    {
+        "TeamID": 148,
+        "Year": 2017,
+        "TransferBalance": -17200
+    },
+    {
+        "TeamID": 148,
+        "Year": 2018,
+        "TransferBalance": 5350
+    },
+    {
+        "TeamID": 148,
+        "Year": 2019,
+        "TransferBalance": -86000
+    },
+    {
+        "TeamID": 148,
+        "Year": 2020,
+        "TransferBalance": -97200
+    },
+    {
+        "TeamID": 148,
+        "Year": 2021,
+        "TransferBalance": -61280
+    },
+    {
+        "TeamID": 148,
+        "Year": 2022,
+        "TransferBalance": -141150
+    },
+    {
+        "TeamID": 148,
+        "Year": 2023,
+        "TransferBalance": -151400
+    },
+    {
+        "TeamID": 148,
+        "Year": 2024,
+        "TransferBalance": -120050
+    },
+    {
+        "TeamID": 150,
+        "Year": 2014,
+        "TransferBalance": -2100
+    },
+    {
+        "TeamID": 150,
+        "Year": 2015,
+        "TransferBalance": -7800
+    },
+    {
+        "TeamID": 150,
+        "Year": 2016,
+        "TransferBalance": -12900
+    },
+    {
+        "TeamID": 150,
+        "Year": 2017,
+        "TransferBalance": -11430
+    },
+    {
+        "TeamID": 150,
+        "Year": 2018,
+        "TransferBalance": 2300
+    },
+    {
+        "TeamID": 150,
+        "Year": 2019,
+        "TransferBalance": -24450
+    },
+    {
+        "TeamID": 150,
+        "Year": 2020,
+        "TransferBalance": 43700
+    },
+    {
+        "TeamID": 150,
+        "Year": 2021,
+        "TransferBalance": 9790
+    },
+    {
+        "TeamID": 150,
+        "Year": 2022,
+        "TransferBalance": -12650
+    },
+    {
+        "TeamID": 150,
+        "Year": 2023,
+        "TransferBalance": 37500
+    },
+    {
+        "TeamID": 150,
+        "Year": 2024,
+        "TransferBalance": 19650
+    },
+    {
+        "TeamID": 157,
+        "Year": 2014,
+        "TransferBalance": 300
+    },
+    {
+        "TeamID": 157,
+        "Year": 2015,
+        "TransferBalance": -6200
+    },
+    {
+        "TeamID": 157,
+        "Year": 2016,
+        "TransferBalance": 6860
+    },
+    {
+        "TeamID": 157,
+        "Year": 2017,
+        "TransferBalance": -7350
+    },
+    {
+        "TeamID": 157,
+        "Year": 2018,
+        "TransferBalance": 23920
+    },
+    {
+        "TeamID": 157,
+        "Year": 2019,
+        "TransferBalance": 2750
+    },
+    {
+        "TeamID": 157,
+        "Year": 2020,
+        "TransferBalance": 7930
+    },
+    {
+        "TeamID": 157,
+        "Year": 2021,
+        "TransferBalance": 20900
+    },
+    {
+        "TeamID": 157,
+        "Year": 2022,
+        "TransferBalance": 950
+    },
+    {
+        "TeamID": 157,
+        "Year": 2023,
+        "TransferBalance": 35870
+    },
+    {
+        "TeamID": 157,
+        "Year": 2024,
+        "TransferBalance": 5380
+    },
+    {
+        "TeamID": 159,
+        "Year": 2014,
+        "TransferBalance": -100
+    },
+    {
+        "TeamID": 159,
+        "Year": 2015,
+        "TransferBalance": 13350
+    },
+    {
+        "TeamID": 159,
+        "Year": 2016,
+        "TransferBalance": 3060
+    },
+    {
+        "TeamID": 159,
+        "Year": 2017,
+        "TransferBalance": 8750
+    },
+    {
+        "TeamID": 159,
+        "Year": 2018,
+        "TransferBalance": 13490
+    },
+    {
+        "TeamID": 159,
+        "Year": 2019,
+        "TransferBalance": 2000
+    },
+    {
+        "TeamID": 159,
+        "Year": 2020,
+        "TransferBalance": 1950
+    },
+    {
+        "TeamID": 159,
+        "Year": 2021,
+        "TransferBalance": 6000
+    },
+    {
+        "TeamID": 159,
+        "Year": 2022,
+        "TransferBalance": -3160
+    },
+    {
+        "TeamID": 159,
+        "Year": 2023,
+        "TransferBalance": 15500
+    },
+    {
+        "TeamID": 159,
+        "Year": 2024,
+        "TransferBalance": 26120
+    },
+    {
+        "TeamID": 162,
+        "Year": 2014,
+        "TransferBalance": 49650
+    },
+    {
+        "TeamID": 162,
+        "Year": 2015,
+        "TransferBalance": 74400
+    },
+    {
+        "TeamID": 162,
+        "Year": 2016,
+        "TransferBalance": -32050
+    },
+    {
+        "TeamID": 162,
+        "Year": 2017,
+        "TransferBalance": 77100
+    },
+    {
+        "TeamID": 162,
+        "Year": 2018,
+        "TransferBalance": 221400
+    },
+    {
+        "TeamID": 162,
+        "Year": 2019,
+        "TransferBalance": -116250
+    },
+    {
+        "TeamID": 162,
+        "Year": 2020,
+        "TransferBalance": -39170
+    },
+    {
+        "TeamID": 162,
+        "Year": 2021,
+        "TransferBalance": -10860
+    },
+    {
+        "TeamID": 162,
+        "Year": 2022,
+        "TransferBalance": 112700
+    },
+    {
+        "TeamID": 162,
+        "Year": 2023,
+        "TransferBalance": -22600
+    },
+    {
+        "TeamID": 162,
+        "Year": 2024,
+        "TransferBalance": -41250
+    },
+    {
+        "TeamID": 168,
+        "Year": 2014,
+        "TransferBalance": 250
+    },
+    {
+        "TeamID": 168,
+        "Year": 2015,
+        "TransferBalance": -200
+    },
+    {
+        "TeamID": 168,
+        "Year": 2016,
+        "TransferBalance": -15
+    },
+    {
+        "TeamID": 168,
+        "Year": 2017,
+        "TransferBalance": 3470
+    },
+    {
+        "TeamID": 168,
+        "Year": 2018,
+        "TransferBalance": 1990
+    },
+    {
+        "TeamID": 168,
+        "Year": 2019,
+        "TransferBalance": 1990
+    },
+    {
+        "TeamID": 168,
+        "Year": 2020,
+        "TransferBalance": 5200
+    },
+    {
+        "TeamID": 168,
+        "Year": 2021,
+        "TransferBalance": -765
+    },
+    {
+        "TeamID": 168,
+        "Year": 2022,
+        "TransferBalance": -465
+    },
+    {
+        "TeamID": 168,
+        "Year": 2023,
+        "TransferBalance": 400
+    },
+    {
+        "TeamID": 168,
+        "Year": 2024,
+        "TransferBalance": 620
+    },
+    {
+        "TeamID": 170,
+        "Year": 2014,
+        "TransferBalance": 3050
+    },
+    {
+        "TeamID": 170,
+        "Year": 2015,
+        "TransferBalance": 6900
+    },
+    {
+        "TeamID": 170,
+        "Year": 2016,
+        "TransferBalance": -1050
+    },
+    {
+        "TeamID": 170,
+        "Year": 2017,
+        "TransferBalance": 5380
+    },
+    {
+        "TeamID": 170,
+        "Year": 2018,
+        "TransferBalance": 4450
+    },
+    {
+        "TeamID": 170,
+        "Year": 2019,
+        "TransferBalance": 8280
+    },
+    {
+        "TeamID": 170,
+        "Year": 2020,
+        "TransferBalance": 2070
+    },
+    {
+        "TeamID": 170,
+        "Year": 2021,
+        "TransferBalance": 1210
+    },
+    {
+        "TeamID": 170,
+        "Year": 2022,
+        "TransferBalance": 10100
+    },
+    {
+        "TeamID": 170,
+        "Year": 2023,
+        "TransferBalance": 15
+    },
+    {
+        "TeamID": 170,
+        "Year": 2024,
+        "TransferBalance": 4800
+    },
+    {
+        "TeamID": 180,
+        "Year": 2014,
+        "TransferBalance": 27830
+    },
+    {
+        "TeamID": 180,
+        "Year": 2015,
+        "TransferBalance": -7400
+    },
+    {
+        "TeamID": 180,
+        "Year": 2016,
+        "TransferBalance": 16150
+    },
+    {
+        "TeamID": 180,
+        "Year": 2017,
+        "TransferBalance": 37100
+    },
+    {
+        "TeamID": 180,
+        "Year": 2018,
+        "TransferBalance": -36150
+    },
+    {
+        "TeamID": 180,
+        "Year": 2019,
+        "TransferBalance": -34200
+    },
+    {
+        "TeamID": 180,
+        "Year": 2020,
+        "TransferBalance": -11000
+    },
+    {
+        "TeamID": 180,
+        "Year": 2021,
+        "TransferBalance": -3050
+    },
+    {
+        "TeamID": 180,
+        "Year": 2022,
+        "TransferBalance": -147610
+    },
+    {
+        "TeamID": 180,
+        "Year": 2023,
+        "TransferBalance": 165690
+    },
+    {
+        "TeamID": 180,
+        "Year": 2024,
+        "TransferBalance": -80560
+    },
+    {
+        "TeamID": 190,
+        "Year": 2014,
+        "TransferBalance": -3350
+    },
+    {
+        "TeamID": 190,
+        "Year": 2015,
+        "TransferBalance": -332
+    },
+    {
+        "TeamID": 190,
+        "Year": 2016,
+        "TransferBalance": -4500
+    },
+    {
+        "TeamID": 190,
+        "Year": 2017,
+        "TransferBalance": 8290
+    },
+    {
+        "TeamID": 190,
+        "Year": 2018,
+        "TransferBalance": 12960
+    },
+    {
+        "TeamID": 190,
+        "Year": 2019,
+        "TransferBalance": 10650
+    },
+    {
+        "TeamID": 190,
+        "Year": 2020,
+        "TransferBalance": -2400
+    },
+    {
+        "TeamID": 190,
+        "Year": 2021,
+        "TransferBalance": 13690
+    },
+    {
+        "TeamID": 190,
+        "Year": 2022,
+        "TransferBalance": 9640
+    },
+    {
+        "TeamID": 190,
+        "Year": 2023,
+        "TransferBalance": 6130
+    },
+    {
+        "TeamID": 190,
+        "Year": 2024,
+        "TransferBalance": 35060
+    },
+    {
+        "TeamID": 195,
+        "Year": 2014,
+        "TransferBalance": 4880
+    },
+    {
+        "TeamID": 195,
+        "Year": 2015,
+        "TransferBalance": 4630
+    },
+    {
+        "TeamID": 195,
+        "Year": 2016,
+        "TransferBalance": 3880
+    },
+    {
+        "TeamID": 195,
+        "Year": 2017,
+        "TransferBalance": -3270
+    },
+    {
+        "TeamID": 195,
+        "Year": 2018,
+        "TransferBalance": 570
+    },
+    {
+        "TeamID": 195,
+        "Year": 2019,
+        "TransferBalance": -1720
+    },
+    {
+        "TeamID": 195,
+        "Year": 2020,
+        "TransferBalance": 1260
+    },
+    {
+        "TeamID": 195,
+        "Year": 2021,
+        "TransferBalance": 116
+    },
+    {
+        "TeamID": 195,
+        "Year": 2022,
+        "TransferBalance": 8350
+    },
+    {
+        "TeamID": 195,
+        "Year": 2023,
+        "TransferBalance": 3200
+    },
+    {
+        "TeamID": 195,
+        "Year": 2024,
+        "TransferBalance": 385
+    },
+    {
+        "TeamID": 197,
+        "Year": 2014,
+        "TransferBalance": 3120
+    },
+    {
+        "TeamID": 197,
+        "Year": 2015,
+        "TransferBalance": 2850
+    },
+    {
+        "TeamID": 197,
+        "Year": 2016,
+        "TransferBalance": 14800
+    },
+    {
+        "TeamID": 197,
+        "Year": 2017,
+        "TransferBalance": -6500
+    },
+    {
+        "TeamID": 197,
+        "Year": 2018,
+        "TransferBalance": 9950
+    },
+    {
+        "TeamID": 197,
+        "Year": 2019,
+        "TransferBalance": -2660
+    },
+    {
+        "TeamID": 197,
+        "Year": 2020,
+        "TransferBalance": -1250
+    },
+    {
+        "TeamID": 197,
+        "Year": 2021,
+        "TransferBalance": -535
+    },
+    {
+        "TeamID": 197,
+        "Year": 2022,
+        "TransferBalance": 13250
+    },
+    {
+        "TeamID": 197,
+        "Year": 2023,
+        "TransferBalance": 2750
+    },
+    {
+        "TeamID": 197,
+        "Year": 2024,
+        "TransferBalance": -3100
+    },
+    {
+        "TeamID": 200,
+        "Year": 2014,
+        "TransferBalance": 6600
+    },
+    {
+        "TeamID": 200,
+        "Year": 2015,
+        "TransferBalance": -950
+    },
+    {
+        "TeamID": 200,
+        "Year": 2016,
+        "TransferBalance": 8730
+    },
+    {
+        "TeamID": 200,
+        "Year": 2017,
+        "TransferBalance": 14900
+    },
+    {
+        "TeamID": 200,
+        "Year": 2018,
+        "TransferBalance": 3850
+    },
+    {
+        "TeamID": 200,
+        "Year": 2019,
+        "TransferBalance": 2050
+    },
+    {
+        "TeamID": 200,
+        "Year": 2020,
+        "TransferBalance": 4850
+    },
+    {
+        "TeamID": 200,
+        "Year": 2021,
+        "TransferBalance": 6500
+    },
+    {
+        "TeamID": 200,
+        "Year": 2022,
+        "TransferBalance": 8300
+    },
+    {
+        "TeamID": 200,
+        "Year": 2023,
+        "TransferBalance": 12500
+    },
+    {
+        "TeamID": 200,
+        "Year": 2024,
+        "TransferBalance": 14330
+    },
+    {
+        "TeamID": 206,
+        "Year": 2014,
+        "TransferBalance": -5320
+    },
+    {
+        "TeamID": 206,
+        "Year": 2015,
+        "TransferBalance": 1950
+    },
+    {
+        "TeamID": 206,
+        "Year": 2016,
+        "TransferBalance": 2610
+    },
+    {
+        "TeamID": 206,
+        "Year": 2017,
+        "TransferBalance": -3210
+    },
+    {
+        "TeamID": 206,
+        "Year": 2018,
+        "TransferBalance": 1060
+    },
+    {
+        "TeamID": 206,
+        "Year": 2019,
+        "TransferBalance": 2160
+    },
+    {
+        "TeamID": 206,
+        "Year": 2020,
+        "TransferBalance": -123
+    },
+    {
+        "TeamID": 206,
+        "Year": 2021,
+        "TransferBalance": 8050
+    },
+    {
+        "TeamID": 206,
+        "Year": 2022,
+        "TransferBalance": -10410
+    },
+    {
+        "TeamID": 206,
+        "Year": 2023,
+        "TransferBalance": 4510
+    },
+    {
+        "TeamID": 206,
+        "Year": 2024,
+        "TransferBalance": -1610
+    },
+    {
+        "TeamID": 232,
+        "Year": 2014,
+        "TransferBalance": 3100
+    },
+    {
+        "TeamID": 232,
+        "Year": 2015,
+        "TransferBalance": -220
+    },
+    {
+        "TeamID": 232,
+        "Year": 2016,
+        "TransferBalance": -22350
+    },
+    {
+        "TeamID": 232,
+        "Year": 2017,
+        "TransferBalance": -22000
+    },
+    {
+        "TeamID": 232,
+        "Year": 2018,
+        "TransferBalance": 4150
+    },
+    {
+        "TeamID": 232,
+        "Year": 2019,
+        "TransferBalance": -11750
+    },
+    {
+        "TeamID": 232,
+        "Year": 2020,
+        "TransferBalance": -9850
+    },
+    {
+        "TeamID": 232,
+        "Year": 2021,
+        "TransferBalance": -12030
+    },
+    {
+        "TeamID": 232,
+        "Year": 2022,
+        "TransferBalance": 894
+    },
+    {
+        "TeamID": 232,
+        "Year": 2023,
+        "TransferBalance": -33000
+    },
+    {
+        "TeamID": 232,
+        "Year": 2024,
+        "TransferBalance": -45260
+    },
+    {
+        "TeamID": 234,
+        "Year": 2014,
+        "TransferBalance": 23000
+    },
+    {
+        "TeamID": 234,
+        "Year": 2015,
+        "TransferBalance": 8300
+    },
+    {
+        "TeamID": 234,
+        "Year": 2016,
+        "TransferBalance": -900
+    },
+    {
+        "TeamID": 234,
+        "Year": 2017,
+        "TransferBalance": 6500
+    },
+    {
+        "TeamID": 234,
+        "Year": 2018,
+        "TransferBalance": 7420
+    },
+    {
+        "TeamID": 234,
+        "Year": 2019,
+        "TransferBalance": 11100
+    },
+    {
+        "TeamID": 234,
+        "Year": 2020,
+        "TransferBalance": -6540
+    },
+    {
+        "TeamID": 234,
+        "Year": 2021,
+        "TransferBalance": -2800
+    },
+    {
+        "TeamID": 234,
+        "Year": 2022,
+        "TransferBalance": 31330
+    },
+    {
+        "TeamID": 234,
+        "Year": 2023,
+        "TransferBalance": 5000
+    },
+    {
+        "TeamID": 234,
+        "Year": 2024,
+        "TransferBalance": 64500
+    },
+    {
+        "TeamID": 238,
+        "Year": 2014,
+        "TransferBalance": 2400
+    },
+    {
+        "TeamID": 238,
+        "Year": 2015,
+        "TransferBalance": -1490
+    },
+    {
+        "TeamID": 238,
+        "Year": 2016,
+        "TransferBalance": 5670
+    },
+    {
+        "TeamID": 238,
+        "Year": 2017,
+        "TransferBalance": 11210
+    },
+    {
+        "TeamID": 238,
+        "Year": 2018,
+        "TransferBalance": -175
+    },
+    {
+        "TeamID": 238,
+        "Year": 2019,
+        "TransferBalance": -1280
+    },
+    {
+        "TeamID": 238,
+        "Year": 2020,
+        "TransferBalance": 15400
+    },
+    {
+        "TeamID": 238,
+        "Year": 2021,
+        "TransferBalance": -170
+    },
+    {
+        "TeamID": 238,
+        "Year": 2022,
+        "TransferBalance": 8800
+    },
+    {
+        "TeamID": 238,
+        "Year": 2023,
+        "TransferBalance": 3800
+    },
+    {
+        "TeamID": 238,
+        "Year": 2024,
+        "TransferBalance": 5230
+    },
+    {
+        "TeamID": 239,
+        "Year": 2014,
+        "TransferBalance": -270
+    },
+    {
+        "TeamID": 239,
+        "Year": 2015,
+        "TransferBalance": -200
+    },
+    {
+        "TeamID": 239,
+        "Year": 2016,
+        "TransferBalance": 975
+    },
+    {
+        "TeamID": 239,
+        "Year": 2017,
+        "TransferBalance": 2080
+    },
+    {
+        "TeamID": 239,
+        "Year": 2018,
+        "TransferBalance": 150
+    },
+    {
+        "TeamID": 239,
+        "Year": 2019,
+        "TransferBalance": 1910
+    },
+    {
+        "TeamID": 239,
+        "Year": 2020,
+        "TransferBalance": 750
+    },
+    {
+        "TeamID": 239,
+        "Year": 2021,
+        "TransferBalance": 2110
+    },
+    {
+        "TeamID": 239,
+        "Year": 2022,
+        "TransferBalance": 2530
+    },
+    {
+        "TeamID": 239,
+        "Year": 2023,
+        "TransferBalance": 3770
+    },
+    {
+        "TeamID": 239,
+        "Year": 2024,
+        "TransferBalance": 9470
+    },
+    {
+        "TeamID": 244,
+        "Year": 2014,
+        "TransferBalance": -3000
+    },
+    {
+        "TeamID": 244,
+        "Year": 2015,
+        "TransferBalance": 34700
+    },
+    {
+        "TeamID": 244,
+        "Year": 2016,
+        "TransferBalance": 28490
+    },
+    {
+        "TeamID": 244,
+        "Year": 2017,
+        "TransferBalance": -59250
+    },
+    {
+        "TeamID": 244,
+        "Year": 2018,
+        "TransferBalance": -33150
+    },
+    {
+        "TeamID": 244,
+        "Year": 2019,
+        "TransferBalance": 250
+    },
+    {
+        "TeamID": 244,
+        "Year": 2020,
+        "TransferBalance": 16030
+    },
+    {
+        "TeamID": 244,
+        "Year": 2021,
+        "TransferBalance": -46120
+    },
+    {
+        "TeamID": 244,
+        "Year": 2022,
+        "TransferBalance": -84080
+    },
+    {
+        "TeamID": 244,
+        "Year": 2023,
+        "TransferBalance": -30200
+    },
+    {
+        "TeamID": 244,
+        "Year": 2024,
+        "TransferBalance": -2000
+    },
+    {
+        "TeamID": 255,
+        "Year": 2014,
+        "TransferBalance": 3570
+    },
+    {
+        "TeamID": 255,
+        "Year": 2015,
+        "TransferBalance": -175
+    },
+    {
+        "TeamID": 255,
+        "Year": 2016,
+        "TransferBalance": 10480
+    },
+    {
+        "TeamID": 255,
+        "Year": 2017,
+        "TransferBalance": 1850
+    },
+    {
+        "TeamID": 255,
+        "Year": 2018,
+        "TransferBalance": -1650
+    },
+    {
+        "TeamID": 255,
+        "Year": 2019,
+        "TransferBalance": 16140
+    },
+    {
+        "TeamID": 255,
+        "Year": 2020,
+        "TransferBalance": 2850
+    },
+    {
+        "TeamID": 255,
+        "Year": 2021,
+        "TransferBalance": 3180
+    },
+    {
+        "TeamID": 255,
+        "Year": 2022,
+        "TransferBalance": -535
+    },
+    {
+        "TeamID": 255,
+        "Year": 2023,
+        "TransferBalance": 16900
+    },
+    {
+        "TeamID": 255,
+        "Year": 2024,
+        "TransferBalance": -3860
+    },
+    {
+        "TeamID": 257,
+        "Year": 2014,
+        "TransferBalance": 834
+    },
+    {
+        "TeamID": 257,
+        "Year": 2015,
+        "TransferBalance": -50
+    },
+    {
+        "TeamID": 257,
+        "Year": 2016,
+        "TransferBalance": -1050
+    },
+    {
+        "TeamID": 257,
+        "Year": 2017,
+        "TransferBalance": -6
+    },
+    {
+        "TeamID": 257,
+        "Year": 2018,
+        "TransferBalance": 900
+    },
+    {
+        "TeamID": 257,
+        "Year": 2019,
+        "TransferBalance": 2260
+    },
+    {
+        "TeamID": 257,
+        "Year": 2020,
+        "TransferBalance": 4080
+    },
+    {
+        "TeamID": 257,
+        "Year": 2021,
+        "TransferBalance": -300
+    },
+    {
+        "TeamID": 257,
+        "Year": 2022,
+        "TransferBalance": 1780
+    },
+    {
+        "TeamID": 257,
+        "Year": 2023,
+        "TransferBalance": 1380
+    },
+    {
+        "TeamID": 257,
+        "Year": 2024,
+        "TransferBalance": 3020
+    },
+    {
+        "TeamID": 260,
+        "Year": 2014,
+        "TransferBalance": 2900
+    },
+    {
+        "TeamID": 260,
+        "Year": 2015,
+        "TransferBalance": 10600
+    },
+    {
+        "TeamID": 260,
+        "Year": 2016,
+        "TransferBalance": 3500
+    },
+    {
+        "TeamID": 260,
+        "Year": 2017,
+        "TransferBalance": 2010
+    },
+    {
+        "TeamID": 260,
+        "Year": 2018,
+        "TransferBalance": 6490
+    },
+    {
+        "TeamID": 260,
+        "Year": 2019,
+        "TransferBalance": 3050
+    },
+    {
+        "TeamID": 260,
+        "Year": 2020,
+        "TransferBalance": 8330
+    },
+    {
+        "TeamID": 260,
+        "Year": 2021,
+        "TransferBalance": -1400
+    },
+    {
+        "TeamID": 260,
+        "Year": 2022,
+        "TransferBalance": 4000
+    },
+    {
+        "TeamID": 260,
+        "Year": 2023,
+        "TransferBalance": 4430
+    },
+    {
+        "TeamID": 260,
+        "Year": 2024,
+        "TransferBalance": 700
+    },
+    {
+        "TeamID": 265,
+        "Year": 2014,
+        "TransferBalance": 2200
+    },
+    {
+        "TeamID": 265,
+        "Year": 2015,
+        "TransferBalance": -350
+    },
+    {
+        "TeamID": 265,
+        "Year": 2016,
+        "TransferBalance": -2000
+    },
+    {
+        "TeamID": 265,
+        "Year": 2017,
+        "TransferBalance": 4230
+    },
+    {
+        "TeamID": 265,
+        "Year": 2018,
+        "TransferBalance": 2400
+    },
+    {
+        "TeamID": 265,
+        "Year": 2019,
+        "TransferBalance": 10
+    },
+    {
+        "TeamID": 265,
+        "Year": 2020,
+        "TransferBalance": 270
+    },
+    {
+        "TeamID": 265,
+        "Year": 2021,
+        "TransferBalance": -1250
+    },
+    {
+        "TeamID": 265,
+        "Year": 2022,
+        "TransferBalance": -3670
+    },
+    {
+        "TeamID": 265,
+        "Year": 2023,
+        "TransferBalance": -8000
+    },
+    {
+        "TeamID": 265,
+        "Year": 2024,
+        "TransferBalance": -21780
+    },
+    {
+        "TeamID": 272,
+        "Year": 2014,
+        "TransferBalance": 5850
+    },
+    {
+        "TeamID": 272,
+        "Year": 2015,
+        "TransferBalance": 2260
+    },
+    {
+        "TeamID": 272,
+        "Year": 2016,
+        "TransferBalance": 8950
+    },
+    {
+        "TeamID": 272,
+        "Year": 2017,
+        "TransferBalance": 75
+    },
+    {
+        "TeamID": 272,
+        "Year": 2018,
+        "TransferBalance": 5400
+    },
+    {
+        "TeamID": 272,
+        "Year": 2019,
+        "TransferBalance": 270
+    },
+    {
+        "TeamID": 272,
+        "Year": 2020,
+        "TransferBalance": 285
+    },
+    {
+        "TeamID": 272,
+        "Year": 2021,
+        "TransferBalance": 3400
+    },
+    {
+        "TeamID": 272,
+        "Year": 2022,
+        "TransferBalance": 10160
+    },
+    {
+        "TeamID": 272,
+        "Year": 2023,
+        "TransferBalance": 5390
+    },
+    {
+        "TeamID": 272,
+        "Year": 2024,
+        "TransferBalance": 6990
+    },
+    {
+        "TeamID": 273,
+        "Year": 2014,
+        "TransferBalance": 3170
+    },
+    {
+        "TeamID": 273,
+        "Year": 2015,
+        "TransferBalance": 4960
+    },
+    {
+        "TeamID": 273,
+        "Year": 2016,
+        "TransferBalance": 53030
+    },
+    {
+        "TeamID": 273,
+        "Year": 2017,
+        "TransferBalance": -33100
+    },
+    {
+        "TeamID": 273,
+        "Year": 2018,
+        "TransferBalance": 500
+    },
+    {
+        "TeamID": 273,
+        "Year": 2019,
+        "TransferBalance": -3600
+    },
+    {
+        "TeamID": 273,
+        "Year": 2020,
+        "TransferBalance": -15140
+    },
+    {
+        "TeamID": 273,
+        "Year": 2021,
+        "TransferBalance": -31600
+    },
+    {
+        "TeamID": 273,
+        "Year": 2022,
+        "TransferBalance": 11000
+    },
+    {
+        "TeamID": 273,
+        "Year": 2023,
+        "TransferBalance": 62100
+    },
+    {
+        "TeamID": 273,
+        "Year": 2024,
+        "TransferBalance": 22350
+    },
+    {
+        "TeamID": 279,
+        "Year": 2014,
+        "TransferBalance": 4720
+    },
+    {
+        "TeamID": 279,
+        "Year": 2015,
+        "TransferBalance": 2040
+    },
+    {
+        "TeamID": 279,
+        "Year": 2016,
+        "TransferBalance": 3400
+    },
+    {
+        "TeamID": 279,
+        "Year": 2017,
+        "TransferBalance": -1300
+    },
+    {
+        "TeamID": 279,
+        "Year": 2018,
+        "TransferBalance": -3190
+    },
+    {
+        "TeamID": 279,
+        "Year": 2019,
+        "TransferBalance": -800
+    },
+    {
+        "TeamID": 279,
+        "Year": 2020,
+        "TransferBalance": -5770
+    },
+    {
+        "TeamID": 279,
+        "Year": 2021,
+        "TransferBalance": -6000
+    },
+    {
+        "TeamID": 279,
+        "Year": 2022,
+        "TransferBalance": -50
+    },
+    {
+        "TeamID": 279,
+        "Year": 2023,
+        "TransferBalance": -3630
+    },
+    {
+        "TeamID": 279,
+        "Year": 2024,
+        "TransferBalance": 2150
+    },
+    {
+        "TeamID": 281,
+        "Year": 2014,
+        "TransferBalance": -72500
+    },
+    {
+        "TeamID": 281,
+        "Year": 2015,
+        "TransferBalance": -141030
+    },
+    {
+        "TeamID": 281,
+        "Year": 2016,
+        "TransferBalance": -180900
+    },
+    {
+        "TeamID": 281,
+        "Year": 2017,
+        "TransferBalance": -226150
+    },
+    {
+        "TeamID": 281,
+        "Year": 2018,
+        "TransferBalance": -20990
+    },
+    {
+        "TeamID": 281,
+        "Year": 2019,
+        "TransferBalance": -98820
+    },
+    {
+        "TeamID": 281,
+        "Year": 2020,
+        "TransferBalance": -109400
+    },
+    {
+        "TeamID": 281,
+        "Year": 2021,
+        "TransferBalance": -45100
+    },
+    {
+        "TeamID": 281,
+        "Year": 2022,
+        "TransferBalance": 7170
+    },
+    {
+        "TeamID": 281,
+        "Year": 2023,
+        "TransferBalance": -138100
+    },
+    {
+        "TeamID": 281,
+        "Year": 2024,
+        "TransferBalance": -102000
+    },
+    {
+        "TeamID": 294,
+        "Year": 2014,
+        "TransferBalance": 66000
+    },
+    {
+        "TeamID": 294,
+        "Year": 2015,
+        "TransferBalance": 68950
+    },
+    {
+        "TeamID": 294,
+        "Year": 2016,
+        "TransferBalance": 80980
+    },
+    {
+        "TeamID": 294,
+        "Year": 2017,
+        "TransferBalance": 127390
+    },
+    {
+        "TeamID": 294,
+        "Year": 2018,
+        "TransferBalance": 45570
+    },
+    {
+        "TeamID": 294,
+        "Year": 2019,
+        "TransferBalance": 175290
+    },
+    {
+        "TeamID": 294,
+        "Year": 2020,
+        "TransferBalance": -33280
+    },
+    {
+        "TeamID": 294,
+        "Year": 2021,
+        "TransferBalance": 25000
+    },
+    {
+        "TeamID": 294,
+        "Year": 2022,
+        "TransferBalance": 162570
+    },
+    {
+        "TeamID": 294,
+        "Year": 2023,
+        "TransferBalance": 9080
+    },
+    {
+        "TeamID": 294,
+        "Year": 2024,
+        "TransferBalance": 86320
+    },
+    {
+        "TeamID": 301,
+        "Year": 2014,
+        "TransferBalance": 10550
+    },
+    {
+        "TeamID": 301,
+        "Year": 2015,
+        "TransferBalance": -1550
+    },
+    {
+        "TeamID": 301,
+        "Year": 2016,
+        "TransferBalance": 8810
+    },
+    {
+        "TeamID": 301,
+        "Year": 2017,
+        "TransferBalance": -3870
+    },
+    {
+        "TeamID": 301,
+        "Year": 2018,
+        "TransferBalance": 1950
+    },
+    {
+        "TeamID": 301,
+        "Year": 2019,
+        "TransferBalance": -1430
+    },
+    {
+        "TeamID": 301,
+        "Year": 2020,
+        "TransferBalance": 10240
+    },
+    {
+        "TeamID": 301,
+        "Year": 2021,
+        "TransferBalance": 3220
+    },
+    {
+        "TeamID": 301,
+        "Year": 2022,
+        "TransferBalance": -2400
+    },
+    {
+        "TeamID": 301,
+        "Year": 2023,
+        "TransferBalance": 635
+    },
+    {
+        "TeamID": 301,
+        "Year": 2024,
+        "TransferBalance": -770
+    },
+    {
+        "TeamID": 324,
+        "Year": 2014,
+        "TransferBalance": 680
+    },
+    {
+        "TeamID": 324,
+        "Year": 2015,
+        "TransferBalance": 225
+    },
+    {
+        "TeamID": 324,
+        "Year": 2016,
+        "TransferBalance": 400
+    },
+    {
+        "TeamID": 324,
+        "Year": 2017,
+        "TransferBalance": -215
+    },
+    {
+        "TeamID": 324,
+        "Year": 2018,
+        "TransferBalance": 5740
+    },
+    {
+        "TeamID": 324,
+        "Year": 2019,
+        "TransferBalance": 3280
+    },
+    {
+        "TeamID": 324,
+        "Year": 2020,
+        "TransferBalance": 550
+    },
+    {
+        "TeamID": 324,
+        "Year": 2021,
+        "TransferBalance": 12400
+    },
+    {
+        "TeamID": 324,
+        "Year": 2022,
+        "TransferBalance": -245
+    },
+    {
+        "TeamID": 324,
+        "Year": 2023,
+        "TransferBalance": 2850
+    },
+    {
+        "TeamID": 324,
+        "Year": 2024,
+        "TransferBalance": -150
+    },
+    {
+        "TeamID": 327,
+        "Year": 2014,
+        "TransferBalance": 250
+    },
+    {
+        "TeamID": 327,
+        "Year": 2015,
+        "TransferBalance": 150
+    },
+    {
+        "TeamID": 327,
+        "Year": 2016,
+        "TransferBalance": -560
+    },
+    {
+        "TeamID": 327,
+        "Year": 2017,
+        "TransferBalance": -2270
+    },
+    {
+        "TeamID": 327,
+        "Year": 2018,
+        "TransferBalance": 10920
+    },
+    {
+        "TeamID": 327,
+        "Year": 2019,
+        "TransferBalance": 1900
+    },
+    {
+        "TeamID": 327,
+        "Year": 2020,
+        "TransferBalance": 7510
+    },
+    {
+        "TeamID": 327,
+        "Year": 2021,
+        "TransferBalance": -1000
+    },
+    {
+        "TeamID": 327,
+        "Year": 2022,
+        "TransferBalance": 5100
+    },
+    {
+        "TeamID": 327,
+        "Year": 2023,
+        "TransferBalance": 5900
+    },
+    {
+        "TeamID": 327,
+        "Year": 2024,
+        "TransferBalance": 1550
+    },
+    {
+        "TeamID": 336,
+        "Year": 2014,
+        "TransferBalance": 20320
+    },
+    {
+        "TeamID": 336,
+        "Year": 2015,
+        "TransferBalance": 9250
+    },
+    {
+        "TeamID": 336,
+        "Year": 2016,
+        "TransferBalance": 52430
+    },
+    {
+        "TeamID": 336,
+        "Year": 2017,
+        "TransferBalance": 1890
+    },
+    {
+        "TeamID": 336,
+        "Year": 2018,
+        "TransferBalance": 69070
+    },
+    {
+        "TeamID": 336,
+        "Year": 2019,
+        "TransferBalance": 83160
+    },
+    {
+        "TeamID": 336,
+        "Year": 2020,
+        "TransferBalance": 8530
+    },
+    {
+        "TeamID": 336,
+        "Year": 2021,
+        "TransferBalance": -23080
+    },
+    {
+        "TeamID": 336,
+        "Year": 2022,
+        "TransferBalance": 85830
+    },
+    {
+        "TeamID": 336,
+        "Year": 2023,
+        "TransferBalance": 59880
+    },
+    {
+        "TeamID": 336,
+        "Year": 2024,
+        "TransferBalance": -16610
+    },
+    {
+        "TeamID": 353,
+        "Year": 2014,
+        "TransferBalance": -165
+    },
+    {
+        "TeamID": 353,
+        "Year": 2015,
+        "TransferBalance": 415
+    },
+    {
+        "TeamID": 353,
+        "Year": 2016,
+        "TransferBalance": 1500
+    },
+    {
+        "TeamID": 353,
+        "Year": 2017,
+        "TransferBalance": 500
+    },
+    {
+        "TeamID": 353,
+        "Year": 2018,
+        "TransferBalance": 30
+    },
+    {
+        "TeamID": 353,
+        "Year": 2019,
+        "TransferBalance": 700
+    },
+    {
+        "TeamID": 353,
+        "Year": 2020,
+        "TransferBalance": -505
+    },
+    {
+        "TeamID": 353,
+        "Year": 2021,
+        "TransferBalance": 1690
+    },
+    {
+        "TeamID": 353,
+        "Year": 2022,
+        "TransferBalance": 3690
+    },
+    {
+        "TeamID": 353,
+        "Year": 2023,
+        "TransferBalance": 4910
+    },
+    {
+        "TeamID": 353,
+        "Year": 2024,
+        "TransferBalance": 2400
+    },
+    {
+        "TeamID": 368,
+        "Year": 2014,
+        "TransferBalance": 29600
+    },
+    {
+        "TeamID": 368,
+        "Year": 2015,
+        "TransferBalance": 17450
+    },
+    {
+        "TeamID": 368,
+        "Year": 2016,
+        "TransferBalance": 11750
+    },
+    {
+        "TeamID": 368,
+        "Year": 2017,
+        "TransferBalance": 3550
+    },
+    {
+        "TeamID": 368,
+        "Year": 2018,
+        "TransferBalance": 12750
+    },
+    {
+        "TeamID": 368,
+        "Year": 2019,
+        "TransferBalance": -57330
+    },
+    {
+        "TeamID": 368,
+        "Year": 2020,
+        "TransferBalance": -54670
+    },
+    {
+        "TeamID": 368,
+        "Year": 2021,
+        "TransferBalance": -13000
+    },
+    {
+        "TeamID": 368,
+        "Year": 2022,
+        "TransferBalance": 61100
+    },
+    {
+        "TeamID": 368,
+        "Year": 2023,
+        "TransferBalance": -5400
+    },
+    {
+        "TeamID": 368,
+        "Year": 2024,
+        "TransferBalance": 16550
+    },
+    {
+        "TeamID": 371,
+        "Year": 2014,
+        "TransferBalance": 8680
+    },
+    {
+        "TeamID": 371,
+        "Year": 2015,
+        "TransferBalance": 3390
+    },
+    {
+        "TeamID": 371,
+        "Year": 2016,
+        "TransferBalance": -5900
+    },
+    {
+        "TeamID": 371,
+        "Year": 2017,
+        "TransferBalance": -10530
+    },
+    {
+        "TeamID": 371,
+        "Year": 2018,
+        "TransferBalance": 16560
+    },
+    {
+        "TeamID": 371,
+        "Year": 2019,
+        "TransferBalance": 7170
+    },
+    {
+        "TeamID": 371,
+        "Year": 2020,
+        "TransferBalance": 2060
+    },
+    {
+        "TeamID": 371,
+        "Year": 2021,
+        "TransferBalance": 11140
+    },
+    {
+        "TeamID": 371,
+        "Year": 2022,
+        "TransferBalance": -25330
+    },
+    {
+        "TeamID": 371,
+        "Year": 2023,
+        "TransferBalance": 20340
+    },
+    {
+        "TeamID": 371,
+        "Year": 2024,
+        "TransferBalance": 12780
+    },
+    {
+        "TeamID": 377,
+        "Year": 2014,
+        "TransferBalance": 800
+    },
+    {
+        "TeamID": 377,
+        "Year": 2015,
+        "TransferBalance": 900
+    },
+    {
+        "TeamID": 377,
+        "Year": 2016,
+        "TransferBalance": 215
+    },
+    {
+        "TeamID": 377,
+        "Year": 2017,
+        "TransferBalance": -280
+    },
+    {
+        "TeamID": 377,
+        "Year": 2018,
+        "TransferBalance": -770
+    },
+    {
+        "TeamID": 377,
+        "Year": 2019,
+        "TransferBalance": -660
+    },
+    {
+        "TeamID": 377,
+        "Year": 2020,
+        "TransferBalance": -34
+    },
+    {
+        "TeamID": 377,
+        "Year": 2021,
+        "TransferBalance": -205
+    },
+    {
+        "TeamID": 377,
+        "Year": 2022,
+        "TransferBalance": -155
+    },
+    {
+        "TeamID": 377,
+        "Year": 2023,
+        "TransferBalance": 835
+    },
+    {
+        "TeamID": 377,
+        "Year": 2024,
+        "TransferBalance": 2680
+    },
+    {
+        "TeamID": 379,
+        "Year": 2014,
+        "TransferBalance": -30750
+    },
+    {
+        "TeamID": 379,
+        "Year": 2015,
+        "TransferBalance": -34190
+    },
+    {
+        "TeamID": 379,
+        "Year": 2016,
+        "TransferBalance": -42500
+    },
+    {
+        "TeamID": 379,
+        "Year": 2017,
+        "TransferBalance": 7220
+    },
+    {
+        "TeamID": 379,
+        "Year": 2018,
+        "TransferBalance": -87140
+    },
+    {
+        "TeamID": 379,
+        "Year": 2019,
+        "TransferBalance": -64070
+    },
+    {
+        "TeamID": 379,
+        "Year": 2020,
+        "TransferBalance": -9290
+    },
+    {
+        "TeamID": 379,
+        "Year": 2021,
+        "TransferBalance": -70270
+    },
+    {
+        "TeamID": 379,
+        "Year": 2022,
+        "TransferBalance": -175050
+    },
+    {
+        "TeamID": 379,
+        "Year": 2023,
+        "TransferBalance": 25900
+    },
+    {
+        "TeamID": 379,
+        "Year": 2024,
+        "TransferBalance": -98250
+    },
+    {
+        "TeamID": 398,
+        "Year": 2014,
+        "TransferBalance": -12600
+    },
+    {
+        "TeamID": 398,
+        "Year": 2015,
+        "TransferBalance": -28880
+    },
+    {
+        "TeamID": 398,
+        "Year": 2016,
+        "TransferBalance": -7600
+    },
+    {
+        "TeamID": 398,
+        "Year": 2017,
+        "TransferBalance": 45670
+    },
+    {
+        "TeamID": 398,
+        "Year": 2018,
+        "TransferBalance": -12680
+    },
+    {
+        "TeamID": 398,
+        "Year": 2019,
+        "TransferBalance": -14600
+    },
+    {
+        "TeamID": 398,
+        "Year": 2020,
+        "TransferBalance": -34850
+    },
+    {
+        "TeamID": 398,
+        "Year": 2021,
+        "TransferBalance": -4900
+    },
+    {
+        "TeamID": 398,
+        "Year": 2022,
+        "TransferBalance": 698
+    },
+    {
+        "TeamID": 398,
+        "Year": 2023,
+        "TransferBalance": 9900
+    },
+    {
+        "TeamID": 398,
+        "Year": 2024,
+        "TransferBalance": -25550
+    },
+    {
+        "TeamID": 405,
+        "Year": 2014,
+        "TransferBalance": -12140
+    },
+    {
+        "TeamID": 405,
+        "Year": 2015,
+        "TransferBalance": -1850
+    },
+    {
+        "TeamID": 405,
+        "Year": 2016,
+        "TransferBalance": -39700
+    },
+    {
+        "TeamID": 405,
+        "Year": 2017,
+        "TransferBalance": 15030
+    },
+    {
+        "TeamID": 405,
+        "Year": 2018,
+        "TransferBalance": -2950
+    },
+    {
+        "TeamID": 405,
+        "Year": 2019,
+        "TransferBalance": -156500
+    },
+    {
+        "TeamID": 405,
+        "Year": 2020,
+        "TransferBalance": -98580
+    },
+    {
+        "TeamID": 405,
+        "Year": 2021,
+        "TransferBalance": -2800
+    },
+    {
+        "TeamID": 405,
+        "Year": 2022,
+        "TransferBalance": -59000
+    },
+    {
+        "TeamID": 405,
+        "Year": 2023,
+        "TransferBalance": -78950
+    },
+    {
+        "TeamID": 405,
+        "Year": 2024,
+        "TransferBalance": 42970
+    },
+    {
+        "TeamID": 409,
+        "Year": 2014,
+        "TransferBalance": 40000
+    },
+    {
+        "TeamID": 409,
+        "Year": 2015,
+        "TransferBalance": -786
+    },
+    {
+        "TeamID": 409,
+        "Year": 2016,
+        "TransferBalance": 71100
+    },
+    {
+        "TeamID": 409,
+        "Year": 2017,
+        "TransferBalance": 15150
+    },
+    {
+        "TeamID": 409,
+        "Year": 2018,
+        "TransferBalance": 38600
+    },
+    {
+        "TeamID": 409,
+        "Year": 2019,
+        "TransferBalance": 78350
+    },
+    {
+        "TeamID": 409,
+        "Year": 2020,
+        "TransferBalance": 29800
+    },
+    {
+        "TeamID": 409,
+        "Year": 2021,
+        "TransferBalance": 47930
+    },
+    {
+        "TeamID": 409,
+        "Year": 2022,
+        "TransferBalance": 69140
+    },
+    {
+        "TeamID": 409,
+        "Year": 2023,
+        "TransferBalance": 45850
+    },
+    {
+        "TeamID": 409,
+        "Year": 2024,
+        "TransferBalance": 7600
+    },
+    {
+        "TeamID": 415,
+        "Year": 2014,
+        "TransferBalance": 10700
+    },
+    {
+        "TeamID": 415,
+        "Year": 2015,
+        "TransferBalance": 7600
+    },
+    {
+        "TeamID": 415,
+        "Year": 2016,
+        "TransferBalance": -3000
+    },
+    {
+        "TeamID": 415,
+        "Year": 2017,
+        "TransferBalance": 9500
+    },
+    {
+        "TeamID": 415,
+        "Year": 2018,
+        "TransferBalance": 17050
+    },
+    {
+        "TeamID": 415,
+        "Year": 2019,
+        "TransferBalance": 3150
+    },
+    {
+        "TeamID": 415,
+        "Year": 2020,
+        "TransferBalance": 17000
+    },
+    {
+        "TeamID": 415,
+        "Year": 2021,
+        "TransferBalance": 11910
+    },
+    {
+        "TeamID": 415,
+        "Year": 2022,
+        "TransferBalance": -3700
+    },
+    {
+        "TeamID": 415,
+        "Year": 2023,
+        "TransferBalance": -4050
+    },
+    {
+        "TeamID": 415,
+        "Year": 2024,
+        "TransferBalance": 47800
+    },
+    {
+        "TeamID": 416,
+        "Year": 2014,
+        "TransferBalance": 10660
+    },
+    {
+        "TeamID": 416,
+        "Year": 2015,
+        "TransferBalance": -8300
+    },
+    {
+        "TeamID": 416,
+        "Year": 2016,
+        "TransferBalance": -2250
+    },
+    {
+        "TeamID": 416,
+        "Year": 2017,
+        "TransferBalance": 53420
+    },
+    {
+        "TeamID": 416,
+        "Year": 2018,
+        "TransferBalance": -35950
+    },
+    {
+        "TeamID": 416,
+        "Year": 2019,
+        "TransferBalance": -4400
+    },
+    {
+        "TeamID": 416,
+        "Year": 2020,
+        "TransferBalance": -20580
+    },
+    {
+        "TeamID": 416,
+        "Year": 2021,
+        "TransferBalance": 3350
+    },
+    {
+        "TeamID": 416,
+        "Year": 2022,
+        "TransferBalance": 26840
+    },
+    {
+        "TeamID": 416,
+        "Year": 2023,
+        "TransferBalance": -28630
+    },
+    {
+        "TeamID": 416,
+        "Year": 2024,
+        "TransferBalance": 21900
+    },
+    {
+        "TeamID": 417,
+        "Year": 2014,
+        "TransferBalance": 6100
+    },
+    {
+        "TeamID": 417,
+        "Year": 2015,
+        "TransferBalance": 9900
+    },
+    {
+        "TeamID": 417,
+        "Year": 2016,
+        "TransferBalance": 550
+    },
+    {
+        "TeamID": 417,
+        "Year": 2017,
+        "TransferBalance": 1200
+    },
+    {
+        "TeamID": 417,
+        "Year": 2018,
+        "TransferBalance": 33700
+    },
+    {
+        "TeamID": 417,
+        "Year": 2019,
+        "TransferBalance": -29090
+    },
+    {
+        "TeamID": 417,
+        "Year": 2020,
+        "TransferBalance": -8720
+    },
+    {
+        "TeamID": 417,
+        "Year": 2021,
+        "TransferBalance": -28950
+    },
+    {
+        "TeamID": 417,
+        "Year": 2022,
+        "TransferBalance": -33800
+    },
+    {
+        "TeamID": 417,
+        "Year": 2023,
+        "TransferBalance": -33610
+    },
+    {
+        "TeamID": 417,
+        "Year": 2024,
+        "TransferBalance": 3300
+    },
+    {
+        "TeamID": 418,
+        "Year": 2014,
+        "TransferBalance": -13900
+    },
+    {
+        "TeamID": 418,
+        "Year": 2015,
+        "TransferBalance": -76250
+    },
+    {
+        "TeamID": 418,
+        "Year": 2016,
+        "TransferBalance": 7500
+    },
+    {
+        "TeamID": 418,
+        "Year": 2017,
+        "TransferBalance": 92000
+    },
+    {
+        "TeamID": 418,
+        "Year": 2018,
+        "TransferBalance": -28650
+    },
+    {
+        "TeamID": 418,
+        "Year": 2019,
+        "TransferBalance": -224500
+    },
+    {
+        "TeamID": 418,
+        "Year": 2020,
+        "TransferBalance": 108200
+    },
+    {
+        "TeamID": 418,
+        "Year": 2021,
+        "TransferBalance": 47000
+    },
+    {
+        "TeamID": 418,
+        "Year": 2022,
+        "TransferBalance": 12150
+    },
+    {
+        "TeamID": 418,
+        "Year": 2023,
+        "TransferBalance": -132500
+    },
+    {
+        "TeamID": 418,
+        "Year": 2024,
+        "TransferBalance": -33000
+    },
+    {
+        "TeamID": 419,
+        "Year": 2014,
+        "TransferBalance": 780
+    },
+    {
+        "TeamID": 419,
+        "Year": 2015,
+        "TransferBalance": 4610
+    },
+    {
+        "TeamID": 419,
+        "Year": 2016,
+        "TransferBalance": 43590
+    },
+    {
+        "TeamID": 419,
+        "Year": 2017,
+        "TransferBalance": 20430
+    },
+    {
+        "TeamID": 419,
+        "Year": 2018,
+        "TransferBalance": 23660
+    },
+    {
+        "TeamID": 419,
+        "Year": 2019,
+        "TransferBalance": 39760
+    },
+    {
+        "TeamID": 419,
+        "Year": 2020,
+        "TransferBalance": 1150
+    },
+    {
+        "TeamID": 419,
+        "Year": 2021,
+        "TransferBalance": 45700
+    },
+    {
+        "TeamID": 419,
+        "Year": 2022,
+        "TransferBalance": 15900
+    },
+    {
+        "TeamID": 419,
+        "Year": 2023,
+        "TransferBalance": 34110
+    },
+    {
+        "TeamID": 419,
+        "Year": 2024,
+        "TransferBalance": -6900
+    },
+    {
+        "TeamID": 430,
+        "Year": 2014,
+        "TransferBalance": 28900
+    },
+    {
+        "TeamID": 430,
+        "Year": 2015,
+        "TransferBalance": 2450
+    },
+    {
+        "TeamID": 430,
+        "Year": 2016,
+        "TransferBalance": 14820
+    },
+    {
+        "TeamID": 430,
+        "Year": 2017,
+        "TransferBalance": 14080
+    },
+    {
+        "TeamID": 430,
+        "Year": 2018,
+        "TransferBalance": -17380
+    },
+    {
+        "TeamID": 430,
+        "Year": 2019,
+        "TransferBalance": -41220
+    },
+    {
+        "TeamID": 430,
+        "Year": 2020,
+        "TransferBalance": 90
+    },
+    {
+        "TeamID": 430,
+        "Year": 2021,
+        "TransferBalance": 43980
+    },
+    {
+        "TeamID": 430,
+        "Year": 2022,
+        "TransferBalance": 13120
+    },
+    {
+        "TeamID": 430,
+        "Year": 2023,
+        "TransferBalance": 19480
+    },
+    {
+        "TeamID": 430,
+        "Year": 2024,
+        "TransferBalance": -31970
+    },
+    {
+        "TeamID": 434,
+        "Year": 2014,
+        "TransferBalance": 160
+    },
+    {
+        "TeamID": 434,
+        "Year": 2015,
+        "TransferBalance": 5350
+    },
+    {
+        "TeamID": 434,
+        "Year": 2016,
+        "TransferBalance": 320
+    },
+    {
+        "TeamID": 434,
+        "Year": 2017,
+        "TransferBalance": 250
+    },
+    {
+        "TeamID": 434,
+        "Year": 2018,
+        "TransferBalance": -50
+    },
+    {
+        "TeamID": 434,
+        "Year": 2019,
+        "TransferBalance": 2560
+    },
+    {
+        "TeamID": 434,
+        "Year": 2020,
+        "TransferBalance": 3000
+    },
+    {
+        "TeamID": 434,
+        "Year": 2021,
+        "TransferBalance": -1080
+    },
+    {
+        "TeamID": 434,
+        "Year": 2022,
+        "TransferBalance": 1450
+    },
+    {
+        "TeamID": 434,
+        "Year": 2023,
+        "TransferBalance": 1000
+    },
+    {
+        "TeamID": 434,
+        "Year": 2024,
+        "TransferBalance": 12270
+    },
+    {
+        "TeamID": 447,
+        "Year": 2014,
+        "TransferBalance": 6090
+    },
+    {
+        "TeamID": 447,
+        "Year": 2015,
+        "TransferBalance": 6000
+    },
+    {
+        "TeamID": 447,
+        "Year": 2016,
+        "TransferBalance": 7890
+    },
+    {
+        "TeamID": 447,
+        "Year": 2017,
+        "TransferBalance": 12950
+    },
+    {
+        "TeamID": 447,
+        "Year": 2018,
+        "TransferBalance": 14480
+    },
+    {
+        "TeamID": 447,
+        "Year": 2019,
+        "TransferBalance": 5000
+    },
+    {
+        "TeamID": 447,
+        "Year": 2020,
+        "TransferBalance": 3190
+    },
+    {
+        "TeamID": 447,
+        "Year": 2021,
+        "TransferBalance": 2430
+    },
+    {
+        "TeamID": 447,
+        "Year": 2022,
+        "TransferBalance": 15970
+    },
+    {
+        "TeamID": 447,
+        "Year": 2023,
+        "TransferBalance": 3330
+    },
+    {
+        "TeamID": 447,
+        "Year": 2024,
+        "TransferBalance": -100
+    },
+    {
+        "TeamID": 448,
+        "Year": 2014,
+        "TransferBalance": 4350
+    },
+    {
+        "TeamID": 448,
+        "Year": 2015,
+        "TransferBalance": 3390
+    },
+    {
+        "TeamID": 448,
+        "Year": 2016,
+        "TransferBalance": 1050
+    },
+    {
+        "TeamID": 448,
+        "Year": 2017,
+        "TransferBalance": 1050
+    },
+    {
+        "TeamID": 448,
+        "Year": 2018,
+        "TransferBalance": 650
+    },
+    {
+        "TeamID": 448,
+        "Year": 2019,
+        "TransferBalance": 215
+    },
+    {
+        "TeamID": 448,
+        "Year": 2020,
+        "TransferBalance": 710
+    },
+    {
+        "TeamID": 448,
+        "Year": 2021,
+        "TransferBalance": -150
+    },
+    {
+        "TeamID": 448,
+        "Year": 2022,
+        "TransferBalance": -710
+    },
+    {
+        "TeamID": 448,
+        "Year": 2023,
+        "TransferBalance": 4540
+    },
+    {
+        "TeamID": 448,
+        "Year": 2024,
+        "TransferBalance": 2450
+    },
+    {
+        "TeamID": 449,
+        "Year": 2014,
+        "TransferBalance": -22880
+    },
+    {
+        "TeamID": 449,
+        "Year": 2015,
+        "TransferBalance": -54
+    },
+    {
+        "TeamID": 449,
+        "Year": 2016,
+        "TransferBalance": -9120
+    },
+    {
+        "TeamID": 449,
+        "Year": 2017,
+        "TransferBalance": -12800
+    },
+    {
+        "TeamID": 449,
+        "Year": 2018,
+        "TransferBalance": 15470
+    },
+    {
+        "TeamID": 449,
+        "Year": 2019,
+        "TransferBalance": 14540
+    },
+    {
+        "TeamID": 449,
+        "Year": 2020,
+        "TransferBalance": -13350
+    },
+    {
+        "TeamID": 449,
+        "Year": 2021,
+        "TransferBalance": -12150
+    },
+    {
+        "TeamID": 449,
+        "Year": 2022,
+        "TransferBalance": 1940
+    },
+    {
+        "TeamID": 449,
+        "Year": 2023,
+        "TransferBalance": -9410
+    },
+    {
+        "TeamID": 449,
+        "Year": 2024,
+        "TransferBalance": -26220
+    },
+    {
+        "TeamID": 452,
+        "Year": 2014,
+        "TransferBalance": 5200
+    },
+    {
+        "TeamID": 452,
+        "Year": 2015,
+        "TransferBalance": -7350
+    },
+    {
+        "TeamID": 452,
+        "Year": 2016,
+        "TransferBalance": 5270
+    },
+    {
+        "TeamID": 452,
+        "Year": 2017,
+        "TransferBalance": 9880
+    },
+    {
+        "TeamID": 452,
+        "Year": 2018,
+        "TransferBalance": 12950
+    },
+    {
+        "TeamID": 452,
+        "Year": 2019,
+        "TransferBalance": 15950
+    },
+    {
+        "TeamID": 452,
+        "Year": 2020,
+        "TransferBalance": 8750
+    },
+    {
+        "TeamID": 452,
+        "Year": 2021,
+        "TransferBalance": 2750
+    },
+    {
+        "TeamID": 452,
+        "Year": 2022,
+        "TransferBalance": 15430
+    },
+    {
+        "TeamID": 452,
+        "Year": 2023,
+        "TransferBalance": 31650
+    },
+    {
+        "TeamID": 452,
+        "Year": 2024,
+        "TransferBalance": -100
+    },
+    {
+        "TeamID": 496,
+        "Year": 2014,
+        "TransferBalance": 9710
+    },
+    {
+        "TeamID": 496,
+        "Year": 2015,
+        "TransferBalance": 2190
+    },
+    {
+        "TeamID": 496,
+        "Year": 2016,
+        "TransferBalance": 3450
+    },
+    {
+        "TeamID": 496,
+        "Year": 2017,
+        "TransferBalance": -2420
+    },
+    {
+        "TeamID": 496,
+        "Year": 2018,
+        "TransferBalance": 5000
+    },
+    {
+        "TeamID": 496,
+        "Year": 2019,
+        "TransferBalance": 1300
+    },
+    {
+        "TeamID": 496,
+        "Year": 2020,
+        "TransferBalance": 125
+    },
+    {
+        "TeamID": 496,
+        "Year": 2021,
+        "TransferBalance": 2350
+    },
+    {
+        "TeamID": 496,
+        "Year": 2022,
+        "TransferBalance": 3990
+    },
+    {
+        "TeamID": 496,
+        "Year": 2023,
+        "TransferBalance": 5090
+    },
+    {
+        "TeamID": 496,
+        "Year": 2024,
+        "TransferBalance": 11700
+    },
+    {
+        "TeamID": 499,
+        "Year": 2014,
+        "TransferBalance": -500
+    },
+    {
+        "TeamID": 499,
+        "Year": 2015,
+        "TransferBalance": 6550
+    },
+    {
+        "TeamID": 499,
+        "Year": 2016,
+        "TransferBalance": 5250
+    },
+    {
+        "TeamID": 499,
+        "Year": 2017,
+        "TransferBalance": 17750
+    },
+    {
+        "TeamID": 499,
+        "Year": 2018,
+        "TransferBalance": -3640
+    },
+    {
+        "TeamID": 499,
+        "Year": 2019,
+        "TransferBalance": 5830
+    },
+    {
+        "TeamID": 499,
+        "Year": 2020,
+        "TransferBalance": 150
+    },
+    {
+        "TeamID": 499,
+        "Year": 2021,
+        "TransferBalance": -1830
+    },
+    {
+        "TeamID": 499,
+        "Year": 2022,
+        "TransferBalance": -1200
+    },
+    {
+        "TeamID": 499,
+        "Year": 2023,
+        "TransferBalance": 4750
+    },
+    {
+        "TeamID": 499,
+        "Year": 2024,
+        "TransferBalance": 285
+    },
+    {
+        "TeamID": 501,
+        "Year": 2014,
+        "TransferBalance": 550
+    },
+    {
+        "TeamID": 501,
+        "Year": 2015,
+        "TransferBalance": 350
+    },
+    {
+        "TeamID": 501,
+        "Year": 2016,
+        "TransferBalance": 1330
+    },
+    {
+        "TeamID": 501,
+        "Year": 2017,
+        "TransferBalance": 1250
+    },
+    {
+        "TeamID": 501,
+        "Year": 2018,
+        "TransferBalance": 980
+    },
+    {
+        "TeamID": 501,
+        "Year": 2019,
+        "TransferBalance": 3230
+    },
+    {
+        "TeamID": 501,
+        "Year": 2020,
+        "TransferBalance": 6160
+    },
+    {
+        "TeamID": 501,
+        "Year": 2021,
+        "TransferBalance": 9560
+    },
+    {
+        "TeamID": 501,
+        "Year": 2022,
+        "TransferBalance": -840
+    },
+    {
+        "TeamID": 501,
+        "Year": 2023,
+        "TransferBalance": 11440
+    },
+    {
+        "TeamID": 501,
+        "Year": 2024,
+        "TransferBalance": 10920
+    },
+    {
+        "TeamID": 506,
+        "Year": 2014,
+        "TransferBalance": -29190
+    },
+    {
+        "TeamID": 506,
+        "Year": 2015,
+        "TransferBalance": -72220
+    },
+    {
+        "TeamID": 506,
+        "Year": 2016,
+        "TransferBalance": -25300
+    },
+    {
+        "TeamID": 506,
+        "Year": 2017,
+        "TransferBalance": -32350
+    },
+    {
+        "TeamID": 506,
+        "Year": 2018,
+        "TransferBalance": -152760
+    },
+    {
+        "TeamID": 506,
+        "Year": 2019,
+        "TransferBalance": -32160
+    },
+    {
+        "TeamID": 506,
+        "Year": 2020,
+        "TransferBalance": -52500
+    },
+    {
+        "TeamID": 506,
+        "Year": 2021,
+        "TransferBalance": -77620
+    },
+    {
+        "TeamID": 506,
+        "Year": 2022,
+        "TransferBalance": -11160
+    },
+    {
+        "TeamID": 506,
+        "Year": 2023,
+        "TransferBalance": -28720
+    },
+    {
+        "TeamID": 506,
+        "Year": 2024,
+        "TransferBalance": -87400
+    },
+    {
+        "TeamID": 533,
+        "Year": 2014,
+        "TransferBalance": -4780
+    },
+    {
+        "TeamID": 533,
+        "Year": 2015,
+        "TransferBalance": 33750
+    },
+    {
+        "TeamID": 533,
+        "Year": 2016,
+        "TransferBalance": 9560
+    },
+    {
+        "TeamID": 533,
+        "Year": 2017,
+        "TransferBalance": 31050
+    },
+    {
+        "TeamID": 533,
+        "Year": 2018,
+        "TransferBalance": -25880
+    },
+    {
+        "TeamID": 533,
+        "Year": 2019,
+        "TransferBalance": 67550
+    },
+    {
+        "TeamID": 533,
+        "Year": 2020,
+        "TransferBalance": 13750
+    },
+    {
+        "TeamID": 533,
+        "Year": 2021,
+        "TransferBalance": 850
+    },
+    {
+        "TeamID": 533,
+        "Year": 2022,
+        "TransferBalance": 53750
+    },
+    {
+        "TeamID": 533,
+        "Year": 2023,
+        "TransferBalance": -6800
+    },
+    {
+        "TeamID": 533,
+        "Year": 2024,
+        "TransferBalance": -44400
+    },
+    {
+        "TeamID": 540,
+        "Year": 2014,
+        "TransferBalance": -550
+    },
+    {
+        "TeamID": 540,
+        "Year": 2015,
+        "TransferBalance": -100
+    },
+    {
+        "TeamID": 540,
+        "Year": 2016,
+        "TransferBalance": 220
+    },
+    {
+        "TeamID": 540,
+        "Year": 2017,
+        "TransferBalance": -2790
+    },
+    {
+        "TeamID": 540,
+        "Year": 2018,
+        "TransferBalance": -250
+    },
+    {
+        "TeamID": 540,
+        "Year": 2019,
+        "TransferBalance": 5220
+    },
+    {
+        "TeamID": 540,
+        "Year": 2020,
+        "TransferBalance": 130
+    },
+    {
+        "TeamID": 540,
+        "Year": 2021,
+        "TransferBalance": 6030
+    },
+    {
+        "TeamID": 540,
+        "Year": 2022,
+        "TransferBalance": 490
+    },
+    {
+        "TeamID": 540,
+        "Year": 2023,
+        "TransferBalance": 50
+    },
+    {
+        "TeamID": 540,
+        "Year": 2024,
+        "TransferBalance": -2700
+    },
+    {
+        "TeamID": 543,
+        "Year": 2014,
+        "TransferBalance": -2020
+    },
+    {
+        "TeamID": 543,
+        "Year": 2015,
+        "TransferBalance": 5730
+    },
+    {
+        "TeamID": 543,
+        "Year": 2016,
+        "TransferBalance": -33110
+    },
+    {
+        "TeamID": 543,
+        "Year": 2017,
+        "TransferBalance": -18290
+    },
+    {
+        "TeamID": 543,
+        "Year": 2018,
+        "TransferBalance": -94200
+    },
+    {
+        "TeamID": 543,
+        "Year": 2019,
+        "TransferBalance": -92600
+    },
+    {
+        "TeamID": 543,
+        "Year": 2020,
+        "TransferBalance": -8390
+    },
+    {
+        "TeamID": 543,
+        "Year": 2021,
+        "TransferBalance": -5800
+    },
+    {
+        "TeamID": 543,
+        "Year": 2022,
+        "TransferBalance": -116640
+    },
+    {
+        "TeamID": 543,
+        "Year": 2023,
+        "TransferBalance": 75200
+    },
+    {
+        "TeamID": 543,
+        "Year": 2024,
+        "TransferBalance": -8210
+    },
+    {
+        "TeamID": 583,
+        "Year": 2014,
+        "TransferBalance": -47300
+    },
+    {
+        "TeamID": 583,
+        "Year": 2015,
+        "TransferBalance": -93200
+    },
+    {
+        "TeamID": 583,
+        "Year": 2016,
+        "TransferBalance": -74700
+    },
+    {
+        "TeamID": 583,
+        "Year": 2017,
+        "TransferBalance": -139600
+    },
+    {
+        "TeamID": 583,
+        "Year": 2018,
+        "TransferBalance": -147250
+    },
+    {
+        "TeamID": 583,
+        "Year": 2019,
+        "TransferBalance": 17400
+    },
+    {
+        "TeamID": 583,
+        "Year": 2020,
+        "TransferBalance": -61600
+    },
+    {
+        "TeamID": 583,
+        "Year": 2021,
+        "TransferBalance": -80000
+    },
+    {
+        "TeamID": 583,
+        "Year": 2022,
+        "TransferBalance": -85200
+    },
+    {
+        "TeamID": 583,
+        "Year": 2023,
+        "TransferBalance": -247000
+    },
+    {
+        "TeamID": 583,
+        "Year": 2024,
+        "TransferBalance": -109820
+    },
+    {
+        "TeamID": 605,
+        "Year": 2014,
+        "TransferBalance": 265
+    },
+    {
+        "TeamID": 605,
+        "Year": 2015,
+        "TransferBalance": -8
+    },
+    {
+        "TeamID": 605,
+        "Year": 2016,
+        "TransferBalance": 85
+    },
+    {
+        "TeamID": 605,
+        "Year": 2017,
+        "TransferBalance": 235
+    },
+    {
+        "TeamID": 605,
+        "Year": 2018,
+        "TransferBalance": 195
+    },
+    {
+        "TeamID": 605,
+        "Year": 2019,
+        "TransferBalance": -290
+    },
+    {
+        "TeamID": 605,
+        "Year": 2020,
+        "TransferBalance": -460
+    },
+    {
+        "TeamID": 605,
+        "Year": 2021,
+        "TransferBalance": -3030
+    },
+    {
+        "TeamID": 605,
+        "Year": 2022,
+        "TransferBalance": 4800
+    },
+    {
+        "TeamID": 605,
+        "Year": 2023,
+        "TransferBalance": 7050
+    },
+    {
+        "TeamID": 605,
+        "Year": 2024,
+        "TransferBalance": -1500
+    },
+    {
+        "TeamID": 610,
+        "Year": 2014,
+        "TransferBalance": 17400
+    },
+    {
+        "TeamID": 610,
+        "Year": 2015,
+        "TransferBalance": -5300
+    },
+    {
+        "TeamID": 610,
+        "Year": 2016,
+        "TransferBalance": 38900
+    },
+    {
+        "TeamID": 610,
+        "Year": 2017,
+        "TransferBalance": 57550
+    },
+    {
+        "TeamID": 610,
+        "Year": 2018,
+        "TransferBalance": -33700
+    },
+    {
+        "TeamID": 610,
+        "Year": 2019,
+        "TransferBalance": 158950
+    },
+    {
+        "TeamID": 610,
+        "Year": 2020,
+        "TransferBalance": 46300
+    },
+    {
+        "TeamID": 610,
+        "Year": 2021,
+        "TransferBalance": 27500
+    },
+    {
+        "TeamID": 610,
+        "Year": 2022,
+        "TransferBalance": 103460
+    },
+    {
+        "TeamID": 610,
+        "Year": 2023,
+        "TransferBalance": 46450
+    },
+    {
+        "TeamID": 610,
+        "Year": 2024,
+        "TransferBalance": 56610
+    },
+    {
+        "TeamID": 618,
+        "Year": 2014,
+        "TransferBalance": -4000
+    },
+    {
+        "TeamID": 618,
+        "Year": 2015,
+        "TransferBalance": 2900
+    },
+    {
+        "TeamID": 618,
+        "Year": 2016,
+        "TransferBalance": -4750
+    },
+    {
+        "TeamID": 618,
+        "Year": 2017,
+        "TransferBalance": -3800
+    },
+    {
+        "TeamID": 618,
+        "Year": 2018,
+        "TransferBalance": 3700
+    },
+    {
+        "TeamID": 618,
+        "Year": 2019,
+        "TransferBalance": 32400
+    },
+    {
+        "TeamID": 618,
+        "Year": 2020,
+        "TransferBalance": 37900
+    },
+    {
+        "TeamID": 618,
+        "Year": 2021,
+        "TransferBalance": -600
+    },
+    {
+        "TeamID": 618,
+        "Year": 2022,
+        "TransferBalance": 12850
+    },
+    {
+        "TeamID": 618,
+        "Year": 2023,
+        "TransferBalance": 10400
+    },
+    {
+        "TeamID": 618,
+        "Year": 2024,
+        "TransferBalance": -8100
+    },
+    {
+        "TeamID": 631,
+        "Year": 2014,
+        "TransferBalance": 5110
+    },
+    {
+        "TeamID": 631,
+        "Year": 2015,
+        "TransferBalance": -9010
+    },
+    {
+        "TeamID": 631,
+        "Year": 2016,
+        "TransferBalance": -23900
+    },
+    {
+        "TeamID": 631,
+        "Year": 2017,
+        "TransferBalance": -65900
+    },
+    {
+        "TeamID": 631,
+        "Year": 2018,
+        "TransferBalance": -125550
+    },
+    {
+        "TeamID": 631,
+        "Year": 2019,
+        "TransferBalance": 118070
+    },
+    {
+        "TeamID": 631,
+        "Year": 2020,
+        "TransferBalance": -190050
+    },
+    {
+        "TeamID": 631,
+        "Year": 2021,
+        "TransferBalance": 37590
+    },
+    {
+        "TeamID": 631,
+        "Year": 2022,
+        "TransferBalance": -562390
+    },
+    {
+        "TeamID": 631,
+        "Year": 2023,
+        "TransferBalance": -185400
+    },
+    {
+        "TeamID": 631,
+        "Year": 2024,
+        "TransferBalance": -47100
+    },
+    {
+        "TeamID": 660,
+        "Year": 2014,
+        "TransferBalance": -7600
+    },
+    {
+        "TeamID": 660,
+        "Year": 2015,
+        "TransferBalance": 102000
+    },
+    {
+        "TeamID": 660,
+        "Year": 2016,
+        "TransferBalance": -300
+    },
+    {
+        "TeamID": 660,
+        "Year": 2017,
+        "TransferBalance": 400
+    },
+    {
+        "TeamID": 660,
+        "Year": 2018,
+        "TransferBalance": 27300
+    },
+    {
+        "TeamID": 660,
+        "Year": 2019,
+        "TransferBalance": -1600
+    },
+    {
+        "TeamID": 660,
+        "Year": 2020,
+        "TransferBalance": 2100
+    },
+    {
+        "TeamID": 660,
+        "Year": 2021,
+        "TransferBalance": -48800
+    },
+    {
+        "TeamID": 660,
+        "Year": 2022,
+        "TransferBalance": 102300
+    },
+    {
+        "TeamID": 660,
+        "Year": 2023,
+        "TransferBalance": -23450
+    },
+    {
+        "TeamID": 660,
+        "Year": 2024,
+        "TransferBalance": -150
+    },
+    {
+        "TeamID": 669,
+        "Year": 2014,
+        "TransferBalance": 4200
+    },
+    {
+        "TeamID": 669,
+        "Year": 2015,
+        "TransferBalance": 4600
+    },
+    {
+        "TeamID": 669,
+        "Year": 2016,
+        "TransferBalance": 2040
+    },
+    {
+        "TeamID": 669,
+        "Year": 2017,
+        "TransferBalance": 11440
+    },
+    {
+        "TeamID": 669,
+        "Year": 2018,
+        "TransferBalance": 6700
+    },
+    {
+        "TeamID": 669,
+        "Year": 2019,
+        "TransferBalance": 11440
+    },
+    {
+        "TeamID": 669,
+        "Year": 2020,
+        "TransferBalance": 18750
+    },
+    {
+        "TeamID": 669,
+        "Year": 2021,
+        "TransferBalance": -650
+    },
+    {
+        "TeamID": 669,
+        "Year": 2022,
+        "TransferBalance": 3100
+    },
+    {
+        "TeamID": 669,
+        "Year": 2023,
+        "TransferBalance": 8490
+    },
+    {
+        "TeamID": 669,
+        "Year": 2024,
+        "TransferBalance": 3730
+    },
+    {
+        "TeamID": 678,
+        "Year": 2014,
+        "TransferBalance": 800
+    },
+    {
+        "TeamID": 678,
+        "Year": 2015,
+        "TransferBalance": -600
+    },
+    {
+        "TeamID": 678,
+        "Year": 2016,
+        "TransferBalance": 120
+    },
+    {
+        "TeamID": 678,
+        "Year": 2017,
+        "TransferBalance": 75
+    },
+    {
+        "TeamID": 678,
+        "Year": 2018,
+        "TransferBalance": 1700
+    },
+    {
+        "TeamID": 678,
+        "Year": 2019,
+        "TransferBalance": 1550
+    },
+    {
+        "TeamID": 678,
+        "Year": 2020,
+        "TransferBalance": 1800
+    },
+    {
+        "TeamID": 678,
+        "Year": 2021,
+        "TransferBalance": -3950
+    },
+    {
+        "TeamID": 678,
+        "Year": 2022,
+        "TransferBalance": 690
+    },
+    {
+        "TeamID": 678,
+        "Year": 2023,
+        "TransferBalance": 12660
+    },
+    {
+        "TeamID": 678,
+        "Year": 2024,
+        "TransferBalance": -4430
+    },
+    {
+        "TeamID": 681,
+        "Year": 2014,
+        "TransferBalance": 33200
+    },
+    {
+        "TeamID": 681,
+        "Year": 2015,
+        "TransferBalance": -25100
+    },
+    {
+        "TeamID": 681,
+        "Year": 2016,
+        "TransferBalance": -10630
+    },
+    {
+        "TeamID": 681,
+        "Year": 2017,
+        "TransferBalance": 27500
+    },
+    {
+        "TeamID": 681,
+        "Year": 2018,
+        "TransferBalance": 20800
+    },
+    {
+        "TeamID": 681,
+        "Year": 2019,
+        "TransferBalance": -22250
+    },
+    {
+        "TeamID": 681,
+        "Year": 2020,
+        "TransferBalance": 18250
+    },
+    {
+        "TeamID": 681,
+        "Year": 2021,
+        "TransferBalance": -1540
+    },
+    {
+        "TeamID": 681,
+        "Year": 2022,
+        "TransferBalance": 25500
+    },
+    {
+        "TeamID": 681,
+        "Year": 2023,
+        "TransferBalance": -2600
+    },
+    {
+        "TeamID": 681,
+        "Year": 2024,
+        "TransferBalance": 24350
+    },
+    {
+        "TeamID": 683,
+        "Year": 2014,
+        "TransferBalance": 2620
+    },
+    {
+        "TeamID": 683,
+        "Year": 2015,
+        "TransferBalance": -15890
+    },
+    {
+        "TeamID": 683,
+        "Year": 2016,
+        "TransferBalance": 40600
+    },
+    {
+        "TeamID": 683,
+        "Year": 2017,
+        "TransferBalance": 3200
+    },
+    {
+        "TeamID": 683,
+        "Year": 2018,
+        "TransferBalance": -5840
+    },
+    {
+        "TeamID": 683,
+        "Year": 2019,
+        "TransferBalance": 10690
+    },
+    {
+        "TeamID": 683,
+        "Year": 2020,
+        "TransferBalance": 12900
+    },
+    {
+        "TeamID": 683,
+        "Year": 2021,
+        "TransferBalance": 3480
+    },
+    {
+        "TeamID": 683,
+        "Year": 2022,
+        "TransferBalance": -9650
+    },
+    {
+        "TeamID": 683,
+        "Year": 2023,
+        "TransferBalance": 3970
+    },
+    {
+        "TeamID": 683,
+        "Year": 2024,
+        "TransferBalance": -7310
+    },
+    {
+        "TeamID": 687,
+        "Year": 2014,
+        "TransferBalance": 1450
+    },
+    {
+        "TeamID": 687,
+        "Year": 2015,
+        "TransferBalance": 3000
+    },
+    {
+        "TeamID": 687,
+        "Year": 2016,
+        "TransferBalance": 4400
+    },
+    {
+        "TeamID": 687,
+        "Year": 2017,
+        "TransferBalance": 2490
+    },
+    {
+        "TeamID": 687,
+        "Year": 2018,
+        "TransferBalance": 5510
+    },
+    {
+        "TeamID": 687,
+        "Year": 2019,
+        "TransferBalance": -1370
+    },
+    {
+        "TeamID": 687,
+        "Year": 2020,
+        "TransferBalance": 995
+    },
+    {
+        "TeamID": 687,
+        "Year": 2021,
+        "TransferBalance": 1650
+    },
+    {
+        "TeamID": 687,
+        "Year": 2022,
+        "TransferBalance": 6230
+    },
+    {
+        "TeamID": 687,
+        "Year": 2023,
+        "TransferBalance": 1600
+    },
+    {
+        "TeamID": 687,
+        "Year": 2024,
+        "TransferBalance": 3110
+    },
+    {
+        "TeamID": 713,
+        "Year": 2014,
+        "TransferBalance": 965
+    },
+    {
+        "TeamID": 713,
+        "Year": 2015,
+        "TransferBalance": 700
+    },
+    {
+        "TeamID": 713,
+        "Year": 2016,
+        "TransferBalance": 93
+    },
+    {
+        "TeamID": 713,
+        "Year": 2017,
+        "TransferBalance": 100
+    },
+    {
+        "TeamID": 713,
+        "Year": 2018,
+        "TransferBalance": 675
+    },
+    {
+        "TeamID": 713,
+        "Year": 2019,
+        "TransferBalance": -300
+    },
+    {
+        "TeamID": 713,
+        "Year": 2020,
+        "TransferBalance": 283
+    },
+    {
+        "TeamID": 713,
+        "Year": 2021,
+        "TransferBalance": 320
+    },
+    {
+        "TeamID": 713,
+        "Year": 2022,
+        "TransferBalance": 750
+    },
+    {
+        "TeamID": 713,
+        "Year": 2023,
+        "TransferBalance": 1030
+    },
+    {
+        "TeamID": 713,
+        "Year": 2024,
+        "TransferBalance": 250
+    },
+    {
+        "TeamID": 714,
+        "Year": 2014,
+        "TransferBalance": 8500
+    },
+    {
+        "TeamID": 714,
+        "Year": 2015,
+        "TransferBalance": 10750
+    },
+    {
+        "TeamID": 714,
+        "Year": 2016,
+        "TransferBalance": -12400
+    },
+    {
+        "TeamID": 714,
+        "Year": 2017,
+        "TransferBalance": -6550
+    },
+    {
+        "TeamID": 714,
+        "Year": 2018,
+        "TransferBalance": 8700
+    },
+    {
+        "TeamID": 714,
+        "Year": 2019,
+        "TransferBalance": -500
+    },
+    {
+        "TeamID": 714,
+        "Year": 2020,
+        "TransferBalance": 6940
+    },
+    {
+        "TeamID": 714,
+        "Year": 2021,
+        "TransferBalance": -6000
+    },
+    {
+        "TeamID": 714,
+        "Year": 2022,
+        "TransferBalance": -2800
+    },
+    {
+        "TeamID": 714,
+        "Year": 2023,
+        "TransferBalance": 29600
+    },
+    {
+        "TeamID": 714,
+        "Year": 2024,
+        "TransferBalance": 1100
+    },
+    {
+        "TeamID": 720,
+        "Year": 2014,
+        "TransferBalance": 42710
+    },
+    {
+        "TeamID": 720,
+        "Year": 2015,
+        "TransferBalance": 96150
+    },
+    {
+        "TeamID": 720,
+        "Year": 2016,
+        "TransferBalance": -25590
+    },
+    {
+        "TeamID": 720,
+        "Year": 2017,
+        "TransferBalance": 48950
+    },
+    {
+        "TeamID": 720,
+        "Year": 2018,
+        "TransferBalance": 32490
+    },
+    {
+        "TeamID": 720,
+        "Year": 2019,
+        "TransferBalance": 24760
+    },
+    {
+        "TeamID": 720,
+        "Year": 2020,
+        "TransferBalance": 50180
+    },
+    {
+        "TeamID": 720,
+        "Year": 2021,
+        "TransferBalance": 42080
+    },
+    {
+        "TeamID": 720,
+        "Year": 2022,
+        "TransferBalance": 34170
+    },
+    {
+        "TeamID": 720,
+        "Year": 2023,
+        "TransferBalance": 30190
+    },
+    {
+        "TeamID": 720,
+        "Year": 2024,
+        "TransferBalance": 116740
+    },
+    {
+        "TeamID": 762,
+        "Year": 2014,
+        "TransferBalance": -21150
+    },
+    {
+        "TeamID": 762,
+        "Year": 2015,
+        "TransferBalance": -102480
+    },
+    {
+        "TeamID": 762,
+        "Year": 2016,
+        "TransferBalance": 36630
+    },
+    {
+        "TeamID": 762,
+        "Year": 2017,
+        "TransferBalance": -25280
+    },
+    {
+        "TeamID": 762,
+        "Year": 2018,
+        "TransferBalance": -8700
+    },
+    {
+        "TeamID": 762,
+        "Year": 2019,
+        "TransferBalance": -36760
+    },
+    {
+        "TeamID": 762,
+        "Year": 2020,
+        "TransferBalance": -37970
+    },
+    {
+        "TeamID": 762,
+        "Year": 2021,
+        "TransferBalance": -130500
+    },
+    {
+        "TeamID": 762,
+        "Year": 2022,
+        "TransferBalance": -170940
+    },
+    {
+        "TeamID": 762,
+        "Year": 2023,
+        "TransferBalance": -103500
+    },
+    {
+        "TeamID": 762,
+        "Year": 2024,
+        "TransferBalance": 21350
+    },
+    {
+        "TeamID": 800,
+        "Year": 2014,
+        "TransferBalance": 8910
+    },
+    {
+        "TeamID": 800,
+        "Year": 2015,
+        "TransferBalance": 11270
+    },
+    {
+        "TeamID": 800,
+        "Year": 2016,
+        "TransferBalance": 25390
+    },
+    {
+        "TeamID": 800,
+        "Year": 2017,
+        "TransferBalance": 11450
+    },
+    {
+        "TeamID": 800,
+        "Year": 2018,
+        "TransferBalance": -35740
+    },
+    {
+        "TeamID": 800,
+        "Year": 2019,
+        "TransferBalance": 49040
+    },
+    {
+        "TeamID": 800,
+        "Year": 2020,
+        "TransferBalance": 15870
+    },
+    {
+        "TeamID": 800,
+        "Year": 2021,
+        "TransferBalance": -14290
+    },
+    {
+        "TeamID": 800,
+        "Year": 2022,
+        "TransferBalance": 29400
+    },
+    {
+        "TeamID": 800,
+        "Year": 2023,
+        "TransferBalance": 74370
+    },
+    {
+        "TeamID": 800,
+        "Year": 2024,
+        "TransferBalance": 11450
+    },
+    {
+        "TeamID": 801,
+        "Year": 2014,
+        "TransferBalance": 1600
+    },
+    {
+        "TeamID": 801,
+        "Year": 2015,
+        "TransferBalance": 1850
+    },
+    {
+        "TeamID": 801,
+        "Year": 2016,
+        "TransferBalance": 3330
+    },
+    {
+        "TeamID": 801,
+        "Year": 2017,
+        "TransferBalance": 3830
+    },
+    {
+        "TeamID": 801,
+        "Year": 2018,
+        "TransferBalance": 250
+    },
+    {
+        "TeamID": 801,
+        "Year": 2019,
+        "TransferBalance": 4960
+    },
+    {
+        "TeamID": 801,
+        "Year": 2020,
+        "TransferBalance": 1310
+    },
+    {
+        "TeamID": 801,
+        "Year": 2021,
+        "TransferBalance": 3250
+    },
+    {
+        "TeamID": 801,
+        "Year": 2022,
+        "TransferBalance": 515
+    },
+    {
+        "TeamID": 801,
+        "Year": 2023,
+        "TransferBalance": 1270
+    },
+    {
+        "TeamID": 801,
+        "Year": 2024,
+        "TransferBalance": 9550
+    },
+    {
+        "TeamID": 826,
+        "Year": 2014,
+        "TransferBalance": 3000
+    },
+    {
+        "TeamID": 826,
+        "Year": 2015,
+        "TransferBalance": 4250
+    },
+    {
+        "TeamID": 826,
+        "Year": 2016,
+        "TransferBalance": 10550
+    },
+    {
+        "TeamID": 826,
+        "Year": 2017,
+        "TransferBalance": 725
+    },
+    {
+        "TeamID": 826,
+        "Year": 2018,
+        "TransferBalance": 5900
+    },
+    {
+        "TeamID": 826,
+        "Year": 2019,
+        "TransferBalance": 15770
+    },
+    {
+        "TeamID": 826,
+        "Year": 2020,
+        "TransferBalance": -19000
+    },
+    {
+        "TeamID": 826,
+        "Year": 2021,
+        "TransferBalance": -2600
+    },
+    {
+        "TeamID": 826,
+        "Year": 2022,
+        "TransferBalance": 7610
+    },
+    {
+        "TeamID": 826,
+        "Year": 2023,
+        "TransferBalance": 4790
+    },
+    {
+        "TeamID": 826,
+        "Year": 2024,
+        "TransferBalance": 73200
+    },
+    {
+        "TeamID": 865,
+        "Year": 2014,
+        "TransferBalance": -2400
+    },
+    {
+        "TeamID": 865,
+        "Year": 2015,
+        "TransferBalance": -210
+    },
+    {
+        "TeamID": 865,
+        "Year": 2016,
+        "TransferBalance": 10300
+    },
+    {
+        "TeamID": 865,
+        "Year": 2017,
+        "TransferBalance": 21650
+    },
+    {
+        "TeamID": 865,
+        "Year": 2018,
+        "TransferBalance": 11640
+    },
+    {
+        "TeamID": 865,
+        "Year": 2019,
+        "TransferBalance": 833
+    },
+    {
+        "TeamID": 865,
+        "Year": 2020,
+        "TransferBalance": -1230
+    },
+    {
+        "TeamID": 865,
+        "Year": 2021,
+        "TransferBalance": 24240
+    },
+    {
+        "TeamID": 865,
+        "Year": 2022,
+        "TransferBalance": 25990
+    },
+    {
+        "TeamID": 865,
+        "Year": 2023,
+        "TransferBalance": -3250
+    },
+    {
+        "TeamID": 865,
+        "Year": 2024,
+        "TransferBalance": -4950
+    },
+    {
+        "TeamID": 932,
+        "Year": 2014,
+        "TransferBalance": -10240
+    },
+    {
+        "TeamID": 932,
+        "Year": 2015,
+        "TransferBalance": 14400
+    },
+    {
+        "TeamID": 932,
+        "Year": 2016,
+        "TransferBalance": -3050
+    },
+    {
+        "TeamID": 932,
+        "Year": 2017,
+        "TransferBalance": -3550
+    },
+    {
+        "TeamID": 932,
+        "Year": 2018,
+        "TransferBalance": -17600
+    },
+    {
+        "TeamID": 932,
+        "Year": 2019,
+        "TransferBalance": -18550
+    },
+    {
+        "TeamID": 932,
+        "Year": 2020,
+        "TransferBalance": -2170
+    },
+    {
+        "TeamID": 932,
+        "Year": 2021,
+        "TransferBalance": -32690
+    },
+    {
+        "TeamID": 932,
+        "Year": 2022,
+        "TransferBalance": -5500
+    },
+    {
+        "TeamID": 932,
+        "Year": 2023,
+        "TransferBalance": 280
+    },
+    {
+        "TeamID": 932,
+        "Year": 2024,
+        "TransferBalance": 7520
+    },
+    {
+        "TeamID": 940,
+        "Year": 2014,
+        "TransferBalance": -2400
+    },
+    {
+        "TeamID": 940,
+        "Year": 2015,
+        "TransferBalance": 2200
+    },
+    {
+        "TeamID": 940,
+        "Year": 2016,
+        "TransferBalance": 11400
+    },
+    {
+        "TeamID": 940,
+        "Year": 2017,
+        "TransferBalance": -13600
+    },
+    {
+        "TeamID": 940,
+        "Year": 2018,
+        "TransferBalance": 5700
+    },
+    {
+        "TeamID": 940,
+        "Year": 2019,
+        "TransferBalance": 18050
+    },
+    {
+        "TeamID": 940,
+        "Year": 2020,
+        "TransferBalance": -500
+    },
+    {
+        "TeamID": 940,
+        "Year": 2021,
+        "TransferBalance": -8220
+    },
+    {
+        "TeamID": 940,
+        "Year": 2022,
+        "TransferBalance": -5890
+    },
+    {
+        "TeamID": 940,
+        "Year": 2023,
+        "TransferBalance": 15000
+    },
+    {
+        "TeamID": 940,
+        "Year": 2024,
+        "TransferBalance": 12500
+    },
+    {
+        "TeamID": 964,
+        "Year": 2014,
+        "TransferBalance": -13800
+    },
+    {
+        "TeamID": 964,
+        "Year": 2015,
+        "TransferBalance": 13010
+    },
+    {
+        "TeamID": 964,
+        "Year": 2016,
+        "TransferBalance": 78300
+    },
+    {
+        "TeamID": 964,
+        "Year": 2017,
+        "TransferBalance": -78280
+    },
+    {
+        "TeamID": 964,
+        "Year": 2018,
+        "TransferBalance": 4000
+    },
+    {
+        "TeamID": 964,
+        "Year": 2019,
+        "TransferBalance": -50750
+    },
+    {
+        "TeamID": 964,
+        "Year": 2020,
+        "TransferBalance": -24740
+    },
+    {
+        "TeamID": 964,
+        "Year": 2021,
+        "TransferBalance": -38800
+    },
+    {
+        "TeamID": 964,
+        "Year": 2022,
+        "TransferBalance": -7170
+    },
+    {
+        "TeamID": 964,
+        "Year": 2023,
+        "TransferBalance": 16270
+    },
+    {
+        "TeamID": 964,
+        "Year": 2024,
+        "TransferBalance": -32110
+    },
+    {
+        "TeamID": 985,
+        "Year": 2014,
+        "TransferBalance": -148650
+    },
+    {
+        "TeamID": 985,
+        "Year": 2015,
+        "TransferBalance": -55330
+    },
+    {
+        "TeamID": 985,
+        "Year": 2016,
+        "TransferBalance": -137750
+    },
+    {
+        "TeamID": 985,
+        "Year": 2017,
+        "TransferBalance": -152900
+    },
+    {
+        "TeamID": 985,
+        "Year": 2018,
+        "TransferBalance": -52150
+    },
+    {
+        "TeamID": 985,
+        "Year": 2019,
+        "TransferBalance": -155620
+    },
+    {
+        "TeamID": 985,
+        "Year": 2020,
+        "TransferBalance": -64450
+    },
+    {
+        "TeamID": 985,
+        "Year": 2021,
+        "TransferBalance": -110900
+    },
+    {
+        "TeamID": 985,
+        "Year": 2022,
+        "TransferBalance": -219630
+    },
+    {
+        "TeamID": 985,
+        "Year": 2023,
+        "TransferBalance": -144960
+    },
+    {
+        "TeamID": 985,
+        "Year": 2024,
+        "TransferBalance": -143300
+    },
+    {
+        "TeamID": 995,
+        "Year": 2014,
+        "TransferBalance": -420
+    },
+    {
+        "TeamID": 995,
+        "Year": 2015,
+        "TransferBalance": 10550
+    },
+    {
+        "TeamID": 995,
+        "Year": 2016,
+        "TransferBalance": -2360
+    },
+    {
+        "TeamID": 995,
+        "Year": 2017,
+        "TransferBalance": -1300
+    },
+    {
+        "TeamID": 995,
+        "Year": 2018,
+        "TransferBalance": 7850
+    },
+    {
+        "TeamID": 995,
+        "Year": 2019,
+        "TransferBalance": 19750
+    },
+    {
+        "TeamID": 995,
+        "Year": 2020,
+        "TransferBalance": -3000
+    },
+    {
+        "TeamID": 995,
+        "Year": 2021,
+        "TransferBalance": 8300
+    },
+    {
+        "TeamID": 995,
+        "Year": 2022,
+        "TransferBalance": -12450
+    },
+    {
+        "TeamID": 995,
+        "Year": 2023,
+        "TransferBalance": 10850
+    },
+    {
+        "TeamID": 995,
+        "Year": 2024,
+        "TransferBalance": 1050
+    },
+    {
+        "TeamID": 1003,
+        "Year": 2014,
+        "TransferBalance": -22860
+    },
+    {
+        "TeamID": 1003,
+        "Year": 2015,
+        "TransferBalance": -40450
+    },
+    {
+        "TeamID": 1003,
+        "Year": 2016,
+        "TransferBalance": -26050
+    },
+    {
+        "TeamID": 1003,
+        "Year": 2017,
+        "TransferBalance": -33750
+    },
+    {
+        "TeamID": 1003,
+        "Year": 2018,
+        "TransferBalance": -18800
+    },
+    {
+        "TeamID": 1003,
+        "Year": 2019,
+        "TransferBalance": -15800
+    },
+    {
+        "TeamID": 1003,
+        "Year": 2020,
+        "TransferBalance": -5630
+    },
+    {
+        "TeamID": 1003,
+        "Year": 2021,
+        "TransferBalance": -63600
+    },
+    {
+        "TeamID": 1003,
+        "Year": 2022,
+        "TransferBalance": 32400
+    },
+    {
+        "TeamID": 1003,
+        "Year": 2023,
+        "TransferBalance": 60500
+    },
+    {
+        "TeamID": 1003,
+        "Year": 2024,
+        "TransferBalance": -41800
+    },
+    {
+        "TeamID": 1025,
+        "Year": 2014,
+        "TransferBalance": 6660
+    },
+    {
+        "TeamID": 1025,
+        "Year": 2015,
+        "TransferBalance": -25830
+    },
+    {
+        "TeamID": 1025,
+        "Year": 2016,
+        "TransferBalance": -14420
+    },
+    {
+        "TeamID": 1025,
+        "Year": 2017,
+        "TransferBalance": -13000
+    },
+    {
+        "TeamID": 1025,
+        "Year": 2018,
+        "TransferBalance": 13780
+    },
+    {
+        "TeamID": 1025,
+        "Year": 2019,
+        "TransferBalance": -40860
+    },
+    {
+        "TeamID": 1025,
+        "Year": 2020,
+        "TransferBalance": 1850
+    },
+    {
+        "TeamID": 1025,
+        "Year": 2021,
+        "TransferBalance": -7310
+    },
+    {
+        "TeamID": 1025,
+        "Year": 2022,
+        "TransferBalance": -9550
+    },
+    {
+        "TeamID": 1025,
+        "Year": 2023,
+        "TransferBalance": -63260
+    },
+    {
+        "TeamID": 1025,
+        "Year": 2024,
+        "TransferBalance": 51670
+    },
+    {
+        "TeamID": 1041,
+        "Year": 2014,
+        "TransferBalance": -4150
+    },
+    {
+        "TeamID": 1041,
+        "Year": 2015,
+        "TransferBalance": -14300
+    },
+    {
+        "TeamID": 1041,
+        "Year": 2016,
+        "TransferBalance": -1300
+    },
+    {
+        "TeamID": 1041,
+        "Year": 2017,
+        "TransferBalance": 57000
+    },
+    {
+        "TeamID": 1041,
+        "Year": 2018,
+        "TransferBalance": 43650
+    },
+    {
+        "TeamID": 1041,
+        "Year": 2019,
+        "TransferBalance": 34320
+    },
+    {
+        "TeamID": 1041,
+        "Year": 2020,
+        "TransferBalance": 14000
+    },
+    {
+        "TeamID": 1041,
+        "Year": 2021,
+        "TransferBalance": 72680
+    },
+    {
+        "TeamID": 1041,
+        "Year": 2022,
+        "TransferBalance": 47400
+    },
+    {
+        "TeamID": 1041,
+        "Year": 2023,
+        "TransferBalance": 27490
+    },
+    {
+        "TeamID": 1041,
+        "Year": 2024,
+        "TransferBalance": -79740
+    },
+    {
+        "TeamID": 1044,
+        "Year": 2014,
+        "TransferBalance": 4080
+    },
+    {
+        "TeamID": 1044,
+        "Year": 2015,
+        "TransferBalance": 1100
+    },
+    {
+        "TeamID": 1044,
+        "Year": 2016,
+        "TransferBalance": 8740
+    },
+    {
+        "TeamID": 1044,
+        "Year": 2017,
+        "TransferBalance": 1800
+    },
+    {
+        "TeamID": 1044,
+        "Year": 2018,
+        "TransferBalance": 5170
+    },
+    {
+        "TeamID": 1044,
+        "Year": 2019,
+        "TransferBalance": 5100
+    },
+    {
+        "TeamID": 1044,
+        "Year": 2020,
+        "TransferBalance": -95
+    },
+    {
+        "TeamID": 1044,
+        "Year": 2021,
+        "TransferBalance": 3450
+    },
+    {
+        "TeamID": 1044,
+        "Year": 2022,
+        "TransferBalance": 5530
+    },
+    {
+        "TeamID": 1044,
+        "Year": 2023,
+        "TransferBalance": 303
+    },
+    {
+        "TeamID": 1044,
+        "Year": 2024,
+        "TransferBalance": 11550
+    },
+    {
+        "TeamID": 1049,
+        "Year": 2014,
+        "TransferBalance": 400
+    },
+    {
+        "TeamID": 1049,
+        "Year": 2015,
+        "TransferBalance": -93900
+    },
+    {
+        "TeamID": 1049,
+        "Year": 2016,
+        "TransferBalance": 85900
+    },
+    {
+        "TeamID": 1049,
+        "Year": 2017,
+        "TransferBalance": -38450
+    },
+    {
+        "TeamID": 1049,
+        "Year": 2018,
+        "TransferBalance": -60400
+    },
+    {
+        "TeamID": 1049,
+        "Year": 2019,
+        "TransferBalance": -18700
+    },
+    {
+        "TeamID": 1049,
+        "Year": 2020,
+        "TransferBalance": 88800
+    },
+    {
+        "TeamID": 1049,
+        "Year": 2021,
+        "TransferBalance": -13650
+    },
+    {
+        "TeamID": 1049,
+        "Year": 2022,
+        "TransferBalance": 42100
+    },
+    {
+        "TeamID": 1049,
+        "Year": 2023,
+        "TransferBalance": 18200
+    },
+    {
+        "TeamID": 1049,
+        "Year": 2024,
+        "TransferBalance": 28650
+    },
+    {
+        "TeamID": 1050,
+        "Year": 2014,
+        "TransferBalance": 3800
+    },
+    {
+        "TeamID": 1050,
+        "Year": 2015,
+        "TransferBalance": -9640
+    },
+    {
+        "TeamID": 1050,
+        "Year": 2016,
+        "TransferBalance": 11300
+    },
+    {
+        "TeamID": 1050,
+        "Year": 2017,
+        "TransferBalance": 21900
+    },
+    {
+        "TeamID": 1050,
+        "Year": 2018,
+        "TransferBalance": -38100
+    },
+    {
+        "TeamID": 1050,
+        "Year": 2019,
+        "TransferBalance": 25500
+    },
+    {
+        "TeamID": 1050,
+        "Year": 2020,
+        "TransferBalance": -11190
+    },
+    {
+        "TeamID": 1050,
+        "Year": 2021,
+        "TransferBalance": -44160
+    },
+    {
+        "TeamID": 1050,
+        "Year": 2022,
+        "TransferBalance": 25120
+    },
+    {
+        "TeamID": 1050,
+        "Year": 2023,
+        "TransferBalance": 100500
+    },
+    {
+        "TeamID": 1050,
+        "Year": 2024,
+        "TransferBalance": 11500
+    },
+    {
+        "TeamID": 1064,
+        "Year": 2014,
+        "TransferBalance": 545
+    },
+    {
+        "TeamID": 1064,
+        "Year": 2015,
+        "TransferBalance": -220
+    },
+    {
+        "TeamID": 1064,
+        "Year": 2016,
+        "TransferBalance": -2860
+    },
+    {
+        "TeamID": 1064,
+        "Year": 2017,
+        "TransferBalance": -140
+    },
+    {
+        "TeamID": 1064,
+        "Year": 2018,
+        "TransferBalance": -1020
+    },
+    {
+        "TeamID": 1064,
+        "Year": 2019,
+        "TransferBalance": -920
+    },
+    {
+        "TeamID": 1064,
+        "Year": 2020,
+        "TransferBalance": 830
+    },
+    {
+        "TeamID": 1064,
+        "Year": 2021,
+        "TransferBalance": -4370
+    },
+    {
+        "TeamID": 1064,
+        "Year": 2022,
+        "TransferBalance": -1120
+    },
+    {
+        "TeamID": 1064,
+        "Year": 2023,
+        "TransferBalance": -1180
+    },
+    {
+        "TeamID": 1064,
+        "Year": 2024,
+        "TransferBalance": 6540
+    },
+    {
+        "TeamID": 1075,
+        "Year": 2014,
+        "TransferBalance": -17850
+    },
+    {
+        "TeamID": 1075,
+        "Year": 2015,
+        "TransferBalance": 24130
+    },
+    {
+        "TeamID": 1075,
+        "Year": 2016,
+        "TransferBalance": 28210
+    },
+    {
+        "TeamID": 1075,
+        "Year": 2017,
+        "TransferBalance": 35600
+    },
+    {
+        "TeamID": 1075,
+        "Year": 2018,
+        "TransferBalance": 12540
+    },
+    {
+        "TeamID": 1075,
+        "Year": 2019,
+        "TransferBalance": 22710
+    },
+    {
+        "TeamID": 1075,
+        "Year": 2020,
+        "TransferBalance": 38870
+    },
+    {
+        "TeamID": 1075,
+        "Year": 2021,
+        "TransferBalance": 27510
+    },
+    {
+        "TeamID": 1075,
+        "Year": 2022,
+        "TransferBalance": 47310
+    },
+    {
+        "TeamID": 1075,
+        "Year": 2023,
+        "TransferBalance": -6910
+    },
+    {
+        "TeamID": 1075,
+        "Year": 2024,
+        "TransferBalance": 39070
+    },
+    {
+        "TeamID": 1082,
+        "Year": 2014,
+        "TransferBalance": 11930
+    },
+    {
+        "TeamID": 1082,
+        "Year": 2015,
+        "TransferBalance": 22350
+    },
+    {
+        "TeamID": 1082,
+        "Year": 2016,
+        "TransferBalance": 26300
+    },
+    {
+        "TeamID": 1082,
+        "Year": 2017,
+        "TransferBalance": -45400
+    },
+    {
+        "TeamID": 1082,
+        "Year": 2018,
+        "TransferBalance": 40600
+    },
+    {
+        "TeamID": 1082,
+        "Year": 2019,
+        "TransferBalance": 71600
+    },
+    {
+        "TeamID": 1082,
+        "Year": 2020,
+        "TransferBalance": 66250
+    },
+    {
+        "TeamID": 1082,
+        "Year": 2021,
+        "TransferBalance": 52480
+    },
+    {
+        "TeamID": 1082,
+        "Year": 2022,
+        "TransferBalance": 81270
+    },
+    {
+        "TeamID": 1082,
+        "Year": 2023,
+        "TransferBalance": 3650
+    },
+    {
+        "TeamID": 1082,
+        "Year": 2024,
+        "TransferBalance": 39000
+    },
+    {
+        "TeamID": 1083,
+        "Year": 2014,
+        "TransferBalance": -1000
+    },
+    {
+        "TeamID": 1083,
+        "Year": 2015,
+        "TransferBalance": -3800
+    },
+    {
+        "TeamID": 1083,
+        "Year": 2016,
+        "TransferBalance": 1920
+    },
+    {
+        "TeamID": 1083,
+        "Year": 2017,
+        "TransferBalance": 7150
+    },
+    {
+        "TeamID": 1083,
+        "Year": 2018,
+        "TransferBalance": 2440
+    },
+    {
+        "TeamID": 1083,
+        "Year": 2019,
+        "TransferBalance": 3050
+    },
+    {
+        "TeamID": 1083,
+        "Year": 2020,
+        "TransferBalance": 10030
+    },
+    {
+        "TeamID": 1083,
+        "Year": 2021,
+        "TransferBalance": -1520
+    },
+    {
+        "TeamID": 1083,
+        "Year": 2022,
+        "TransferBalance": -3850
+    },
+    {
+        "TeamID": 1083,
+        "Year": 2023,
+        "TransferBalance": 30
+    },
+    {
+        "TeamID": 1083,
+        "Year": 2024,
+        "TransferBalance": 670
+    },
+    {
+        "TeamID": 1090,
+        "Year": 2014,
+        "TransferBalance": 2000
+    },
+    {
+        "TeamID": 1090,
+        "Year": 2015,
+        "TransferBalance": 15100
+    },
+    {
+        "TeamID": 1090,
+        "Year": 2016,
+        "TransferBalance": 21250
+    },
+    {
+        "TeamID": 1090,
+        "Year": 2017,
+        "TransferBalance": 6300
+    },
+    {
+        "TeamID": 1090,
+        "Year": 2018,
+        "TransferBalance": 26930
+    },
+    {
+        "TeamID": 1090,
+        "Year": 2019,
+        "TransferBalance": 12800
+    },
+    {
+        "TeamID": 1090,
+        "Year": 2020,
+        "TransferBalance": 10250
+    },
+    {
+        "TeamID": 1090,
+        "Year": 2021,
+        "TransferBalance": 39850
+    },
+    {
+        "TeamID": 1090,
+        "Year": 2022,
+        "TransferBalance": 8810
+    },
+    {
+        "TeamID": 1090,
+        "Year": 2023,
+        "TransferBalance": 47560
+    },
+    {
+        "TeamID": 1090,
+        "Year": 2024,
+        "TransferBalance": 27500
+    },
+    {
+        "TeamID": 1091,
+        "Year": 2014,
+        "TransferBalance": 1000
+    },
+    {
+        "TeamID": 1091,
+        "Year": 2015,
+        "TransferBalance": -3920
+    },
+    {
+        "TeamID": 1091,
+        "Year": 2016,
+        "TransferBalance": 4650
+    },
+    {
+        "TeamID": 1091,
+        "Year": 2017,
+        "TransferBalance": -4450
+    },
+    {
+        "TeamID": 1091,
+        "Year": 2018,
+        "TransferBalance": -650
+    },
+    {
+        "TeamID": 1091,
+        "Year": 2019,
+        "TransferBalance": -3800
+    },
+    {
+        "TeamID": 1091,
+        "Year": 2020,
+        "TransferBalance": 4970
+    },
+    {
+        "TeamID": 1091,
+        "Year": 2021,
+        "TransferBalance": 21500
+    },
+    {
+        "TeamID": 1091,
+        "Year": 2022,
+        "TransferBalance": -620
+    },
+    {
+        "TeamID": 1091,
+        "Year": 2023,
+        "TransferBalance": 7050
+    },
+    {
+        "TeamID": 1091,
+        "Year": 2024,
+        "TransferBalance": 23850
+    },
+    {
+        "TeamID": 1109,
+        "Year": 2014,
+        "TransferBalance": 350
+    },
+    {
+        "TeamID": 1109,
+        "Year": 2015,
+        "TransferBalance": 1870
+    },
+    {
+        "TeamID": 1109,
+        "Year": 2016,
+        "TransferBalance": 1870
+    },
+    {
+        "TeamID": 1109,
+        "Year": 2017,
+        "TransferBalance": 900
+    },
+    {
+        "TeamID": 1109,
+        "Year": 2018,
+        "TransferBalance": 800
+    },
+    {
+        "TeamID": 1109,
+        "Year": 2019,
+        "TransferBalance": 1150
+    },
+    {
+        "TeamID": 1109,
+        "Year": 2020,
+        "TransferBalance": 1100
+    },
+    {
+        "TeamID": 1109,
+        "Year": 2021,
+        "TransferBalance": 4050
+    },
+    {
+        "TeamID": 1109,
+        "Year": 2022,
+        "TransferBalance": 1370
+    },
+    {
+        "TeamID": 1109,
+        "Year": 2023,
+        "TransferBalance": 14860
+    },
+    {
+        "TeamID": 1109,
+        "Year": 2024,
+        "TransferBalance": 70
+    },
+    {
+        "TeamID": 1132,
+        "Year": 2014,
+        "TransferBalance": -12620
+    },
+    {
+        "TeamID": 1132,
+        "Year": 2015,
+        "TransferBalance": -5010
+    },
+    {
+        "TeamID": 1132,
+        "Year": 2016,
+        "TransferBalance": -44400
+    },
+    {
+        "TeamID": 1132,
+        "Year": 2017,
+        "TransferBalance": 14260
+    },
+    {
+        "TeamID": 1132,
+        "Year": 2018,
+        "TransferBalance": -25000
+    },
+    {
+        "TeamID": 1132,
+        "Year": 2019,
+        "TransferBalance": -10300
+    },
+    {
+        "TeamID": 1132,
+        "Year": 2020,
+        "TransferBalance": 1200
+    },
+    {
+        "TeamID": 1132,
+        "Year": 2021,
+        "TransferBalance": -8900
+    },
+    {
+        "TeamID": 1132,
+        "Year": 2022,
+        "TransferBalance": 33410
+    },
+    {
+        "TeamID": 1132,
+        "Year": 2023,
+        "TransferBalance": -107250
+    },
+    {
+        "TeamID": 1132,
+        "Year": 2024,
+        "TransferBalance": 53320
+    },
+    {
+        "TeamID": 1184,
+        "Year": 2014,
+        "TransferBalance": 1170
+    },
+    {
+        "TeamID": 1184,
+        "Year": 2015,
+        "TransferBalance": 9450
+    },
+    {
+        "TeamID": 1184,
+        "Year": 2016,
+        "TransferBalance": 31700
+    },
+    {
+        "TeamID": 1184,
+        "Year": 2017,
+        "TransferBalance": -6350
+    },
+    {
+        "TeamID": 1184,
+        "Year": 2018,
+        "TransferBalance": 1090
+    },
+    {
+        "TeamID": 1184,
+        "Year": 2019,
+        "TransferBalance": 39210
+    },
+    {
+        "TeamID": 1184,
+        "Year": 2020,
+        "TransferBalance": -5140
+    },
+    {
+        "TeamID": 1184,
+        "Year": 2021,
+        "TransferBalance": -3700
+    },
+    {
+        "TeamID": 1184,
+        "Year": 2022,
+        "TransferBalance": 37370
+    },
+    {
+        "TeamID": 1184,
+        "Year": 2023,
+        "TransferBalance": 4050
+    },
+    {
+        "TeamID": 1184,
+        "Year": 2024,
+        "TransferBalance": 78300
+    },
+    {
+        "TeamID": 1237,
+        "Year": 2014,
+        "TransferBalance": 9420
+    },
+    {
+        "TeamID": 1237,
+        "Year": 2015,
+        "TransferBalance": -13470
+    },
+    {
+        "TeamID": 1237,
+        "Year": 2016,
+        "TransferBalance": -8750
+    },
+    {
+        "TeamID": 1237,
+        "Year": 2017,
+        "TransferBalance": -69600
+    },
+    {
+        "TeamID": 1237,
+        "Year": 2018,
+        "TransferBalance": -77000
+    },
+    {
+        "TeamID": 1237,
+        "Year": 2019,
+        "TransferBalance": -53240
+    },
+    {
+        "TeamID": 1237,
+        "Year": 2020,
+        "TransferBalance": -29500
+    },
+    {
+        "TeamID": 1237,
+        "Year": 2021,
+        "TransferBalance": 3800
+    },
+    {
+        "TeamID": 1237,
+        "Year": 2022,
+        "TransferBalance": 82700
+    },
+    {
+        "TeamID": 1237,
+        "Year": 2023,
+        "TransferBalance": 82150
+    },
+    {
+        "TeamID": 1237,
+        "Year": 2024,
+        "TransferBalance": -229960
+    },
+    {
+        "TeamID": 1421,
+        "Year": 2014,
+        "TransferBalance": 5500
+    },
+    {
+        "TeamID": 1421,
+        "Year": 2015,
+        "TransferBalance": -900
+    },
+    {
+        "TeamID": 1421,
+        "Year": 2016,
+        "TransferBalance": 9500
+    },
+    {
+        "TeamID": 1421,
+        "Year": 2017,
+        "TransferBalance": 2900
+    },
+    {
+        "TeamID": 1421,
+        "Year": 2018,
+        "TransferBalance": -4500
+    },
+    {
+        "TeamID": 1421,
+        "Year": 2019,
+        "TransferBalance": 4900
+    },
+    {
+        "TeamID": 1421,
+        "Year": 2020,
+        "TransferBalance": 5800
+    },
+    {
+        "TeamID": 1421,
+        "Year": 2021,
+        "TransferBalance": -950
+    },
+    {
+        "TeamID": 1421,
+        "Year": 2022,
+        "TransferBalance": 8550
+    },
+    {
+        "TeamID": 1421,
+        "Year": 2023,
+        "TransferBalance": 21600
+    },
+    {
+        "TeamID": 1421,
+        "Year": 2024,
+        "TransferBalance": 39350
+    },
+    {
+        "TeamID": 2036,
+        "Year": 2014,
+        "TransferBalance": -400
+    },
+    {
+        "TeamID": 2036,
+        "Year": 2015,
+        "TransferBalance": 1750
+    },
+    {
+        "TeamID": 2036,
+        "Year": 2016,
+        "TransferBalance": 150
+    },
+    {
+        "TeamID": 2036,
+        "Year": 2017,
+        "TransferBalance": -500
+    },
+    {
+        "TeamID": 2036,
+        "Year": 2018,
+        "TransferBalance": -500
+    },
+    {
+        "TeamID": 2036,
+        "Year": 2019,
+        "TransferBalance": 6300
+    },
+    {
+        "TeamID": 2036,
+        "Year": 2020,
+        "TransferBalance": 4950
+    },
+    {
+        "TeamID": 2036,
+        "Year": 2021,
+        "TransferBalance": -3550
+    },
+    {
+        "TeamID": 2036,
+        "Year": 2022,
+        "TransferBalance": -650
+    },
+    {
+        "TeamID": 2036,
+        "Year": 2023,
+        "TransferBalance": -2300
+    },
+    {
+        "TeamID": 2036,
+        "Year": 2024,
+        "TransferBalance": 9450
+    },
+    {
+        "TeamID": 2282,
+        "Year": 2014,
+        "TransferBalance": 5510
+    },
+    {
+        "TeamID": 2282,
+        "Year": 2015,
+        "TransferBalance": -590
+    },
+    {
+        "TeamID": 2282,
+        "Year": 2016,
+        "TransferBalance": 150
+    },
+    {
+        "TeamID": 2282,
+        "Year": 2017,
+        "TransferBalance": 12730
+    },
+    {
+        "TeamID": 2282,
+        "Year": 2018,
+        "TransferBalance": -4050
+    },
+    {
+        "TeamID": 2282,
+        "Year": 2019,
+        "TransferBalance": 28400
+    },
+    {
+        "TeamID": 2282,
+        "Year": 2020,
+        "TransferBalance": 17700
+    },
+    {
+        "TeamID": 2282,
+        "Year": 2021,
+        "TransferBalance": -24550
+    },
+    {
+        "TeamID": 2282,
+        "Year": 2022,
+        "TransferBalance": 24890
+    },
+    {
+        "TeamID": 2282,
+        "Year": 2023,
+        "TransferBalance": 26050
+    },
+    {
+        "TeamID": 2282,
+        "Year": 2024,
+        "TransferBalance": 40600
+    },
+    {
+        "TeamID": 2293,
+        "Year": 2014,
+        "TransferBalance": -800
+    },
+    {
+        "TeamID": 2293,
+        "Year": 2015,
+        "TransferBalance": -1880
+    },
+    {
+        "TeamID": 2293,
+        "Year": 2016,
+        "TransferBalance": -1170
+    },
+    {
+        "TeamID": 2293,
+        "Year": 2017,
+        "TransferBalance": 1780
+    },
+    {
+        "TeamID": 2293,
+        "Year": 2018,
+        "TransferBalance": 850
+    },
+    {
+        "TeamID": 2293,
+        "Year": 2019,
+        "TransferBalance": -765
+    },
+    {
+        "TeamID": 2293,
+        "Year": 2020,
+        "TransferBalance": 425
+    },
+    {
+        "TeamID": 2293,
+        "Year": 2021,
+        "TransferBalance": -1070
+    },
+    {
+        "TeamID": 2293,
+        "Year": 2022,
+        "TransferBalance": 6560
+    },
+    {
+        "TeamID": 2293,
+        "Year": 2023,
+        "TransferBalance": 1280
+    },
+    {
+        "TeamID": 2293,
+        "Year": 2024,
+        "TransferBalance": -2370
+    },
+    {
+        "TeamID": 2300,
+        "Year": 2014,
+        "TransferBalance": 823
+    },
+    {
+        "TeamID": 2300,
+        "Year": 2015,
+        "TransferBalance": 2010
+    },
+    {
+        "TeamID": 2300,
+        "Year": 2016,
+        "TransferBalance": 2150
+    },
+    {
+        "TeamID": 2300,
+        "Year": 2017,
+        "TransferBalance": 900
+    },
+    {
+        "TeamID": 2300,
+        "Year": 2018,
+        "TransferBalance": 3050
+    },
+    {
+        "TeamID": 2300,
+        "Year": 2019,
+        "TransferBalance": 2520
+    },
+    {
+        "TeamID": 2300,
+        "Year": 2020,
+        "TransferBalance": -115
+    },
+    {
+        "TeamID": 2300,
+        "Year": 2021,
+        "TransferBalance": 372
+    },
+    {
+        "TeamID": 2300,
+        "Year": 2022,
+        "TransferBalance": 2000
+    },
+    {
+        "TeamID": 2300,
+        "Year": 2023,
+        "TransferBalance": 500
+    },
+    {
+        "TeamID": 2300,
+        "Year": 2024,
+        "TransferBalance": 3330
+    },
+    {
+        "TeamID": 2410,
+        "Year": 2014,
+        "TransferBalance": 12970
+    },
+    {
+        "TeamID": 2410,
+        "Year": 2015,
+        "TransferBalance": -1000
+    },
+    {
+        "TeamID": 2410,
+        "Year": 2016,
+        "TransferBalance": 22000
+    },
+    {
+        "TeamID": 2410,
+        "Year": 2017,
+        "TransferBalance": 1300
+    },
+    {
+        "TeamID": 2410,
+        "Year": 2018,
+        "TransferBalance": 29680
+    },
+    {
+        "TeamID": 2410,
+        "Year": 2019,
+        "TransferBalance": -23260
+    },
+    {
+        "TeamID": 2410,
+        "Year": 2020,
+        "TransferBalance": -30750
+    },
+    {
+        "TeamID": 2410,
+        "Year": 2021,
+        "TransferBalance": 43950
+    },
+    {
+        "TeamID": 2410,
+        "Year": 2022,
+        "TransferBalance": -915
+    },
+    {
+        "TeamID": 2410,
+        "Year": 2023,
+        "TransferBalance": 1350
+    },
+    {
+        "TeamID": 2410,
+        "Year": 2024,
+        "TransferBalance": 9650
+    },
+    {
+        "TeamID": 2420,
+        "Year": 2014,
+        "TransferBalance": 6960
+    },
+    {
+        "TeamID": 2420,
+        "Year": 2015,
+        "TransferBalance": 5250
+    },
+    {
+        "TeamID": 2420,
+        "Year": 2016,
+        "TransferBalance": 10050
+    },
+    {
+        "TeamID": 2420,
+        "Year": 2017,
+        "TransferBalance": 300
+    },
+    {
+        "TeamID": 2420,
+        "Year": 2018,
+        "TransferBalance": 10420
+    },
+    {
+        "TeamID": 2420,
+        "Year": 2019,
+        "TransferBalance": 21800
+    },
+    {
+        "TeamID": 2420,
+        "Year": 2020,
+        "TransferBalance": 3050
+    },
+    {
+        "TeamID": 2420,
+        "Year": 2021,
+        "TransferBalance": 6650
+    },
+    {
+        "TeamID": 2420,
+        "Year": 2022,
+        "TransferBalance": 12130
+    },
+    {
+        "TeamID": 2420,
+        "Year": 2023,
+        "TransferBalance": 21760
+    },
+    {
+        "TeamID": 2420,
+        "Year": 2024,
+        "TransferBalance": 34730
+    },
+    {
+        "TeamID": 2425,
+        "Year": 2014,
+        "TransferBalance": -200
+    },
+    {
+        "TeamID": 2425,
+        "Year": 2015,
+        "TransferBalance": 6890
+    },
+    {
+        "TeamID": 2425,
+        "Year": 2016,
+        "TransferBalance": 3230
+    },
+    {
+        "TeamID": 2425,
+        "Year": 2017,
+        "TransferBalance": 6480
+    },
+    {
+        "TeamID": 2425,
+        "Year": 2018,
+        "TransferBalance": 8000
+    },
+    {
+        "TeamID": 2425,
+        "Year": 2019,
+        "TransferBalance": 4000
+    },
+    {
+        "TeamID": 2425,
+        "Year": 2020,
+        "TransferBalance": 10300
+    },
+    {
+        "TeamID": 2425,
+        "Year": 2021,
+        "TransferBalance": 2200
+    },
+    {
+        "TeamID": 2425,
+        "Year": 2022,
+        "TransferBalance": 1600
+    },
+    {
+        "TeamID": 2425,
+        "Year": 2023,
+        "TransferBalance": 550
+    },
+    {
+        "TeamID": 2425,
+        "Year": 2024,
+        "TransferBalance": -4440
+    },
+    {
+        "TeamID": 2441,
+        "Year": 2014,
+        "TransferBalance": -1150
+    },
+    {
+        "TeamID": 2441,
+        "Year": 2015,
+        "TransferBalance": -160
+    },
+    {
+        "TeamID": 2441,
+        "Year": 2016,
+        "TransferBalance": -677
+    },
+    {
+        "TeamID": 2441,
+        "Year": 2017,
+        "TransferBalance": -1780
+    },
+    {
+        "TeamID": 2441,
+        "Year": 2018,
+        "TransferBalance": -1400
+    },
+    {
+        "TeamID": 2441,
+        "Year": 2019,
+        "TransferBalance": -2600
+    },
+    {
+        "TeamID": 2441,
+        "Year": 2020,
+        "TransferBalance": -3210
+    },
+    {
+        "TeamID": 2441,
+        "Year": 2021,
+        "TransferBalance": -2610
+    },
+    {
+        "TeamID": 2441,
+        "Year": 2022,
+        "TransferBalance": -2200
+    },
+    {
+        "TeamID": 2441,
+        "Year": 2023,
+        "TransferBalance": -13350
+    },
+    {
+        "TeamID": 2441,
+        "Year": 2024,
+        "TransferBalance": 19300
+    },
+    {
+        "TeamID": 2531,
+        "Year": 2014,
+        "TransferBalance": 1620
+    },
+    {
+        "TeamID": 2531,
+        "Year": 2015,
+        "TransferBalance": 175
+    },
+    {
+        "TeamID": 2531,
+        "Year": 2016,
+        "TransferBalance": 200
+    },
+    {
+        "TeamID": 2531,
+        "Year": 2017,
+        "TransferBalance": 565
+    },
+    {
+        "TeamID": 2531,
+        "Year": 2018,
+        "TransferBalance": 100
+    },
+    {
+        "TeamID": 2531,
+        "Year": 2019,
+        "TransferBalance": 400
+    },
+    {
+        "TeamID": 2531,
+        "Year": 2020,
+        "TransferBalance": 150
+    },
+    {
+        "TeamID": 2531,
+        "Year": 2021,
+        "TransferBalance": 665
+    },
+    {
+        "TeamID": 2531,
+        "Year": 2022,
+        "TransferBalance": 2100
+    },
+    {
+        "TeamID": 2531,
+        "Year": 2023,
+        "TransferBalance": 1100
+    },
+    {
+        "TeamID": 2531,
+        "Year": 2024,
+        "TransferBalance": 3910
+    },
+    {
+        "TeamID": 2698,
+        "Year": 2014,
+        "TransferBalance": 12050
+    },
+    {
+        "TeamID": 2698,
+        "Year": 2015,
+        "TransferBalance": -3730
+    },
+    {
+        "TeamID": 2698,
+        "Year": 2016,
+        "TransferBalance": -32390
+    },
+    {
+        "TeamID": 2698,
+        "Year": 2017,
+        "TransferBalance": 24100
+    },
+    {
+        "TeamID": 2698,
+        "Year": 2018,
+        "TransferBalance": 12660
+    },
+    {
+        "TeamID": 2698,
+        "Year": 2019,
+        "TransferBalance": -8050
+    },
+    {
+        "TeamID": 2698,
+        "Year": 2020,
+        "TransferBalance": -5500
+    },
+    {
+        "TeamID": 2698,
+        "Year": 2021,
+        "TransferBalance": 1870
+    },
+    {
+        "TeamID": 2698,
+        "Year": 2022,
+        "TransferBalance": 10370
+    },
+    {
+        "TeamID": 2698,
+        "Year": 2023,
+        "TransferBalance": -7950
+    },
+    {
+        "TeamID": 2698,
+        "Year": 2024,
+        "TransferBalance": -4250
+    },
+    {
+        "TeamID": 2778,
+        "Year": 2014,
+        "TransferBalance": 920
+    },
+    {
+        "TeamID": 2778,
+        "Year": 2015,
+        "TransferBalance": 5230
+    },
+    {
+        "TeamID": 2778,
+        "Year": 2016,
+        "TransferBalance": 9930
+    },
+    {
+        "TeamID": 2778,
+        "Year": 2017,
+        "TransferBalance": 9600
+    },
+    {
+        "TeamID": 2778,
+        "Year": 2018,
+        "TransferBalance": 7600
+    },
+    {
+        "TeamID": 2778,
+        "Year": 2019,
+        "TransferBalance": 11380
+    },
+    {
+        "TeamID": 2778,
+        "Year": 2020,
+        "TransferBalance": 19440
+    },
+    {
+        "TeamID": 2778,
+        "Year": 2021,
+        "TransferBalance": 16050
+    },
+    {
+        "TeamID": 2778,
+        "Year": 2022,
+        "TransferBalance": 16090
+    },
+    {
+        "TeamID": 2778,
+        "Year": 2023,
+        "TransferBalance": 19170
+    },
+    {
+        "TeamID": 2778,
+        "Year": 2024,
+        "TransferBalance": 57860
+    },
+    {
+        "TeamID": 2784,
+        "Year": 2014,
+        "TransferBalance": -575
+    },
+    {
+        "TeamID": 2784,
+        "Year": 2015,
+        "TransferBalance": -180
+    },
+    {
+        "TeamID": 2784,
+        "Year": 2016,
+        "TransferBalance": 3210
+    },
+    {
+        "TeamID": 2784,
+        "Year": 2017,
+        "TransferBalance": -885
+    },
+    {
+        "TeamID": 2784,
+        "Year": 2018,
+        "TransferBalance": 4760
+    },
+    {
+        "TeamID": 2784,
+        "Year": 2019,
+        "TransferBalance": 115
+    },
+    {
+        "TeamID": 2784,
+        "Year": 2020,
+        "TransferBalance": 1200
+    },
+    {
+        "TeamID": 2784,
+        "Year": 2021,
+        "TransferBalance": -1030
+    },
+    {
+        "TeamID": 2784,
+        "Year": 2022,
+        "TransferBalance": -333
+    },
+    {
+        "TeamID": 2784,
+        "Year": 2023,
+        "TransferBalance": 143
+    },
+    {
+        "TeamID": 2784,
+        "Year": 2024,
+        "TransferBalance": -500
+    },
+    {
+        "TeamID": 2976,
+        "Year": 2014,
+        "TransferBalance": -280
+    },
+    {
+        "TeamID": 2976,
+        "Year": 2015,
+        "TransferBalance": -1120
+    },
+    {
+        "TeamID": 2976,
+        "Year": 2016,
+        "TransferBalance": -1480
+    },
+    {
+        "TeamID": 2976,
+        "Year": 2017,
+        "TransferBalance": -3600
+    },
+    {
+        "TeamID": 2976,
+        "Year": 2018,
+        "TransferBalance": 910
+    },
+    {
+        "TeamID": 2976,
+        "Year": 2019,
+        "TransferBalance": 2540
+    },
+    {
+        "TeamID": 2976,
+        "Year": 2020,
+        "TransferBalance": -1440
+    },
+    {
+        "TeamID": 2976,
+        "Year": 2021,
+        "TransferBalance": -510
+    },
+    {
+        "TeamID": 2976,
+        "Year": 2022,
+        "TransferBalance": -2230
+    },
+    {
+        "TeamID": 2976,
+        "Year": 2023,
+        "TransferBalance": 243
+    },
+    {
+        "TeamID": 2976,
+        "Year": 2024,
+        "TransferBalance": -1450
+    },
+    {
+        "TeamID": 3057,
+        "Year": 2014,
+        "TransferBalance": 11490
+    },
+    {
+        "TeamID": 3057,
+        "Year": 2015,
+        "TransferBalance": 7350
+    },
+    {
+        "TeamID": 3057,
+        "Year": 2016,
+        "TransferBalance": -2430
+    },
+    {
+        "TeamID": 3057,
+        "Year": 2017,
+        "TransferBalance": -1800
+    },
+    {
+        "TeamID": 3057,
+        "Year": 2018,
+        "TransferBalance": 10660
+    },
+    {
+        "TeamID": 3057,
+        "Year": 2019,
+        "TransferBalance": 8810
+    },
+    {
+        "TeamID": 3057,
+        "Year": 2020,
+        "TransferBalance": 1300
+    },
+    {
+        "TeamID": 3057,
+        "Year": 2021,
+        "TransferBalance": 24300
+    },
+    {
+        "TeamID": 3057,
+        "Year": 2022,
+        "TransferBalance": 1210
+    },
+    {
+        "TeamID": 3057,
+        "Year": 2023,
+        "TransferBalance": 3110
+    },
+    {
+        "TeamID": 3057,
+        "Year": 2024,
+        "TransferBalance": 11300
+    },
+    {
+        "TeamID": 3709,
+        "Year": 2014,
+        "TransferBalance": 8000
+    },
+    {
+        "TeamID": 3709,
+        "Year": 2015,
+        "TransferBalance": 3830
+    },
+    {
+        "TeamID": 3709,
+        "Year": 2016,
+        "TransferBalance": 1650
+    },
+    {
+        "TeamID": 3709,
+        "Year": 2017,
+        "TransferBalance": -11300
+    },
+    {
+        "TeamID": 3709,
+        "Year": 2018,
+        "TransferBalance": -22250
+    },
+    {
+        "TeamID": 3709,
+        "Year": 2019,
+        "TransferBalance": -10250
+    },
+    {
+        "TeamID": 3709,
+        "Year": 2020,
+        "TransferBalance": -12300
+    },
+    {
+        "TeamID": 3709,
+        "Year": 2021,
+        "TransferBalance": 5840
+    },
+    {
+        "TeamID": 3709,
+        "Year": 2022,
+        "TransferBalance": 4750
+    },
+    {
+        "TeamID": 3709,
+        "Year": 2023,
+        "TransferBalance": -3640
+    },
+    {
+        "TeamID": 3709,
+        "Year": 2024,
+        "TransferBalance": 21600
+    },
+    {
+        "TeamID": 3793,
+        "Year": 2014,
+        "TransferBalance": -610
+    },
+    {
+        "TeamID": 3793,
+        "Year": 2015,
+        "TransferBalance": 1230
+    },
+    {
+        "TeamID": 3793,
+        "Year": 2016,
+        "TransferBalance": 860
+    },
+    {
+        "TeamID": 3793,
+        "Year": 2017,
+        "TransferBalance": -500
+    },
+    {
+        "TeamID": 3793,
+        "Year": 2018,
+        "TransferBalance": -1370
+    },
+    {
+        "TeamID": 3793,
+        "Year": 2019,
+        "TransferBalance": -2750
+    },
+    {
+        "TeamID": 3793,
+        "Year": 2020,
+        "TransferBalance": 7460
+    },
+    {
+        "TeamID": 3793,
+        "Year": 2021,
+        "TransferBalance": 1170
+    },
+    {
+        "TeamID": 3793,
+        "Year": 2022,
+        "TransferBalance": 195
+    },
+    {
+        "TeamID": 3793,
+        "Year": 2023,
+        "TransferBalance": 630
+    },
+    {
+        "TeamID": 3793,
+        "Year": 2024,
+        "TransferBalance": -460
+    },
+    {
+        "TeamID": 4000,
+        "Year": 2014,
+        "TransferBalance": -320
+    },
+    {
+        "TeamID": 4000,
+        "Year": 2015,
+        "TransferBalance": 190
+    },
+    {
+        "TeamID": 4000,
+        "Year": 2016,
+        "TransferBalance": -730
+    },
+    {
+        "TeamID": 4000,
+        "Year": 2017,
+        "TransferBalance": 3070
+    },
+    {
+        "TeamID": 4000,
+        "Year": 2018,
+        "TransferBalance": 500
+    },
+    {
+        "TeamID": 4000,
+        "Year": 2019,
+        "TransferBalance": 1160
+    },
+    {
+        "TeamID": 4000,
+        "Year": 2020,
+        "TransferBalance": 2200
+    },
+    {
+        "TeamID": 4000,
+        "Year": 2021,
+        "TransferBalance": 3020
+    },
+    {
+        "TeamID": 4000,
+        "Year": 2022,
+        "TransferBalance": 300
+    },
+    {
+        "TeamID": 4000,
+        "Year": 2023,
+        "TransferBalance": -2660
+    },
+    {
+        "TeamID": 4000,
+        "Year": 2024,
+        "TransferBalance": -975
+    },
+    {
+        "TeamID": 4529,
+        "Year": 2014,
+        "TransferBalance": 65
+    },
+    {
+        "TeamID": 4529,
+        "Year": 2015,
+        "TransferBalance": -15
+    },
+    {
+        "TeamID": 4529,
+        "Year": 2016,
+        "TransferBalance": -180
+    },
+    {
+        "TeamID": 4529,
+        "Year": 2017,
+        "TransferBalance": 710
+    },
+    {
+        "TeamID": 4529,
+        "Year": 2018,
+        "TransferBalance": 1730
+    },
+    {
+        "TeamID": 4529,
+        "Year": 2019,
+        "TransferBalance": 1200
+    },
+    {
+        "TeamID": 4529,
+        "Year": 2020,
+        "TransferBalance": -500
+    },
+    {
+        "TeamID": 4529,
+        "Year": 2021,
+        "TransferBalance": 1950
+    },
+    {
+        "TeamID": 4529,
+        "Year": 2022,
+        "TransferBalance": 1140
+    },
+    {
+        "TeamID": 4529,
+        "Year": 2023,
+        "TransferBalance": 2820
+    },
+    {
+        "TeamID": 4529,
+        "Year": 2024,
+        "TransferBalance": -350
+    },
+    {
+        "TeamID": 4772,
+        "Year": 2014,
+        "TransferBalance": -225
+    },
+    {
+        "TeamID": 4772,
+        "Year": 2015,
+        "TransferBalance": 7500
+    },
+    {
+        "TeamID": 4772,
+        "Year": 2016,
+        "TransferBalance": 2100
+    },
+    {
+        "TeamID": 4772,
+        "Year": 2017,
+        "TransferBalance": 1400
+    },
+    {
+        "TeamID": 4772,
+        "Year": 2018,
+        "TransferBalance": 3680
+    },
+    {
+        "TeamID": 4772,
+        "Year": 2019,
+        "TransferBalance": -40
+    },
+    {
+        "TeamID": 4772,
+        "Year": 2020,
+        "TransferBalance": 800
+    },
+    {
+        "TeamID": 4772,
+        "Year": 2021,
+        "TransferBalance": 1100
+    },
+    {
+        "TeamID": 4772,
+        "Year": 2022,
+        "TransferBalance": 100
+    },
+    {
+        "TeamID": 4772,
+        "Year": 2023,
+        "TransferBalance": 2300
+    },
+    {
+        "TeamID": 4772,
+        "Year": 2024,
+        "TransferBalance": 1600
+    },
+    {
+        "TeamID": 5689,
+        "Year": 2014,
+        "TransferBalance": 20
+    },
+    {
+        "TeamID": 5689,
+        "Year": 2015,
+        "TransferBalance": -25
+    },
+    {
+        "TeamID": 5689,
+        "Year": 2016,
+        "TransferBalance": 4110
+    },
+    {
+        "TeamID": 5689,
+        "Year": 2017,
+        "TransferBalance": -573
+    },
+    {
+        "TeamID": 5689,
+        "Year": 2018,
+        "TransferBalance": 3970
+    },
+    {
+        "TeamID": 5689,
+        "Year": 2019,
+        "TransferBalance": -215
+    },
+    {
+        "TeamID": 5689,
+        "Year": 2020,
+        "TransferBalance": 385
+    },
+    {
+        "TeamID": 5689,
+        "Year": 2021,
+        "TransferBalance": -1230
+    },
+    {
+        "TeamID": 5689,
+        "Year": 2022,
+        "TransferBalance": -1310
+    },
+    {
+        "TeamID": 5689,
+        "Year": 2023,
+        "TransferBalance": -455
+    },
+    {
+        "TeamID": 5689,
+        "Year": 2024,
+        "TransferBalance": 1000
+    },
+    {
+        "TeamID": 6105,
+        "Year": 2014,
+        "TransferBalance": -32
+    },
+    {
+        "TeamID": 6105,
+        "Year": 2015,
+        "TransferBalance": 1250
+    },
+    {
+        "TeamID": 6105,
+        "Year": 2016,
+        "TransferBalance": 895
+    },
+    {
+        "TeamID": 6105,
+        "Year": 2017,
+        "TransferBalance": 1750
+    },
+    {
+        "TeamID": 6105,
+        "Year": 2018,
+        "TransferBalance": 1780
+    },
+    {
+        "TeamID": 6105,
+        "Year": 2019,
+        "TransferBalance": 1600
+    },
+    {
+        "TeamID": 6105,
+        "Year": 2020,
+        "TransferBalance": 500
+    },
+    {
+        "TeamID": 6105,
+        "Year": 2021,
+        "TransferBalance": 925
+    },
+    {
+        "TeamID": 6105,
+        "Year": 2022,
+        "TransferBalance": -279
+    },
+    {
+        "TeamID": 6105,
+        "Year": 2023,
+        "TransferBalance": 1940
+    },
+    {
+        "TeamID": 6105,
+        "Year": 2024,
+        "TransferBalance": 410
+    },
+    {
+        "TeamID": 6195,
+        "Year": 2014,
+        "TransferBalance": -14350
+    },
+    {
+        "TeamID": 6195,
+        "Year": 2015,
+        "TransferBalance": -24410
+    },
+    {
+        "TeamID": 6195,
+        "Year": 2016,
+        "TransferBalance": 17720
+    },
+    {
+        "TeamID": 6195,
+        "Year": 2017,
+        "TransferBalance": -50550
+    },
+    {
+        "TeamID": 6195,
+        "Year": 2018,
+        "TransferBalance": 29800
+    },
+    {
+        "TeamID": 6195,
+        "Year": 2019,
+        "TransferBalance": -161300
+    },
+    {
+        "TeamID": 6195,
+        "Year": 2020,
+        "TransferBalance": 43310
+    },
+    {
+        "TeamID": 6195,
+        "Year": 2021,
+        "TransferBalance": -20600
+    },
+    {
+        "TeamID": 6195,
+        "Year": 2022,
+        "TransferBalance": 7080
+    },
+    {
+        "TeamID": 6195,
+        "Year": 2023,
+        "TransferBalance": -24300
+    },
+    {
+        "TeamID": 6195,
+        "Year": 2024,
+        "TransferBalance": -69000
+    },
+    {
+        "TeamID": 6574,
+        "Year": 2014,
+        "TransferBalance": -6700
+    },
+    {
+        "TeamID": 6574,
+        "Year": 2015,
+        "TransferBalance": -5700
+    },
+    {
+        "TeamID": 6574,
+        "Year": 2016,
+        "TransferBalance": 292
+    },
+    {
+        "TeamID": 6574,
+        "Year": 2017,
+        "TransferBalance": -27450
+    },
+    {
+        "TeamID": 6574,
+        "Year": 2018,
+        "TransferBalance": -3590
+    },
+    {
+        "TeamID": 6574,
+        "Year": 2019,
+        "TransferBalance": -14910
+    },
+    {
+        "TeamID": 6574,
+        "Year": 2020,
+        "TransferBalance": 32700
+    },
+    {
+        "TeamID": 6574,
+        "Year": 2021,
+        "TransferBalance": -16730
+    },
+    {
+        "TeamID": 6574,
+        "Year": 2022,
+        "TransferBalance": 28050
+    },
+    {
+        "TeamID": 6574,
+        "Year": 2023,
+        "TransferBalance": 43330
+    },
+    {
+        "TeamID": 6574,
+        "Year": 2024,
+        "TransferBalance": 49950
+    },
+    {
+        "TeamID": 6890,
+        "Year": 2014,
+        "TransferBalance": -2180
+    },
+    {
+        "TeamID": 6890,
+        "Year": 2015,
+        "TransferBalance": 270
+    },
+    {
+        "TeamID": 6890,
+        "Year": 2016,
+        "TransferBalance": -8910
+    },
+    {
+        "TeamID": 6890,
+        "Year": 2017,
+        "TransferBalance": 12350
+    },
+    {
+        "TeamID": 6890,
+        "Year": 2018,
+        "TransferBalance": -1000
+    },
+    {
+        "TeamID": 6890,
+        "Year": 2019,
+        "TransferBalance": -5950
+    },
+    {
+        "TeamID": 6890,
+        "Year": 2020,
+        "TransferBalance": -2650
+    },
+    {
+        "TeamID": 6890,
+        "Year": 2021,
+        "TransferBalance": 3250
+    },
+    {
+        "TeamID": 6890,
+        "Year": 2022,
+        "TransferBalance": 1850
+    },
+    {
+        "TeamID": 6890,
+        "Year": 2023,
+        "TransferBalance": 2420
+    },
+    {
+        "TeamID": 6890,
+        "Year": 2024,
+        "TransferBalance": -8700
+    },
+    {
+        "TeamID": 7769,
+        "Year": 2014,
+        "TransferBalance": 1970
+    },
+    {
+        "TeamID": 7769,
+        "Year": 2015,
+        "TransferBalance": 1000
+    },
+    {
+        "TeamID": 7769,
+        "Year": 2016,
+        "TransferBalance": 1300
+    },
+    {
+        "TeamID": 7769,
+        "Year": 2017,
+        "TransferBalance": -2800
+    },
+    {
+        "TeamID": 7769,
+        "Year": 2018,
+        "TransferBalance": 2480
+    },
+    {
+        "TeamID": 7769,
+        "Year": 2019,
+        "TransferBalance": -1610
+    },
+    {
+        "TeamID": 7769,
+        "Year": 2020,
+        "TransferBalance": 1380
+    },
+    {
+        "TeamID": 7769,
+        "Year": 2021,
+        "TransferBalance": -675
+    },
+    {
+        "TeamID": 7769,
+        "Year": 2022,
+        "TransferBalance": 65
+    },
+    {
+        "TeamID": 7769,
+        "Year": 2023,
+        "TransferBalance": 9160
+    },
+    {
+        "TeamID": 7769,
+        "Year": 2024,
+        "TransferBalance": 6000
+    },
+    {
+        "TeamID": 10482,
+        "Year": 2014,
+        "TransferBalance": -550
+    },
+    {
+        "TeamID": 10482,
+        "Year": 2015,
+        "TransferBalance": 380
+    },
+    {
+        "TeamID": 10482,
+        "Year": 2016,
+        "TransferBalance": -1960
+    },
+    {
+        "TeamID": 10482,
+        "Year": 2017,
+        "TransferBalance": 80
+    },
+    {
+        "TeamID": 10482,
+        "Year": 2018,
+        "TransferBalance": -1980
+    },
+    {
+        "TeamID": 10482,
+        "Year": 2019,
+        "TransferBalance": -1630
+    },
+    {
+        "TeamID": 10482,
+        "Year": 2020,
+        "TransferBalance": -700
+    },
+    {
+        "TeamID": 10482,
+        "Year": 2021,
+        "TransferBalance": 365
+    },
+    {
+        "TeamID": 10482,
+        "Year": 2022,
+        "TransferBalance": 2460
+    },
+    {
+        "TeamID": 10482,
+        "Year": 2023,
+        "TransferBalance": 532
+    },
+    {
+        "TeamID": 10482,
+        "Year": 2024,
+        "TransferBalance": -350
+    },
+    {
+        "TeamID": 10695,
+        "Year": 2014,
+        "TransferBalance": 250
+    },
+    {
+        "TeamID": 10695,
+        "Year": 2015,
+        "TransferBalance": -19
+    },
+    {
+        "TeamID": 10695,
+        "Year": 2016,
+        "TransferBalance": -45
+    },
+    {
+        "TeamID": 10695,
+        "Year": 2017,
+        "TransferBalance": -160
+    },
+    {
+        "TeamID": 10695,
+        "Year": 2018,
+        "TransferBalance": -150
+    },
+    {
+        "TeamID": 10695,
+        "Year": 2019,
+        "TransferBalance": -290
+    },
+    {
+        "TeamID": 10695,
+        "Year": 2020,
+        "TransferBalance": 327
+    },
+    {
+        "TeamID": 10695,
+        "Year": 2021,
+        "TransferBalance": -1420
+    },
+    {
+        "TeamID": 10695,
+        "Year": 2022,
+        "TransferBalance": 1970
+    },
+    {
+        "TeamID": 10695,
+        "Year": 2023,
+        "TransferBalance": 1030
+    },
+    {
+        "TeamID": 10695,
+        "Year": 2024,
+        "TransferBalance": 215
+    },
+    {
+        "TeamID": 11107,
+        "Year": 2014,
+        "TransferBalance": -50
+    },
+    {
+        "TeamID": 11107,
+        "Year": 2015,
+        "TransferBalance": -250
+    },
+    {
+        "TeamID": 11107,
+        "Year": 2016,
+        "TransferBalance": -650
+    },
+    {
+        "TeamID": 11107,
+        "Year": 2017,
+        "TransferBalance": 890
+    },
+    {
+        "TeamID": 11107,
+        "Year": 2018,
+        "TransferBalance": -850
+    },
+    {
+        "TeamID": 11107,
+        "Year": 2019,
+        "TransferBalance": -1600
+    },
+    {
+        "TeamID": 11107,
+        "Year": 2020,
+        "TransferBalance": -970
+    },
+    {
+        "TeamID": 11107,
+        "Year": 2021,
+        "TransferBalance": 250
+    },
+    {
+        "TeamID": 11107,
+        "Year": 2022,
+        "TransferBalance": 1400
+    },
+    {
+        "TeamID": 11107,
+        "Year": 2023,
+        "TransferBalance": 500
+    },
+    {
+        "TeamID": 11107,
+        "Year": 2024,
+        "TransferBalance": 3890
+    },
+    {
+        "TeamID": 11194,
+        "Year": 2014,
+        "TransferBalance": 2280
+    },
+    {
+        "TeamID": 11194,
+        "Year": 2015,
+        "TransferBalance": -130
+    },
+    {
+        "TeamID": 11194,
+        "Year": 2016,
+        "TransferBalance": 900
+    },
+    {
+        "TeamID": 11194,
+        "Year": 2017,
+        "TransferBalance": 1020
+    },
+    {
+        "TeamID": 11194,
+        "Year": 2018,
+        "TransferBalance": 2400
+    },
+    {
+        "TeamID": 11194,
+        "Year": 2019,
+        "TransferBalance": 4670
+    },
+    {
+        "TeamID": 11194,
+        "Year": 2020,
+        "TransferBalance": 6390
+    },
+    {
+        "TeamID": 11194,
+        "Year": 2021,
+        "TransferBalance": 4940
+    },
+    {
+        "TeamID": 11194,
+        "Year": 2022,
+        "TransferBalance": 3660
+    },
+    {
+        "TeamID": 11194,
+        "Year": 2023,
+        "TransferBalance": 860
+    },
+    {
+        "TeamID": 11194,
+        "Year": 2024,
+        "TransferBalance": 5000
+    },
+    {
+        "TeamID": 12469,
+        "Year": 2014,
+        "TransferBalance": -20
+    },
+    {
+        "TeamID": 12469,
+        "Year": 2015,
+        "TransferBalance": 1200
+    },
+    {
+        "TeamID": 12469,
+        "Year": 2016,
+        "TransferBalance": 215
+    },
+    {
+        "TeamID": 12469,
+        "Year": 2017,
+        "TransferBalance": 725
+    },
+    {
+        "TeamID": 12469,
+        "Year": 2018,
+        "TransferBalance": 1730
+    },
+    {
+        "TeamID": 12469,
+        "Year": 2019,
+        "TransferBalance": 35
+    },
+    {
+        "TeamID": 12469,
+        "Year": 2020,
+        "TransferBalance": 180
+    },
+    {
+        "TeamID": 12469,
+        "Year": 2021,
+        "TransferBalance": 50
+    },
+    {
+        "TeamID": 12469,
+        "Year": 2022,
+        "TransferBalance": 270
+    },
+    {
+        "TeamID": 12469,
+        "Year": 2023,
+        "TransferBalance": 450
+    },
+    {
+        "TeamID": 12469,
+        "Year": 2024,
+        "TransferBalance": 750
+    },
+    {
+        "TeamID": 16795,
+        "Year": 2014,
+        "TransferBalance": 13080
+    },
+    {
+        "TeamID": 16795,
+        "Year": 2015,
+        "TransferBalance": 7320
+    },
+    {
+        "TeamID": 16795,
+        "Year": 2016,
+        "TransferBalance": 20030
+    },
+    {
+        "TeamID": 16795,
+        "Year": 2017,
+        "TransferBalance": 6860
+    },
+    {
+        "TeamID": 16795,
+        "Year": 2018,
+        "TransferBalance": 2670
+    },
+    {
+        "TeamID": 16795,
+        "Year": 2019,
+        "TransferBalance": -10940
+    },
+    {
+        "TeamID": 16795,
+        "Year": 2020,
+        "TransferBalance": -23500
+    },
+    {
+        "TeamID": 16795,
+        "Year": 2021,
+        "TransferBalance": -14450
+    },
+    {
+        "TeamID": 16795,
+        "Year": 2022,
+        "TransferBalance": 27700
+    },
+    {
+        "TeamID": 16795,
+        "Year": 2023,
+        "TransferBalance": -6700
+    },
+    {
+        "TeamID": 16795,
+        "Year": 2024,
+        "TransferBalance": 29200
+    },
+    {
+        "TeamID": 23826,
+        "Year": 2014,
+        "TransferBalance": -23350
+    },
+    {
+        "TeamID": 23826,
+        "Year": 2015,
+        "TransferBalance": -24200
+    },
+    {
+        "TeamID": 23826,
+        "Year": 2016,
+        "TransferBalance": -95850
+    },
+    {
+        "TeamID": 23826,
+        "Year": 2017,
+        "TransferBalance": -38960
+    },
+    {
+        "TeamID": 23826,
+        "Year": 2018,
+        "TransferBalance": 7120
+    },
+    {
+        "TeamID": 23826,
+        "Year": 2019,
+        "TransferBalance": -52950
+    },
+    {
+        "TeamID": 23826,
+        "Year": 2020,
+        "TransferBalance": 5500
+    },
+    {
+        "TeamID": 23826,
+        "Year": 2021,
+        "TransferBalance": -12120
+    },
+    {
+        "TeamID": 23826,
+        "Year": 2022,
+        "TransferBalance": 16470
+    },
+    {
+        "TeamID": 23826,
+        "Year": 2023,
+        "TransferBalance": 64200
+    },
+    {
+        "TeamID": 23826,
+        "Year": 2024,
+        "TransferBalance": -21500
+    },
+    {
+        "TeamID": 28095,
+        "Year": 2014,
+        "TransferBalance": -650
+    },
+    {
+        "TeamID": 28095,
+        "Year": 2015,
+        "TransferBalance": -1260
+    },
+    {
+        "TeamID": 28095,
+        "Year": 2016,
+        "TransferBalance": 4440
+    },
+    {
+        "TeamID": 28095,
+        "Year": 2017,
+        "TransferBalance": -700
+    },
+    {
+        "TeamID": 28095,
+        "Year": 2018,
+        "TransferBalance": 4470
+    },
+    {
+        "TeamID": 28095,
+        "Year": 2019,
+        "TransferBalance": 6500
+    },
+    {
+        "TeamID": 28095,
+        "Year": 2020,
+        "TransferBalance": 6330
+    },
+    {
+        "TeamID": 28095,
+        "Year": 2021,
+        "TransferBalance": 465
+    },
+    {
+        "TeamID": 28095,
+        "Year": 2022,
+        "TransferBalance": 5340
+    },
+    {
+        "TeamID": 28095,
+        "Year": 2023,
+        "TransferBalance": -30
+    },
+    {
+        "TeamID": 28095,
+        "Year": 2024,
+        "TransferBalance": 45
+    },
+    {
+        "TeamID": 29831,
+        "Year": 2014,
+        "TransferBalance": 600
+    },
+    {
+        "TeamID": 29831,
+        "Year": 2015,
+        "TransferBalance": 3060
+    },
+    {
+        "TeamID": 29831,
+        "Year": 2016,
+        "TransferBalance": 8350
+    },
+    {
+        "TeamID": 29831,
+        "Year": 2017,
+        "TransferBalance": 4810
+    },
+    {
+        "TeamID": 29831,
+        "Year": 2018,
+        "TransferBalance": 6050
+    },
+    {
+        "TeamID": 29831,
+        "Year": 2019,
+        "TransferBalance": 8550
+    },
+    {
+        "TeamID": 29831,
+        "Year": 2020,
+        "TransferBalance": 4800
+    },
+    {
+        "TeamID": 29831,
+        "Year": 2021,
+        "TransferBalance": 1240
+    },
+    {
+        "TeamID": 29831,
+        "Year": 2022,
+        "TransferBalance": 3650
+    },
+    {
+        "TeamID": 29831,
+        "Year": 2023,
+        "TransferBalance": 6680
+    },
+    {
+        "TeamID": 29831,
+        "Year": 2024,
+        "TransferBalance": 1850
+    },
+    {
+        "TeamID": 31614,
+        "Year": 2014,
+        "TransferBalance": -2600
+    },
+    {
+        "TeamID": 31614,
+        "Year": 2015,
+        "TransferBalance": -1420
+    },
+    {
+        "TeamID": 31614,
+        "Year": 2016,
+        "TransferBalance": -700
+    },
+    {
+        "TeamID": 31614,
+        "Year": 2017,
+        "TransferBalance": 9350
+    },
+    {
+        "TeamID": 31614,
+        "Year": 2018,
+        "TransferBalance": 1800
+    },
+    {
+        "TeamID": 31614,
+        "Year": 2019,
+        "TransferBalance": -2750
+    },
+    {
+        "TeamID": 31614,
+        "Year": 2020,
+        "TransferBalance": -1550
+    },
+    {
+        "TeamID": 31614,
+        "Year": 2021,
+        "TransferBalance": -4400
+    },
+    {
+        "TeamID": 31614,
+        "Year": 2022,
+        "TransferBalance": -45
+    },
+    {
+        "TeamID": 31614,
+        "Year": 2023,
+        "TransferBalance": 12750
+    },
+    {
+        "TeamID": 31614,
+        "Year": 2024,
+        "TransferBalance": 11230
+    },
+    {
+        "TeamID": 40812,
+        "Year": 2014,
+        "TransferBalance": -980
+    },
+    {
+        "TeamID": 40812,
+        "Year": 2015,
+        "TransferBalance": -100
+    },
+    {
+        "TeamID": 40812,
+        "Year": 2016,
+        "TransferBalance": 1150
+    },
+    {
+        "TeamID": 40812,
+        "Year": 2017,
+        "TransferBalance": 2250
+    },
+    {
+        "TeamID": 40812,
+        "Year": 2018,
+        "TransferBalance": 10150
+    },
+    {
+        "TeamID": 40812,
+        "Year": 2019,
+        "TransferBalance": -2410
+    },
+    {
+        "TeamID": 40812,
+        "Year": 2020,
+        "TransferBalance": 8180
+    },
+    {
+        "TeamID": 40812,
+        "Year": 2021,
+        "TransferBalance": 6530
+    },
+    {
+        "TeamID": 40812,
+        "Year": 2022,
+        "TransferBalance": -600
+    },
+    {
+        "TeamID": 40812,
+        "Year": 2023,
+        "TransferBalance": -1130
+    },
+    {
+        "TeamID": 40812,
+        "Year": 2024,
+        "TransferBalance": -1550
+    }
+]
