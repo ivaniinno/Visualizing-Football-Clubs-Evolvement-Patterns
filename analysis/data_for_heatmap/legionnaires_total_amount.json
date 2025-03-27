@@ -1,0 +1,2807 @@
+[
+    {
+        "NationalTeamID": 3262,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 358
+    },
+    {
+        "NationalTeamID": 3262,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 360
+    },
+    {
+        "NationalTeamID": 3262,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 384
+    },
+    {
+        "NationalTeamID": 3262,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 367
+    },
+    {
+        "NationalTeamID": 3262,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 364
+    },
+    {
+        "NationalTeamID": 3262,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 372
+    },
+    {
+        "NationalTeamID": 3262,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 369
+    },
+    {
+        "NationalTeamID": 3262,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 381
+    },
+    {
+        "NationalTeamID": 3262,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 372
+    },
+    {
+        "NationalTeamID": 3262,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 362
+    },
+    {
+        "NationalTeamID": 3262,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 296
+    },
+    {
+        "NationalTeamID": 3299,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 476
+    },
+    {
+        "NationalTeamID": 3299,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 490
+    },
+    {
+        "NationalTeamID": 3299,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 504
+    },
+    {
+        "NationalTeamID": 3299,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 481
+    },
+    {
+        "NationalTeamID": 3299,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 488
+    },
+    {
+        "NationalTeamID": 3299,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 451
+    },
+    {
+        "NationalTeamID": 3299,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 466
+    },
+    {
+        "NationalTeamID": 3299,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 474
+    },
+    {
+        "NationalTeamID": 3299,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 469
+    },
+    {
+        "NationalTeamID": 3299,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 485
+    },
+    {
+        "NationalTeamID": 3299,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 329
+    },
+    {
+        "NationalTeamID": 3300,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 300
+    },
+    {
+        "NationalTeamID": 3300,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 299
+    },
+    {
+        "NationalTeamID": 3300,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 290
+    },
+    {
+        "NationalTeamID": 3300,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 273
+    },
+    {
+        "NationalTeamID": 3300,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 289
+    },
+    {
+        "NationalTeamID": 3300,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 267
+    },
+    {
+        "NationalTeamID": 3300,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 280
+    },
+    {
+        "NationalTeamID": 3300,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 262
+    },
+    {
+        "NationalTeamID": 3300,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 275
+    },
+    {
+        "NationalTeamID": 3300,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 266
+    },
+    {
+        "NationalTeamID": 3300,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 195
+    },
+    {
+        "NationalTeamID": 3375,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 288
+    },
+    {
+        "NationalTeamID": 3375,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 282
+    },
+    {
+        "NationalTeamID": 3375,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 294
+    },
+    {
+        "NationalTeamID": 3375,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 267
+    },
+    {
+        "NationalTeamID": 3375,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 243
+    },
+    {
+        "NationalTeamID": 3375,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 251
+    },
+    {
+        "NationalTeamID": 3375,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 242
+    },
+    {
+        "NationalTeamID": 3375,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 245
+    },
+    {
+        "NationalTeamID": 3375,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 221
+    },
+    {
+        "NationalTeamID": 3375,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 252
+    },
+    {
+        "NationalTeamID": 3375,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 160
+    },
+    {
+        "NationalTeamID": 3376,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 343
+    },
+    {
+        "NationalTeamID": 3376,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 324
+    },
+    {
+        "NationalTeamID": 3376,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 322
+    },
+    {
+        "NationalTeamID": 3376,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 281
+    },
+    {
+        "NationalTeamID": 3376,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 350
+    },
+    {
+        "NationalTeamID": 3376,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 276
+    },
+    {
+        "NationalTeamID": 3376,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 297
+    },
+    {
+        "NationalTeamID": 3376,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 283
+    },
+    {
+        "NationalTeamID": 3376,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 260
+    },
+    {
+        "NationalTeamID": 3376,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 275
+    },
+    {
+        "NationalTeamID": 3376,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 205
+    },
+    {
+        "NationalTeamID": 3377,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 389
+    },
+    {
+        "NationalTeamID": 3377,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 395
+    },
+    {
+        "NationalTeamID": 3377,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 416
+    },
+    {
+        "NationalTeamID": 3377,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 391
+    },
+    {
+        "NationalTeamID": 3377,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 428
+    },
+    {
+        "NationalTeamID": 3377,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 400
+    },
+    {
+        "NationalTeamID": 3377,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 444
+    },
+    {
+        "NationalTeamID": 3377,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 456
+    },
+    {
+        "NationalTeamID": 3377,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 433
+    },
+    {
+        "NationalTeamID": 3377,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 441
+    },
+    {
+        "NationalTeamID": 3377,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 303
+    },
+    {
+        "NationalTeamID": 3378,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 178
+    },
+    {
+        "NationalTeamID": 3378,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 184
+    },
+    {
+        "NationalTeamID": 3378,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 210
+    },
+    {
+        "NationalTeamID": 3378,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 186
+    },
+    {
+        "NationalTeamID": 3378,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 204
+    },
+    {
+        "NationalTeamID": 3378,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 190
+    },
+    {
+        "NationalTeamID": 3378,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 192
+    },
+    {
+        "NationalTeamID": 3378,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 219
+    },
+    {
+        "NationalTeamID": 3378,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 223
+    },
+    {
+        "NationalTeamID": 3378,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 227
+    },
+    {
+        "NationalTeamID": 3378,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 184
+    },
+    {
+        "NationalTeamID": 3379,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 230
+    },
+    {
+        "NationalTeamID": 3379,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 225
+    },
+    {
+        "NationalTeamID": 3379,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 229
+    },
+    {
+        "NationalTeamID": 3379,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 228
+    },
+    {
+        "NationalTeamID": 3379,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 237
+    },
+    {
+        "NationalTeamID": 3379,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 252
+    },
+    {
+        "NationalTeamID": 3379,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 236
+    },
+    {
+        "NationalTeamID": 3379,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 258
+    },
+    {
+        "NationalTeamID": 3379,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 234
+    },
+    {
+        "NationalTeamID": 3379,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 229
+    },
+    {
+        "NationalTeamID": 3379,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 163
+    },
+    {
+        "NationalTeamID": 3380,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 193
+    },
+    {
+        "NationalTeamID": 3380,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 202
+    },
+    {
+        "NationalTeamID": 3380,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 224
+    },
+    {
+        "NationalTeamID": 3380,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 205
+    },
+    {
+        "NationalTeamID": 3380,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 264
+    },
+    {
+        "NationalTeamID": 3380,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 225
+    },
+    {
+        "NationalTeamID": 3380,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 205
+    },
+    {
+        "NationalTeamID": 3380,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 222
+    },
+    {
+        "NationalTeamID": 3380,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 235
+    },
+    {
+        "NationalTeamID": 3380,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 230
+    },
+    {
+        "NationalTeamID": 3380,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 191
+    },
+    {
+        "NationalTeamID": 3381,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 252
+    },
+    {
+        "NationalTeamID": 3381,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 263
+    },
+    {
+        "NationalTeamID": 3381,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 258
+    },
+    {
+        "NationalTeamID": 3381,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 268
+    },
+    {
+        "NationalTeamID": 3381,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 276
+    },
+    {
+        "NationalTeamID": 3381,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 248
+    },
+    {
+        "NationalTeamID": 3381,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 269
+    },
+    {
+        "NationalTeamID": 3381,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 232
+    },
+    {
+        "NationalTeamID": 3381,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 232
+    },
+    {
+        "NationalTeamID": 3381,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 233
+    },
+    {
+        "NationalTeamID": 3381,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 150
+    },
+    {
+        "NationalTeamID": 3382,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 276
+    },
+    {
+        "NationalTeamID": 3382,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 287
+    },
+    {
+        "NationalTeamID": 3382,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 314
+    },
+    {
+        "NationalTeamID": 3382,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 310
+    },
+    {
+        "NationalTeamID": 3382,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 313
+    },
+    {
+        "NationalTeamID": 3382,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 303
+    },
+    {
+        "NationalTeamID": 3382,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 297
+    },
+    {
+        "NationalTeamID": 3382,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 273
+    },
+    {
+        "NationalTeamID": 3382,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 276
+    },
+    {
+        "NationalTeamID": 3382,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 275
+    },
+    {
+        "NationalTeamID": 3382,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 176
+    },
+    {
+        "NationalTeamID": 3383,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 159
+    },
+    {
+        "NationalTeamID": 3383,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 131
+    },
+    {
+        "NationalTeamID": 3383,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 136
+    },
+    {
+        "NationalTeamID": 3383,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 139
+    },
+    {
+        "NationalTeamID": 3383,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 141
+    },
+    {
+        "NationalTeamID": 3383,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 125
+    },
+    {
+        "NationalTeamID": 3383,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 133
+    },
+    {
+        "NationalTeamID": 3383,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 132
+    },
+    {
+        "NationalTeamID": 3383,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 136
+    },
+    {
+        "NationalTeamID": 3383,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 140
+    },
+    {
+        "NationalTeamID": 3383,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 128
+    },
+    {
+        "NationalTeamID": 3384,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 269
+    },
+    {
+        "NationalTeamID": 3384,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 288
+    },
+    {
+        "NationalTeamID": 3384,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 280
+    },
+    {
+        "NationalTeamID": 3384,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 283
+    },
+    {
+        "NationalTeamID": 3384,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 307
+    },
+    {
+        "NationalTeamID": 3384,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 311
+    },
+    {
+        "NationalTeamID": 3384,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 270
+    },
+    {
+        "NationalTeamID": 3384,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 296
+    },
+    {
+        "NationalTeamID": 3384,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 284
+    },
+    {
+        "NationalTeamID": 3384,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 286
+    },
+    {
+        "NationalTeamID": 3384,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 217
+    },
+    {
+        "NationalTeamID": 3394,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 212
+    },
+    {
+        "NationalTeamID": 3394,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 164
+    },
+    {
+        "NationalTeamID": 3394,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 223
+    },
+    {
+        "NationalTeamID": 3394,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 210
+    },
+    {
+        "NationalTeamID": 3394,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 209
+    },
+    {
+        "NationalTeamID": 3394,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 198
+    },
+    {
+        "NationalTeamID": 3394,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 170
+    },
+    {
+        "NationalTeamID": 3394,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 170
+    },
+    {
+        "NationalTeamID": 3394,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 181
+    },
+    {
+        "NationalTeamID": 3394,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 200
+    },
+    {
+        "NationalTeamID": 3394,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 140
+    },
+    {
+        "NationalTeamID": 3436,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 246
+    },
+    {
+        "NationalTeamID": 3436,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 250
+    },
+    {
+        "NationalTeamID": 3436,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 245
+    },
+    {
+        "NationalTeamID": 3436,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 219
+    },
+    {
+        "NationalTeamID": 3436,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 218
+    },
+    {
+        "NationalTeamID": 3436,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 199
+    },
+    {
+        "NationalTeamID": 3436,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 173
+    },
+    {
+        "NationalTeamID": 3436,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 221
+    },
+    {
+        "NationalTeamID": 3436,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 198
+    },
+    {
+        "NationalTeamID": 3436,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 205
+    },
+    {
+        "NationalTeamID": 3436,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 148
+    },
+    {
+        "NationalTeamID": 3438,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 153
+    },
+    {
+        "NationalTeamID": 3438,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 131
+    },
+    {
+        "NationalTeamID": 3438,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 147
+    },
+    {
+        "NationalTeamID": 3438,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 150
+    },
+    {
+        "NationalTeamID": 3438,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 135
+    },
+    {
+        "NationalTeamID": 3438,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 128
+    },
+    {
+        "NationalTeamID": 3438,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 121
+    },
+    {
+        "NationalTeamID": 3438,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 133
+    },
+    {
+        "NationalTeamID": 3438,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 131
+    },
+    {
+        "NationalTeamID": 3438,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 148
+    },
+    {
+        "NationalTeamID": 3438,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 117
+    },
+    {
+        "NationalTeamID": 3440,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 239
+    },
+    {
+        "NationalTeamID": 3440,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 218
+    },
+    {
+        "NationalTeamID": 3440,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 228
+    },
+    {
+        "NationalTeamID": 3440,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 197
+    },
+    {
+        "NationalTeamID": 3440,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 193
+    },
+    {
+        "NationalTeamID": 3440,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 163
+    },
+    {
+        "NationalTeamID": 3440,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 180
+    },
+    {
+        "NationalTeamID": 3440,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 178
+    },
+    {
+        "NationalTeamID": 3440,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 154
+    },
+    {
+        "NationalTeamID": 3440,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 165
+    },
+    {
+        "NationalTeamID": 3440,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 106
+    },
+    {
+        "NationalTeamID": 3442,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 198
+    },
+    {
+        "NationalTeamID": 3442,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 196
+    },
+    {
+        "NationalTeamID": 3442,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 213
+    },
+    {
+        "NationalTeamID": 3442,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 234
+    },
+    {
+        "NationalTeamID": 3442,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 205
+    },
+    {
+        "NationalTeamID": 3442,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 214
+    },
+    {
+        "NationalTeamID": 3442,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 196
+    },
+    {
+        "NationalTeamID": 3442,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 223
+    },
+    {
+        "NationalTeamID": 3442,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 203
+    },
+    {
+        "NationalTeamID": 3442,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 201
+    },
+    {
+        "NationalTeamID": 3442,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 178
+    },
+    {
+        "NationalTeamID": 3443,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 325
+    },
+    {
+        "NationalTeamID": 3443,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 278
+    },
+    {
+        "NationalTeamID": 3443,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 265
+    },
+    {
+        "NationalTeamID": 3443,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 235
+    },
+    {
+        "NationalTeamID": 3443,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 203
+    },
+    {
+        "NationalTeamID": 3443,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 197
+    },
+    {
+        "NationalTeamID": 3443,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 182
+    },
+    {
+        "NationalTeamID": 3443,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 196
+    },
+    {
+        "NationalTeamID": 3443,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 195
+    },
+    {
+        "NationalTeamID": 3443,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 179
+    },
+    {
+        "NationalTeamID": 3443,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 86
+    },
+    {
+        "NationalTeamID": 3445,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 164
+    },
+    {
+        "NationalTeamID": 3445,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 140
+    },
+    {
+        "NationalTeamID": 3445,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 153
+    },
+    {
+        "NationalTeamID": 3445,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 143
+    },
+    {
+        "NationalTeamID": 3445,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 143
+    },
+    {
+        "NationalTeamID": 3445,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 121
+    },
+    {
+        "NationalTeamID": 3445,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 114
+    },
+    {
+        "NationalTeamID": 3445,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 117
+    },
+    {
+        "NationalTeamID": 3445,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 109
+    },
+    {
+        "NationalTeamID": 3445,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 120
+    },
+    {
+        "NationalTeamID": 3445,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 107
+    },
+    {
+        "NationalTeamID": 3447,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 193
+    },
+    {
+        "NationalTeamID": 3447,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 176
+    },
+    {
+        "NationalTeamID": 3447,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 181
+    },
+    {
+        "NationalTeamID": 3447,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 176
+    },
+    {
+        "NationalTeamID": 3447,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 193
+    },
+    {
+        "NationalTeamID": 3447,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 189
+    },
+    {
+        "NationalTeamID": 3447,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 198
+    },
+    {
+        "NationalTeamID": 3447,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 171
+    },
+    {
+        "NationalTeamID": 3447,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 150
+    },
+    {
+        "NationalTeamID": 3447,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 183
+    },
+    {
+        "NationalTeamID": 3447,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 126
+    },
+    {
+        "NationalTeamID": 3448,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 253
+    },
+    {
+        "NationalTeamID": 3448,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 239
+    },
+    {
+        "NationalTeamID": 3448,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 240
+    },
+    {
+        "NationalTeamID": 3448,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 211
+    },
+    {
+        "NationalTeamID": 3448,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 230
+    },
+    {
+        "NationalTeamID": 3448,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 202
+    },
+    {
+        "NationalTeamID": 3448,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 185
+    },
+    {
+        "NationalTeamID": 3448,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 175
+    },
+    {
+        "NationalTeamID": 3448,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 135
+    },
+    {
+        "NationalTeamID": 3448,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 185
+    },
+    {
+        "NationalTeamID": 3448,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 127
+    },
+    {
+        "NationalTeamID": 3450,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 217
+    },
+    {
+        "NationalTeamID": 3450,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 225
+    },
+    {
+        "NationalTeamID": 3450,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 207
+    },
+    {
+        "NationalTeamID": 3450,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 217
+    },
+    {
+        "NationalTeamID": 3450,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 217
+    },
+    {
+        "NationalTeamID": 3450,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 195
+    },
+    {
+        "NationalTeamID": 3450,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 161
+    },
+    {
+        "NationalTeamID": 3450,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 131
+    },
+    {
+        "NationalTeamID": 3450,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 112
+    },
+    {
+        "NationalTeamID": 3450,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 99
+    },
+    {
+        "NationalTeamID": 3450,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 40
+    },
+    {
+        "NationalTeamID": 3468,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 185
+    },
+    {
+        "NationalTeamID": 3468,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 153
+    },
+    {
+        "NationalTeamID": 3468,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 145
+    },
+    {
+        "NationalTeamID": 3468,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 142
+    },
+    {
+        "NationalTeamID": 3468,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 163
+    },
+    {
+        "NationalTeamID": 3468,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 153
+    },
+    {
+        "NationalTeamID": 3468,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 157
+    },
+    {
+        "NationalTeamID": 3468,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 181
+    },
+    {
+        "NationalTeamID": 3468,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 192
+    },
+    {
+        "NationalTeamID": 3468,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 163
+    },
+    {
+        "NationalTeamID": 3468,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 121
+    },
+    {
+        "NationalTeamID": 3503,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 91
+    },
+    {
+        "NationalTeamID": 3503,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 106
+    },
+    {
+        "NationalTeamID": 3503,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 104
+    },
+    {
+        "NationalTeamID": 3503,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 97
+    },
+    {
+        "NationalTeamID": 3503,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 113
+    },
+    {
+        "NationalTeamID": 3503,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 114
+    },
+    {
+        "NationalTeamID": 3503,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 96
+    },
+    {
+        "NationalTeamID": 3503,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 102
+    },
+    {
+        "NationalTeamID": 3503,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 98
+    },
+    {
+        "NationalTeamID": 3503,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 117
+    },
+    {
+        "NationalTeamID": 3503,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 78
+    },
+    {
+        "NationalTeamID": 3509,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 115
+    },
+    {
+        "NationalTeamID": 3509,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 99
+    },
+    {
+        "NationalTeamID": 3509,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 104
+    },
+    {
+        "NationalTeamID": 3509,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 98
+    },
+    {
+        "NationalTeamID": 3509,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 103
+    },
+    {
+        "NationalTeamID": 3509,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 110
+    },
+    {
+        "NationalTeamID": 3509,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 96
+    },
+    {
+        "NationalTeamID": 3509,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 114
+    },
+    {
+        "NationalTeamID": 3509,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 115
+    },
+    {
+        "NationalTeamID": 3509,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 142
+    },
+    {
+        "NationalTeamID": 3509,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 70
+    },
+    {
+        "NationalTeamID": 3555,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 97
+    },
+    {
+        "NationalTeamID": 3555,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 135
+    },
+    {
+        "NationalTeamID": 3555,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 138
+    },
+    {
+        "NationalTeamID": 3555,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 152
+    },
+    {
+        "NationalTeamID": 3555,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 183
+    },
+    {
+        "NationalTeamID": 3555,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 173
+    },
+    {
+        "NationalTeamID": 3555,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 151
+    },
+    {
+        "NationalTeamID": 3555,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 153
+    },
+    {
+        "NationalTeamID": 3555,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 146
+    },
+    {
+        "NationalTeamID": 3555,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 141
+    },
+    {
+        "NationalTeamID": 3555,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 77
+    },
+    {
+        "NationalTeamID": 3556,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 108
+    },
+    {
+        "NationalTeamID": 3556,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 102
+    },
+    {
+        "NationalTeamID": 3556,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 100
+    },
+    {
+        "NationalTeamID": 3556,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 97
+    },
+    {
+        "NationalTeamID": 3556,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 98
+    },
+    {
+        "NationalTeamID": 3556,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 96
+    },
+    {
+        "NationalTeamID": 3556,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 114
+    },
+    {
+        "NationalTeamID": 3556,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 96
+    },
+    {
+        "NationalTeamID": 3556,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 100
+    },
+    {
+        "NationalTeamID": 3556,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 98
+    },
+    {
+        "NationalTeamID": 3556,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 68
+    },
+    {
+        "NationalTeamID": 3557,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 231
+    },
+    {
+        "NationalTeamID": 3557,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 250
+    },
+    {
+        "NationalTeamID": 3557,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 256
+    },
+    {
+        "NationalTeamID": 3557,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 253
+    },
+    {
+        "NationalTeamID": 3557,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 243
+    },
+    {
+        "NationalTeamID": 3557,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 248
+    },
+    {
+        "NationalTeamID": 3557,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 237
+    },
+    {
+        "NationalTeamID": 3557,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 255
+    },
+    {
+        "NationalTeamID": 3557,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 262
+    },
+    {
+        "NationalTeamID": 3557,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 271
+    },
+    {
+        "NationalTeamID": 3557,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 155
+    },
+    {
+        "NationalTeamID": 3561,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 214
+    },
+    {
+        "NationalTeamID": 3561,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 219
+    },
+    {
+        "NationalTeamID": 3561,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 169
+    },
+    {
+        "NationalTeamID": 3561,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 165
+    },
+    {
+        "NationalTeamID": 3561,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 160
+    },
+    {
+        "NationalTeamID": 3561,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 136
+    },
+    {
+        "NationalTeamID": 3561,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 133
+    },
+    {
+        "NationalTeamID": 3561,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 141
+    },
+    {
+        "NationalTeamID": 3561,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 133
+    },
+    {
+        "NationalTeamID": 3561,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 124
+    },
+    {
+        "NationalTeamID": 3561,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 104
+    },
+    {
+        "NationalTeamID": 3574,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 139
+    },
+    {
+        "NationalTeamID": 3574,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 125
+    },
+    {
+        "NationalTeamID": 3574,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 119
+    },
+    {
+        "NationalTeamID": 3574,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 108
+    },
+    {
+        "NationalTeamID": 3574,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 105
+    },
+    {
+        "NationalTeamID": 3574,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 71
+    },
+    {
+        "NationalTeamID": 3574,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 69
+    },
+    {
+        "NationalTeamID": 3574,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 72
+    },
+    {
+        "NationalTeamID": 3574,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 54
+    },
+    {
+        "NationalTeamID": 3574,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 43
+    },
+    {
+        "NationalTeamID": 3574,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 26
+    },
+    {
+        "NationalTeamID": 3580,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 198
+    },
+    {
+        "NationalTeamID": 3580,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 223
+    },
+    {
+        "NationalTeamID": 3580,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 214
+    },
+    {
+        "NationalTeamID": 3580,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 223
+    },
+    {
+        "NationalTeamID": 3580,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 251
+    },
+    {
+        "NationalTeamID": 3580,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 185
+    },
+    {
+        "NationalTeamID": 3580,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 205
+    },
+    {
+        "NationalTeamID": 3580,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 238
+    },
+    {
+        "NationalTeamID": 3580,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 240
+    },
+    {
+        "NationalTeamID": 3580,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 270
+    },
+    {
+        "NationalTeamID": 3580,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 201
+    },
+    {
+        "NationalTeamID": 3587,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 191
+    },
+    {
+        "NationalTeamID": 3587,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 176
+    },
+    {
+        "NationalTeamID": 3587,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 221
+    },
+    {
+        "NationalTeamID": 3587,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 195
+    },
+    {
+        "NationalTeamID": 3587,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 177
+    },
+    {
+        "NationalTeamID": 3587,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 175
+    },
+    {
+        "NationalTeamID": 3587,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 185
+    },
+    {
+        "NationalTeamID": 3587,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 194
+    },
+    {
+        "NationalTeamID": 3587,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 201
+    },
+    {
+        "NationalTeamID": 3587,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 211
+    },
+    {
+        "NationalTeamID": 3587,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 156
+    },
+    {
+        "NationalTeamID": 3588,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 138
+    },
+    {
+        "NationalTeamID": 3588,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 154
+    },
+    {
+        "NationalTeamID": 3588,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 160
+    },
+    {
+        "NationalTeamID": 3588,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 135
+    },
+    {
+        "NationalTeamID": 3588,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 117
+    },
+    {
+        "NationalTeamID": 3588,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 129
+    },
+    {
+        "NationalTeamID": 3588,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 130
+    },
+    {
+        "NationalTeamID": 3588,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 139
+    },
+    {
+        "NationalTeamID": 3588,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 163
+    },
+    {
+        "NationalTeamID": 3588,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 166
+    },
+    {
+        "NationalTeamID": 3588,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 127
+    },
+    {
+        "NationalTeamID": 3668,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 187
+    },
+    {
+        "NationalTeamID": 3668,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 194
+    },
+    {
+        "NationalTeamID": 3668,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 198
+    },
+    {
+        "NationalTeamID": 3668,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 211
+    },
+    {
+        "NationalTeamID": 3668,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 201
+    },
+    {
+        "NationalTeamID": 3668,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 193
+    },
+    {
+        "NationalTeamID": 3668,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 192
+    },
+    {
+        "NationalTeamID": 3668,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 222
+    },
+    {
+        "NationalTeamID": 3668,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 220
+    },
+    {
+        "NationalTeamID": 3668,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 211
+    },
+    {
+        "NationalTeamID": 3668,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 171
+    },
+    {
+        "NationalTeamID": 3669,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 152
+    },
+    {
+        "NationalTeamID": 3669,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 166
+    },
+    {
+        "NationalTeamID": 3669,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 170
+    },
+    {
+        "NationalTeamID": 3669,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 140
+    },
+    {
+        "NationalTeamID": 3669,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 100
+    },
+    {
+        "NationalTeamID": 3669,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 116
+    },
+    {
+        "NationalTeamID": 3669,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 116
+    },
+    {
+        "NationalTeamID": 3669,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 114
+    },
+    {
+        "NationalTeamID": 3669,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 95
+    },
+    {
+        "NationalTeamID": 3669,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 143
+    },
+    {
+        "NationalTeamID": 3669,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 55
+    },
+    {
+        "NationalTeamID": 3699,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 175
+    },
+    {
+        "NationalTeamID": 3699,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 151
+    },
+    {
+        "NationalTeamID": 3699,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 158
+    },
+    {
+        "NationalTeamID": 3699,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 153
+    },
+    {
+        "NationalTeamID": 3699,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 142
+    },
+    {
+        "NationalTeamID": 3699,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 135
+    },
+    {
+        "NationalTeamID": 3699,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 138
+    },
+    {
+        "NationalTeamID": 3699,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 109
+    },
+    {
+        "NationalTeamID": 3699,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 65
+    },
+    {
+        "NationalTeamID": 3699,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 101
+    },
+    {
+        "NationalTeamID": 3699,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 64
+    },
+    {
+        "NationalTeamID": 3851,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 82
+    },
+    {
+        "NationalTeamID": 3851,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 111
+    },
+    {
+        "NationalTeamID": 3851,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 128
+    },
+    {
+        "NationalTeamID": 3851,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 137
+    },
+    {
+        "NationalTeamID": 3851,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 131
+    },
+    {
+        "NationalTeamID": 3851,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 98
+    },
+    {
+        "NationalTeamID": 3851,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 107
+    },
+    {
+        "NationalTeamID": 3851,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 138
+    },
+    {
+        "NationalTeamID": 3851,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 145
+    },
+    {
+        "NationalTeamID": 3851,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 141
+    },
+    {
+        "NationalTeamID": 3851,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 71
+    },
+    {
+        "NationalTeamID": 3864,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 152
+    },
+    {
+        "NationalTeamID": 3864,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 133
+    },
+    {
+        "NationalTeamID": 3864,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 139
+    },
+    {
+        "NationalTeamID": 3864,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 171
+    },
+    {
+        "NationalTeamID": 3864,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 153
+    },
+    {
+        "NationalTeamID": 3864,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 193
+    },
+    {
+        "NationalTeamID": 3864,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 176
+    },
+    {
+        "NationalTeamID": 3864,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 203
+    },
+    {
+        "NationalTeamID": 3864,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 132
+    },
+    {
+        "NationalTeamID": 3864,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 133
+    },
+    {
+        "NationalTeamID": 3864,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 100
+    },
+    {
+        "NationalTeamID": 5547,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 201
+    },
+    {
+        "NationalTeamID": 5547,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 199
+    },
+    {
+        "NationalTeamID": 5547,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 202
+    },
+    {
+        "NationalTeamID": 5547,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 189
+    },
+    {
+        "NationalTeamID": 5547,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 194
+    },
+    {
+        "NationalTeamID": 5547,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 177
+    },
+    {
+        "NationalTeamID": 5547,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 168
+    },
+    {
+        "NationalTeamID": 5547,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 182
+    },
+    {
+        "NationalTeamID": 5547,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 183
+    },
+    {
+        "NationalTeamID": 5547,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 178
+    },
+    {
+        "NationalTeamID": 5547,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 121
+    },
+    {
+        "NationalTeamID": 5673,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 25
+    },
+    {
+        "NationalTeamID": 5673,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 35
+    },
+    {
+        "NationalTeamID": 5673,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 28
+    },
+    {
+        "NationalTeamID": 5673,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 28
+    },
+    {
+        "NationalTeamID": 5673,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 28
+    },
+    {
+        "NationalTeamID": 5673,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 22
+    },
+    {
+        "NationalTeamID": 5673,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 24
+    },
+    {
+        "NationalTeamID": 5673,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 33
+    },
+    {
+        "NationalTeamID": 5673,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 24
+    },
+    {
+        "NationalTeamID": 5673,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 27
+    },
+    {
+        "NationalTeamID": 5673,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 20
+    },
+    {
+        "NationalTeamID": 6090,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 178
+    },
+    {
+        "NationalTeamID": 6090,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 231
+    },
+    {
+        "NationalTeamID": 6090,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 353
+    },
+    {
+        "NationalTeamID": 6090,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 272
+    },
+    {
+        "NationalTeamID": 6090,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 222
+    },
+    {
+        "NationalTeamID": 6090,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 171
+    },
+    {
+        "NationalTeamID": 6090,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 189
+    },
+    {
+        "NationalTeamID": 6090,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 174
+    },
+    {
+        "NationalTeamID": 6090,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 178
+    },
+    {
+        "NationalTeamID": 6090,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 137
+    },
+    {
+        "NationalTeamID": 6090,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 71
+    },
+    {
+        "NationalTeamID": 6133,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 126
+    },
+    {
+        "NationalTeamID": 6133,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 120
+    },
+    {
+        "NationalTeamID": 6133,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 109
+    },
+    {
+        "NationalTeamID": 6133,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 103
+    },
+    {
+        "NationalTeamID": 6133,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 90
+    },
+    {
+        "NationalTeamID": 6133,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 81
+    },
+    {
+        "NationalTeamID": 6133,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 78
+    },
+    {
+        "NationalTeamID": 6133,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 84
+    },
+    {
+        "NationalTeamID": 6133,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 84
+    },
+    {
+        "NationalTeamID": 6133,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 82
+    },
+    {
+        "NationalTeamID": 6133,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 44
+    },
+    {
+        "NationalTeamID": 6219,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 189
+    },
+    {
+        "NationalTeamID": 6219,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 170
+    },
+    {
+        "NationalTeamID": 6219,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 180
+    },
+    {
+        "NationalTeamID": 6219,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 206
+    },
+    {
+        "NationalTeamID": 6219,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 267
+    },
+    {
+        "NationalTeamID": 6219,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 222
+    },
+    {
+        "NationalTeamID": 6219,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 209
+    },
+    {
+        "NationalTeamID": 6219,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 181
+    },
+    {
+        "NationalTeamID": 6219,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 193
+    },
+    {
+        "NationalTeamID": 6219,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 182
+    },
+    {
+        "NationalTeamID": 6219,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 118
+    },
+    {
+        "NationalTeamID": 8605,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 123
+    },
+    {
+        "NationalTeamID": 8605,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 139
+    },
+    {
+        "NationalTeamID": 8605,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 132
+    },
+    {
+        "NationalTeamID": 8605,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 154
+    },
+    {
+        "NationalTeamID": 8605,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 141
+    },
+    {
+        "NationalTeamID": 8605,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 128
+    },
+    {
+        "NationalTeamID": 8605,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 126
+    },
+    {
+        "NationalTeamID": 8605,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 123
+    },
+    {
+        "NationalTeamID": 8605,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 133
+    },
+    {
+        "NationalTeamID": 8605,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 153
+    },
+    {
+        "NationalTeamID": 8605,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 121
+    },
+    {
+        "NationalTeamID": 9110,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 255
+    },
+    {
+        "NationalTeamID": 9110,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 256
+    },
+    {
+        "NationalTeamID": 9110,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 239
+    },
+    {
+        "NationalTeamID": 9110,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 230
+    },
+    {
+        "NationalTeamID": 9110,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 180
+    },
+    {
+        "NationalTeamID": 9110,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 177
+    },
+    {
+        "NationalTeamID": 9110,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 183
+    },
+    {
+        "NationalTeamID": 9110,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 155
+    },
+    {
+        "NationalTeamID": 9110,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 135
+    },
+    {
+        "NationalTeamID": 9110,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 156
+    },
+    {
+        "NationalTeamID": 9110,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 70
+    },
+    {
+        "NationalTeamID": 10521,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 106
+    },
+    {
+        "NationalTeamID": 10521,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 70
+    },
+    {
+        "NationalTeamID": 10521,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 86
+    },
+    {
+        "NationalTeamID": 10521,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 117
+    },
+    {
+        "NationalTeamID": 10521,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 125
+    },
+    {
+        "NationalTeamID": 10521,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 140
+    },
+    {
+        "NationalTeamID": 10521,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 122
+    },
+    {
+        "NationalTeamID": 10521,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 157
+    },
+    {
+        "NationalTeamID": 10521,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 167
+    },
+    {
+        "NationalTeamID": 10521,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 162
+    },
+    {
+        "NationalTeamID": 10521,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 118
+    },
+    {
+        "NationalTeamID": 10533,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 112
+    },
+    {
+        "NationalTeamID": 10533,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 88
+    },
+    {
+        "NationalTeamID": 10533,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 114
+    },
+    {
+        "NationalTeamID": 10533,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 120
+    },
+    {
+        "NationalTeamID": 10533,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 173
+    },
+    {
+        "NationalTeamID": 10533,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 163
+    },
+    {
+        "NationalTeamID": 10533,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 144
+    },
+    {
+        "NationalTeamID": 10533,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 188
+    },
+    {
+        "NationalTeamID": 10533,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 183
+    },
+    {
+        "NationalTeamID": 10533,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 147
+    },
+    {
+        "NationalTeamID": 10533,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 98
+    },
+    {
+        "NationalTeamID": 11953,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 133
+    },
+    {
+        "NationalTeamID": 11953,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 163
+    },
+    {
+        "NationalTeamID": 11953,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 134
+    },
+    {
+        "NationalTeamID": 11953,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 126
+    },
+    {
+        "NationalTeamID": 11953,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 116
+    },
+    {
+        "NationalTeamID": 11953,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 110
+    },
+    {
+        "NationalTeamID": 11953,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 89
+    },
+    {
+        "NationalTeamID": 11953,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 88
+    },
+    {
+        "NationalTeamID": 11953,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 96
+    },
+    {
+        "NationalTeamID": 11953,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 80
+    },
+    {
+        "NationalTeamID": 11953,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 53
+    },
+    {
+        "NationalTeamID": 37574,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 83
+    },
+    {
+        "NationalTeamID": 37574,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 89
+    },
+    {
+        "NationalTeamID": 37574,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 104
+    },
+    {
+        "NationalTeamID": 37574,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 116
+    },
+    {
+        "NationalTeamID": 37574,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 134
+    },
+    {
+        "NationalTeamID": 37574,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 125
+    },
+    {
+        "NationalTeamID": 37574,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 73
+    },
+    {
+        "NationalTeamID": 37574,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 111
+    },
+    {
+        "NationalTeamID": 37574,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 111
+    },
+    {
+        "NationalTeamID": 37574,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 121
+    },
+    {
+        "NationalTeamID": 37574,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 87
+    },
+    {
+        "NationalTeamID": 53982,
+        "Year": 2014,
+        "TotalLegionnairesAmount": 20
+    },
+    {
+        "NationalTeamID": 53982,
+        "Year": 2015,
+        "TotalLegionnairesAmount": 66
+    },
+    {
+        "NationalTeamID": 53982,
+        "Year": 2016,
+        "TotalLegionnairesAmount": 74
+    },
+    {
+        "NationalTeamID": 53982,
+        "Year": 2017,
+        "TotalLegionnairesAmount": 80
+    },
+    {
+        "NationalTeamID": 53982,
+        "Year": 2018,
+        "TotalLegionnairesAmount": 118
+    },
+    {
+        "NationalTeamID": 53982,
+        "Year": 2019,
+        "TotalLegionnairesAmount": 127
+    },
+    {
+        "NationalTeamID": 53982,
+        "Year": 2020,
+        "TotalLegionnairesAmount": 119
+    },
+    {
+        "NationalTeamID": 53982,
+        "Year": 2021,
+        "TotalLegionnairesAmount": 104
+    },
+    {
+        "NationalTeamID": 53982,
+        "Year": 2022,
+        "TotalLegionnairesAmount": 102
+    },
+    {
+        "NationalTeamID": 53982,
+        "Year": 2023,
+        "TotalLegionnairesAmount": 134
+    },
+    {
+        "NationalTeamID": 53982,
+        "Year": 2024,
+        "TotalLegionnairesAmount": 95
+    }
+]
