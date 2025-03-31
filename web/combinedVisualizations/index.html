@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Football Data Visualizations</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <h1>Football Data Analysis</h1>
+    <!-- Scatter Plot Section -->
+    <div class="visualization-section" id="scatter-section">
+        <h2>Club Performance Analysis</h2>
+        <div class="timeline">
+            <button class="timeline-btn play-pause-btn">▶</button>
+            <div class="timeline-years">
+                <!-- Years will be dynamically populated by script.js -->
+            </div>
+        </div>
+        <div class="main-container">
+            <div class="legend-container" id="scatter-legend-container"></div>
+            <div class="scatter-container">
+                <label class="toggle-container">
+                    <input type="checkbox" id="toggle-trajectory" checked>
+                    <span class="toggle-label">Show Trajectory</span>
+                </label>
+                <div class="axis-selectors">
+                    <label for="country-select">Country:</label>
+                    <select id="country-select">
+                        <option value="all" selected>All Countries</option>
+                        <!-- Options will be dynamically populated -->
+                    </select>
+
+                    <label for="y-axis-select">Y-Axis:</label>
+                    <select id="y-axis-select">
+                        <option value="" disabled selected>Select Y-Axis Measure</option>
+                        <option value="titles">Titles number</option>
+                        <option value="transferBalance">Transfer balance</option>
+                        <option value="averagePoints">Average points per match</option>
+                    </select>
+
+                    <label for="x-axis-select">X-Axis:</label>
+                    <select id="x-axis-select" disabled>
+                        <option value="" disabled selected>Select X-Axis Measure</option>
+                        <option value="nationalPlayers">Number of national team players</option>
+                        <option value="teamCost">Team Cost</option>
+                        <option value="transferBalance">Transfer balance</option>
+                        <option value="legioners">Number of Legioners</option>
+                        <option value="averageAge">Team Average age</option>
+                        <option value="teamSizeRatio">Team size ratio</option>
+                    </select>
+                </div>
+                <svg id="scatter-plot"></svg>
+            </div>
+            <div class="club-info" id="scatter-club-info">
+                <h3>Click on a club to see details</h3>
+            </div>
+        </div>
+    </div>
+
+    <!-- Heatmap Section -->
+    <div class="visualization-section" id="heatmap-section">
+        <h2>Football World Heatmap</h2>
+        <div class="controls">
+            <div>
+                <label for="measure">Select Measure:</label>
+                <select id="measure">
+                    <option value="average_team_cost">Average Team Cost</option>
+                    <option value="full_players_cost">Full Players Cost</option>
+                    <option value="legionnaires_total_amount">Legionnaires Total Amount</option>
+                    <option value="national_team_players_total_amount">National Team Players Total Amount</option>
+                    <option value="total_average_age">Total Average Age</option>
+                </select>
+            </div>
+            <div class="timeline">
+                <button id="prev-year">&#8592; Previous</button>
+                <span id="current-year">2014</span>
+                <button id="next-year">Next &#8594;</button>
+                <button id="play-toggle">▶</button>
+            </div>
+        </div>
+        <div class="map-container">
+            <div id="map"></div>
+            <div class="legend" id="map-legend"></div>
+            <div class="country-info" id="map-country-info">
+                <h3>Country Info</h3>
+                <p>Select a country to see details</p>
+                <div class="club-list"></div>
+                <table id="country-info-table" style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+                    <!-- Table will be filled dynamically -->
+                </table>
+            </div>
+        </div>
+        <div class="zoom-controls">
+            <button id="zoom-in">Zoom In</button>
+            <button id="zoom-out">Zoom Out</button>
+            <button id="reset">Reset</button>
+        </div>
+    </div>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="scriptScatter.js"></script>
+    <script src="scriptMap.js"></script>
+</body>
+
+</html>

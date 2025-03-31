@@ -1,0 +1,3509 @@
+[
+    {
+        "TeamID": 281,
+        "Team_name": "\u041c\u0430\u043d\u0447\u0435\u0441\u0442\u0435\u0440 \u0421\u0438\u0442\u0438",
+        "NumberOfCups": 43,
+        "NationalTeamID": 3299,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/281.png?lm=1467356331"
+    },
+    {
+        "TeamID": 27,
+        "Team_name": "\u0411\u0430\u0432\u0430\u0440\u0438\u044f",
+        "NumberOfCups": 84,
+        "NationalTeamID": 3262,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/27.png?lm=1729503608"
+    },
+    {
+        "TeamID": 418,
+        "Team_name": "\u0420\u0435\u0430\u043b \u041c\u0430\u0434\u0440\u0438\u0434",
+        "NumberOfCups": 103,
+        "NationalTeamID": 3375,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/418.png?lm=1729684474"
+    },
+    {
+        "TeamID": 131,
+        "Team_name": "\u0411\u0430\u0440\u0441\u0435\u043b\u043e\u043d\u0430",
+        "NumberOfCups": 105,
+        "NationalTeamID": 3375,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/131.png?lm=1406739548"
+    },
+    {
+        "TeamID": 583,
+        "Team_name": "\u041f\u0421\u0416",
+        "NumberOfCups": 51,
+        "NationalTeamID": 3377,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/583.png?lm=1728026461"
+    },
+    {
+        "TeamID": 985,
+        "Team_name": "\u041c\u0430\u043d\u0447\u0435\u0441\u0442\u0435\u0440 \u042e\u043d.",
+        "NumberOfCups": 70,
+        "NationalTeamID": 3299,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/985.png?lm=1457975903"
+    },
+    {
+        "TeamID": 11,
+        "Team_name": "\u0410\u0440\u0441\u0435\u043d\u0430\u043b",
+        "NumberOfCups": 48,
+        "NationalTeamID": 3299,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/11.png?lm=1489787850"
+    },
+    {
+        "TeamID": 13,
+        "Team_name": "\u0410\u0442\u043b\u0435\u0442\u0438\u043a\u043e \u041c\u0430\u0434\u0440\u0438\u0434",
+        "NumberOfCups": 33,
+        "NationalTeamID": 3375,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/13.png?lm=1719915566"
+    },
+    {
+        "TeamID": 46,
+        "Team_name": "\u0418\u043d\u0442\u0435\u0440",
+        "NumberOfCups": 46,
+        "NationalTeamID": 3376,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/46.png?lm=1618900989"
+    },
+    {
+        "TeamID": 12,
+        "Team_name": "\u0420\u043e\u043c\u0430",
+        "NumberOfCups": 17,
+        "NationalTeamID": 3376,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/12.png?lm=1701079293"
+    },
+    {
+        "TeamID": 15,
+        "Team_name": "\u0411\u0430\u0439\u0435\u0440",
+        "NumberOfCups": 6,
+        "NationalTeamID": 3262,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/15.png?lm=1710156317"
+    },
+    {
+        "TeamID": 1050,
+        "Team_name": "\u0412\u0438\u043b\u044c\u044f\u0440\u0440\u0435\u0430\u043b",
+        "NumberOfCups": 1,
+        "NationalTeamID": 3375,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1050.png?lm=1408655310"
+    },
+    {
+        "TeamID": 294,
+        "Team_name": "\u0411\u0435\u043d\u0444\u0438\u043a\u0430",
+        "NumberOfCups": 83,
+        "NationalTeamID": 3300,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/294.png?lm=1535908439"
+    },
+    {
+        "TeamID": 31,
+        "Team_name": "\u041b\u0438\u0432\u0435\u0440\u043f\u0443\u043b\u044c",
+        "NumberOfCups": 71,
+        "NationalTeamID": 3299,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/31.png?lm=1727873452"
+    },
+    {
+        "TeamID": 720,
+        "Team_name": "\u041f\u043e\u0440\u0442\u0443",
+        "NumberOfCups": 82,
+        "NationalTeamID": 3300,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/720.png?lm=1486310161"
+    },
+    {
+        "TeamID": 800,
+        "Team_name": "\u0410\u0442\u0430\u043b\u0430\u043d\u0442\u0430",
+        "NumberOfCups": 8,
+        "NationalTeamID": 3376,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/800.png?lm=1438547428"
+    },
+    {
+        "TeamID": 398,
+        "Team_name": "\u041b\u0430\u0446\u0438\u043e",
+        "NumberOfCups": 17,
+        "NationalTeamID": 3376,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/398.png?lm=1601537785"
+    },
+    {
+        "TeamID": 16,
+        "Team_name": "\u0411\u043e\u0440\u0443\u0441\u0441\u0438\u044f \u0414.",
+        "NumberOfCups": 24,
+        "NationalTeamID": 3262,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/16.png?lm=1396275280"
+    },
+    {
+        "TeamID": 631,
+        "Team_name": "\u0427\u0435\u043b\u0441\u0438",
+        "NumberOfCups": 34,
+        "NationalTeamID": 3299,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/631.png?lm=1682435911"
+    },
+    {
+        "TeamID": 2282,
+        "Team_name": "\u0411\u0440\u044e\u0433\u0433\u0435",
+        "NumberOfCups": 47,
+        "NationalTeamID": 3382,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2282.png?lm=1716279106"
+    },
+    {
+        "TeamID": 5,
+        "Team_name": "\u041c\u0438\u043b\u0430\u043d",
+        "NumberOfCups": 53,
+        "NationalTeamID": 3376,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/5.png?lm=1605166627"
+    },
+    {
+        "TeamID": 506,
+        "Team_name": "\u042e\u0432\u0435\u043d\u0442\u0443\u0441",
+        "NumberOfCups": 71,
+        "NationalTeamID": 3376,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/506.png?lm=1626441487"
+    },
+    {
+        "TeamID": 23826,
+        "Team_name": "\u0420\u0411 \u041b\u0435\u0439\u043f\u0446\u0438\u0433",
+        "NumberOfCups": 6,
+        "NationalTeamID": 3262,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/23826.png?lm=1619431624"
+    },
+    {
+        "TeamID": 383,
+        "Team_name": "\u041f\u0421\u0412",
+        "NumberOfCups": 52,
+        "NationalTeamID": 3379,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/383.png?lm=1682925949"
+    },
+    {
+        "TeamID": 24,
+        "Team_name": "\u0410\u0439\u043d\u0442\u0440\u0430\u0445\u0442 \u0424.",
+        "NumberOfCups": 11,
+        "NationalTeamID": 3262,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/24.png?lm=1700074979"
+    },
+    {
+        "TeamID": 1082,
+        "Team_name": "\u041b\u0438\u043b\u043b\u044c",
+        "NumberOfCups": 15,
+        "NationalTeamID": 3377,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1082.png?lm=1529521041"
+    },
+    {
+        "TeamID": 379,
+        "Team_name": "\u0412\u0435\u0441\u0442 \u0425\u044d\u043c",
+        "NumberOfCups": 8,
+        "NationalTeamID": 3299,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/379.png?lm=1464675260"
+    },
+    {
+        "TeamID": 234,
+        "Team_name": "\u0424\u0435\u0439\u0435\u043d\u043e\u043e\u0440\u0434",
+        "NumberOfCups": 39,
+        "NationalTeamID": 3379,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/234.png?lm=1721654567"
+    },
+    {
+        "TeamID": 681,
+        "Team_name": "\u0420\u0435\u0430\u043b \u0421\u043e\u0441\u044c\u0435\u0434\u0430\u0434",
+        "NumberOfCups": 12,
+        "NationalTeamID": 3375,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/681.png?lm=1614795530"
+    },
+    {
+        "TeamID": 124,
+        "Team_name": "\u0420\u0435\u0439\u043d\u0434\u0436\u0435\u0440\u0441",
+        "NumberOfCups": 122,
+        "NationalTeamID": 3380,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/124.png?lm=1657628093"
+    },
+    {
+        "TeamID": 336,
+        "Team_name": "\u0421\u043f\u043e\u0440\u0442\u0438\u043d\u0433",
+        "NumberOfCups": 51,
+        "NationalTeamID": 3300,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/336.png?lm=1621513752"
+    },
+    {
+        "TeamID": 660,
+        "Team_name": "\u0428\u0430\u0445\u0442\u0435\u0440",
+        "NumberOfCups": 43,
+        "NationalTeamID": 3699,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/660.png?lm=1396275305"
+    },
+    {
+        "TeamID": 610,
+        "Team_name": "\u0410\u044f\u043a\u0441",
+        "NumberOfCups": 77,
+        "NationalTeamID": 3379,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/610.png?lm=1731923662"
+    },
+    {
+        "TeamID": 368,
+        "Team_name": "\u0421\u0435\u0432\u0438\u043b\u044c\u044f",
+        "NumberOfCups": 19,
+        "NationalTeamID": 3375,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/368.png?lm=1730896593"
+    },
+    {
+        "TeamID": 6195,
+        "Team_name": "\u041d\u0430\u043f\u043e\u043b\u0438",
+        "NumberOfCups": 14,
+        "NationalTeamID": 3376,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/6195.png?lm=1720861078"
+    },
+    {
+        "TeamID": 683,
+        "Team_name": "\u041e\u043b\u0438\u043c\u043f\u0438\u0430\u043a\u043e\u0441",
+        "NumberOfCups": 80,
+        "NationalTeamID": 3378,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/683.png?lm=1717764764"
+    },
+    {
+        "TeamID": 244,
+        "Team_name": "\u041c\u0430\u0440\u0441\u0435\u043b\u044c",
+        "NumberOfCups": 27,
+        "NationalTeamID": 3377,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/244.png?lm=1485642163"
+    },
+    {
+        "TeamID": 430,
+        "Team_name": "\u0424\u0438\u043e\u0440\u0435\u043d\u0442\u0438\u043d\u0430",
+        "NumberOfCups": 15,
+        "NationalTeamID": 3376,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/430.png?lm=1722844765"
+    },
+    {
+        "TeamID": 62,
+        "Team_name": "\u0421\u043b\u0430\u0432\u0438\u044f \u041f\u0440\u0430\u0433\u0430",
+        "NumberOfCups": 34,
+        "NationalTeamID": 3445,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/62.png?lm=1659955223"
+    },
+    {
+        "TeamID": 409,
+        "Team_name": "\u0420\u0411 \u0417\u0430\u043b\u044c\u0446\u0431\u0443\u0440\u0433",
+        "NumberOfCups": 32,
+        "NationalTeamID": 3383,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/409.png?lm=1557737354"
+    },
+    {
+        "TeamID": 36,
+        "Team_name": "\u0424\u0435\u043d\u0435\u0440\u0431\u0430\u0445\u0447\u0435",
+        "NumberOfCups": 35,
+        "NationalTeamID": 3381,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/36.png?lm=1406739123"
+    },
+    {
+        "TeamID": 1090,
+        "Team_name": "\u0410\u0417 \u0410\u043b\u043a\u043c\u0430\u0440",
+        "NumberOfCups": 10,
+        "NationalTeamID": 3379,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1090.png?lm=1586848339"
+    },
+    {
+        "TeamID": 1075,
+        "Team_name": "\u0411\u0440\u0430\u0433\u0430",
+        "NumberOfCups": 6,
+        "NationalTeamID": 3300,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1075.png?lm=1432893871"
+    },
+    {
+        "TeamID": 190,
+        "Team_name": "\u041a\u043e\u043f\u0435\u043d\u0433\u0430\u0433\u0435\u043d",
+        "NumberOfCups": 24,
+        "NationalTeamID": 3436,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/190.png?lm=1722282896"
+    },
+    {
+        "TeamID": 419,
+        "Team_name": "\u0414\u0438\u043d\u0430\u043c\u043e \u0417\u0430\u0433\u0440\u0435\u0431",
+        "NumberOfCups": 62,
+        "NationalTeamID": 3556,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/419.png?lm=1571921138"
+    },
+    {
+        "TeamID": 273,
+        "Team_name": "\u0420\u0435\u043d\u043d",
+        "NumberOfCups": 3,
+        "NationalTeamID": 3377,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/273.png?lm=1691503972"
+    },
+    {
+        "TeamID": 501,
+        "Team_name": "\u0411\u0443\u0434\u0451/\u0413\u043b\u0438\u043c\u0442",
+        "NumberOfCups": 6,
+        "NationalTeamID": 3440,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/501.png?lm=1410462743"
+    },
+    {
+        "TeamID": 1091,
+        "Team_name": "\u041f\u0410\u041e\u041a",
+        "NumberOfCups": 12,
+        "NationalTeamID": 3378,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1091.png?lm=1562577576"
+    },
+    {
+        "TeamID": 159,
+        "Team_name": "\u0426\u0440\u0432\u0435\u043d\u0430 \u0417\u0432\u0435\u0437\u0434\u0430",
+        "NumberOfCups": 67,
+        "NationalTeamID": 3438,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/159.png?lm=1567102522"
+    },
+    {
+        "TeamID": 148,
+        "Team_name": "\u0422\u043e\u0442\u0442\u0435\u043d\u0445\u044d\u043c",
+        "NumberOfCups": 26,
+        "NationalTeamID": 3299,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/148.png?lm=1732011953"
+    },
+    {
+        "TeamID": 157,
+        "Team_name": "\u0413\u0435\u043d\u0442",
+        "NumberOfCups": 6,
+        "NationalTeamID": 3382,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/157.png?lm=1715694765"
+    },
+    {
+        "TeamID": 150,
+        "Team_name": "\u0411\u0435\u0442\u0438\u0441",
+        "NumberOfCups": 11,
+        "NationalTeamID": 3375,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/150.png?lm=1663358526"
+    },
+    {
+        "TeamID": 279,
+        "Team_name": "\u0424\u0435\u0440\u0435\u043d\u0446\u0432\u0430\u0440\u043e\u0448",
+        "NumberOfCups": 65,
+        "NationalTeamID": 3468,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/279.png?lm=1565263263"
+    },
+    {
+        "TeamID": 141,
+        "Team_name": "\u0413\u0430\u043b\u0430\u0442\u0430\u0441\u0430\u0440\u0430\u0439",
+        "NumberOfCups": 61,
+        "NationalTeamID": 3381,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/141.png?lm=1406739071"
+    },
+    {
+        "TeamID": 371,
+        "Team_name": "\u0421\u0435\u043b\u0442\u0438\u043a",
+        "NumberOfCups": 119,
+        "NationalTeamID": 3380,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/371.png?lm=1403615766"
+    },
+    {
+        "TeamID": 1041,
+        "Team_name": "\u041b\u0438\u043e\u043d",
+        "NumberOfCups": 20,
+        "NationalTeamID": 3377,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1041.png?lm=1656668172"
+    },
+    {
+        "TeamID": 3948,
+        "Team_name": "\u042e\u043d\u0438\u043e\u043d",
+        "NumberOfCups": 19,
+        "NationalTeamID": 3382,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/3948.png?lm=1624390507"
+    },
+    {
+        "TeamID": 941,
+        "Team_name": "\u0412\u0438\u043a\u0442\u043e\u0440\u0438\u044f \u041f\u043b\u044c\u0437\u0435\u043d",
+        "NumberOfCups": 7,
+        "NationalTeamID": 3445,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/941.png?lm=1703858693"
+    },
+    {
+        "TeamID": 865,
+        "Team_name": "\u041c\u0438\u0434\u0442\u044c\u044e\u043b\u043b\u0430\u043d\u0434",
+        "NumberOfCups": 7,
+        "NationalTeamID": 3436,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/865.png?lm=1739215168"
+    },
+    {
+        "TeamID": 405,
+        "Team_name": "\u0410\u0441\u0442\u043e\u043d \u0412\u0438\u043b\u043b\u0430",
+        "NumberOfCups": 24,
+        "NationalTeamID": 3299,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/405.png?lm=1717155982"
+    },
+    {
+        "TeamID": 26,
+        "Team_name": "\u0411\u0430\u0437\u0435\u043b\u044c",
+        "NumberOfCups": 34,
+        "NationalTeamID": 3384,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/26.png?lm=1656417702"
+    },
+    {
+        "TeamID": 119,
+        "Team_name": "\u041c. \u0422\u0435\u043b\u044c-\u0410\u0432\u0438\u0432",
+        "NumberOfCups": 59,
+        "NationalTeamID": 5547,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/119.png?lm=1626682937"
+    },
+    {
+        "TeamID": 540,
+        "Team_name": "\u0421\u043b\u043e\u0432\u0430\u043d \u0411\u0440\u0430\u0442\u0438\u0441.",
+        "NumberOfCups": 37,
+        "NationalTeamID": 3503,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/540.png?lm=1415023119"
+    },
+    {
+        "TeamID": 452,
+        "Team_name": "\u042f\u043d\u0433 \u0411\u043e\u0439\u0437",
+        "NumberOfCups": 27,
+        "NationalTeamID": 3384,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/452.png?lm=1689916664"
+    },
+    {
+        "TeamID": 687,
+        "Team_name": "\u041c\u043e\u043b\u0434\u0435",
+        "NumberOfCups": 11,
+        "NationalTeamID": 3440,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/687.png?lm=1409159512"
+    },
+    {
+        "TeamID": 60,
+        "Team_name": "\u0424\u0440\u0430\u0439\u0431\u0443\u0440\u0433",
+        "NumberOfCups": 6,
+        "NationalTeamID": 3262,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/60.png?lm=1517249279"
+    },
+    {
+        "TeamID": 170,
+        "Team_name": "\u0420\u0430\u043f\u0438\u0434",
+        "NumberOfCups": 50,
+        "NationalTeamID": 3383,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/170.png?lm=1653663056"
+    },
+    {
+        "TeamID": 413,
+        "Team_name": "\u041b\u0410\u0421\u041a",
+        "NumberOfCups": 28,
+        "NationalTeamID": 3383,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/413.png?lm=1683630300"
+    },
+    {
+        "TeamID": 10625,
+        "Team_name": "\u041a\u0430\u0440\u0430\u0431\u0430\u0445",
+        "NumberOfCups": 19,
+        "NationalTeamID": 8605,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/10625.png?lm=1545410555"
+    },
+    {
+        "TeamID": 197,
+        "Team_name": "\u0421\u043f\u0430\u0440\u0442\u0430 \u041f\u0440\u0430\u0433\u0430",
+        "NumberOfCups": 60,
+        "NationalTeamID": 3445,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/197.png?lm=1705397331"
+    },
+    {
+        "TeamID": 1044,
+        "Team_name": "\u042e\u0440\u0433\u043e\u0440\u0434\u0435\u043d",
+        "NumberOfCups": 19,
+        "NationalTeamID": 3557,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1044.png?lm=1664752306"
+    },
+    {
+        "TeamID": 58,
+        "Team_name": "\u0410\u043d\u0434\u0435\u0440\u043b\u0435\u0445\u0442",
+        "NumberOfCups": 64,
+        "NationalTeamID": 3382,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/58.png?lm=1718695206"
+    },
+    {
+        "TeamID": 255,
+        "Team_name": "\u041b\u0435\u0433\u0438\u044f \u0412\u0430\u0440\u0448\u0430\u0432\u0430",
+        "NumberOfCups": 40,
+        "NationalTeamID": 3442,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/255.png?lm=1463410132"
+    },
+    {
+        "TeamID": 338,
+        "Team_name": "\u0414\u0438\u043d\u0430\u043c\u043e \u041a\u0438\u0435\u0432",
+        "NumberOfCups": 63,
+        "NationalTeamID": 3699,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/338.png?lm=1442954715"
+    },
+    {
+        "TeamID": 6890,
+        "Team_name": "\u0411\u0430\u0448\u0430\u043a\u0448\u0435\u0445\u0438\u0440",
+        "NumberOfCups": 4,
+        "NationalTeamID": 3381,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/6890.png?lm=1521449959"
+    },
+    {
+        "TeamID": 89,
+        "Team_name": "\u0423\u043d\u0438\u043e\u043d \u0411\u0435\u0440\u043b\u0438\u043d",
+        "NumberOfCups": 8,
+        "NationalTeamID": 3262,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/89.png?lm=1402956210"
+    },
+    {
+        "TeamID": 31614,
+        "Team_name": "\u041b\u0443\u0434\u043e\u0433\u043e\u0440\u0435\u0446",
+        "NumberOfCups": 24,
+        "NationalTeamID": 3394,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/31614.png?lm=1629528048"
+    },
+    {
+        "TeamID": 669,
+        "Team_name": "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d",
+        "NumberOfCups": 45,
+        "NationalTeamID": 3438,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/669.png?lm=1541834922"
+    },
+    {
+        "TeamID": 417,
+        "Team_name": "\u041d\u0438\u0446\u0446\u0430",
+        "NumberOfCups": 11,
+        "NationalTeamID": 3377,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/417.png?lm=1408779490"
+    },
+    {
+        "TeamID": 1096,
+        "Team_name": "\u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d",
+        "NumberOfCups": 12,
+        "NationalTeamID": 3382,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1096.png?lm=1623758865"
+    },
+    {
+        "TeamID": 122,
+        "Team_name": "\u0428\u0442\u0443\u0440\u043c",
+        "NumberOfCups": 26,
+        "NationalTeamID": 3383,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/122.png?lm=1403016870"
+    },
+    {
+        "TeamID": 621,
+        "Team_name": "\u0410\u0442\u043b\u0435\u0442\u0438\u043a",
+        "NumberOfCups": 36,
+        "NationalTeamID": 3375,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/621.png?lm=1695069038"
+    },
+    {
+        "TeamID": 1003,
+        "Team_name": "\u041b\u0435\u0441\u0442\u0435\u0440",
+        "NumberOfCups": 16,
+        "NationalTeamID": 3299,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1003.png?lm=1472229265"
+    },
+    {
+        "TeamID": 238,
+        "Team_name": "\u041b\u0435\u0445",
+        "NumberOfCups": 19,
+        "NationalTeamID": 3442,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/238.png?lm=1667394613"
+    },
+    {
+        "TeamID": 3258,
+        "Team_name": "\u0428\u044d\u043c\u0440\u043e\u043a \u0420\u043e\u0432\u0435\u0440\u0441",
+        "NumberOfCups": 66,
+        "NationalTeamID": 3509,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/3258.png?lm=1423677184"
+    },
+    {
+        "TeamID": 2481,
+        "Team_name": "\u0428\u0435\u0440\u0438\u0444",
+        "NumberOfCups": 40,
+        "NationalTeamID": 6090,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2481.png?lm=1653904139"
+    },
+    {
+        "TeamID": 829,
+        "Team_name": "\u041e\u043c\u043e\u043d\u0438\u044f \u041d\u0438\u043a\u043e\u0441\u0438\u044f",
+        "NumberOfCups": 54,
+        "NationalTeamID": 3668,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/829.png?lm=1447275209"
+    },
+    {
+        "TeamID": 533,
+        "Team_name": "\u0425\u043e\u0444\u0444\u0435\u043d\u0445\u0430\u0439\u043c",
+        "NumberOfCups": 4,
+        "NationalTeamID": 3262,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/533.png?lm=1675591766"
+    },
+    {
+        "TeamID": 2790,
+        "Team_name": "\u041b\u0443\u0433\u0430\u043d\u043e",
+        "NumberOfCups": 7,
+        "NationalTeamID": 3384,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2790.png?lm=1656417633"
+    },
+    {
+        "TeamID": 7769,
+        "Team_name": "\u0427\u0424\u0420",
+        "NumberOfCups": 18,
+        "NationalTeamID": 3447,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/7769.png?lm=1414777942"
+    },
+    {
+        "TeamID": 3911,
+        "Team_name": "\u0411\u0440\u0435\u0441\u0442",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3377,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/3911.png?lm=1408780312"
+    },
+    {
+        "TeamID": 4772,
+        "Team_name": "\u041e\u043b\u0438\u043c\u043f\u0438\u044f",
+        "NumberOfCups": 15,
+        "NationalTeamID": 3588,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/4772.png?lm=1420820214"
+    },
+    {
+        "TeamID": 2420,
+        "Team_name": "\u0412\u0438\u0442. \u0413\u0438\u043c\u0430\u0440\u0430\u044d\u0448",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3300,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2420.png?lm=1432894021"
+    },
+    {
+        "TeamID": 301,
+        "Team_name": "\u0424\u041a\u0421\u0411",
+        "NumberOfCups": 62,
+        "NationalTeamID": 3447,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/301.png?lm=1485604345"
+    },
+    {
+        "TeamID": 2976,
+        "Team_name": "\u0425. \u0411\u0435\u044d\u0440-\u0428\u0435\u0432\u0430",
+        "NumberOfCups": 12,
+        "NationalTeamID": 5547,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2976.png?lm=1613028225"
+    },
+    {
+        "TeamID": 114,
+        "Team_name": "\u0411\u0435\u0448\u0438\u043a\u0442\u0430\u0448",
+        "NumberOfCups": 37,
+        "NationalTeamID": 3381,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/114.png?lm=1502974502"
+    },
+    {
+        "TeamID": 2784,
+        "Team_name": "\u0410\u041f\u041e\u042d\u041b \u041d\u0438\u043a\u043e\u0441\u0438\u044f",
+        "NumberOfCups": 65,
+        "NationalTeamID": 3668,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2784.png?lm=1536096930"
+    },
+    {
+        "TeamID": 10690,
+        "Team_name": "\u0417\u0430\u0440\u044f \u041b\u0443\u0433\u0430\u043d\u0441\u043a",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3699,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/10690.png?lm=1677239691"
+    },
+    {
+        "TeamID": 18,
+        "Team_name": "\u0411\u043e\u0440\u0443\u0441\u0441\u0438\u044f \u041c.",
+        "NumberOfCups": 12,
+        "NationalTeamID": 3262,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/18.png?lm=1656585796"
+    },
+    {
+        "TeamID": 496,
+        "Team_name": "\u041c\u0430\u043b\u044c\u043c\u0451",
+        "NumberOfCups": 42,
+        "NationalTeamID": 3557,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/496.png?lm=1409230098"
+    },
+    {
+        "TeamID": 1064,
+        "Team_name": "\u041c\u0430\u043a\u043a\u0430\u0431\u0438 \u0425\u0430\u0439\u0444\u0430",
+        "NumberOfCups": 25,
+        "NationalTeamID": 5547,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1064.png?lm=1684233681"
+    },
+    {
+        "TeamID": 964,
+        "Team_name": "\u0417\u0435\u043d\u0438\u0442 \u0421-\u041f\u0431",
+        "NumberOfCups": 29,
+        "NationalTeamID": 3448,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/964.png?lm=1687671770"
+    },
+    {
+        "TeamID": 2381,
+        "Team_name": "\u0421\u0438\u0432\u0430\u0441\u0441\u043f\u043e\u0440",
+        "NumberOfCups": 3,
+        "NationalTeamID": 3381,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2381.png?lm=1408653992"
+    },
+    {
+        "TeamID": 317,
+        "Team_name": "\u0422\u0432\u0435\u043d\u0442\u0435",
+        "NumberOfCups": 7,
+        "NationalTeamID": 3379,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/317.png?lm=1610789581"
+    },
+    {
+        "TeamID": 826,
+        "Team_name": "\u041b\u0430\u043d\u0441",
+        "NumberOfCups": 9,
+        "NationalTeamID": 3377,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/826.png?lm=1595457059"
+    },
+    {
+        "TeamID": 265,
+        "Team_name": "\u041f\u0430\u043d\u0430\u0442\u0438\u043d\u0430\u0438\u043a\u043e\u0441",
+        "NumberOfCups": 45,
+        "NationalTeamID": 3378,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/265.png?lm=1629382830"
+    },
+    {
+        "TeamID": 60551,
+        "Team_name": "\u0414\u043d\u0435\u043f\u0440-1",
+        "NumberOfCups": 1,
+        "NationalTeamID": 3699,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/60551.png?lm=1507128660"
+    },
+    {
+        "TeamID": 1008,
+        "Team_name": "\u0425\u0418\u041a",
+        "NumberOfCups": 53,
+        "NationalTeamID": 3443,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1008.png?lm=1653665348"
+    },
+    {
+        "TeamID": 16795,
+        "Team_name": "\u0413\u0440\u0430\u043d\u0430\u0434\u0430",
+        "NumberOfCups": 4,
+        "NationalTeamID": 3375,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/16795.png?lm=1724157697"
+    },
+    {
+        "TeamID": 1237,
+        "Team_name": "\u0411\u0440\u0430\u0439\u0442\u043e\u043d",
+        "NumberOfCups": 5,
+        "NationalTeamID": 3299,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1237.png?lm=1492718902"
+    },
+    {
+        "TeamID": 22220,
+        "Team_name": "\u0410\u0441\u0442\u0430\u043d\u0430",
+        "NumberOfCups": 17,
+        "NationalTeamID": 9110,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/22220.png?lm=1698835054"
+    },
+    {
+        "TeamID": 232,
+        "Team_name": "\u0421\u043f\u0430\u0440\u0442\u0430\u043a \u041c\u043e\u0441\u043a\u0432\u0430",
+        "NumberOfCups": 38,
+        "NationalTeamID": 3448,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/232.png?lm=1645543288"
+    },
+    {
+        "TeamID": 79,
+        "Team_name": "\u0428\u0442\u0443\u0442\u0442\u0433\u0430\u0440\u0442",
+        "NumberOfCups": 13,
+        "NationalTeamID": 3262,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/79.png?lm=1680587427"
+    },
+    {
+        "TeamID": 1002,
+        "Team_name": "\u0424\u043b\u043e\u0440\u0430",
+        "NumberOfCups": 34,
+        "NationalTeamID": 6133,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1002.png?lm=1736840059"
+    },
+    {
+        "TeamID": 144,
+        "Team_name": "\u0420\u0438\u0435\u043a\u0430",
+        "NumberOfCups": 10,
+        "NationalTeamID": 3556,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/144.png?lm=1582550780"
+    },
+    {
+        "TeamID": 43,
+        "Team_name": "\u0425\u0430\u0440\u0442 \u043e\u0444 \u041c\u0438\u0434\u043b.",
+        "NumberOfCups": 19,
+        "NationalTeamID": 3380,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/43.png?lm=1522182618"
+    },
+    {
+        "TeamID": 602,
+        "Team_name": "\u0416\u0430\u043b\u044c\u0433\u0438\u0440\u0438\u0441",
+        "NumberOfCups": 33,
+        "NationalTeamID": 3851,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/602.png?lm=1475601977"
+    },
+    {
+        "TeamID": 1184,
+        "Team_name": "\u0413\u0435\u043d\u043a",
+        "NumberOfCups": 11,
+        "NationalTeamID": 3382,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1184.png?lm=1717666245"
+    },
+    {
+        "TeamID": 1101,
+        "Team_name": "\u042d\u043b\u044c\u0444\u0441\u0431\u043e\u0440\u0433",
+        "NumberOfCups": 10,
+        "NationalTeamID": 3557,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1101.png?lm=1445330037"
+    },
+    {
+        "TeamID": 33783,
+        "Team_name": "\u0420\u0424\u0428",
+        "NumberOfCups": 6,
+        "NationalTeamID": 3555,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/33783.png?lm=1593099986"
+    },
+    {
+        "TeamID": 1025,
+        "Team_name": "\u0411\u043e\u043b\u043e\u043d\u044c\u044f",
+        "NumberOfCups": 15,
+        "NationalTeamID": 3376,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1025.png?lm=1626441324"
+    },
+    {
+        "TeamID": 520,
+        "Team_name": "\u0421\u0435\u0440\u043a\u043b\u044c \u0411\u0440\u044e\u0433\u0433\u0435",
+        "NumberOfCups": 7,
+        "NationalTeamID": 3382,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/520.png?lm=1713864588"
+    },
+    {
+        "TeamID": 5849,
+        "Team_name": "\u0412\u0438\u043a\u0438\u043d\u0433\u0443\u0440",
+        "NumberOfCups": 14,
+        "NationalTeamID": 3574,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/5849.png?lm=1423493558"
+    },
+    {
+        "TeamID": 415,
+        "Team_name": "\u0422\u0443\u043b\u0443\u0437\u0430",
+        "NumberOfCups": 4,
+        "NationalTeamID": 3377,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/415.png?lm=1530117274"
+    },
+    {
+        "TeamID": 449,
+        "Team_name": "\u0422\u0440\u0430\u0431\u0437\u043e\u043d\u0441\u043f\u043e\u0440",
+        "NumberOfCups": 27,
+        "NationalTeamID": 3381,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/449.png?lm=1727269339"
+    },
+    {
+        "TeamID": 2300,
+        "Team_name": "\u042f\u0433\u0435\u043b\u043b\u043e\u043d\u0438\u044f",
+        "NumberOfCups": 3,
+        "NationalTeamID": 3442,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2300.png?lm=1723051894"
+    },
+    {
+        "TeamID": 6251,
+        "Team_name": "\u041a\u0443\u041f\u0421",
+        "NumberOfCups": 13,
+        "NationalTeamID": 3443,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/6251.png?lm=1619270903"
+    },
+    {
+        "TeamID": 61,
+        "Team_name": "\u0421\u0435\u0440\u0432\u0435\u0442\u0442",
+        "NumberOfCups": 28,
+        "NationalTeamID": 3384,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/61.png?lm=1688507141"
+    },
+    {
+        "TeamID": 82,
+        "Team_name": "\u0412\u043e\u043b\u044c\u0444\u0441\u0431\u0443\u0440\u0433",
+        "NumberOfCups": 5,
+        "NationalTeamID": 3262,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/82.png?lm=1503060755"
+    },
+    {
+        "TeamID": 447,
+        "Team_name": "\u0425\u0430\u0439\u0434\u0443\u043a",
+        "NumberOfCups": 40,
+        "NationalTeamID": 3556,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/447.png?lm=1673717761"
+    },
+    {
+        "TeamID": 932,
+        "Team_name": "\u041b\u043e\u043a\u043e \u041c\u043e\u0441\u043a\u0432\u0430",
+        "NumberOfCups": 18,
+        "NationalTeamID": 3448,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/932.png?lm=1486195738"
+    },
+    {
+        "TeamID": 48325,
+        "Team_name": "\u0420\u0438\u0433\u0430",
+        "NumberOfCups": 5,
+        "NationalTeamID": 3555,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/48325.png?lm=1458498444"
+    },
+    {
+        "TeamID": 38204,
+        "Team_name": "\u041b\u0438\u043d\u043a\u043e\u043b\u044c\u043d",
+        "NumberOfCups": 47,
+        "NationalTeamID": 37574,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/38204.png?lm=1486307613"
+    },
+    {
+        "TeamID": 3137,
+        "Team_name": "\u0411\u0430\u0447\u043a\u0430 \u0422\u043e\u043f\u043e\u043b\u0430",
+        "NumberOfCups": 1,
+        "NationalTeamID": 3438,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/3137.png?lm=1519841755"
+    },
+    {
+        "TeamID": 710,
+        "Team_name": "\u0426\u0435\u043b\u0435",
+        "NumberOfCups": 3,
+        "NationalTeamID": 3588,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/710.png?lm=1625564824"
+    },
+    {
+        "TeamID": 370,
+        "Team_name": "\u0410\u0431\u0435\u0440\u0434\u0438\u043d",
+        "NumberOfCups": 19,
+        "NationalTeamID": 3380,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/370.png?lm=1409146897"
+    },
+    {
+        "TeamID": 4441,
+        "Team_name": "\u0412\u043e\u043b\u044c\u0444\u0441\u0431\u0435\u0440\u0433",
+        "NumberOfCups": 7,
+        "NationalTeamID": 3383,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/4441.png?lm=1488030246"
+    },
+    {
+        "TeamID": 790,
+        "Team_name": "\u041c\u0430\u0440\u0438\u0431\u043e\u0440",
+        "NumberOfCups": 25,
+        "NationalTeamID": 3588,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/790.png?lm=1537520961"
+    },
+    {
+        "TeamID": 2441,
+        "Team_name": "\u0410\u0415\u041a \u0410\u0444\u0438\u043d\u044b",
+        "NumberOfCups": 33,
+        "NationalTeamID": 3378,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2441.png?lm=1730987042"
+    },
+    {
+        "TeamID": 208,
+        "Team_name": "\u0426\u0421\u041a\u0410 \u0421\u043e\u0444\u0438\u044f",
+        "NumberOfCups": 56,
+        "NationalTeamID": 3394,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/208.png?lm=1631096410"
+    },
+    {
+        "TeamID": 3737,
+        "Team_name": "\u0411\u0440\u0435\u0439\u0434\u0430\u0431\u043b\u0438\u043a",
+        "NumberOfCups": 8,
+        "NationalTeamID": 3574,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/3737.png?lm=1474667051"
+    },
+    {
+        "TeamID": 327,
+        "Team_name": "\u041e\u0441\u0438\u0435\u043a",
+        "NumberOfCups": 1,
+        "NationalTeamID": 3556,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/327.png?lm=1488628710"
+    },
+    {
+        "TeamID": 10734,
+        "Team_name": "\u041d\u044c\u044e \u0421\u044d\u0439\u043d\u0442\u0441",
+        "NumberOfCups": 16,
+        "NationalTeamID": 3864,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/10734.png?lm=1403618313"
+    },
+    {
+        "TeamID": 33741,
+        "Team_name": "\u0414\u0440\u0438\u0442\u0430",
+        "NumberOfCups": 5,
+        "NationalTeamID": 53982,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/33741.png?lm=1729901954"
+    },
+    {
+        "TeamID": 429,
+        "Team_name": "\u0410\u043f\u043e\u043b. \u041b\u0438\u043c\u0430\u0441\u043e\u043b",
+        "NumberOfCups": 17,
+        "NationalTeamID": 3668,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/429.png?lm=1731266847"
+    },
+    {
+        "TeamID": 45457,
+        "Team_name": "\u041f\u0430\u0444\u043e\u0441",
+        "NumberOfCups": 1,
+        "NationalTeamID": 3668,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/45457.png?lm=1534711579"
+    },
+    {
+        "TeamID": 499,
+        "Team_name": "\u0412\u0438\u0442\u0435\u0441\u0441",
+        "NumberOfCups": 3,
+        "NationalTeamID": 3379,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/499.png?lm=1679396090"
+    },
+    {
+        "TeamID": 365,
+        "Team_name": "\u0421\u043f\u0430\u0440\u0442\u0430\u043a \u0422\u0440\u043d\u0430\u0432\u0430",
+        "NumberOfCups": 17,
+        "NationalTeamID": 3503,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/365.png?lm=1622062546"
+    },
+    {
+        "TeamID": 12321,
+        "Team_name": "\u0416\u0438\u0440\u043e\u043d\u0430",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3375,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/12321.png?lm=1730455718"
+    },
+    {
+        "TeamID": 46643,
+        "Team_name": "\u041f\u0435\u0442\u0440\u043e\u043a\u0443\u0431",
+        "NumberOfCups": 3,
+        "NationalTeamID": 6090,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/46643.png?lm=1615795651"
+    },
+    {
+        "TeamID": 10301,
+        "Team_name": "\u041f\u044e\u043d\u0438\u043a",
+        "NumberOfCups": 33,
+        "NationalTeamID": 6219,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/10301.png?lm=1552669420"
+    },
+    {
+        "TeamID": 2036,
+        "Team_name": "\u0425\u0430\u0439\u0434\u0435\u043d\u0445\u0430\u0439\u043c",
+        "NumberOfCups": 8,
+        "NationalTeamID": 3262,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2036.png?lm=1685457789"
+    },
+    {
+        "TeamID": 16704,
+        "Team_name": "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3448,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/16704.png?lm=1499524238"
+    },
+    {
+        "TeamID": 995,
+        "Team_name": "\u041d\u0430\u043d\u0442",
+        "NumberOfCups": 14,
+        "NationalTeamID": 3377,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/995.png?lm=1581355747"
+    },
+    {
+        "TeamID": 9644,
+        "Team_name": "\u0420\u0430\u043a\u0443\u0432",
+        "NumberOfCups": 5,
+        "NationalTeamID": 3442,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/9644.png?lm=1706715423"
+    },
+    {
+        "TeamID": 4391,
+        "Team_name": "\u0411\u0443\u0434\u0443\u0447\u043d\u043e\u0441\u0442",
+        "NumberOfCups": 11,
+        "NationalTeamID": 11953,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/4391.png?lm=1416406905"
+    },
+    {
+        "TeamID": 28082,
+        "Team_name": "\u0411\u0430\u043b\u043a\u0430\u043d\u0438",
+        "NumberOfCups": 6,
+        "NationalTeamID": 53982,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/28082.png?lm=1641309945"
+    },
+    {
+        "TeamID": 8031,
+        "Team_name": "\u041d\u0435\u0444\u0442\u0447\u0438",
+        "NumberOfCups": 15,
+        "NationalTeamID": 8605,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/8031.png?lm=1720500346"
+    },
+    {
+        "TeamID": 14,
+        "Team_name": "\u0410\u0443\u0441\u0442\u0440\u0438\u044f",
+        "NumberOfCups": 53,
+        "NationalTeamID": 3383,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/14.png?lm=1406739366"
+    },
+    {
+        "TeamID": 10481,
+        "Team_name": "\u0422\u043e\u0431\u043e\u043b",
+        "NumberOfCups": 6,
+        "NationalTeamID": 9110,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/10481.png?lm=1425732700"
+    },
+    {
+        "TeamID": 762,
+        "Team_name": "\u041d\u044c\u044e\u043a\u0430\u0441\u043b",
+        "NumberOfCups": 18,
+        "NationalTeamID": 3299,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/762.png?lm=1472921161"
+    },
+    {
+        "TeamID": 163,
+        "Team_name": "\u0412\u0430\u0434\u0443\u0446",
+        "NumberOfCups": 50,
+        "NationalTeamID": 5673,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/163.png?lm=1656417953"
+    },
+    {
+        "TeamID": 11107,
+        "Team_name": "\u0424\u0435\u0445\u0435\u0440\u0432\u0430\u0440",
+        "NumberOfCups": 10,
+        "NationalTeamID": 3468,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/11107.png?lm=1582047467"
+    },
+    {
+        "TeamID": 4529,
+        "Team_name": "\u0414\u0443\u043d\u0430\u0439c\u043a\u0430 C\u0442\u0440\u0435\u0434\u0430",
+        "NumberOfCups": 1,
+        "NationalTeamID": 3503,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/4529.png?lm=1658147404"
+    },
+    {
+        "TeamID": 5724,
+        "Team_name": "\u0420\u0430\u043d\u043d\u0435\u0440\u0441",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3436,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/5724.png?lm=1518117482"
+    },
+    {
+        "TeamID": 2156,
+        "Team_name": "\u0410\u0415\u041a \u041b\u0430\u0440\u043d\u0430\u043a\u0430",
+        "NumberOfCups": 3,
+        "NationalTeamID": 3668,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2156.png?lm=1738338150"
+    },
+    {
+        "TeamID": 3899,
+        "Team_name": "\u0410\u043d\u043e\u0440\u0442\u043e\u0441\u0438\u0441",
+        "NumberOfCups": 30,
+        "NationalTeamID": 3668,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/3899.png?lm=1408794742"
+    },
+    {
+        "TeamID": 195,
+        "Team_name": "\u0420\u0443\u0441\u0435\u043d\u0431\u043e\u0440\u0433",
+        "NumberOfCups": 40,
+        "NationalTeamID": 3440,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/195.png?lm=1714073077"
+    },
+    {
+        "TeamID": 2778,
+        "Team_name": "\u041d\u043e\u0440\u0434\u0448\u0435\u043b\u043b\u0430\u043d\u0434",
+        "NumberOfCups": 3,
+        "NationalTeamID": 3436,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2778.png?lm=1564262814"
+    },
+    {
+        "TeamID": 53453,
+        "Team_name": "\u0410\u0440\u0430\u0440\u0430\u0442-\u0410\u0440\u043c\u0435\u043d\u0438\u044f",
+        "NumberOfCups": 4,
+        "NationalTeamID": 6219,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/53453.png?lm=1535881663"
+    },
+    {
+        "TeamID": 713,
+        "Team_name": "\u0411\u0410\u0422\u042d",
+        "NumberOfCups": 28,
+        "NationalTeamID": 3450,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/713.png?lm=1648745236"
+    },
+    {
+        "TeamID": 448,
+        "Team_name": "\u0412\u043e\u0439\u0432\u043e\u0434\u0438\u043d\u0430",
+        "NumberOfCups": 6,
+        "NationalTeamID": 3438,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/448.png?lm=1543354208"
+    },
+    {
+        "TeamID": 605,
+        "Team_name": "\u0410\u0440\u0438\u0441 \u0421\u0430\u043b\u043e\u043d\u0438\u043a\u0438",
+        "NumberOfCups": 5,
+        "NationalTeamID": 3378,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/605.png?lm=1569944828"
+    },
+    {
+        "TeamID": 663,
+        "Team_name": "\u0414\u0438\u043d\u0430\u043c\u043e \u0422\u0431\u0438\u043b\u0438\u0441\u0438",
+        "NumberOfCups": 46,
+        "NationalTeamID": 3669,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/663.png?lm=1474921564"
+    },
+    {
+        "TeamID": 23371,
+        "Team_name": "\u041f\u0430\u0439\u0434\u0435",
+        "NumberOfCups": 2,
+        "NationalTeamID": 6133,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/23371.png?lm=1471892177"
+    },
+    {
+        "TeamID": 206,
+        "Team_name": "\u0411\u0440\u043e\u043d\u0434\u0431\u044e",
+        "NumberOfCups": 18,
+        "NationalTeamID": 3436,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/206.png?lm=1518117616"
+    },
+    {
+        "TeamID": 1109,
+        "Team_name": "\u0425\u044d\u043a\u0435\u043d",
+        "NumberOfCups": 5,
+        "NationalTeamID": 3557,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1109.png?lm=1406273241"
+    },
+    {
+        "TeamID": 1322,
+        "Team_name": "\u042f\u0431\u043b\u043e\u043d\u0435\u0446",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3445,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1322.png?lm=1551278724"
+    },
+    {
+        "TeamID": 6066,
+        "Team_name": "\u0414\u0430\u043d\u0434\u043e\u043b\u043a",
+        "NumberOfCups": 40,
+        "NationalTeamID": 3509,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/6066.png?lm=1423677223"
+    },
+    {
+        "TeamID": 6621,
+        "Team_name": "\u0427\u0443\u043a\u0430\u0440\u0438\u0447\u043a\u0438",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3438,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/6621.png?lm=1479507902"
+    },
+    {
+        "TeamID": 853,
+        "Team_name": "\u0414\u044e\u0434\u0435\u043b\u0430\u043d\u0436",
+        "NumberOfCups": 26,
+        "NationalTeamID": 3580,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/853.png?lm=1603739975"
+    },
+    {
+        "TeamID": 49149,
+        "Team_name": "\u041f\u0430\u043d\u0435\u0432\u0435\u0436\u0438\u0441",
+        "NumberOfCups": 4,
+        "NationalTeamID": 3851,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/49149.png?lm=1459609321"
+    },
+    {
+        "TeamID": 5771,
+        "Team_name": "\u041b\u0435\u0432\u0430\u0434\u0438\u044f",
+        "NumberOfCups": 30,
+        "NationalTeamID": 6133,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/5771.png?lm=1687268973"
+    },
+    {
+        "TeamID": 37169,
+        "Team_name": "\u0410\u043a\u0430\u0434. \u041f\u0443\u0448\u043a\u0430\u0448\u0430",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3468,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/37169.png?lm=1498671076"
+    },
+    {
+        "TeamID": 11344,
+        "Team_name": "\u0414\u0438\u043d\u0430\u043c\u043e \u0411\u0430\u0442\u0443\u043c\u0438",
+        "NumberOfCups": 5,
+        "NationalTeamID": 3669,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/11344.png?lm=1420654425"
+    },
+    {
+        "TeamID": 40812,
+        "Team_name": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0430\u0442\u044f",
+        "NumberOfCups": 12,
+        "NationalTeamID": 3447,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/40812.png?lm=1533830310"
+    },
+    {
+        "TeamID": 2049,
+        "Team_name": "\u0422\u0438\u0440\u0430\u043d\u0430",
+        "NumberOfCups": 53,
+        "NationalTeamID": 3561,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2049.png?lm=1635511373"
+    },
+    {
+        "TeamID": 3,
+        "Team_name": "\u041a\u0451\u043b\u044c\u043d",
+        "NumberOfCups": 13,
+        "NationalTeamID": 3262,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/3.png?lm=1656580823"
+    },
+    {
+        "TeamID": 4059,
+        "Team_name": "\u041c\u0443\u0440\u0430",
+        "NumberOfCups": 3,
+        "NationalTeamID": 3588,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/4059.png?lm=1620378189"
+    },
+    {
+        "TeamID": 54585,
+        "Team_name": "\u0428\u0435\u043f\u0448\u0438",
+        "NumberOfCups": 5,
+        "NationalTeamID": 3447,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/54585.png?lm=1474753724"
+    },
+    {
+        "TeamID": 17149,
+        "Team_name": "\u0425\u0430\u043c\u0440\u0443\u043d \u0421\u043f\u0430\u0440\u0442\u0430\u043d\u0441",
+        "NumberOfCups": 23,
+        "NationalTeamID": 3587,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/17149.png?lm=1443519323"
+    },
+    {
+        "TeamID": 1177,
+        "Team_name": "\u0421\u0438\u043b\u044c\u043a\u0435\u0431\u043e\u0440\u0433",
+        "NumberOfCups": 5,
+        "NationalTeamID": 3436,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1177.png?lm=1518117733"
+    },
+    {
+        "TeamID": 41916,
+        "Team_name": "\u0418\u043d\u0442\u0435\u0440 \u042d\u0441\u043a\u0430\u043b\u044c\u0434\u0435\u0441",
+        "NumberOfCups": 9,
+        "NationalTeamID": 10533,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/41916.png?lm=1475156840"
+    },
+    {
+        "TeamID": 1180,
+        "Team_name": "\u0414\u0438\u043d\u0430\u043c\u043e \u041c\u0438\u043d\u0441\u043a",
+        "NumberOfCups": 13,
+        "NationalTeamID": 3450,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1180.png?lm=1610646679"
+    },
+    {
+        "TeamID": 37914,
+        "Team_name": "\u0410\u043b\u0430\u0448\u043a\u0435\u0440\u0442",
+        "NumberOfCups": 8,
+        "NationalTeamID": 6219,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/37914.png?lm=1553019146"
+    },
+    {
+        "TeamID": 5084,
+        "Team_name": "\u0412\u0430\u043b\u043c\u0438\u0435\u0440\u0430",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3555,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/5084.png?lm=1652176313"
+    },
+    {
+        "TeamID": 5544,
+        "Team_name": "\u0421\u043b\u043e\u0432\u0430\u0446\u043a\u043e",
+        "NumberOfCups": 1,
+        "NationalTeamID": 3445,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/5544.png?lm=1419785239"
+    },
+    {
+        "TeamID": 4040,
+        "Team_name": "\u041f\u0430\u0440\u0442\u0438\u0437\u0430\u043d\u0438",
+        "NumberOfCups": 35,
+        "NationalTeamID": 3561,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/4040.png?lm=1635619145"
+    },
+    {
+        "TeamID": 3070,
+        "Team_name": "\u0421\u0443\u0442\u044c\u0435\u0441\u043a\u0430",
+        "NumberOfCups": 7,
+        "NationalTeamID": 11953,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/3070.png?lm=1403617192"
+    },
+    {
+        "TeamID": 257,
+        "Team_name": "\u0421\u0430\u043d\u043a\u0442-\u0413\u0430\u043b\u043b\u0435\u043d",
+        "NumberOfCups": 4,
+        "NationalTeamID": 3384,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/257.png?lm=1692697904"
+    },
+    {
+        "TeamID": 32768,
+        "Team_name": "\u0413\u0437\u0438\u0440\u0430 \u042e\u043d.",
+        "NumberOfCups": 1,
+        "NationalTeamID": 3587,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/32768.png?lm=1660289509"
+    },
+    {
+        "TeamID": 1059,
+        "Team_name": "\u0425\u0430\u043c\u043c\u0430\u0440\u0431\u044e",
+        "NumberOfCups": 3,
+        "NationalTeamID": 3557,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1059.png?lm=1420188123"
+    },
+    {
+        "TeamID": 24349,
+        "Team_name": "\u041b\u0430 \u0424\u044c\u043e\u0440\u0438\u0442\u0430",
+        "NumberOfCups": 19,
+        "NationalTeamID": 10521,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/24349.png?lm=1477335442"
+    },
+    {
+        "TeamID": 10604,
+        "Team_name": "\u0425\u0438\u0431\u0435\u0440\u043d\u0438\u0430\u043d\u0441",
+        "NumberOfCups": 26,
+        "NationalTeamID": 3587,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/10604.png?lm=1420998483"
+    },
+    {
+        "TeamID": 1189,
+        "Team_name": "\u0421\u0435\u043d\u0442-\u041f\u0430\u0442\u0440\u0438\u043a\u0441",
+        "NumberOfCups": 27,
+        "NationalTeamID": 3509,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1189.png?lm=1522184888"
+    },
+    {
+        "TeamID": 324,
+        "Team_name": "\u041f\u043e\u0433\u043e\u043d\u044c \u0429\u0435\u0446\u0438\u043d",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3442,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/324.png?lm=1573830930"
+    },
+    {
+        "TeamID": 10482,
+        "Team_name": "\u041a\u0430\u0439\u0440\u0430\u0442",
+        "NumberOfCups": 19,
+        "NationalTeamID": 9110,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/10482.png?lm=1706798950"
+    },
+    {
+        "TeamID": 697,
+        "Team_name": "\u0421\u043b\u043e\u0432\u0430\u043d \u041b\u0438\u0431\u0435\u0440\u0435\u0446",
+        "NumberOfCups": 5,
+        "NationalTeamID": 3445,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/697.png?lm=1717277296"
+    },
+    {
+        "TeamID": 1443,
+        "Team_name": "\u0416\u0438\u043b\u0438\u043d\u0430",
+        "NumberOfCups": 13,
+        "NationalTeamID": 3503,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1443.png?lm=1737557020"
+    },
+    {
+        "TeamID": 8047,
+        "Team_name": "\u0421\u0443\u0434\u0443\u0432\u0430",
+        "NumberOfCups": 10,
+        "NationalTeamID": 3851,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/8047.png?lm=1409235589"
+    },
+    {
+        "TeamID": 30686,
+        "Team_name": "\u041c\u0438\u043b\u0441\u0430\u043c\u0438",
+        "NumberOfCups": 6,
+        "NationalTeamID": 6090,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/30686.png?lm=1426284408"
+    },
+    {
+        "TeamID": 22140,
+        "Team_name": "\u041b\u0430\u0447\u0438",
+        "NumberOfCups": 3,
+        "NationalTeamID": 3561,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/22140.png?lm=1485038268"
+    },
+    {
+        "TeamID": 11976,
+        "Team_name": "\u0424\u043e\u043b\u0430 \u042d\u0448",
+        "NumberOfCups": 12,
+        "NationalTeamID": 3580,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/11976.png?lm=1468530636"
+    },
+    {
+        "TeamID": 8671,
+        "Team_name": "\u0412\u043b\u0430\u0437\u043d\u0438\u044f",
+        "NumberOfCups": 19,
+        "NationalTeamID": 3561,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/8671.png?lm=1635619406"
+    },
+    {
+        "TeamID": 40090,
+        "Team_name": "\u041a\u0430\u0443\u043d\u043e \u0416\u0430\u043b\u044c\u0433\u0438\u0440\u0438\u0441",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3851,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/40090.png?lm=1705347033"
+    },
+    {
+        "TeamID": 10747,
+        "Team_name": "\u0422\u0440\u0435 \u041f\u0435\u043d\u043d\u0435",
+        "NumberOfCups": 15,
+        "NationalTeamID": 10521,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/10747.png?lm=1480717950"
+    },
+    {
+        "TeamID": 1100,
+        "Team_name": "\u0411\u0440\u0430\u043d\u043d",
+        "NumberOfCups": 10,
+        "NationalTeamID": 3440,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1100.png?lm=1444211296"
+    },
+    {
+        "TeamID": 60368,
+        "Team_name": "\u041d\u043e\u0430",
+        "NumberOfCups": 2,
+        "NationalTeamID": 6219,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/60368.png?lm=1721150323"
+    },
+    {
+        "TeamID": 260,
+        "Team_name": "\u0426\u044e\u0440\u0438\u0445",
+        "NumberOfCups": 24,
+        "NationalTeamID": 3384,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/260.png?lm=1688506599"
+    },
+    {
+        "TeamID": 10695,
+        "Team_name": "\u0428\u0430\u0445\u0442\u0451\u0440 \u0421.",
+        "NumberOfCups": 8,
+        "NationalTeamID": 3450,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/10695.png?lm=1474922023"
+    },
+    {
+        "TeamID": 22499,
+        "Team_name": "\u041a\u043e\u043d\u043d\u0430\u0441-\u041a\u0438",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3864,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/22499.png?lm=1722903567"
+    },
+    {
+        "TeamID": 7087,
+        "Team_name": "\u0420\u0443\u0436\u043e\u043c\u0431\u0435\u0440\u043e\u043a",
+        "NumberOfCups": 3,
+        "NationalTeamID": 3503,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/7087.png?lm=1518015311"
+    },
+    {
+        "TeamID": 2740,
+        "Team_name": "\u0412\u043e\u0440\u0441\u043a\u043b\u0430",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3699,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2740.png?lm=1420985318"
+    },
+    {
+        "TeamID": 678,
+        "Team_name": "\u041e\u0440\u0445\u0443\u0441",
+        "NumberOfCups": 14,
+        "NationalTeamID": 3436,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/678.png?lm=1518117578"
+    },
+    {
+        "TeamID": 10586,
+        "Team_name": "\u0410\u0440\u0438\u0441 \u041b\u0438\u043c\u0430\u0441\u043e\u043b",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3668,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/10586.png?lm=1418121622"
+    },
+    {
+        "TeamID": 11914,
+        "Team_name": "\u0414\u0438\u0444\u0444\u0435\u0440\u0434\u0430\u043d\u0436",
+        "NumberOfCups": 6,
+        "NationalTeamID": 3580,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/11914.png?lm=1649164397"
+    },
+    {
+        "TeamID": 42246,
+        "Team_name": "\u0415\u0432\u0440\u043e\u043f\u0430",
+        "NumberOfCups": 15,
+        "NationalTeamID": 37574,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/42246.png?lm=1532381234"
+    },
+    {
+        "TeamID": 156,
+        "Team_name": "\u041b\u0435\u0432\u0441\u043a\u0438 \u0421\u043e\u0444\u0438\u044f",
+        "NumberOfCups": 55,
+        "NationalTeamID": 3394,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/156.png?lm=1720551036"
+    },
+    {
+        "TeamID": 12346,
+        "Team_name": "\u041f\u0440. \u041d\u0438\u0434\u0435\u0440\u043a\u043e\u0440\u043d",
+        "NumberOfCups": 8,
+        "NationalTeamID": 3580,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/12346.png?lm=1468530889"
+    },
+    {
+        "TeamID": 903,
+        "Team_name": "\u0425\u0438\u0431\u0435\u0440\u043d\u0438\u0430\u043d",
+        "NumberOfCups": 16,
+        "NationalTeamID": 3380,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/903.png?lm=1737462058"
+    },
+    {
+        "TeamID": 41133,
+        "Team_name": "\u0418\u0431\u0435\u0440\u0438\u044f 1999",
+        "NumberOfCups": 6,
+        "NationalTeamID": 3669,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/41133.png?lm=1614506809"
+    },
+    {
+        "TeamID": 16779,
+        "Team_name": "\u041e\u0440\u0434\u0430\u0431\u0430\u0441\u044b",
+        "NumberOfCups": 6,
+        "NationalTeamID": 9110,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/16779.png?lm=1675518656"
+    },
+    {
+        "TeamID": 10603,
+        "Team_name": "\u0424\u043b\u043e\u0440\u0438\u0430\u043d\u0430",
+        "NumberOfCups": 49,
+        "NationalTeamID": 3587,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/10603.png?lm=1497991150"
+    },
+    {
+        "TeamID": 6131,
+        "Team_name": "\u0414\u0438\u043d\u0430\u043c\u043e \u0411\u0440\u0435\u0441\u0442",
+        "NumberOfCups": 7,
+        "NationalTeamID": 3450,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/6131.png?lm=1486547330"
+    },
+    {
+        "TeamID": 239,
+        "Team_name": "\u0412\u0438\u043a\u0438\u043d\u0433",
+        "NumberOfCups": 14,
+        "NationalTeamID": 3440,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/239.png?lm=1615368654"
+    },
+    {
+        "TeamID": 48332,
+        "Team_name": "\u041a\u043e\u043b\u043e\u0441 \u041a\u043e\u0432\u0430\u043b\u0435\u0432\u043a\u0430",
+        "NumberOfCups": 1,
+        "NationalTeamID": 3699,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/48332.png?lm=1546026029"
+    },
+    {
+        "TeamID": 1007,
+        "Team_name": "\u0423 \u041a\u0440\u0430\u0439\u043e\u0432\u0430",
+        "NumberOfCups": 6,
+        "NationalTeamID": 3447,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1007.png?lm=1695392000"
+    },
+    {
+        "TeamID": 32017,
+        "Team_name": "\u0414\u0438\u043b\u0430",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3669,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/32017.png?lm=1635148161"
+    },
+    {
+        "TeamID": 434,
+        "Team_name": "\u041b\u044e\u0446\u0435\u0440\u043d",
+        "NumberOfCups": 4,
+        "NationalTeamID": 3384,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/434.png?lm=1688507169"
+    },
+    {
+        "TeamID": 27843,
+        "Team_name": "\u0411\u0430\u043b\u0430",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3864,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/27843.png?lm=1639412629"
+    },
+    {
+        "TeamID": 63993,
+        "Team_name": "\u0421\u0430\u0431\u0430\u0445",
+        "NumberOfCups": 0,
+        "NationalTeamID": 8605,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/63993.png?lm=1722862973"
+    },
+    {
+        "TeamID": 7964,
+        "Team_name": "\u0422\u043e\u0440\u043f\u0435\u0434\u043e \u0416\u043e\u0434\u0438\u043d\u043e",
+        "NumberOfCups": 4,
+        "NationalTeamID": 3450,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/7964.png?lm=1436043253"
+    },
+    {
+        "TeamID": 11065,
+        "Team_name": "\u0414\u0435\u0447\u0438\u0447",
+        "NumberOfCups": 1,
+        "NationalTeamID": 11953,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/11065.png?lm=1416510731"
+    },
+    {
+        "TeamID": 10854,
+        "Team_name": "\u0424\u041a \u0421\u0430\u043d\u0442\u0430-\u041a\u043e\u043b\u043e\u043c\u0430",
+        "NumberOfCups": 30,
+        "NationalTeamID": 10533,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/10854.png?lm=1663087873"
+    },
+    {
+        "TeamID": 11411,
+        "Team_name": "\u0423\u0440\u0430\u0440\u0442\u0443",
+        "NumberOfCups": 7,
+        "NationalTeamID": 6219,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/11411.png?lm=1566468999"
+    },
+    {
+        "TeamID": 38208,
+        "Team_name": "\u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u0437\u0435\u0444'c",
+        "NumberOfCups": 10,
+        "NationalTeamID": 37574,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/38208.png?lm=1646833961"
+    },
+    {
+        "TeamID": 759,
+        "Team_name": "\u0428\u043b\u0451\u043d\u0441\u043a \u0412\u0440\u043e\u0446\u043b\u0430\u0432",
+        "NumberOfCups": 6,
+        "NationalTeamID": 3442,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/759.png?lm=1404463384"
+    },
+    {
+        "TeamID": 46710,
+        "Team_name": "\u0417\u0438\u0440\u044f",
+        "NumberOfCups": 0,
+        "NationalTeamID": 8605,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/46710.png?lm=1553022308"
+    },
+    {
+        "TeamID": 31276,
+        "Team_name": "\u0421\u0444\u044b\u043d\u0442\u0443\u043b \u0413\u0435\u043e\u0440\u0433\u0435",
+        "NumberOfCups": 2,
+        "NationalTeamID": 6090,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/31276.png?lm=1667585732"
+    },
+    {
+        "TeamID": 36999,
+        "Team_name": "\u0421\u0443\u043c\u0433\u0430\u0439\u044b\u0442",
+        "NumberOfCups": 0,
+        "NationalTeamID": 8605,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/36999.png?lm=1564074110"
+    },
+    {
+        "TeamID": 5546,
+        "Team_name": "\u041c\u043b\u0430\u0434\u0430 \u0411\u043e\u043b\u0435\u0441\u043b\u0430\u0432",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3445,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/5546.png?lm=1419784887"
+    },
+    {
+        "TeamID": 43162,
+        "Team_name": "\u041b\u0438\u0435\u043f\u0430\u044f",
+        "NumberOfCups": 3,
+        "NationalTeamID": 3555,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/43162.png?lm=1418576765"
+    },
+    {
+        "TeamID": 2259,
+        "Team_name": "\u041b\u043e\u043a\u043e \u041f\u043b\u043e\u0432\u0434\u0438\u0432",
+        "NumberOfCups": 5,
+        "NationalTeamID": 3394,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2259.png?lm=1626864236"
+    },
+    {
+        "TeamID": 5411,
+        "Team_name": "\u0425\u043e\u043d\u043a\u0430",
+        "NumberOfCups": 4,
+        "NationalTeamID": 3443,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/5411.png?lm=1522938104"
+    },
+    {
+        "TeamID": 3739,
+        "Team_name": "\u0422\u0435\u0443\u0442\u0430",
+        "NumberOfCups": 8,
+        "NationalTeamID": 3561,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/3739.png?lm=1638967962"
+    },
+    {
+        "TeamID": 8606,
+        "Team_name": "\u0410\u0443\u0434\u0430",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3555,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/8606.png?lm=1533462229"
+    },
+    {
+        "TeamID": 61955,
+        "Team_name": "\u0426\u0421\u041a\u0410 1948",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3394,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/61955.png?lm=1718487517"
+    },
+    {
+        "TeamID": 43032,
+        "Team_name": "\u041c\u044d\u0433\u043f\u0430\u0439\u0437",
+        "NumberOfCups": 1,
+        "NationalTeamID": 37574,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/43032.png?lm=1658260043"
+    },
+    {
+        "TeamID": 64780,
+        "Team_name": "\u0410\u0442\u043b\u0435\u0442\u0438\u043a \u042d\u0441\u043a\u0430\u043b\u044c\u0434",
+        "NumberOfCups": 2,
+        "NationalTeamID": 10533,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/64780.png?lm=1545864130"
+    },
+    {
+        "TeamID": 987,
+        "Team_name": "\u041c\u0430\u0437\u0435\u0440\u0443\u044d\u043b\u043b",
+        "NumberOfCups": 8,
+        "NationalTeamID": 3380,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/987.png?lm=1632586564"
+    },
+    {
+        "TeamID": 33206,
+        "Team_name": "\u041b\u0430\u043f\u0438",
+        "NumberOfCups": 3,
+        "NationalTeamID": 53982,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/33206.png?lm=1687531288"
+    },
+    {
+        "TeamID": 2410,
+        "Team_name": "\u0426\u0421\u041a\u0410 \u041c\u043e\u0441\u043a\u0432\u0430",
+        "NumberOfCups": 36,
+        "NationalTeamID": 3448,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2410.png?lm=1409222667"
+    },
+    {
+        "TeamID": 14178,
+        "Team_name": "\u041d\u0435\u043c\u0430\u043d",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3450,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/14178.png?lm=1648746852"
+    },
+    {
+        "TeamID": 2531,
+        "Team_name": "\u0411\u043e\u0442\u0435\u0432 \u041f\u043b\u043e\u0432\u0434\u0438\u0432",
+        "NumberOfCups": 7,
+        "NationalTeamID": 3394,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2531.png?lm=1497946814"
+    },
+    {
+        "TeamID": 8780,
+        "Team_name": "\u0421\u043b\u0430\u0439\u0433\u043e \u0420\u043e\u0432\u0435\u0440c",
+        "NumberOfCups": 10,
+        "NationalTeamID": 3509,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/8780.png?lm=1498249702"
+    },
+    {
+        "TeamID": 8042,
+        "Team_name": "\u0418\u043d\u0442\u0435\u0440",
+        "NumberOfCups": 5,
+        "NationalTeamID": 3443,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/8042.png?lm=1422271190"
+    },
+    {
+        "TeamID": 9211,
+        "Team_name": "\u0411\u043e\u0433\u0435\u043c\u0438\u0430\u043d",
+        "NumberOfCups": 44,
+        "NationalTeamID": 3509,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/9211.png?lm=1543771632"
+    },
+    {
+        "TeamID": 9284,
+        "Team_name": "\u042d\u0441\u043f\u0435\u0440\u0430\u043d\u0436",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3580,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/9284.png?lm=1569949401"
+    },
+    {
+        "TeamID": 28633,
+        "Team_name": "\u0423\u042d \u0421\u0430\u043d\u0442\u0430-\u041a\u043e\u043b\u043e\u043c\u0430",
+        "NumberOfCups": 7,
+        "NationalTeamID": 10533,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/28633.png?lm=1467553539"
+    },
+    {
+        "TeamID": 3057,
+        "Team_name": "\u0421\u0442\u0430\u043d\u0434\u0430\u0440\u0434",
+        "NumberOfCups": 23,
+        "NationalTeamID": 3382,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/3057.png?lm=1719832545"
+    },
+    {
+        "TeamID": 10157,
+        "Team_name": "\u0410\u043a\u0442\u043e\u0431\u0435",
+        "NumberOfCups": 12,
+        "NationalTeamID": 9110,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/10157.png?lm=1708924702"
+    },
+    {
+        "TeamID": 29053,
+        "Team_name": "\u0413\u0438\u043b\u044f\u043d\u0438",
+        "NumberOfCups": 2,
+        "NationalTeamID": 53982,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/29053.png?lm=1730918667"
+    },
+    {
+        "TeamID": 10617,
+        "Team_name": "\u0422\u0440\u0435 \u0424\u0438\u043e\u0440\u0438",
+        "NumberOfCups": 22,
+        "NationalTeamID": 10521,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/10617.png?lm=1474580048"
+    },
+    {
+        "TeamID": 6248,
+        "Team_name": "\u0414\u043e\u043c\u0436\u0430\u043b\u0435",
+        "NumberOfCups": 4,
+        "NationalTeamID": 3588,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/6248.png?lm=1513276420"
+    },
+    {
+        "TeamID": 331,
+        "Team_name": "\u041e\u0441\u0430\u0441\u0443\u043d\u0430",
+        "NumberOfCups": 4,
+        "NationalTeamID": 3375,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/331.png?lm=1686070937"
+    },
+    {
+        "TeamID": 253,
+        "Team_name": "\u0422\u043e\u0440\u043f\u0435\u0434\u043e \u041a\u0443\u0442\u0430\u0438\u0441\u0438",
+        "NumberOfCups": 12,
+        "NationalTeamID": 3669,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/253.png?lm=1522184505"
+    },
+    {
+        "TeamID": 22010,
+        "Team_name": "\u0413\u0430\u0431\u0430\u043b\u0430",
+        "NumberOfCups": 2,
+        "NationalTeamID": 8605,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/22010.png?lm=1627492326"
+    },
+    {
+        "TeamID": 2714,
+        "Team_name": "\u0417\u0438\u043c\u0431\u0440\u0443",
+        "NumberOfCups": 15,
+        "NationalTeamID": 6090,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2714.png?lm=1509818964"
+    },
+    {
+        "TeamID": 1063,
+        "Team_name": "\u0412\u0438\u0431\u043e\u0440\u0433",
+        "NumberOfCups": 4,
+        "NationalTeamID": 3436,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1063.png?lm=1518117799"
+    },
+    {
+        "TeamID": 8956,
+        "Team_name": "\u0428\u0430\u043c\u0430\u0445\u044b",
+        "NumberOfCups": 4,
+        "NationalTeamID": 8605,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/8956.png?lm=1659673998"
+    },
+    {
+        "TeamID": 3189,
+        "Team_name": "\u0418\u043b\u044c\u0432\u0435\u0441",
+        "NumberOfCups": 5,
+        "NationalTeamID": 3443,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/3189.png?lm=1455922551"
+    },
+    {
+        "TeamID": 3840,
+        "Team_name": "\u0410\u0434\u0430\u043d\u0430 \u0414\u0435\u043c\u0438\u0440\u0441\u043f\u043e\u0440",
+        "NumberOfCups": 5,
+        "NationalTeamID": 3381,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/3840.png?lm=1442129502"
+    },
+    {
+        "TeamID": 2424,
+        "Team_name": "\u0416\u0438\u043b \u0412\u0438\u0441\u0435\u043d\u0442\u0435",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3300,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2424.png?lm=1624283300"
+    },
+    {
+        "TeamID": 2995,
+        "Team_name": "\u041f\u0430\u0441\u0443\u0448 \u0424\u0435\u0440\u0440\u0435\u0439\u0440\u0430",
+        "NumberOfCups": 4,
+        "NationalTeamID": 3300,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2995.png?lm=1578477741"
+    },
+    {
+        "TeamID": 2423,
+        "Team_name": "\u0421\u0430\u043d\u0442\u0430-\u041a\u043b\u0430\u0440\u0430",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3300,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2423.png?lm=1718909294"
+    },
+    {
+        "TeamID": 10480,
+        "Team_name": "\u0428\u0430\u0445\u0442\u0451\u0440 \u041a.",
+        "NumberOfCups": 4,
+        "NationalTeamID": 9110,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/10480.png?lm=1453234248"
+    },
+    {
+        "TeamID": 11912,
+        "Team_name": "\u0410\u0440\u0430\u0440\u0430\u0442",
+        "NumberOfCups": 11,
+        "NationalTeamID": 6219,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/11912.png?lm=1522679445"
+    },
+    {
+        "TeamID": 172,
+        "Team_name": "\u0428\u0430\u0440\u043b\u0435\u0440\u0443\u0430",
+        "NumberOfCups": 1,
+        "NationalTeamID": 3382,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/172.png?lm=1448474590"
+    },
+    {
+        "TeamID": 272,
+        "Team_name": "\u0410\u0418\u041a",
+        "NumberOfCups": 23,
+        "NationalTeamID": 3557,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/272.png?lm=1669122843"
+    },
+    {
+        "TeamID": 31130,
+        "Team_name": "\u041d\u044c\u044e\u0442\u0430\u0443\u043d",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3864,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/31130.png?lm=1719245340"
+    },
+    {
+        "TeamID": 1185,
+        "Team_name": "\u0425\u0430\u0444\u043d\u0430\u0440\u0444\u044c\u043e\u0440\u0434\u0443\u0440",
+        "NumberOfCups": 16,
+        "NationalTeamID": 3574,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1185.png?lm=1423493364"
+    },
+    {
+        "TeamID": 3237,
+        "Team_name": "\u041a\u0420 \u0420\u0435\u0439\u043a\u044c\u044f\u0432\u0438\u043a",
+        "NumberOfCups": 48,
+        "NationalTeamID": 3574,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/3237.png?lm=1403617279"
+    },
+    {
+        "TeamID": 1918,
+        "Team_name": "\u041f\u0440\u0438\u0448\u0442\u0438\u043d\u0430",
+        "NumberOfCups": 30,
+        "NationalTeamID": 53982,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1918.png?lm=1705885998"
+    },
+    {
+        "TeamID": 13467,
+        "Team_name": "\u0420\u0430\u0441\u0438\u043d\u0433 \u0423\u043d\u0438\u043e\u043d",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3580,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/13467.png?lm=1727477310"
+    },
+    {
+        "TeamID": 10262,
+        "Team_name": "\u0411\u0438\u0440\u043a\u0438\u0440\u043a\u0430\u0440\u0430",
+        "NumberOfCups": 17,
+        "NationalTeamID": 3587,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/10262.png?lm=1443519585"
+    },
+    {
+        "TeamID": 2425,
+        "Team_name": "\u0420\u0438\u0443 \u0410\u0432\u0435",
+        "NumberOfCups": 3,
+        "NationalTeamID": 3300,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2425.png?lm=1516613968"
+    },
+    {
+        "TeamID": 2578,
+        "Team_name": "\u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u043d\u0441\u0442\u043e\u043d",
+        "NumberOfCups": 11,
+        "NationalTeamID": 3380,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2578.png?lm=1610822014"
+    },
+    {
+        "TeamID": 3793,
+        "Team_name": "\u0411. \u0418\u0435\u0440\u0443\u0441\u0430\u043b\u0438\u043c",
+        "NumberOfCups": 16,
+        "NationalTeamID": 5547,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/3793.png?lm=1578415471"
+    },
+    {
+        "TeamID": 3592,
+        "Team_name": "\u041a\u0440\u0438\u0432\u0431\u0430\u0441\u0441",
+        "NumberOfCups": 1,
+        "NationalTeamID": 3699,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/3592.png?lm=1636730619"
+    },
+    {
+        "TeamID": 29831,
+        "Team_name": "\u0424\u0430\u0440\u0443\u043b",
+        "NumberOfCups": 4,
+        "NationalTeamID": 3447,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/29831.png?lm=1629303713"
+    },
+    {
+        "TeamID": 422,
+        "Team_name": "\u0412\u0438\u0441\u043b\u0430 \u041a\u0440\u0430\u043a\u043e\u0432",
+        "NumberOfCups": 19,
+        "NationalTeamID": 3442,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/422.png?lm=1579355068"
+    },
+    {
+        "TeamID": 27114,
+        "Team_name": "\u042d\u0433\u043d\u0430\u0442\u0438\u044f",
+        "NumberOfCups": 5,
+        "NationalTeamID": 3561,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/27114.png?lm=1669285230"
+    },
+    {
+        "TeamID": 12163,
+        "Team_name": "\u041f\u0430\u043a\u0448",
+        "NumberOfCups": 3,
+        "NationalTeamID": 3468,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/12163.png?lm=1471454115"
+    },
+    {
+        "TeamID": 21875,
+        "Team_name": "\u0421\u0442\u044c\u044f\u0440\u043d\u0430\u043d",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3574,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/21875.png?lm=1694272291"
+    },
+    {
+        "TeamID": 1839,
+        "Team_name": "\u0410\u043a\u044e\u0440\u0435\u0439\u0440\u0438",
+        "NumberOfCups": 3,
+        "NationalTeamID": 3574,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1839.png?lm=1423493916"
+    },
+    {
+        "TeamID": 1519,
+        "Team_name": "\u0414\u0430\u043d\u0434\u0438 \u042e\u043d\u0430\u0439\u0442\u0435\u0434",
+        "NumberOfCups": 9,
+        "NationalTeamID": 3380,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1519.png?lm=1658408113"
+    },
+    {
+        "TeamID": 2553,
+        "Team_name": "\u041a\u0438\u043b\u043c\u0430\u0440\u043d\u043e\u043a",
+        "NumberOfCups": 8,
+        "NationalTeamID": 3380,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2553.png?lm=1568027450"
+    },
+    {
+        "TeamID": 2698,
+        "Team_name": "\u0420\u0443\u0431\u0438\u043d \u041a\u0430\u0437\u0430\u043d\u044c",
+        "NumberOfCups": 7,
+        "NationalTeamID": 3448,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2698.png?lm=1561987986"
+    },
+    {
+        "TeamID": 41231,
+        "Team_name": "\u0421\u043e\u0447\u0438",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3448,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/41231.png?lm=1549213557"
+    },
+    {
+        "TeamID": 30613,
+        "Team_name": "\u041a\u0438\u0448\u0432\u0430\u0440\u0434\u0430",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3468,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/30613.png?lm=1595526704"
+    },
+    {
+        "TeamID": 1421,
+        "Team_name": "\u0420\u0435\u0439\u043c\u0441",
+        "NumberOfCups": 10,
+        "NationalTeamID": 3377,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1421.png?lm=1592601839"
+    },
+    {
+        "TeamID": 353,
+        "Team_name": "\u041b\u0438\u043b\u043b\u0435\u0441\u0442\u0440\u0451\u043c",
+        "NumberOfCups": 11,
+        "NationalTeamID": 3440,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/353.png?lm=1420642842"
+    },
+    {
+        "TeamID": 708,
+        "Team_name": "\u0423\u0439\u043f\u0435\u0448\u0442",
+        "NumberOfCups": 33,
+        "NationalTeamID": 3468,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/708.png?lm=1659699830"
+    },
+    {
+        "TeamID": 22995,
+        "Team_name": "\u041a\u044b\u0437\u044b\u043b-\u0416\u0430\u0440",
+        "NumberOfCups": 1,
+        "NationalTeamID": 9110,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/22995.png?lm=1579189493"
+    },
+    {
+        "TeamID": 8024,
+        "Team_name": "\u0410\u0440\u043e\u043a\u0430",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3300,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/8024.png?lm=1530096604"
+    },
+    {
+        "TeamID": 1083,
+        "Team_name": "\u0420\u043e\u0441\u0442\u043e\u0432",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3448,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1083.png?lm=1604130993"
+    },
+    {
+        "TeamID": 6365,
+        "Team_name": "\u041b\u043e\u043a\u043e\u043c\u043e\u0442\u0438\u0432 \u0422\u0431",
+        "NumberOfCups": 3,
+        "NationalTeamID": 3669,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/6365.png?lm=1522184600"
+    },
+    {
+        "TeamID": 403,
+        "Team_name": "\u0412\u0438\u043b\u043b\u0435\u043c II",
+        "NumberOfCups": 9,
+        "NationalTeamID": 3379,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/403.png?lm=1686931031"
+    },
+    {
+        "TeamID": 5817,
+        "Team_name": "\u0421\u0451\u043d\u0434\u0435\u0440\u0439\u044e\u0441\u043a\u0435",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3436,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/5817.png?lm=1727864104"
+    },
+    {
+        "TeamID": 11194,
+        "Team_name": "\u041b\u043e\u043a\u043e\u043c\u043e\u0442\u0438\u0432\u0430",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3556,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/11194.png?lm=1505567651"
+    },
+    {
+        "TeamID": 786,
+        "Team_name": "\u0410\u0415\u041b \u041b\u0438\u043c\u0430\u0441\u043e\u043b",
+        "NumberOfCups": 17,
+        "NationalTeamID": 3668,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/786.png?lm=1583681789"
+    },
+    {
+        "TeamID": 2293,
+        "Team_name": "\u041a\u043e\u043d\u044c\u044f\u0441\u043f\u043e\u0440",
+        "NumberOfCups": 4,
+        "NationalTeamID": 3381,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2293.png?lm=1519828204"
+    },
+    {
+        "TeamID": 16239,
+        "Team_name": "\u0414\u0435\u0441\u043d\u0430",
+        "NumberOfCups": 3,
+        "NationalTeamID": 3699,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/16239.png?lm=1469859315"
+    },
+    {
+        "TeamID": 6112,
+        "Team_name": "\u041f\u044f\u0441\u0442 \u0413\u043b\u0438\u0432\u0438\u0446\u0435",
+        "NumberOfCups": 1,
+        "NationalTeamID": 3442,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/6112.png?lm=1706715503"
+    },
+    {
+        "TeamID": 84,
+        "Team_name": "\u0414\u0435\u0431\u0440\u0435\u0446\u0435\u043d",
+        "NumberOfCups": 19,
+        "NationalTeamID": 3468,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/84.png?lm=1667989068"
+    },
+    {
+        "TeamID": 1293,
+        "Team_name": "\u0422\u0440\u043e\u043c\u0441\u0451",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3440,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1293.png?lm=1438202054"
+    },
+    {
+        "TeamID": 3785,
+        "Team_name": "M. \u041f\u0435\u0442\u0430\u0445-\u0422\u0438\u043a\u0432\u0430",
+        "NumberOfCups": 3,
+        "NationalTeamID": 5547,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/3785.png?lm=1423260379"
+    },
+    {
+        "TeamID": 4639,
+        "Team_name": "\u041c\u043e\u0440\u043d\u0430\u0440 \u0411\u0430\u0440",
+        "NumberOfCups": 0,
+        "NationalTeamID": 11953,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/4639.png?lm=1416408407"
+    },
+    {
+        "TeamID": 377,
+        "Team_name": "\u0411\u0430\u043d\u0438\u043a \u041e\u0441\u0442\u0440\u0430\u0432\u0430",
+        "NumberOfCups": 10,
+        "NationalTeamID": 3445,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/377.png?lm=1419584907"
+    },
+    {
+        "TeamID": 41061,
+        "Team_name": "\u041a\u043e\u0440\u0432\u0438\u043d\u0443\u043b",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3447,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/41061.png?lm=1658328354"
+    },
+    {
+        "TeamID": 11282,
+        "Team_name": "\u0410\u043b\u0430\u043d\u044c\u044f\u0441\u043f\u043e\u0440",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3381,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/11282.png?lm=1489273987"
+    },
+    {
+        "TeamID": 465,
+        "Team_name": "\u0421\u0435\u043d\u0442-\u041c\u0438\u0440\u0440\u0435\u043d",
+        "NumberOfCups": 10,
+        "NationalTeamID": 3380,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/465.png?lm=1411207682"
+    },
+    {
+        "TeamID": 35545,
+        "Team_name": "\u0418\u0441\u043a\u0440\u0430",
+        "NumberOfCups": 0,
+        "NationalTeamID": 11953,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/35545.png?lm=1416511433"
+    },
+    {
+        "TeamID": 12423,
+        "Team_name": "\u041a\u0435\u0447\u043a\u0435\u043c\u0435\u0442",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3468,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/12423.png?lm=1615317576"
+    },
+    {
+        "TeamID": 3654,
+        "Team_name": "\u041a\u0430\u043b\u044c\u043c\u0430\u0440",
+        "NumberOfCups": 8,
+        "NationalTeamID": 3557,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/3654.png?lm=1696707425"
+    },
+    {
+        "TeamID": 433,
+        "Team_name": "FC Koper",
+        "NumberOfCups": 6,
+        "NationalTeamID": 3588,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/433.png?lm=1610114112"
+    },
+    {
+        "TeamID": 715,
+        "Team_name": "\u0411\u043e\u0433\u0435\u043c\u0438\u0430\u043d\u0441 1905",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3445,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/715.png?lm=1646734219"
+    },
+    {
+        "TeamID": 10694,
+        "Team_name": "\u0413\u043e\u043c\u0435\u043b\u044c",
+        "NumberOfCups": 8,
+        "NationalTeamID": 3450,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/10694.png?lm=1436043719"
+    },
+    {
+        "TeamID": 46887,
+        "Team_name": "\u0414\u0443\u043a\u0430\u0433\u0438\u043d\u0438",
+        "NumberOfCups": 1,
+        "NationalTeamID": 53982,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/46887.png?lm=1659474003"
+    },
+    {
+        "TeamID": 76,
+        "Team_name": "\u0412\u043e\u043b\u0435\u0440\u0435\u043d\u0433\u0430",
+        "NumberOfCups": 9,
+        "NationalTeamID": 3440,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/76.png?lm=1450646255"
+    },
+    {
+        "TeamID": 6105,
+        "Team_name": "\u0410\u0448\u0434\u043e\u0434",
+        "NumberOfCups": 0,
+        "NationalTeamID": 5547,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/6105.png?lm=1423260293"
+    },
+    {
+        "TeamID": 1391,
+        "Team_name": "\u0417\u0430\u043b\u0430\u044d\u0433\u0435\u0440\u0441\u0435\u0433",
+        "NumberOfCups": 3,
+        "NationalTeamID": 3468,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1391.png?lm=1582047515"
+    },
+    {
+        "TeamID": 40604,
+        "Team_name": "\u0410\u0440\u0434\u0430",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3394,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/40604.png?lm=1721764802"
+    },
+    {
+        "TeamID": 25232,
+        "Team_name": "\u0425\u0430\u0432\u0435\u0440\u0444\u043e\u0440\u0434\u0443\u044d\u0441\u0442",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3864,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/25232.png?lm=1599769634"
+    },
+    {
+        "TeamID": 5223,
+        "Team_name": "\u041c\u0430\u043a\u043a\u0430\u0431\u0438 \u041d\u0435\u0442\u0430\u043d\u0438\u044f",
+        "NumberOfCups": 11,
+        "NationalTeamID": 5547,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/5223.png?lm=1626703266"
+    },
+    {
+        "TeamID": 121,
+        "Team_name": "\u0414\u0438\u043d\u0430\u043c\u043e \u041c\u043e\u0441\u043a\u0432\u0430",
+        "NumberOfCups": 19,
+        "NationalTeamID": 3448,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/121.png?lm=1597937447"
+    },
+    {
+        "TeamID": 653,
+        "Team_name": "\u041e\u0424\u0418 \u041a\u0440\u0438\u0442",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3378,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/653.png?lm=1597434188"
+    },
+    {
+        "TeamID": 1033,
+        "Team_name": "\u0412\u0430\u043b\u044e\u0440",
+        "NumberOfCups": 37,
+        "NationalTeamID": 3574,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1033.png?lm=1713417295"
+    },
+    {
+        "TeamID": 709,
+        "Team_name": "\u0413\u043e\u043d\u0432\u0435\u0434",
+        "NumberOfCups": 24,
+        "NationalTeamID": 3468,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/709.png?lm=1598281899"
+    },
+    {
+        "TeamID": 2782,
+        "Team_name": "\u0412\u0435\u043d\u0442\u0441\u043f\u0438\u043b\u0441",
+        "NumberOfCups": 13,
+        "NationalTeamID": 3555,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2782.png?lm=1680722575"
+    },
+    {
+        "TeamID": 801,
+        "Team_name": "\u0413\u0451\u0442\u0435\u0431\u043e\u0440\u0433",
+        "NumberOfCups": 29,
+        "NationalTeamID": 3557,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/801.png?lm=1604213475"
+    },
+    {
+        "TeamID": 4467,
+        "Team_name": "\u0425\u0430\u0440\u0442\u0431\u0435\u0440\u0433",
+        "NumberOfCups": 8,
+        "NationalTeamID": 3383,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/4467.png?lm=1697975944"
+    },
+    {
+        "TeamID": 23777,
+        "Team_name": "\u0421\u0418\u041a",
+        "NumberOfCups": 3,
+        "NationalTeamID": 3443,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/23777.png?lm=1459351213"
+    },
+    {
+        "TeamID": 8818,
+        "Team_name": "\u0411\u043e\u0442\u043e\u0448\u0430\u043d\u0438",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3447,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/8818.png?lm=1691146613"
+    },
+    {
+        "TeamID": 19294,
+        "Team_name": "\u041a\u0430\u0439\u0441\u0430\u0440",
+        "NumberOfCups": 6,
+        "NationalTeamID": 9110,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/19294.png?lm=1615751038"
+    },
+    {
+        "TeamID": 4000,
+        "Team_name": "\u041b\u0435\u0445\u0438\u044f \u0413\u0434\u0430\u043d\u044c\u0441\u043a",
+        "NumberOfCups": 4,
+        "NationalTeamID": 3442,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/4000.png?lm=1549363805"
+    },
+    {
+        "TeamID": 32832,
+        "Team_name": "\u0420\u0438\u0442\u0435\u0440\u044f\u0439",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3851,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/32832.png?lm=1551614176"
+    },
+    {
+        "TeamID": 11479,
+        "Team_name": "\u0424\u043e\u043b\u044c\u0433\u043e\u0440\u0435",
+        "NumberOfCups": 9,
+        "NationalTeamID": 10521,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/11479.png?lm=1416125559"
+    },
+    {
+        "TeamID": 27116,
+        "Team_name": "\u041a\u0443\u043a\u0435\u0441\u0438",
+        "NumberOfCups": 4,
+        "NationalTeamID": 3561,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/27116.png?lm=1448734726"
+    },
+    {
+        "TeamID": 329,
+        "Team_name": "\u0421\u043b\u0438\u043c\u0430 \u0423\u043e\u043d\u0434\u0435\u0440.",
+        "NumberOfCups": 51,
+        "NationalTeamID": 3587,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/329.png?lm=1421014085"
+    },
+    {
+        "TeamID": 32129,
+        "Team_name": "\u0411\u0430\u043b\u044c\u0446\u0430\u043d",
+        "NumberOfCups": 1,
+        "NationalTeamID": 3587,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/32129.png?lm=1497042560"
+    },
+    {
+        "TeamID": 7567,
+        "Team_name": "\u0420\u0430\u0434\u043d\u0438\u0447\u043a\u0438 \u041d\u0438\u0448",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3438,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/7567.png?lm=1420204988"
+    },
+    {
+        "TeamID": 53646,
+        "Team_name": "\u041f\u043e\u043b\u0435\u0441\u044c\u0435",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3699,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/53646.png?lm=1718547005"
+    },
+    {
+        "TeamID": 967,
+        "Team_name": "\u0427\u0435\u0440\u043d\u043e M\u043e\u0440\u0435",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3394,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/967.png?lm=1416145122"
+    },
+    {
+        "TeamID": 98841,
+        "Team_name": "FK TransINVEST",
+        "NumberOfCups": 1,
+        "NationalTeamID": 3851,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/98841.png?lm=1722263742"
+    },
+    {
+        "TeamID": 1435,
+        "Team_name": "\u0413\u043e\u0443 \u042d\u0445\u0435\u0434 \u0418\u0433\u043b\u0441",
+        "NumberOfCups": 4,
+        "NationalTeamID": 3379,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1435.png?lm=1540316767"
+    },
+    {
+        "TeamID": 26985,
+        "Team_name": "\u0411\u0440\u0430\u0432\u043e",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3588,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/26985.png?lm=1501500525"
+    },
+    {
+        "TeamID": 4645,
+        "Team_name": "\u0420\u0430\u0434\u043d\u0438\u0447\u043a\u0438 \u041a\u0440\u0430\u0433.",
+        "NumberOfCups": 1,
+        "NationalTeamID": 3438,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/4645.png?lm=1403100499"
+    },
+    {
+        "TeamID": 3909,
+        "Team_name": "\u0428\u0435\u043b\u0431\u0443\u0440\u043d",
+        "NumberOfCups": 43,
+        "NationalTeamID": 3509,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/3909.png?lm=1423677598"
+    },
+    {
+        "TeamID": 1225,
+        "Team_name": "\u0425\u0430\u043a\u0430",
+        "NumberOfCups": 22,
+        "NationalTeamID": 3443,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1225.png?lm=1719166579"
+    },
+    {
+        "TeamID": 10613,
+        "Team_name": "\u0412\u0438\u0440\u0442\u0443\u0441",
+        "NumberOfCups": 5,
+        "NationalTeamID": 10521,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/10613.png?lm=1479742705"
+    },
+    {
+        "TeamID": 22461,
+        "Team_name": "\u041a\u0430\u0440\u043d\u0430\u0440\u0432\u043e\u043d",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3864,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/22461.png?lm=1538510979"
+    },
+    {
+        "TeamID": 62026,
+        "Team_name": "\u041f\u0435\u043d\u0438\u0431\u043e\u043d\u0442",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3864,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/62026.png?lm=1567623678"
+    },
+    {
+        "TeamID": 22842,
+        "Team_name": "\u0413\u0430\u0433\u0440\u0430",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3669,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/22842.png?lm=1553020103"
+    },
+    {
+        "TeamID": 37989,
+        "Team_name": "\u0410\u0440\u0441\u0435\u043d\u0430\u043b \u0422\u0438\u0432\u0430\u0442",
+        "NumberOfCups": 0,
+        "NationalTeamID": 11953,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/37989.png?lm=1490034693"
+    },
+    {
+        "TeamID": 32125,
+        "Team_name": "\u041c\u043e\u0441\u0442\u0430",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3587,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/32125.png?lm=1497991140"
+    },
+    {
+        "TeamID": 42546,
+        "Team_name": "\u041c\u043e\u043d\u0441 \u041a\u0430\u043b\u044c\u043f\u0435",
+        "NumberOfCups": 0,
+        "NationalTeamID": 37574,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/42546.png?lm=1556702970"
+    },
+    {
+        "TeamID": 24350,
+        "Team_name": "\u041a\u043e\u0441\u043c\u043e\u0441",
+        "NumberOfCups": 8,
+        "NationalTeamID": 10521,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/24350.png?lm=1478905107"
+    },
+    {
+        "TeamID": 1004,
+        "Team_name": "\u0417\u0435\u0442\u0430",
+        "NumberOfCups": 1,
+        "NationalTeamID": 11953,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1004.png?lm=1502108786"
+    },
+    {
+        "TeamID": 50983,
+        "Team_name": "\u041f\u043e\u0434\u0433\u043e\u0440\u0438\u0446\u0430",
+        "NumberOfCups": 0,
+        "NationalTeamID": 11953,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/50983.png?lm=1567623553"
+    },
+    {
+        "TeamID": 69752,
+        "Team_name": "\u0425\u0435\u0433\u0435\u043b\u044c\u043c\u0430\u043d\u043d",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3851,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/69752.png?lm=1659959156"
+    },
+    {
+        "TeamID": 4807,
+        "Team_name": "\u0428\u0438\u0440\u0430\u043a",
+        "NumberOfCups": 12,
+        "NationalTeamID": 6219,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/4807.png?lm=1583623838"
+    },
+    {
+        "TeamID": 11910,
+        "Team_name": "\u0421\u0430\u043d-\u0416\u0443\u043b\u0438\u0430",
+        "NumberOfCups": 14,
+        "NationalTeamID": 10533,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/11910.png?lm=1436044827"
+    },
+    {
+        "TeamID": 675,
+        "Team_name": "\u0421\u043b\u0430\u0432\u0438\u044f \u0421\u043e\u0444\u0438\u044f",
+        "NumberOfCups": 15,
+        "NationalTeamID": 3394,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/675.png?lm=1493976927"
+    },
+    {
+        "TeamID": 5689,
+        "Team_name": "\u041a\u0440\u0430\u043a\u043e\u0432\u0438\u044f",
+        "NumberOfCups": 7,
+        "NationalTeamID": 3442,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/5689.png?lm=1722343628"
+    },
+    {
+        "TeamID": 38921,
+        "Team_name": "\u0414\u0438\u043d\u0430\u043c\u043e-\u0410\u0432\u0442\u043e",
+        "NumberOfCups": 0,
+        "NationalTeamID": 6090,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/38921.png?lm=1554051128"
+    },
+    {
+        "TeamID": 6335,
+        "Team_name": "\u0412\u0430\u043b\u043b\u0435\u0442\u0442\u0430",
+        "NumberOfCups": 48,
+        "NationalTeamID": 3587,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/6335.png?lm=1403617535"
+    },
+    {
+        "TeamID": 39803,
+        "Team_name": "\u0421\u0438\u0440\u0435\u043d\u0441",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3587,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/39803.png?lm=1405170056"
+    },
+    {
+        "TeamID": 7130,
+        "Team_name": "\u041d\u0430\u0440\u0432\u0430-\u0422\u0440\u0430\u043d\u0441",
+        "NumberOfCups": 5,
+        "NationalTeamID": 6133,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/7130.png?lm=1518959075"
+    },
+    {
+        "TeamID": 48712,
+        "Team_name": "\u0422\u0435\u0442\u0443\u0441 \u041f\u0435\u0442\u0430\u043d\u0436",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3580,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/48712.png?lm=1730917007"
+    },
+    {
+        "TeamID": 10605,
+        "Team_name": "Marsaxlokk",
+        "NumberOfCups": 1,
+        "NationalTeamID": 3587,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/10605.png?lm=1726432564"
+    },
+    {
+        "TeamID": 21835,
+        "Team_name": "\u0423\u041d\u0410 \u0428\u0442\u0440\u0430\u0441\u0441\u0435\u043d",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3580,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/21835.png?lm=1426284764"
+    },
+    {
+        "TeamID": 22783,
+        "Team_name": "\u041d\u044b\u043c\u043c\u0435 \u041a\u0430\u043b\u044c\u044e",
+        "NumberOfCups": 4,
+        "NationalTeamID": 6133,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/22783.png?lm=1709194522"
+    },
+    {
+        "TeamID": 36755,
+        "Team_name": "\u0418\u0441\u043b\u043e\u0447\u044c",
+        "NumberOfCups": 1,
+        "NationalTeamID": 3450,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/36755.png?lm=1516304515"
+    },
+    {
+        "TeamID": 26326,
+        "Team_name": "\u042d\u043d\u0433\u043e\u0440\u0434\u0430\u043d\u044c",
+        "NumberOfCups": 1,
+        "NationalTeamID": 10533,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/26326.png?lm=1505826333"
+    },
+    {
+        "TeamID": 1102,
+        "Team_name": "\u0412\u041f\u0421",
+        "NumberOfCups": 4,
+        "NationalTeamID": 3443,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1102.png?lm=1646230385"
+    },
+    {
+        "TeamID": 42310,
+        "Team_name": "\u0428\u044f\u0443\u043b\u044f\u0439",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3851,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/42310.png?lm=1529072878"
+    },
+    {
+        "TeamID": 39,
+        "Team_name": "\u041c\u0430\u0439\u043d\u0446",
+        "NumberOfCups": 4,
+        "NationalTeamID": 3262,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/39.png?lm=1564748880"
+    },
+    {
+        "TeamID": 80996,
+        "Team_name": "\u041c\u0430\u043b\u0438\u0448\u0435\u0432\u043e",
+        "NumberOfCups": 0,
+        "NationalTeamID": 53982,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/80996.png?lm=1707229252"
+    },
+    {
+        "TeamID": 23370,
+        "Team_name": "\u041a\u0430\u043b\u0435\u0432",
+        "NumberOfCups": 3,
+        "NationalTeamID": 6133,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/23370.png?lm=1423674638"
+    },
+    {
+        "TeamID": 168,
+        "Team_name": "\u0417\u0430\u0433\u043b\u0435\u043c\u0431\u0435 \u041b\u044e\u0431\u0438\u043d",
+        "NumberOfCups": 3,
+        "NationalTeamID": 3442,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/168.png?lm=1429042281"
+    },
+    {
+        "TeamID": 1115,
+        "Team_name": "\u0411\u0430\u0440\u0440\u0438 \u0422\u0430\u0443\u043d",
+        "NumberOfCups": 7,
+        "NationalTeamID": 3864,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1115.png?lm=1503816184"
+    },
+    {
+        "TeamID": 504,
+        "Team_name": "\u0413\u0440\u0430\u0441\u0441\u0445\u043e\u043f\u043f\u0435\u0440",
+        "NumberOfCups": 49,
+        "NationalTeamID": 3384,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/504.png?lm=1688507097"
+    },
+    {
+        "TeamID": 940,
+        "Team_name": "\u0421\u0435\u043b\u044c\u0442\u0430",
+        "NumberOfCups": 3,
+        "NationalTeamID": 3375,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/940.png?lm=1406966406"
+    },
+    {
+        "TeamID": 634,
+        "Team_name": "\u041c\u0422\u041a",
+        "NumberOfCups": 42,
+        "NationalTeamID": 3468,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/634.png?lm=1471454144"
+    },
+    {
+        "TeamID": 2817,
+        "Team_name": "\u0421\u0442\u0440\u0451\u043c\u0441\u0433\u043e\u0434\u0441\u0435\u0442",
+        "NumberOfCups": 7,
+        "NationalTeamID": 3440,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2817.png?lm=1522008831"
+    },
+    {
+        "TeamID": 180,
+        "Team_name": "\u0421\u0430\u0443\u0442\u0433\u0435\u043c\u043f\u0442\u043e\u043d",
+        "NumberOfCups": 3,
+        "NationalTeamID": 3299,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/180.png?lm=1444560086"
+    },
+    {
+        "TeamID": 1274,
+        "Team_name": "\u0421\u0442\u0430\u0431\u0435\u043a",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3440,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1274.png?lm=1423572768"
+    },
+    {
+        "TeamID": 1304,
+        "Team_name": "\u0425\u0435\u0440\u0430\u043a\u043b\u0435\u0441",
+        "NumberOfCups": 6,
+        "NationalTeamID": 3379,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1304.png?lm=1488213735"
+    },
+    {
+        "TeamID": 8715,
+        "Team_name": "Pandurii",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3447,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/8715.png?lm=1416161587"
+    },
+    {
+        "TeamID": 6574,
+        "Team_name": "\u0421\u0430\u0441\u0441\u0443\u043e\u043b\u043e",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3376,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/6574.png?lm=1724146130"
+    },
+    {
+        "TeamID": 28958,
+        "Team_name": "Lusitanos",
+        "NumberOfCups": 5,
+        "NationalTeamID": 10533,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/28958.png?lm=1469571449"
+    },
+    {
+        "TeamID": 7090,
+        "Team_name": "\u041a\u044f\u043f\u0430\u0437",
+        "NumberOfCups": 7,
+        "NationalTeamID": 8605,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/7090.png?lm=1441446445"
+    },
+    {
+        "TeamID": 18963,
+        "Team_name": "Spartak Myjava",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3503,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/18963.png?lm=1434386593"
+    },
+    {
+        "TeamID": 4949,
+        "Team_name": "\u0411\u043e\u043a\u0435\u043b\u044c",
+        "NumberOfCups": 0,
+        "NationalTeamID": 11953,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/4949.png?lm=1416406698"
+    },
+    {
+        "TeamID": 2944,
+        "Team_name": "SB \u0410\u043d\u043a\u0430\u0440\u0430\u0441\u043f\u043e\u0440",
+        "NumberOfCups": 1,
+        "NationalTeamID": 3381,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2944.png?lm=1727031336"
+    },
+    {
+        "TeamID": 2671,
+        "Team_name": "\u042f\u043d\u0438\u043d\u0430",
+        "NumberOfCups": 3,
+        "NationalTeamID": 3378,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2671.png?lm=1623427611"
+    },
+    {
+        "TeamID": 6764,
+        "Team_name": "\u0411\u0435\u0440\u043e\u0435",
+        "NumberOfCups": 4,
+        "NationalTeamID": 3394,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/6764.png?lm=1416144905"
+    },
+    {
+        "TeamID": 33966,
+        "Team_name": "A\u0426\u0421\u041c \u041f\u043e\u043b\u0438 \u042f\u0441\u0441\u044b",
+        "NumberOfCups": 3,
+        "NationalTeamID": 3447,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/33966.png?lm=1696601347"
+    },
+    {
+        "TeamID": 44,
+        "Team_name": "\u0413\u0435\u0440\u0442\u0430",
+        "NumberOfCups": 18,
+        "NationalTeamID": 3262,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/44.png?lm=1656580875"
+    },
+    {
+        "TeamID": 312,
+        "Team_name": "\u0414\u0438\u043d\u0430\u043c\u043e \u0411\u0443\u0445\u0430\u0440\u0435\u0441\u0442",
+        "NumberOfCups": 34,
+        "NationalTeamID": 3447,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/312.png?lm=1409069452"
+    },
+    {
+        "TeamID": 45574,
+        "Team_name": "Llandudno",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3864,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/45574.png?lm=1538425338"
+    },
+    {
+        "TeamID": 369,
+        "Team_name": "\u041b\u044e\u043d\u0433\u0431\u044e",
+        "NumberOfCups": 6,
+        "NationalTeamID": 3436,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/369.png?lm=1718025262"
+    },
+    {
+        "TeamID": 2861,
+        "Team_name": "\u041e\u0441\u0442\u0435\u043d\u0434\u0435",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3382,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2861.png?lm=1625231721"
+    },
+    {
+        "TeamID": 1058,
+        "Team_name": "\u041e\u0434\u0434",
+        "NumberOfCups": 12,
+        "NationalTeamID": 3440,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1058.png?lm=1579446177"
+    },
+    {
+        "TeamID": 29,
+        "Team_name": "\u042d\u0432\u0435\u0440\u0442\u043e\u043d",
+        "NumberOfCups": 25,
+        "NationalTeamID": 3299,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/29.png?lm=1445949846"
+    },
+    {
+        "TeamID": 321,
+        "Team_name": "\u0421\u044c\u043e\u043d",
+        "NumberOfCups": 15,
+        "NationalTeamID": 3384,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/321.png?lm=1689683230"
+    },
+    {
+        "TeamID": 5228,
+        "Team_name": "\u0410\u0442\u043b\u0430\u043d\u0442\u0430\u0441",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3851,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/5228.png?lm=1477309562"
+    },
+    {
+        "TeamID": 169,
+        "Team_name": "\u041f\u0430\u043d\u0438\u043e\u043d\u0438\u043e\u0441",
+        "NumberOfCups": 3,
+        "NationalTeamID": 3378,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/169.png?lm=1401606183"
+    },
+    {
+        "TeamID": 3649,
+        "Team_name": "Bangor City",
+        "NumberOfCups": 3,
+        "NationalTeamID": 3864,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/3649.png?lm=1502313512"
+    },
+    {
+        "TeamID": 1301,
+        "Team_name": "\u041c\u0430\u0440\u0438\u0442\u0438\u043c\u0443",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3300,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1301.png?lm=1656600130"
+    },
+    {
+        "TeamID": 5545,
+        "Team_name": "\u0417\u043b\u0438\u043d",
+        "NumberOfCups": 1,
+        "NationalTeamID": 3445,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/5545.png?lm=1732137350"
+    },
+    {
+        "TeamID": 3508,
+        "Team_name": "\u0417\u044e\u043b\u0442\u0435-\u0412\u0430\u0440\u0435\u0433\u0435\u043c",
+        "NumberOfCups": 3,
+        "NationalTeamID": 3382,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/3508.png?lm=1420103130"
+    },
+    {
+        "TeamID": 6107,
+        "Team_name": "\u0410\u0440\u043a\u0430 \u0413\u0434\u044b\u043d\u044f",
+        "NumberOfCups": 4,
+        "NationalTeamID": 3442,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/6107.png?lm=1432385755"
+    },
+    {
+        "TeamID": 6017,
+        "Team_name": "\u041c\u0430\u0440\u0438\u0435\u0445\u0430\u043c\u043d",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3443,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/6017.png?lm=1415787178"
+    },
+    {
+        "TeamID": 11907,
+        "Team_name": "\u0414\u0430\u0447\u0438\u044f \u041a\u0438\u0448\u0438\u043d\u0451\u0432",
+        "NumberOfCups": 3,
+        "NationalTeamID": 6090,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/11907.png?lm=1436045816"
+    },
+    {
+        "TeamID": 6622,
+        "Team_name": "\u041c\u043b\u0430\u0434\u043e\u0441\u0442",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3438,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/6622.png?lm=1410710765"
+    },
+    {
+        "TeamID": 13499,
+        "Team_name": "\u0410\u0441\u0442\u0440\u0430",
+        "NumberOfCups": 6,
+        "NationalTeamID": 3447,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/13499.png?lm=1486068435"
+    },
+    {
+        "TeamID": 3551,
+        "Team_name": "\u0410\u043b\u044c\u0442\u0430\u0445",
+        "NumberOfCups": 11,
+        "NationalTeamID": 3383,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/3551.png?lm=1647099979"
+    },
+    {
+        "TeamID": 23611,
+        "Team_name": "\u041e\u043b\u0438\u043c\u043f\u0438\u043a \u0414\u043e\u043d\u0435\u0446\u043a",
+        "NumberOfCups": 1,
+        "NationalTeamID": 3699,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/23611.png?lm=1553350762"
+    },
+    {
+        "TeamID": 5862,
+        "Team_name": "\u0413\u043e\u0440\u0438\u0446\u0430",
+        "NumberOfCups": 7,
+        "NationalTeamID": 3588,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/5862.png?lm=1499460096"
+    },
+    {
+        "TeamID": 9614,
+        "Team_name": "\u042d\u0441\u0442\u0435\u0440\u0441\u0443\u043d\u0434",
+        "NumberOfCups": 1,
+        "NationalTeamID": 3557,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/9614.png?lm=1461964870"
+    },
+    {
+        "TeamID": 5378,
+        "Team_name": "\u0412\u0430\u0448\u0430\u0448",
+        "NumberOfCups": 18,
+        "NationalTeamID": 3468,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/5378.png?lm=1472918431"
+    },
+    {
+        "TeamID": 27118,
+        "Team_name": "\u0415\u043b\u0433\u0430\u0432\u0430",
+        "NumberOfCups": 5,
+        "NationalTeamID": 3555,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/27118.png?lm=1726579845"
+    },
+    {
+        "TeamID": 22682,
+        "Team_name": "\u0422\u0440\u0435\u043f\u0447\u0430 89",
+        "NumberOfCups": 3,
+        "NationalTeamID": 53982,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/22682.png?lm=1730918586"
+    },
+    {
+        "TeamID": 30433,
+        "Team_name": "FCI Tallinn",
+        "NumberOfCups": 4,
+        "NationalTeamID": 6133,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/30433.png?lm=1484137132"
+    },
+    {
+        "TeamID": 12469,
+        "Team_name": "\u041a\u0424 \u0421\u043a\u0435\u043d\u0434\u0435\u0440\u0431\u0435\u0443",
+        "NumberOfCups": 13,
+        "NationalTeamID": 3561,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/12469.png?lm=1635619103"
+    },
+    {
+        "TeamID": 19780,
+        "Team_name": "\u0414\u0443\u043d\u0430\u0432",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3394,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/19780.png?lm=1706216676"
+    },
+    {
+        "TeamID": 33,
+        "Team_name": "\u0428\u0430\u043b\u044c\u043a\u0435",
+        "NumberOfCups": 21,
+        "NationalTeamID": 3262,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/33.png?lm=1656580846"
+    },
+    {
+        "TeamID": 428,
+        "Team_name": "\u0413\u0443\u0440\u043d\u0438\u043a \u0417\u0430\u0431\u0436\u0435",
+        "NumberOfCups": 21,
+        "NationalTeamID": 3442,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/428.png?lm=1444671509"
+    },
+    {
+        "TeamID": 810,
+        "Team_name": "\u0425\u0430\u043f\u043e\u044d\u043b\u044c \u0425\u0430\u0439\u0444\u0430",
+        "NumberOfCups": 6,
+        "NationalTeamID": 5547,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/810.png?lm=1408745643"
+    },
+    {
+        "TeamID": 2925,
+        "Team_name": "\u041b\u0430\u0445\u0442\u0438",
+        "NumberOfCups": 3,
+        "NationalTeamID": 3443,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2925.png?lm=1617484867"
+    },
+    {
+        "TeamID": 40,
+        "Team_name": "\u0411\u043e\u0440\u0434\u043e",
+        "NumberOfCups": 15,
+        "NationalTeamID": 3377,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/40.png?lm=1627322046"
+    },
+    {
+        "TeamID": 789,
+        "Team_name": "\u0420\u0443\u0434\u0430\u0440",
+        "NumberOfCups": 1,
+        "NationalTeamID": 3588,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/789.png?lm=1414350721"
+    },
+    {
+        "TeamID": 503,
+        "Team_name": "\u0410\u0434\u043c\u0438\u0440\u0430",
+        "NumberOfCups": 22,
+        "NationalTeamID": 3383,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/503.png?lm=1720287858"
+    },
+    {
+        "TeamID": 1132,
+        "Team_name": "\u0411\u0435\u0440\u043d\u043b\u0438",
+        "NumberOfCups": 11,
+        "NationalTeamID": 3299,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1132.png?lm=1686818840"
+    },
+    {
+        "TeamID": 2311,
+        "Team_name": "\u0421\u0438\u0433\u043c\u0430 \u041e\u043b\u043e\u043c\u043e\u0443\u0446",
+        "NumberOfCups": 3,
+        "NationalTeamID": 3445,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2311.png?lm=1419785397"
+    },
+    {
+        "TeamID": 2950,
+        "Team_name": "\u0421\u0430\u043c\u0442\u0440\u0435\u0434\u0438\u0430",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3669,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2950.png?lm=1678977755"
+    },
+    {
+        "TeamID": 19771,
+        "Team_name": "\u0410\u043a\u0445\u0438\u0441\u0430\u0440\u0441\u043f\u043e\u0440",
+        "NumberOfCups": 3,
+        "NationalTeamID": 3381,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/19771.png?lm=1604757093"
+    },
+    {
+        "TeamID": 8036,
+        "Team_name": "\u0418\u0411\u0412",
+        "NumberOfCups": 9,
+        "NationalTeamID": 3574,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/8036.png?lm=1693830720"
+    },
+    {
+        "TeamID": 5972,
+        "Team_name": "\u0420\u0443\u0434\u0430\u0440",
+        "NumberOfCups": 6,
+        "NationalTeamID": 11953,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/5972.png?lm=1686389249"
+    },
+    {
+        "TeamID": 21508,
+        "Team_name": "\u0417\u0430\u0440\u044f \u0411\u0435\u043b\u044c\u0446\u044b",
+        "NumberOfCups": 1,
+        "NationalTeamID": 6090,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/21508.png?lm=1510496683"
+    },
+    {
+        "TeamID": 21934,
+        "Team_name": "\u0424\u041a \u041b\u044e\u0444\u0442\u0435\u0442\u0430\u0440\u0438",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3561,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/21934.png?lm=1474923518"
+    },
+    {
+        "TeamID": 6676,
+        "Team_name": "\u0410\u0441\u0442\u0435\u0440\u0430\u0441",
+        "NumberOfCups": 1,
+        "NationalTeamID": 3378,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/6676.png?lm=1723545531"
+    },
+    {
+        "TeamID": 10540,
+        "Team_name": "\u0418\u0440\u0442\u044b\u0448",
+        "NumberOfCups": 6,
+        "NationalTeamID": 9110,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/10540.png?lm=1579947166"
+    },
+    {
+        "TeamID": 28936,
+        "Team_name": "\u0421\u043f\u0430\u0440\u0442\u0430\u043a",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3555,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/28936.png?lm=1418576671"
+    },
+    {
+        "TeamID": 15276,
+        "Team_name": "\u0421\u043f\u0430\u0440\u0442\u0430\u043a",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3438,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/15276.png?lm=1420204934"
+    },
+    {
+        "TeamID": 10217,
+        "Team_name": "\u0421\u0430\u0440\u043f\u0441\u0431\u043e\u0440\u0433",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3440,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/10217.png?lm=1410172953"
+    },
+    {
+        "TeamID": 22502,
+        "Team_name": "\u041a\u0435\u0432\u043d \u0414\u0440\u0443\u0438\u0434\u0441",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3864,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/22502.png?lm=1660217233"
+    },
+    {
+        "TeamID": 618,
+        "Team_name": "\u0421\u0435\u043d\u0442-\u042d\u0442\u044c\u0435\u043d",
+        "NumberOfCups": 22,
+        "NationalTeamID": 3377,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/618.png?lm=1658260152"
+    },
+    {
+        "TeamID": 7918,
+        "Team_name": "\u0422\u0440\u0435\u043d\u0447\u0438\u043d",
+        "NumberOfCups": 4,
+        "NationalTeamID": 3503,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/7918.png?lm=1611248006"
+    },
+    {
+        "TeamID": 43957,
+        "Team_name": "\u0421\u0442\u0443\u043c\u0431\u0440\u0430\u0441",
+        "NumberOfCups": 1,
+        "NationalTeamID": 3851,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/43957.png?lm=1499462029"
+    },
+    {
+        "TeamID": 200,
+        "Team_name": "\u0423\u0442\u0440\u0435\u0445\u0442",
+        "NumberOfCups": 4,
+        "NationalTeamID": 3379,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/200.png?lm=1628450351"
+    },
+    {
+        "TeamID": 23911,
+        "Team_name": "\u0413\u0430\u043d\u0434\u0437\u0430\u0441\u0430\u0440",
+        "NumberOfCups": 1,
+        "NationalTeamID": 6219,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/23911.png?lm=1658500306"
+    },
+    {
+        "TeamID": 416,
+        "Team_name": "\u0422\u043e\u0440\u0438\u043d\u043e",
+        "NumberOfCups": 16,
+        "NationalTeamID": 3376,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/416.png?lm=1438548174"
+    },
+    {
+        "TeamID": 714,
+        "Team_name": "\u042d\u0441\u043f\u0430\u043d\u044c\u043e\u043b",
+        "NumberOfCups": 13,
+        "NationalTeamID": 3375,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/714.png?lm=1406966369"
+    },
+    {
+        "TeamID": 667,
+        "Team_name": "\u0421\u0442\u0440\u0430\u0441\u0431\u0443\u0440",
+        "NumberOfCups": 8,
+        "NationalTeamID": 3377,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/667.png?lm=1664991833"
+    },
+    {
+        "TeamID": 938,
+        "Team_name": "\u0422\u0443\u043d",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3384,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/938.png?lm=1688507005"
+    },
+    {
+        "TeamID": 28095,
+        "Team_name": "\u0423\u0444\u0430",
+        "NumberOfCups": 1,
+        "NationalTeamID": 3448,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/28095.png?lm=1597434485"
+    },
+    {
+        "TeamID": 1257,
+        "Team_name": "\u0416\u0435\u043d\u0435\u0441\u0441 \u042d\u0448",
+        "NumberOfCups": 43,
+        "NationalTeamID": 3580,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1257.png?lm=1426286737"
+    },
+    {
+        "TeamID": 543,
+        "Team_name": "\u0412\u0443\u043b\u0432\u0435\u0440\u0445\u044d\u043c\u043f\u0442\u043e\u043d",
+        "NumberOfCups": 21,
+        "NationalTeamID": 3299,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/543.png?lm=1467496784"
+    },
+    {
+        "TeamID": 2844,
+        "Team_name": "\u041d\u043e\u0440\u0447\u0451\u043f\u0438\u043d\u0433",
+        "NumberOfCups": 21,
+        "NationalTeamID": 3557,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2844.png?lm=1414431996"
+    },
+    {
+        "TeamID": 2761,
+        "Team_name": "\u0425\u0451\u0443\u0433\u0435\u0441\u0443\u043d\u043d",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3440,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/2761.png?lm=1515836744"
+    },
+    {
+        "TeamID": 3776,
+        "Team_name": "\u0420\u043e\u041f\u0421",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3443,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/3776.png?lm=1543155595"
+    },
+    {
+        "TeamID": 3060,
+        "Team_name": "\u0410\u0442\u0440\u043e\u043c\u0438\u0442\u043e\u0441 \u0410\u0444\u0438\u043d\u044b",
+        "NumberOfCups": 1,
+        "NationalTeamID": 3378,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/3060.png?lm=1562577628"
+    },
+    {
+        "TeamID": 3426,
+        "Team_name": "\u042d\u0441\u0431\u044c\u0435\u0440\u0433",
+        "NumberOfCups": 11,
+        "NationalTeamID": 3436,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/3426.png?lm=1664268092"
+    },
+    {
+        "TeamID": 6993,
+        "Team_name": "\u041c\u0430\u0440\u0438\u0443\u043f\u043e\u043b\u044c",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3699,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/6993.png?lm=1499197929"
+    },
+    {
+        "TeamID": 3729,
+        "Team_name": "\u0410\u0440\u0441\u0435\u043d\u0430\u043b \u0422\u0443\u043b\u0430",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3448,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/3729.png?lm=1408774122"
+    },
+    {
+        "TeamID": 3709,
+        "Team_name": "\u0425\u0435\u0442\u0430\u0444\u0435",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3375,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/3709.png?lm=1408655116"
+    },
+    {
+        "TeamID": 10883,
+        "Team_name": "\u0422\u0438\u0442\u043e\u0433\u0440\u0430\u0434",
+        "NumberOfCups": 3,
+        "NationalTeamID": 11953,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/10883.png?lm=1535899486"
+    },
+    {
+        "TeamID": 11435,
+        "Team_name": "\u0427\u0438\u0445\u0443\u0440\u0430",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3669,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/11435.png?lm=1409253000"
+    },
+    {
+        "TeamID": 1049,
+        "Team_name": "\u0412\u0430\u043b\u0435\u043d\u0441\u0438\u044f",
+        "NumberOfCups": 25,
+        "NationalTeamID": 3375,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/1049.png?lm=1406966320"
+    },
+    {
+        "TeamID": 9095,
+        "Team_name": "\u0411\u043d\u0435\u0439 \u0418\u0435\u0433\u0443\u0434\u0430",
+        "NumberOfCups": 6,
+        "NationalTeamID": 5547,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/9095.png?lm=1568575421"
+    },
+    {
+        "TeamID": 18303,
+        "Team_name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0438\u044f",
+        "NumberOfCups": 2,
+        "NationalTeamID": 3699,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/18303.png?lm=1612285426"
+    },
+    {
+        "TeamID": 45520,
+        "Team_name": "\u0421\u043f\u0435\u0440\u0430\u043d\u0446\u0430",
+        "NumberOfCups": 0,
+        "NationalTeamID": 6090,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/45520.png?lm=1715519144"
+    },
+    {
+        "TeamID": 17959,
+        "Team_name": "\u0412\u0438\u0442\u0435\u0431\u0441\u043a",
+        "NumberOfCups": 1,
+        "NationalTeamID": 3450,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/17959.png?lm=1436043493"
+    },
+    {
+        "TeamID": 27774,
+        "Team_name": "\u041a\u043e\u0440\u043a \u0421\u0438\u0442\u0438",
+        "NumberOfCups": 29,
+        "NationalTeamID": 3509,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/27774.png?lm=1679931056"
+    },
+    {
+        "TeamID": 34429,
+        "Team_name": "\u0424\u0435\u0440\u043e\u043d\u0438\u043a\u0435\u043b\u0438 74",
+        "NumberOfCups": 8,
+        "NationalTeamID": 53982,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/34429.png?lm=1732807442"
+    },
+    {
+        "TeamID": 19789,
+        "Team_name": "\u041c\u0430\u043b\u0430\u0442\u044c\u044f\u0441\u043f\u043e\u0440",
+        "NumberOfCups": 1,
+        "NationalTeamID": 3381,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/19789.png?lm=1441755473"
+    },
+    {
+        "TeamID": 57890,
+        "Team_name": "\u0421\u0430\u0431\u0430\u0438\u043b",
+        "NumberOfCups": 0,
+        "NationalTeamID": 8605,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/57890.png?lm=1546128624"
+    },
+    {
+        "TeamID": 53152,
+        "Team_name": "\u041a\u0430\u0440\u0434\u0438\u0444\u0444 \u041c\u0435\u0442",
+        "NumberOfCups": 0,
+        "NationalTeamID": 3864,
+        "ImageLink": "https://tmssl.akamaized.net//images/wappen/head/53152.png?lm=1497367208"
+    }
+]
