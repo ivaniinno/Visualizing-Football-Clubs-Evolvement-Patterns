@@ -1,0 +1,257 @@
+[
+    {
+        "NationalTeamID": 3262,
+        "NationalTeamName": "Германия",
+        "EnglishName": "Germany"
+    },
+    {
+        "NationalTeamID": 3299,
+        "NationalTeamName": "Англия",
+        "EnglishName": "England"
+    },
+    {
+        "NationalTeamID": 3300,
+        "NationalTeamName": "Португалия",
+        "EnglishName": "Portugal"
+    },
+    {
+        "NationalTeamID": 3375,
+        "NationalTeamName": "Испания",
+        "EnglishName": "Spain"
+    },
+    {
+        "NationalTeamID": 3376,
+        "NationalTeamName": "Италия",
+        "EnglishName": "Italy"
+    },
+    {
+        "NationalTeamID": 3377,
+        "NationalTeamName": "Франция",
+        "EnglishName": "France"
+    },
+    {
+        "NationalTeamID": 3378,
+        "NationalTeamName": "Греция",
+        "EnglishName": "Greece"
+    },
+    {
+        "NationalTeamID": 3379,
+        "NationalTeamName": "Нидерланды",
+        "EnglishName": "Netherlands"
+    },
+    {
+        "NationalTeamID": 3380,
+        "NationalTeamName": "Шотландия",
+        "EnglishName": null
+    },
+    {
+        "NationalTeamID": 3381,
+        "NationalTeamName": "Турция",
+        "EnglishName": "Turkey"
+    },
+    {
+        "NationalTeamID": 3382,
+        "NationalTeamName": "Бельгия",
+        "EnglishName": "Belgium"
+    },
+    {
+        "NationalTeamID": 3383,
+        "NationalTeamName": "Австрия",
+        "EnglishName": "Austria"
+    },
+    {
+        "NationalTeamID": 3384,
+        "NationalTeamName": "Швейцария",
+        "EnglishName": "Switzerland"
+    },
+    {
+        "NationalTeamID": 3394,
+        "NationalTeamName": "Болгария",
+        "EnglishName": "Bulgaria"
+    },
+    {
+        "NationalTeamID": 3436,
+        "NationalTeamName": "Дания",
+        "EnglishName": "Denmark"
+    },
+    {
+        "NationalTeamID": 3438,
+        "NationalTeamName": "Сербия",
+        "EnglishName": "Republic of Serbia"
+    },
+    {
+        "NationalTeamID": 3440,
+        "NationalTeamName": "Норвегия",
+        "EnglishName": "Norway"
+    },
+    {
+        "NationalTeamID": 3442,
+        "NationalTeamName": "Польша",
+        "EnglishName": "Poland"
+    },
+    {
+        "NationalTeamID": 3443,
+        "NationalTeamName": "Финляндия",
+        "EnglishName": "Finland"
+    },
+    {
+        "NationalTeamID": 3445,
+        "NationalTeamName": "Чехия",
+        "EnglishName": "Czech Republic"
+    },
+    {
+        "NationalTeamID": 3447,
+        "NationalTeamName": "Румыния",
+        "EnglishName": "Romania"
+    },
+    {
+        "NationalTeamID": 3448,
+        "NationalTeamName": "Россия",
+        "EnglishName": "Russia"
+    },
+    {
+        "NationalTeamID": 3450,
+        "NationalTeamName": "Беларусь",
+        "EnglishName": "Belarus"
+    },
+    {
+        "NationalTeamID": 3468,
+        "NationalTeamName": "Венгрия",
+        "EnglishName": "Hungary"
+    },
+    {
+        "NationalTeamID": 3503,
+        "NationalTeamName": "Словакия",
+        "EnglishName": "Slovakia"
+    },
+    {
+        "NationalTeamID": 3509,
+        "NationalTeamName": "Ирландия",
+        "EnglishName": "Ireland"
+    },
+    {
+        "NationalTeamID": 3555,
+        "NationalTeamName": "Латвия",
+        "EnglishName": "Latvia"
+    },
+    {
+        "NationalTeamID": 3556,
+        "NationalTeamName": "Хорватия",
+        "EnglishName": "Croatia"
+    },
+    {
+        "NationalTeamID": 3557,
+        "NationalTeamName": "Швеция",
+        "EnglishName": "Sweden"
+    },
+    {
+        "NationalTeamID": 3561,
+        "NationalTeamName": "Албания",
+        "EnglishName": "Albania"
+    },
+    {
+        "NationalTeamID": 3574,
+        "NationalTeamName": "Исландия",
+        "EnglishName": "Iceland"
+    },
+    {
+        "NationalTeamID": 3580,
+        "NationalTeamName": "Люксембург",
+        "EnglishName": "Luxembourg"
+    },
+    {
+        "NationalTeamID": 3587,
+        "NationalTeamName": "Мальта",
+        "EnglishName": "Malta"
+    },
+    {
+        "NationalTeamID": 3588,
+        "NationalTeamName": "Словения",
+        "EnglishName": "Slovenia"
+    },
+    {
+        "NationalTeamID": 3668,
+        "NationalTeamName": "Кипр",
+        "EnglishName": "Cyprus"
+    },
+    {
+        "NationalTeamID": 3669,
+        "NationalTeamName": "Грузия",
+        "EnglishName": "Georgia"
+    },
+    {
+        "NationalTeamID": 3699,
+        "NationalTeamName": "Украина",
+        "EnglishName": "Ukraine"
+    },
+    {
+        "NationalTeamID": 3851,
+        "NationalTeamName": "Литва",
+        "EnglishName": "Lithuania"
+    },
+    {
+        "NationalTeamID": 3864,
+        "NationalTeamName": "Уэльс",
+        "EnglishName": null
+    },
+    {
+        "NationalTeamID": 5547,
+        "NationalTeamName": "Израиль",
+        "EnglishName": "Israel"
+    },
+    {
+        "NationalTeamID": 5673,
+        "NationalTeamName": "Лихтенштейн",
+        "EnglishName": null
+    },
+    {
+        "NationalTeamID": 6090,
+        "NationalTeamName": "Молдова",
+        "EnglishName": "Moldova"
+    },
+    {
+        "NationalTeamID": 6133,
+        "NationalTeamName": "Эстония",
+        "EnglishName": "Estonia"
+    },
+    {
+        "NationalTeamID": 6219,
+        "NationalTeamName": "Армения",
+        "EnglishName": "Armenia"
+    },
+    {
+        "NationalTeamID": 8605,
+        "NationalTeamName": "Азербайджан",
+        "EnglishName": "Azerbaijan"
+    },
+    {
+        "NationalTeamID": 9110,
+        "NationalTeamName": "Казахстан",
+        "EnglishName": "Kazakhstan"
+    },
+    {
+        "NationalTeamID": 10521,
+        "NationalTeamName": "Сан-Марино",
+        "EnglishName": null
+    },
+    {
+        "NationalTeamID": 10533,
+        "NationalTeamName": "Андорра",
+        "EnglishName": "Andorra"
+    },
+    {
+        "NationalTeamID": 11953,
+        "NationalTeamName": "Черногория",
+        "EnglishName": "Montenegro"
+    },
+    {
+        "NationalTeamID": 37574,
+        "NationalTeamName": "Гибралтар",
+        "EnglishName": null
+    },
+    {
+        "NationalTeamID": 53982,
+        "NationalTeamName": "Косово",
+        "EnglishName": "Kosovo"
+    }
+]
