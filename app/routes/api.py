@@ -1,11 +1,10 @@
 from flask import Blueprint, jsonify, request
 from db import get_conn
-from flask_restx import Namespace, resource, fields
 
 api_bp = Blueprint('api', __name__, url_prefix='/api')
 
 
-def build_query(base_sql, allowed_filters, allowed_sorts, allowed_null_fields=None):
+def build_query(base_sql, allowed_filters, allowed_sorts, allowed_null_fields):
     filters = []
     params = []
     for key in allowed_filters:
@@ -43,12 +42,14 @@ def build_query(base_sql, allowed_filters, allowed_sorts, allowed_null_fields=No
     offset = request.args.get('offset', type=int)
 
     sql = f"""
-        {base_sql}
-        {f'WHERE {where_clause}' if where_clause else ''}
-        ORDER BY {sort_by} {order}
-        {f'LIMIT {limit}' if limit else ''}
-        {f'OFFSET {offset}' if offset else ''}
+          SELECT * FROM ({base_sql}) AS subquery
+          {f'WHERE {where_clause}' if where_clause else ''}
+          ORDER BY {sort_by} {order}
+          {f'LIMIT {limit}' if limit else ''}
+          {f'OFFSET {offset}' if offset else ''}
     """
+
+    print(sql)
     
     return sql, params, None, None
 
@@ -69,7 +70,8 @@ def handle_get_request(base_sql, allowed_filters, allowed_sorts, allowed_null_fi
         with conn.cursor() as cur:
             cur.execute(sql, params)
             data = cur.fetchall()
-        return jsonify(data)
+            mapped_data = map_keys_to_camel(data)
+        return jsonify(mapped_data)
     except Exception as e:
         return jsonify({"error": str(e)}), 500
     finally:
@@ -77,13 +79,131 @@ def handle_get_request(base_sql, allowed_filters, allowed_sorts, allowed_null_fi
             conn.close()
 
 
-@api_bp.route('/full_players_cost', methods=['GET'])
-def get_full_players_cost():
+key_mapping = {
+    'national_team_id': 'NationalTeamID',
+    'year': 'Year',
+    'team_cost': 'TeamCost',
+    # 'average_team_cost': 'TeamCost',
+    # 'num_of_legionnaires': 'TotalLegionnairesAmount',
+    'total_legionnaires_amount': 'TotalLegionnairesAmount',
+    'num_of_national_players': 'NationalPlayersCount',
+    'average_age_among_clubs': 'AverageAgeAmongClubs',
+    'average_points': 'AveragePoints',
+    'team_id': 'TeamID',
+    'transfer_balance': 'TransferBalance',
+    'average_age': 'AverageAge',
+    'team_size_ratio': 'TeamSizeRatio',
+    # 'team_ids': 'ClubIDs',
+    'club_ids': 'ClubIDs',
+    'national_team_name': 'NationalTeamName',
+    'image_link': 'ImageLink',
+    'number_of_cups': 'NumberOfCups',
+    'team_name': 'TeamName',
+    'number_of_titles_this_year': 'NumberOfTitlesThisYear',
+    'players_in_national_team': 'PlayersInNationalTeam',
+    'total_country_cost': 'TotalCountryCost',
+    # 'legionnaires': 'Legioners',
+    'legioners': 'Legioners',
+    'national_players_count': 'NationalPlayersCount'
+
+}
+
+
+def map_keys_to_camel(data):
+    return [{key_mapping.get(k, k): v for k, v in row.items()} for row in data]
+
+
+@api_bp.route('/full_players_costs', methods=['GET'])
+def get_full_players_costs():
+    """
+    Get national teams players costs
+    ---
+    tags:
+      - Statistics
+    summary: Get aggregated players costs by national teams
+    description: Returns total players costs grouped by national teams and years
+    parameters:
+      - name: national_team_id
+        in: query
+        type: integer
+        description: Filter by national team ID
+      - name: year
+        in: query
+        type: integer
+        description: Filter by statistic year
+      - name: total_country_cost
+        in: query
+        type: number
+        format: float
+        description: Filter by total cost value
+      - name: sort_by
+        in: query
+        type: string
+        enum: [national_team_id, year, total_country_cost]
+        default: national_team_id
+        description: Field to sort results
+      - name: order
+        in: query
+        type: string
+        enum: [asc, desc]
+        default: asc
+        description: Sort direction
+      - name: exclude_nulls
+        in: query
+        type: boolean
+        default: false
+        description: Exclude records with null values
+      - name: exclude_null_fields
+        in: query
+        type: string
+        enum: [national_team_id, year, total_country_cost]
+        collectionFormat: multi
+        description: Specific fields to exclude nulls for
+      - name: limit
+        in: query
+        type: integer
+        description: Maximum results to return
+      - name: offset
+        in: query
+        type: integer
+        description: Results offset for pagination
+    responses:
+      200:
+        description: Successfully retrieved costs data
+        content:
+          application/json:
+            schema:
+              type: array
+              items:
+                type: object
+                properties:
+                  national_team_id:
+                    type: integer
+                  year:
+                    type: integer
+                  total_country_cost:
+                    type: number
+                    format: float
+            example:
+              - national_team_id: 10
+                year: 2023
+                total_country_cost: 1250000.50
+      400:
+        description: Invalid request parameters
+        content:
+          application/json:
+            example: {"error": "Invalid fields for null exclusion: ['invalid_field']"}
+      500:
+        description: Internal server error
+        content:
+          application/json:
+            example: {"error": "Failed to calculate costs"}
+    """
     base_query = """
         SELECT 
             n.national_team_id,
             tys.year,
-            SUM(tys.team_cost)
+            SUM(tys.team_cost) AS total_country_cost
         FROM teams t
         JOIN team_yearly_stats tys ON t.team_id = tys.team_id
         JOIN national_teams n ON t.national_team_id = n.national_team_id
@@ -92,14 +212,98 @@ def get_full_players_cost():
     
     return handle_get_request(
         base_sql=base_query,
-        allowed_filters=['national_team_id', 'year', 'team_cost'],
-        allowed_sorts=['national_team_id', 'year', 'team_cost'],
-        allowed_null_fields=['national_team_id', 'year', 'team_cost']
+        allowed_filters=['national_team_id', 'year', 'total_country_cost'],
+        allowed_sorts=['national_team_id', 'year', 'total_country_cost'],
+        allowed_null_fields=['national_team_id', 'year', 'total_country_cost']
     )
 
 
 @api_bp.route('/average_team_cost', methods=['GET'])
 def get_average_team_cost():
+    """
+    Get average team costs
+    ---
+    tags:
+      - Statistics
+    summary: Calculate average team costs per national team
+    description: Returns average costs aggregated by national teams and years
+    parameters:
+      - name: national_team_id
+        in: query
+        type: integer
+        description: Filter by national team ID
+      - name: year
+        in: query
+        type: integer
+        description: Filter by statistic year
+      - name: team_cost
+        in: query
+        type: number
+        format: float
+        description: Filter by average cost value
+      - name: sort_by
+        in: query
+        type: string
+        enum: [national_team_id, year, team_cost]
+        default: national_team_id
+        description: Field to sort results
+      - name: order
+        in: query
+        type: string
+        enum: [asc, desc]
+        default: asc
+        description: Sorting direction
+      - name: exclude_nulls
+        in: query
+        type: boolean
+        default: false
+        description: Exclude records with null values
+      - name: exclude_null_fields
+        in: query
+        type: string
+        enum: [national_team_id, year, team_cost]
+        collectionFormat: multi
+        description: Specific fields to exclude nulls for
+      - name: limit
+        in: query
+        type: integer
+        description: Maximum number of results
+      - name: offset
+        in: query
+        type: integer
+        description: Pagination offset
+    responses:
+      200:
+        description: Successfully retrieved average costs
+        content:
+          application/json:
+            schema:
+              type: array
+              items:
+                type: object
+                properties:
+                  national_team_id:
+                    type: integer
+                  year:
+                    type: integer
+                  team_cost:
+                    type: number
+                    format: float
+            example:
+              - national_team_id: 7
+                year: 2023
+                team_cost: 250000.75
+      400:
+        description: Invalid parameters
+        content:
+          application/json:
+            example: {"error": "Invalid null exclusion field: 'invalid_field'"}
+      500:
+        description: Server error
+        content:
+          application/json:
+            example: {"error": "Cost calculation failed"}
+    """
     base_query = """
         SELECT 
             n.national_team_id,
@@ -119,8 +323,90 @@ def get_average_team_cost():
     )
 
 
-@api_bp.route('/num_of_legionnaires', methods=['GET'])
-def get_num_of_legionnaires():
+@api_bp.route('/legionnaires_total_amount', methods=['GET'])
+def get_legionnaires_total_amount():
+    """
+    Get legionnaires statistics
+    ---
+    tags:
+      - Statistics
+    summary: Get total legionnaires amount by national teams
+    description: Returns aggregated legionnaires count per national team and year
+    parameters:
+      - name: national_team_id
+        in: query
+        type: integer
+        description: Filter by national team ID
+      - name: year
+        in: query
+        type: integer
+        description: Filter by statistic year
+      - name: total_legionnaires_amount
+        in: query
+        type: integer
+        description: Filter by total legionnaires count
+      - name: sort_by
+        in: query
+        type: string
+        enum: [national_team_id, year, total_legionnaires_amount]
+        default: national_team_id
+        description: Field to sort results
+      - name: order
+        in: query
+        type: string
+        enum: [asc, desc]
+        default: asc
+        description: Sorting order
+      - name: exclude_nulls
+        in: query
+        type: boolean
+        default: false
+        description: Exclude records with null values
+      - name: exclude_null_fields
+        in: query
+        type: string
+        enum: [national_team_id, year, total_legionnaires_amount]
+        collectionFormat: multi
+        description: Specific fields to exclude nulls for
+      - name: limit
+        in: query
+        type: integer
+        description: Maximum results to return
+      - name: offset
+        in: query
+        type: integer
+        description: Pagination offset
+    responses:
+      200:
+        description: Successfully retrieved legionnaires data
+        content:
+          application/json:
+            schema:
+              type: array
+              items:
+                type: object
+                properties:
+                  national_team_id:
+                    type: integer
+                  year:
+                    type: integer
+                  total_legionnaires_amount:
+                    type: integer
+            example:
+              - national_team_id: 5
+                year: 2023
+                total_legionnaires_amount: 15
+      400:
+        description: Invalid request
+        content:
+          application/json:
+            example: {"error": "Invalid legionnaires filter parameters"}
+      500:
+        description: Server error
+        content:
+          application/json:
+            example: {"error": "Failed to fetch legionnaires data"}
+    """
     base_query =    """
         SELECT 
             n.national_team_id,
@@ -139,27 +425,93 @@ def get_num_of_legionnaires():
         allowed_null_fields=['national_team_id', 'year', 'total_legionnaires_amount']
     )
 
-@api_bp.route('/num_of_national_players' ,methods=['GET'])
-def get_num_of_national_players():
-    base_query =    """
-        SELECT 
-            team_id,
-            year,
-            SUM(players_in_national_team) AS num_of_national_players
-        FROM team_yearly_stats
-        GROUP BY team_id, year
-    """
-
-    return handle_get_request(
-        base_sql=base_query,
-        allowed_filters=['team_id', 'year', 'num_of_national_players'],
-        allowed_sorts=['team_id', 'year', 'num_of_national_players'],
-        allowed_null_fields=['team_id', 'year', 'num_of_national_players']
-    )
-
 
 @api_bp.route('/total_average_age' ,methods=['GET'])
 def get_total_average_age():
+    """
+    Get average clubs age statistics
+    ---
+    tags:
+      - Statistics
+    summary: Calculate average clubs age per national team
+    description: Returns aggregated average age of clubs by national teams and years
+    parameters:
+      - name: national_team_id
+        in: query
+        type: integer
+        description: Filter by national team ID
+      - name: year
+        in: query
+        type: integer
+        description: Filter by statistic year
+      - name: average_age_among_clubs
+        in: query
+        type: number
+        format: float
+        description: Filter by average age value
+      - name: sort_by
+        in: query
+        type: string
+        enum: [national_team_id, year, average_age_among_clubs]
+        default: national_team_id
+        description: Field to sort results
+      - name: order
+        in: query
+        type: string
+        enum: [asc, desc]
+        default: asc
+        description: Sorting direction
+      - name: exclude_nulls
+        in: query
+        type: boolean
+        default: false
+        description: Exclude records with null values
+      - name: exclude_null_fields
+        in: query
+        type: string
+        enum: [national_team_id, year, average_age_among_clubs]
+        collectionFormat: multi
+        description: Specific fields to exclude nulls for
+      - name: limit
+        in: query
+        type: integer
+        description: Maximum number of results
+      - name: offset
+        in: query
+        type: integer
+        description: Pagination offset
+    responses:
+      200:
+        description: Successfully retrieved age data
+        content:
+          application/json:
+            schema:
+              type: array
+              items:
+                type: object
+                properties:
+                  national_team_id:
+                    type: integer
+                  year:
+                    type: integer
+                  average_age_among_clubs:
+                    type: number
+                    format: float
+            example:
+              - national_team_id: 8
+                year: 2023
+                average_age_among_clubs: 26.4
+      400:
+        description: Invalid request parameters
+        content:
+          application/json:
+            example: {"error": "Invalid null exclusion field: 'invalid_field'"}
+      500:
+        description: Server error
+        content:
+          application/json:
+            example: {"error": "Age calculation failed"}
+    """
     base_query =    """
         SELECT 
             n.national_team_id,
@@ -179,15 +531,15 @@ def get_total_average_age():
     )
 
 
-@api_bp.route('/average_points', methods=['GET'])
-def get_average_points():
+@api_bp.route('/average_points_per_team', methods=['GET'])
+def get_average_points_per_team():
     """
-    Get average team points statistics
+    Get average points per team
     ---
     tags:
       - Statistics
-    summary: Get average points by teams over years
-    description: Returns average points data
+    summary: Get average points per team
+    description: Returns average points statistics per team and year
     parameters:
       - name: team_id
         in: query
@@ -207,35 +559,35 @@ def get_average_points():
         type: string
         enum: [team_id, year, average_points]
         default: team_id
-        description: Field to sort by
+        description: Field to sort results
       - name: order
         in: query
         type: string
         enum: [asc, desc]
         default: asc
-        description: Sort order
+        description: Sorting direction
       - name: exclude_nulls
         in: query
         type: boolean
         default: false
-        description: Exclude all null values for allowed fields
+        description: Exclude records with null values
       - name: exclude_null_fields
         in: query
         type: string
         enum: [team_id, year, average_points]
         collectionFormat: multi
-        description: Specific fields to exclude null values for
+        description: Specific fields to exclude nulls for
       - name: limit
         in: query
         type: integer
-        description: Limit number of results
+        description: Maximum number of results
       - name: offset
         in: query
         type: integer
-        description: Results offset
+        description: Pagination offset
     responses:
       200:
-        description: Successful operation
+        description: Successfully retrieved points data
         content:
           application/json:
             schema:
@@ -251,19 +603,19 @@ def get_average_points():
                     type: number
                     format: float
             example:
-              - team_id: 1
+              - team_id: 12
                 year: 2023
-                average_points: 85.5
+                average_points: 18.7
       400:
         description: Invalid request parameters
         content:
           application/json:
-            example: {"error": "Invalid fields for null exclusion: ['invalid_field']"}
+            example: {"error": "Invalid null exclusion field: 'invalid_field'"}
       500:
-        description: Internal server error
+        description: Server error
         content:
           application/json:
-            example: {"error": "database connection failed"}
+            example: {"error": "Failed to fetch points data"}
     """
     base_query = """
         SELECT 
@@ -281,58 +633,62 @@ def get_average_points():
     )
 
 
-@api_bp.route('/team_names', methods=['GET'])
-def get_titles():
+@api_bp.route('/club_titles', methods=['GET'])
+def get_club_titles():
     """
-    Get team names
+    Get club titles statistics
     ---
     tags:
       - Statistics
-    summary: Get team names
-    description: Returns team titles
+    summary: Get club titles by years
+    description: Returns number of titles per team and year
     parameters:
       - name: team_id
         in: query
         type: integer
         description: Filter by team ID
-      - name: team_name
+      - name: year
         in: query
-        type: string
-        description: Filter by team name
+        type: integer
+        description: Filter by season year
+      - name: number_of_titles_this_year
+        in: query
+        type: integer
+        description: Filter by titles count
       - name: sort_by
         in: query
         type: string
-        enum: [team_id, team_name]
+        enum: [team_id, year, number_of_titles_this_year]
         default: team_id
-        description: Field to sort by
+        description: Sorting field
       - name: order
         in: query
         type: string
         enum: [asc, desc]
         default: asc
-        description: Sort order
+        description: Sorting direction
       - name: exclude_nulls
         in: query
         type: boolean
         default: false
-        description: Exclude all null values for allowed fields
+        description: Exclude records with null values
       - name: exclude_null_fields
         in: query
         type: string
-        enum: [team_id, team_name]
+        enum: [team_id, year, number_of_titles_this_year]
         collectionFormat: multi
-        description: Specific fields to exclude null values for
+        description: Specific fields to exclude nulls for
       - name: limit
         in: query
         type: integer
-        description: Limit number of results
+        description: Results limit
       - name: offset
         in: query
         type: integer
-        description: Results offset
+        description: Pagination offset
     responses:
       200:
-        description: Successful operation
+        description: Successfully retrieved titles data
         content:
           application/json:
             schema:
@@ -342,50 +698,50 @@ def get_titles():
                 properties:
                   team_id:
                     type: integer
-                  team_name:
-                    type: string
-                required:
-                  - team_id
-                  - team_name
+                  year:
+                    type: integer
+                  number_of_titles_this_year:
+                    type: integer
             example:
-              - team_id: 1
-                team_name: "Dream Team"
-              - team_id: 2
-                team_name: "Champions"
+              - team_id: 7
+                year: 2023
+                number_of_titles_this_year: 2
       400:
-        description: Invalid request parameters
+        description: Invalid parameters
         content:
           application/json:
-            example: {"error": "Invalid fields for null exclusion: ['invalid_field']"}
+            example: {"error": "Invalid null exclusion field: 'invalid_field'"}
       500:
-        description: Internal server error
+        description: Server error
         content:
           application/json:
-            example: {"error": "database connection failed"}
+            example: {"error": "Failed to fetch titles data"}
     """
     base_query = """
         SELECT 
             team_id,
-            team_name
-        FROM teams
+            year,
+            number_of_titles_this_year
+        FROM team_yearly_stats
     """
     
     return handle_get_request(
         base_sql=base_query,
-        allowed_filters=['team_id', 'team_name'],
-        allowed_sorts=['team_id', 'team_name'],
-        allowed_null_fields=['team_id', 'team_name']
+        allowed_filters=['team_id', 'year', 'number_of_titles_this_year'],
+        allowed_sorts=['team_id', 'year', 'number_of_titles_this_year'],
+        allowed_null_fields=['team_id', 'year', 'number_of_titles_this_year']
     )
 
-@api_bp.route('/national_team_players', methods=['GET'])
-def get_national_team_players():
+
+@api_bp.route('/clubs_and_national_players', methods=['GET'])
+def get_clubs_and_national_players():
     """
-    Get national team players statistics
+    Get national team players in clubs
     ---
     tags:
       - Statistics
-    summary: Get data about players in national teams
-    description: Returns data about players participating in national teams
+    summary: Get club-national team players relations
+    description: Returns number of club players participating in national teams
     parameters:
       - name: team_id
         in: query
@@ -394,45 +750,45 @@ def get_national_team_players():
       - name: year
         in: query
         type: integer
-        description: Filter by year
+        description: Filter by season year
       - name: players_in_national_team
         in: query
         type: integer
-        description: Filter by number of players in national team
+        description: Filter by national team players count
       - name: sort_by
         in: query
         type: string
         enum: [team_id, year, players_in_national_team]
         default: team_id
-        description: Field to sort by
+        description: Field to sort results
       - name: order
         in: query
         type: string
         enum: [asc, desc]
         default: asc
-        description: Sort order
+        description: Sorting direction
       - name: exclude_nulls
         in: query
         type: boolean
         default: false
-        description: Exclude all null values for allowed fields
+        description: Exclude records with null values
       - name: exclude_null_fields
         in: query
         type: string
         enum: [team_id, year, players_in_national_team]
         collectionFormat: multi
-        description: Specific fields to exclude null values for
+        description: Specific fields to exclude nulls for
       - name: limit
         in: query
         type: integer
-        description: Limit number of results
+        description: Maximum results to return
       - name: offset
         in: query
         type: integer
-        description: Results offset
+        description: Pagination offset
     responses:
       200:
-        description: Successful operation
+        description: Successfully retrieved national players data
         content:
           application/json:
             schema:
@@ -446,27 +802,20 @@ def get_national_team_players():
                     type: integer
                   players_in_national_team:
                     type: integer
-                required:
-                  - team_id
-                  - year
-                  - players_in_national_team
             example:
-              - team_id: 1
-                year: 2022
-                players_in_national_team: 5
-              - team_id: 1
+              - team_id: 5
                 year: 2023
-                players_in_national_team: 7
+                players_in_national_team: 8
       400:
         description: Invalid request parameters
         content:
           application/json:
-            example: {"error": "Invalid fields for null exclusion: ['invalid_field']"}
+            example: {"error": "Invalid null exclusion field: 'invalid_field'"}
       500:
-        description: Internal server error
+        description: Server error
         content:
           application/json:
-            example: {"error": "database connection failed"}
+            example: {"error": "Failed to fetch national players data"}
     """
     base_query = """
         SELECT 
@@ -487,12 +836,12 @@ def get_national_team_players():
 @api_bp.route('/total_team_cost', methods=['GET'])
 def get_total_team_cost():
     """
-    Get team financial statistics
+    Get total team costs
     ---
     tags:
       - Statistics
-    summary: Get data about team costs
-    description: Returns data with total team cost
+    summary: Get team financial statistics
+    description: Returns total team costs per year
     parameters:
       - name: team_id
         in: query
@@ -501,46 +850,46 @@ def get_total_team_cost():
       - name: year
         in: query
         type: integer
-        description: Filter by year
+        description: Filter by season year
       - name: team_cost
         in: query
         type: number
         format: float
-        description: Filter by team total cost value
+        description: Filter by total cost value
       - name: sort_by
         in: query
         type: string
         enum: [team_id, year, team_cost]
         default: team_id
-        description: Field to sort by
+        description: Field to sort results
       - name: order
         in: query
         type: string
         enum: [asc, desc]
         default: asc
-        description: Sort order
+        description: Sorting direction
       - name: exclude_nulls
         in: query
         type: boolean
         default: false
-        description: Exclude all null values for allowed fields
+        description: Exclude records with null values
       - name: exclude_null_fields
         in: query
         type: string
         enum: [team_id, year, team_cost]
         collectionFormat: multi
-        description: Specific fields to exclude null values for
+        description: Specific fields to exclude nulls for
       - name: limit
         in: query
         type: integer
-        description: Limit number of results
+        description: Maximum results to return
       - name: offset
         in: query
         type: integer
-        description: Results offset
+        description: Pagination offset
     responses:
       200:
-        description: Successful operation
+        description: Successfully retrieved cost data
         content:
           application/json:
             schema:
@@ -555,27 +904,20 @@ def get_total_team_cost():
                   team_cost:
                     type: number
                     format: float
-                required:
-                  - team_id
-                  - year
-                  - team_cost
             example:
-              - team_id: 1
+              - team_id: 15
                 year: 2023
                 team_cost: 1500000.50
-              - team_id: 2
-                year: 2022
-                team_cost: 1350000.00
       400:
-        description: Invalid request parameters
+        description: Invalid parameters
         content:
           application/json:
-            example: {"error": "Invalid fields for null exclusion: ['invalid_field']"}
+            example: {"error": "Invalid null exclusion field: 'invalid_field'"}
       500:
-        description: Internal server error
+        description: Server error
         content:
           application/json:
-            example: {"error": "database connection failed"}
+            example: {"error": "Failed to fetch cost data"}
     """
     base_query = """
         SELECT 
@@ -593,112 +935,15 @@ def get_total_team_cost():
     )
 
 
-@api_bp.route('/cup_winnings', methods=['GET'])
-def get_cup_winnings():
-    """
-    Get team cup achievements
-    ---
-    tags:
-      - Statistics
-    summary: Get team cup winnings
-    description: Returns data about team cup winnings
-    parameters:
-      - name: team_id
-        in: query
-        type: integer
-        description: Filter by team ID
-      - name: number_of_cups
-        in: query
-        type: integer
-        description: Filter by number of cups won
-      - name: sort_by
-        in: query
-        type: string
-        enum: [team_id, number_of_cups]
-        default: team_id
-        description: Field to sort by
-      - name: order
-        in: query
-        type: string
-        enum: [asc, desc]
-        default: asc
-        description: Sort order
-      - name: exclude_nulls
-        in: query
-        type: boolean
-        default: false
-        description: Exclude all null values for allowed fields
-      - name: exclude_null_fields
-        in: query
-        type: string
-        enum: [team_id, number_of_cups]
-        collectionFormat: multi
-        description: Specific fields to exclude null values for
-      - name: limit
-        in: query
-        type: integer
-        description: Limit number of results
-      - name: offset
-        in: query
-        type: integer
-        description: Results offset
-    responses:
-      200:
-        description: Successful operation
-        content:
-          application/json:
-            schema:
-              type: array
-              items:
-                type: object
-                properties:
-                  team_id:
-                    type: integer
-                  number_of_cups:
-                    type: integer
-                required:
-                  - team_id
-                  - number_of_cups
-            example:
-              - team_id: 1
-                number_of_cups: 5
-              - team_id: 2
-                number_of_cups: 3
-      400:
-        description: Invalid request parameters
-        content:
-          application/json:
-            example: {"error": "Invalid fields for null exclusion: ['invalid_field']"}
-      500:
-        description: Internal server error
-        content:
-          application/json:
-            example: {"error": "database connection failed"}
-    """
-    base_query = """
-        SELECT 
-            team_id,
-            number_of_cups
-        FROM teams
-    """
-    
-    return handle_get_request(
-        base_sql=base_query,
-        allowed_filters=['team_id', 'number_of_cups'],
-        allowed_sorts=['team_id', 'number_of_cups'],
-        allowed_null_fields=['team_id', 'number_of_cups']
-    )
-
-
 @api_bp.route('/transfer_balance', methods=['GET'])
 def get_transfer_balance():
     """
-    Get team transfer balance statistics
+    Get team transfer balance
     ---
     tags:
       - Statistics
-    summary: Get transfer balance data
-    description: Returns transfer balance data
+    summary: Get team transfer balance data
+    description: Returns financial balance from transfers per team and year
     parameters:
       - name: team_id
         in: query
@@ -707,46 +952,46 @@ def get_transfer_balance():
       - name: year
         in: query
         type: integer
-        description: Filter by year
+        description: Filter by season year
       - name: transfer_balance
         in: query
         type: number
         format: float
-        description: Filter by transfer balance value (income - expenses)
+        description: Filter by transfer balance value
       - name: sort_by
         in: query
         type: string
         enum: [team_id, year, transfer_balance]
         default: team_id
-        description: Field to sort by
+        description: Field to sort results
       - name: order
         in: query
         type: string
         enum: [asc, desc]
         default: asc
-        description: Sort order
+        description: Sorting direction
       - name: exclude_nulls
         in: query
         type: boolean
         default: false
-        description: Exclude all null values for allowed fields
+        description: Exclude records with null values
       - name: exclude_null_fields
         in: query
         type: string
         enum: [team_id, year, transfer_balance]
         collectionFormat: multi
-        description: Specific fields to exclude null values for
+        description: Specific fields to exclude nulls for
       - name: limit
         in: query
         type: integer
-        description: Limit number of results
+        description: Maximum results to return
       - name: offset
         in: query
         type: integer
-        description: Results offset
+        description: Pagination offset
     responses:
       200:
-        description: Successful operation
+        description: Successfully retrieved transfer data
         content:
           application/json:
             schema:
@@ -761,27 +1006,20 @@ def get_transfer_balance():
                   transfer_balance:
                     type: number
                     format: float
-                required:
-                  - team_id
-                  - year
-                  - transfer_balance
             example:
-              - team_id: 1
+              - team_id: 10
                 year: 2023
-                transfer_balance: 2500000.75
-              - team_id: 2
-                year: 2022
-                transfer_balance: -500000.00
+                transfer_balance: 500000.75
       400:
         description: Invalid request parameters
         content:
           application/json:
-            example: {"error": "Invalid fields for null exclusion: ['invalid_field']"}
+            example: {"error": "Invalid null exclusion field: 'invalid_field'"}
       500:
-        description: Internal server error
+        description: Server error
         content:
           application/json:
-            example: {"error": "database connection failed"}
+            example: {"error": "Failed to fetch transfer data"}
     """
     base_query = """
         SELECT 
@@ -799,15 +1037,15 @@ def get_transfer_balance():
     )
 
 
-@api_bp.route('/number_of_legionnaires', methods=['GET'])
-def get_number_of_legionnaires():
+@api_bp.route('/legionnaires_per_team', methods=['GET'])
+def get_legionnaires_per_team():
     """
-    Get team international players statistics
+    Get team legionnaires count
     ---
     tags:
       - Statistics
-    summary: Get data about foreign players
-    description: Returns data about number of international players in teams
+    summary: Get legionnaires count per team
+    description: Returns number of legionnaires per team and year
     parameters:
       - name: team_id
         in: query
@@ -816,45 +1054,45 @@ def get_number_of_legionnaires():
       - name: year
         in: query
         type: integer
-        description: Filter by year
-      - name: legionnaires
+        description: Filter by season year
+      - name: legioners
         in: query
         type: integer
-        description: Filter by number of foreign players
+        description: Filter by legionnaires count
       - name: sort_by
         in: query
         type: string
-        enum: [team_id, year, legionnaires]
+        enum: [team_id, year, legioners]
         default: team_id
-        description: Field to sort by
+        description: Field to sort results
       - name: order
         in: query
         type: string
         enum: [asc, desc]
         default: asc
-        description: Sort order
+        description: Sorting direction
       - name: exclude_nulls
         in: query
         type: boolean
         default: false
-        description: Exclude all null values for allowed fields
+        description: Exclude records with null values
       - name: exclude_null_fields
         in: query
         type: string
-        enum: [team_id, year, legionnaires]
+        enum: [team_id, year, legioners]
         collectionFormat: multi
-        description: Specific fields to exclude null values for
+        description: Specific fields to exclude nulls for
       - name: limit
         in: query
         type: integer
-        description: Limit number of results
+        description: Maximum results to return
       - name: offset
         in: query
         type: integer
-        description: Results offset
+        description: Pagination offset
     responses:
       200:
-        description: Successful operation
+        description: Successfully retrieved legionnaires data
         content:
           application/json:
             schema:
@@ -866,55 +1104,48 @@ def get_number_of_legionnaires():
                     type: integer
                   year:
                     type: integer
-                  legionnaires:
+                  legioners:
                     type: integer
-                required:
-                  - team_id
-                  - year
-                  - legionnaires
             example:
-              - team_id: 1
+              - team_id: 3
                 year: 2023
-                legionnaires: 8
-              - team_id: 2
-                year: 2022
-                legionnaires: 5
+                legioners: 5
       400:
         description: Invalid request parameters
         content:
           application/json:
-            example: {"error": "Invalid fields for null exclusion: ['invalid_field']"}
+            example: {"error": "Invalid null exclusion field: 'invalid_field'"}
       500:
-        description: Internal server error
+        description: Server error
         content:
           application/json:
-            example: {"error": "database connection failed"}
+            example: {"error": "Failed to fetch legionnaires data"}
     """
     base_query = """
         SELECT 
             team_id,
             year,
-            legionnaires
+            legionnaires AS legioners
         FROM team_yearly_stats
     """
     
     return handle_get_request(
         base_sql=base_query,
-        allowed_filters=['team_id', 'year', 'legionnaires'],
-        allowed_sorts=['team_id', 'year', 'legionnaires'],
-        allowed_null_fields=['team_id', 'year', 'legionnaires']
+        allowed_filters=['team_id', 'year', 'legioners'],
+        allowed_sorts=['team_id', 'year', 'legioners'],
+        allowed_null_fields=['team_id', 'year', 'legioners']
     )
 
 
-@api_bp.route('/average_age', methods=['GET'])
-def get_average_age():
+@api_bp.route('/average_age_per_team', methods=['GET'])
+def get_average_age_per_team():
     """
-    Get team age statistics
+    Get team average age
     ---
     tags:
       - Statistics
-    summary: Get historical data about average team age
-    description: Returns data about average age of players in teams
+    summary: Get average age statistics per team
+    description: Returns average age data for teams by year
     parameters:
       - name: team_id
         in: query
@@ -923,7 +1154,7 @@ def get_average_age():
       - name: year
         in: query
         type: integer
-        description: Filter by year
+        description: Filter by season year
       - name: average_age
         in: query
         type: number
@@ -934,35 +1165,35 @@ def get_average_age():
         type: string
         enum: [team_id, year, average_age]
         default: team_id
-        description: Field to sort by
+        description: Field to sort results
       - name: order
         in: query
         type: string
         enum: [asc, desc]
         default: asc
-        description: Sort order
+        description: Sorting direction
       - name: exclude_nulls
         in: query
         type: boolean
         default: false
-        description: Exclude all null values for allowed fields
+        description: Exclude records with null values
       - name: exclude_null_fields
         in: query
         type: string
         enum: [team_id, year, average_age]
         collectionFormat: multi
-        description: Specific fields to exclude null values for
+        description: Specific fields to exclude nulls for
       - name: limit
         in: query
         type: integer
-        description: Limit number of results
+        description: Maximum results to return
       - name: offset
         in: query
         type: integer
-        description: Results offset
+        description: Pagination offset
     responses:
       200:
-        description: Successful operation
+        description: Successfully retrieved age data
         content:
           application/json:
             schema:
@@ -977,27 +1208,20 @@ def get_average_age():
                   average_age:
                     type: number
                     format: float
-                required:
-                  - team_id
-                  - year
-                  - average_age
             example:
-              - team_id: 1
+              - team_id: 10
                 year: 2023
-                average_age: 25.3
-              - team_id: 2
-                year: 2022
-                average_age: 27.1
+                average_age: 26.5
       400:
         description: Invalid request parameters
         content:
           application/json:
-            example: {"error": "Invalid fields for null exclusion: ['invalid_field']"}
+            example: {"error": "Invalid null exclusion field: 'invalid_field'"}
       500:
-        description: Internal server error
+        description: Server error
         content:
           application/json:
-            example: {"error": "database connection failed"}
+            example: {"error": "Failed to fetch age data"}
     """
     base_query = """
         SELECT 
@@ -1018,12 +1242,12 @@ def get_average_age():
 @api_bp.route('/team_size_ratio', methods=['GET'])
 def get_team_size_ratio():
     """
-    Get team size dynamics
+    Get team size ratio statistics
     ---
     tags:
       - Statistics
-    summary: Get historical team size ratio data
-    description: Returns data about team size ratio changes
+    summary: Get team size ratio data
+    description: Returns team size ratio statistics per team and year
     parameters:
       - name: team_id
         in: query
@@ -1032,46 +1256,46 @@ def get_team_size_ratio():
       - name: year
         in: query
         type: integer
-        description: Filter by year
+        description: Filter by season year
       - name: team_size_ratio
         in: query
         type: number
         format: float
-        description: Filter by team size ratio value
+        description: Filter by size ratio value
       - name: sort_by
         in: query
         type: string
         enum: [team_id, year, team_size_ratio]
         default: team_id
-        description: Field to sort by
+        description: Field to sort results
       - name: order
         in: query
         type: string
         enum: [asc, desc]
         default: asc
-        description: Sort order
+        description: Sorting direction
       - name: exclude_nulls
         in: query
         type: boolean
         default: false
-        description: Exclude all null values for allowed fields
+        description: Exclude records with null values
       - name: exclude_null_fields
         in: query
         type: string
         enum: [team_id, year, team_size_ratio]
         collectionFormat: multi
-        description: Specific fields to exclude null values for
+        description: Specific fields to exclude nulls for
       - name: limit
         in: query
         type: integer
-        description: Limit number of results
+        description: Maximum results to return
       - name: offset
         in: query
         type: integer
-        description: Results offset
+        description: Pagination offset
     responses:
       200:
-        description: Successful operation
+        description: Successfully retrieved size ratio data
         content:
           application/json:
             schema:
@@ -1086,27 +1310,20 @@ def get_team_size_ratio():
                   team_size_ratio:
                     type: number
                     format: float
-                required:
-                  - team_id
-                  - year
-                  - team_size_ratio
             example:
-              - team_id: 1
+              - team_id: 5
                 year: 2023
-                team_size_ratio: 1.25
-              - team_id: 2
-                year: 2022
-                team_size_ratio: 0.95
+                team_size_ratio: 1.2
       400:
         description: Invalid request parameters
         content:
           application/json:
-            example: {"error": "Invalid fields for null exclusion: ['invalid_field']"}
+            example: {"error": "Invalid null exclusion field: 'invalid_field'"}
       500:
-        description: Internal server error
+        description: Server error
         content:
           application/json:
-            example: {"error": "database connection failed"}
+            example: {"error": "Failed to fetch size ratio data"}
     """
     base_query = """
         SELECT 
@@ -1124,15 +1341,15 @@ def get_team_size_ratio():
     )
 
 
-@api_bp.route('/teams_info', methods=['GET'])
-def get_teams_info():
+@api_bp.route('/club_info', methods=['GET'])
+def get_club_info():
     """
-    Get extended team information
+    Get club information
     ---
     tags:
       - Statistics
-    summary: Get detailed team profiles
-    description: Returns data with team metadata and national team associations
+    summary: Get basic club information
+    description: Returns club details including cups count and national team affiliation
     parameters:
       - name: team_id
         in: query
@@ -1142,48 +1359,52 @@ def get_teams_info():
         in: query
         type: string
         description: Filter by team name
+      - name: number_of_cups
+        in: query
+        type: integer
+        description: Filter by number of cups won
+      - name: national_team_id
+        in: query
+        type: integer
+        description: Filter by associated national team ID
       - name: image_link
         in: query
         type: string
         description: Filter by image URL
-      - name: national_team_id
-        in: query
-        type: integer
-        description: Filter by national team association ID
       - name: sort_by
         in: query
         type: string
-        enum: [team_id, team_name, image_link, national_team_id]
+        enum: [team_id, team_name, number_of_cups, national_team_id, image_link]
         default: team_id
-        description: Field to sort by
+        description: Field to sort results
       - name: order
         in: query
         type: string
         enum: [asc, desc]
         default: asc
-        description: Sort order
+        description: Sorting direction
       - name: exclude_nulls
         in: query
         type: boolean
         default: false
-        description: Exclude all null values for allowed fields
+        description: Exclude records with null values
       - name: exclude_null_fields
         in: query
         type: string
-        enum: [team_id, team_name, image_link, national_team_id]
+        enum: [team_id, team_name, number_of_cups, national_team_id, image_link]
         collectionFormat: multi
-        description: Specific fields to exclude null values for
+        description: Specific fields to exclude nulls for
       - name: limit
         in: query
         type: integer
-        description: Limit number of results
+        description: Maximum results to return
       - name: offset
         in: query
         type: integer
-        description: Results offset
+        description: Pagination offset
     responses:
       200:
-        description: Successful operation
+        description: Successfully retrieved club data
         content:
           application/json:
             schema:
@@ -1195,62 +1416,55 @@ def get_teams_info():
                     type: integer
                   team_name:
                     type: string
-                  image_link:
-                    type: string
+                  number_of_cups:
+                    type: integer
                   national_team_id:
                     type: integer
-                    nullable: true
-                required:
-                  - team_id
-                  - team_name
-                  - image_link
-                  - national_team_id
+                  image_link:
+                    type: string
             example:
               - team_id: 1
-                team_name: "Dream Team"
+                team_name: "FC Champions"
+                number_of_cups: 5
+                national_team_id: 10
                 image_link: "https://example.com/team1.jpg"
-                national_team_id: 101
-              - team_id: 2
-                team_name: "Champions United"
-                image_link: "https://example.com/team2.png"
-                national_team_id: null
       400:
         description: Invalid request parameters
         content:
           application/json:
-            example: {"error": "Invalid fields for null exclusion: ['invalid_field']"}
+            example: {"error": "Invalid null exclusion field: 'invalid_field'"}
       500:
-        description: Internal server error
+        description: Server error
         content:
           application/json:
-            example: {"error": "database connection failed"}
+            example: {"error": "Failed to retrieve club information"}
     """
     base_query = """
         SELECT 
             team_id,
             team_name,
-            image_link,
-            national_team_id
+            number_of_cups,
+            national_team_id,
+            image_link
         FROM teams
     """
-    
     return handle_get_request(
         base_sql=base_query,
-        allowed_filters=['team_id', 'team_name', 'image_link', 'national_team_id'],
-        allowed_sorts=['team_id', 'team_name', 'image_link', 'national_team_id'],
-        allowed_null_fields=['team_id', 'team_name', 'image_link', 'national_team_id']
+        allowed_filters=['team_id', 'team_name', 'number_of_cups', 'national_team_id', 'image_link'],
+        allowed_sorts=['team_id', 'team_name', 'number_of_cups', 'national_team_id', 'image_link'],
+        allowed_null_fields=['team_id', 'team_name', 'number_of_cups', 'national_team_id', 'image_link']
     )
 
 
-@api_bp.route('/countries_info', methods=['GET'])
-def get_countries_info():
+@api_bp.route('/country_info', methods=['GET'])
+def get_country_info():
     """
-    Get national teams with associated clubs
+    Get country information
     ---
     tags:
       - Statistics
-    summary: Get national team data with club associations
-    description: Returns aggregated data about national teams and their associated clubs
+    summary: Get national teams with associated clubs
+    description: Returns national team data with aggregated club IDs
     parameters:
       - name: national_team_id
         in: query
@@ -1260,47 +1474,47 @@ def get_countries_info():
         in: query
         type: string
         description: Filter by national team name
-      - name: team_ids
+      - name: club_ids
         in: query
         type: array
         items:
           type: integer
         collectionFormat: multi
-        description: Filter by associated team IDs
+        description: Filter by associated club IDs
       - name: sort_by
         in: query
         type: string
-        enum: [national_team_id, national_team_name, team_ids]
+        enum: [national_team_id, national_team_name, club_ids]
         default: national_team_id
-        description: Field to sort by
+        description: Field to sort results
       - name: order
         in: query
         type: string
         enum: [asc, desc]
         default: asc
-        description: Sort order
+        description: Sorting direction
       - name: exclude_nulls
         in: query
         type: boolean
         default: false
-        description: Exclude all null values for allowed fields
+        description: Exclude records with null values
       - name: exclude_null_fields
         in: query
         type: string
-        enum: [national_team_id, national_team_name, team_ids]
+        enum: [national_team_id, national_team_name, club_ids]
         collectionFormat: multi
-        description: Specific fields to exclude null values for
+        description: Specific fields to exclude nulls for
       - name: limit
         in: query
         type: integer
-        description: Limit number of results
+        description: Maximum results to return
       - name: offset
         in: query
         type: integer
-        description: Results offset
+        description: Pagination offset
     responses:
       200:
-        description: Successful operation
+        description: Successfully retrieved country data
         content:
           application/json:
             schema:
@@ -1312,38 +1526,30 @@ def get_countries_info():
                     type: integer
                   national_team_name:
                     type: string
-                  team_ids:
+                  club_ids:
                     type: array
                     items:
                       type: integer
-                    nullable: true
-                required:
-                  - national_team_id
-                  - national_team_name
-                  - team_ids
             example:
-              - national_team_id: 101
-                national_team_name: "Brazil"
-                team_ids: [1, 2, 3]
-              - national_team_id: 102
-                national_team_name: "Germany"
-                team_ids: [4, 5]
+              - national_team_id: 1
+                national_team_name: "National Team A"
+                club_ids: [101, 102, 103]
       400:
         description: Invalid request parameters
         content:
           application/json:
-            example: {"error": "Invalid fields for null exclusion: ['invalid_field']"}
+            example: {"error": "Invalid null exclusion field: 'invalid_field'"}
       500:
-        description: Internal server error
+        description: Server error
         content:
           application/json:
-            example: {"error": "database connection failed"}
+            example: {"error": "Failed to retrieve country data"}
     """
     base_query = """
         SELECT 
             nt.national_team_id,
             nt.national_team_name,
-            ARRAY_AGG(t.team_id) AS "team_ids"
+            ARRAY_AGG(t.team_id) AS "club_ids"
         FROM national_teams nt
         LEFT JOIN teams t ON nt.national_team_id = t.national_team_id
         GROUP BY nt.national_team_id, nt.national_team_name
@@ -1351,7 +1557,110 @@ def get_countries_info():
     
     return handle_get_request(
         base_sql=base_query,
-        allowed_filters=['national_team_id', 'national_team_name', 'team_ids'],
-        allowed_sorts=['national_team_id', 'national_team_name', 'team_ids'],
-        allowed_null_fields=['national_team_id', 'national_team_name', 'team_ids']
+        allowed_filters=['national_team_id', 'national_team_name', 'club_ids'],
+        allowed_sorts=['national_team_id', 'national_team_name', 'club_ids'],
+        allowed_null_fields=['national_team_id', 'national_team_name', 'club_ids'],
+    )
+
+
+@api_bp.route('/national_teams_players_total_amount', methods=['GET'])
+def get_national_teams_players_total_amount():
+    """
+    Get national teams players total
+    ---
+    tags:
+      - Statistics
+    summary: Get total national team players count
+    description: Returns aggregated number of national team players by country and year
+    parameters:
+      - name: national_team_id
+        in: query
+        type: integer
+        description: Filter by national team ID
+      - name: year
+        in: query
+        type: integer
+        description: Filter by statistic year
+      - name: national_players_count
+        in: query
+        type: integer
+        description: Filter by total players count
+      - name: sort_by
+        in: query
+        type: string
+        enum: [national_team_id, year, national_players_count]
+        default: national_team_id
+        description: Field to sort results
+      - name: order
+        in: query
+        type: string
+        enum: [asc, desc]
+        default: asc
+        description: Sorting direction
+      - name: exclude_nulls
+        in: query
+        type: boolean
+        default: false
+        description: Exclude records with null values
+      - name: exclude_null_fields
+        in: query
+        type: string
+        enum: [national_team_id, year, national_players_count]
+        collectionFormat: multi
+        description: Specific fields to exclude nulls for
+      - name: limit
+        in: query
+        type: integer
+        description: Maximum results to return
+      - name: offset
+        in: query
+        type: integer
+        description: Pagination offset
+    responses:
+      200:
+        description: Successfully retrieved players count data
+        content:
+          application/json:
+            schema:
+              type: array
+              items:
+                type: object
+                properties:
+                  national_team_id:
+                    type: integer
+                  year:
+                    type: integer
+                  national_players_count:
+                    type: integer
+            example:
+              - national_team_id: 5
+                year: 2023
+                national_players_count: 45
+      400:
+        description: Invalid request parameters
+        content:
+          application/json:
+            example: {"error": "Invalid null exclusion field: 'invalid_field'"}
+      500:
+        description: Server error
+        content:
+          application/json:
+            example: {"error": "Failed to fetch players count data"}
+    """
+    base_query = """
+        SELECT 
+            t.national_team_id,
+            tys.year,
+            SUM(tys.players_in_national_team) AS national_players_count
+        FROM teams t
+        JOIN team_yearly_stats tys ON t.team_id = tys.team_id
+        WHERE t.national_team_id IS NOT NULL
+        GROUP BY t.national_team_id, tys.year
+    """
+    
+    return handle_get_request(
+        base_sql=base_query,
+        allowed_filters=['national_team_id', 'year', 'national_players_count'],
+        allowed_sorts=['national_team_id', 'year', 'national_players_count'],
+        allowed_null_fields=['national_team_id', 'year', 'national_players_count']
     )
