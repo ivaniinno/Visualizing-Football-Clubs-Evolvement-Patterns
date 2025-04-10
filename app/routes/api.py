@@ -48,8 +48,6 @@ def build_query(base_sql, allowed_filters, allowed_sorts, allowed_null_fields):
           {f'LIMIT {limit}' if limit else ''}
           {f'OFFSET {offset}' if offset else ''}
     """
-
-    print(sql)
     
     return sql, params, None, None
 
