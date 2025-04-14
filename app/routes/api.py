@@ -5,6 +5,20 @@ api_bp = Blueprint('api', __name__, url_prefix='/api')
 
 
 def build_query(base_sql, allowed_filters, allowed_sorts, allowed_null_fields):
+    """
+    Builds a parameterized SQL query from HTTP request arguments.
+    Supports sorting, pagination (limit/offset), NULL filtering
+
+    Args:
+        base_sql:         Base SQL query to wrap
+        allowed_filters:  List of permitted filter columns
+        allowed_sorts:    List of allowed sorting columns
+        allowed_null_fields: Fields allowed for NULL handling
+    
+    Returns:
+        tuple: (sql_query, query_params, error_message, http_status)
+               Returns (None, None, error, status) on validation failure
+    """
     filters = []
     params = []
     for key in allowed_filters:
@@ -53,6 +67,18 @@ def build_query(base_sql, allowed_filters, allowed_sorts, allowed_null_fields):
 
 
 def handle_get_request(base_sql, allowed_filters, allowed_sorts, allowed_null_fields):
+    """
+    Executes a parameterized SQL query for GET requests and returns JSON results.
+    
+    Args:
+        base_sql: Base SQL query to extend
+        allowed_filters: List of allowed sorting columns
+        allowed_sorts: List of allowed sorting columns
+        allowed_null_fields: Fields allowed for NULL handling
+    
+    Returns:
+        JSON response with data (camelCase keys) or error message
+    """
     sql, params, error, status = build_query(
         base_sql=base_sql,
         allowed_filters=allowed_filters,
@@ -77,12 +103,12 @@ def handle_get_request(base_sql, allowed_filters, allowed_sorts, allowed_null_fi
             conn.close()
 
 
+# Mapping of snake_case database keys to camelCase JSON response keys.
+# Used in map_keys_to_camel()
 key_mapping = {
     'national_team_id': 'NationalTeamID',
     'year': 'Year',
     'team_cost': 'TeamCost',
-    # 'average_team_cost': 'TeamCost',
-    # 'num_of_legionnaires': 'TotalLegionnairesAmount',
     'total_legionnaires_amount': 'TotalLegionnairesAmount',
     'num_of_national_players': 'NationalPlayersCount',
     'average_age_among_clubs': 'AverageAgeAmongClubs',
@@ -91,7 +117,6 @@ key_mapping = {
     'transfer_balance': 'TransferBalance',
     'average_age': 'AverageAge',
     'team_size_ratio': 'TeamSizeRatio',
-    # 'team_ids': 'ClubIDs',
     'club_ids': 'ClubIDs',
     'national_team_name': 'NationalTeamName',
     'image_link': 'ImageLink',
@@ -100,14 +125,22 @@ key_mapping = {
     'number_of_titles_this_year': 'NumberOfTitlesThisYear',
     'players_in_national_team': 'PlayersInNationalTeam',
     'total_country_cost': 'TotalCountryCost',
-    # 'legionnaires': 'Legioners',
     'legioners': 'Legioners',
     'national_players_count': 'NationalPlayersCount'
-
 }
 
 
+
 def map_keys_to_camel(data):
+    """
+    Converts snake_case database keys to camelCase for API responses.
+    
+    Args:
+        data: List of database rows (as dicts) with snake_case keys
+        
+    Returns:
+        List of dicts with camelCase keys according to key_mapping.
+    """
     return [{key_mapping.get(k, k): v for k, v in row.items()} for row in data]
 
 
