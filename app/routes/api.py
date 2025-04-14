@@ -1,5 +1,6 @@
 from flask import Blueprint, jsonify, request
 from db import get_conn
+from decimal import Decimal
 
 api_bp = Blueprint('api', __name__, url_prefix='/api')
 
@@ -94,7 +95,7 @@ def handle_get_request(base_sql, allowed_filters, allowed_sorts, allowed_null_fi
         with conn.cursor() as cur:
             cur.execute(sql, params)
             data = cur.fetchall()
-            mapped_data = map_keys_to_camel(data)
+            mapped_data = transform_db_result_for_api(data)
         return jsonify(mapped_data)
     except Exception as e:
         return jsonify({"error": str(e)}), 500
@@ -104,7 +105,7 @@ def handle_get_request(base_sql, allowed_filters, allowed_sorts, allowed_null_fi
 
 
 # Mapping of snake_case database keys to camelCase JSON response keys.
-# Used in map_keys_to_camel()
+# Used in transform_db_result_for_api()
 key_mapping = {
     'national_team_id': 'NationalTeamID',
     'year': 'Year',
@@ -129,19 +130,29 @@ key_mapping = {
     'national_players_count': 'NationalPlayersCount'
 }
 
-
-
-def map_keys_to_camel(data):
+def transform_db_result_for_api(data):
     """
-    Converts snake_case database keys to camelCase for API responses.
+    Converts snake_case database keys to camelCase and decimal fields
+    to float for API responses 
     
     Args:
         data: List of database rows (as dicts) with snake_case keys
         
     Returns:
-        List of dicts with camelCase keys according to key_mapping.
+        List of dicts with camelCase keys according to key_mapping
+        and decimal fields transformed to float
     """
-    return [{key_mapping.get(k, k): v for k, v in row.items()} for row in data]
+    camel_data = []
+    for row in data:
+        new_row = {}
+        for key, value in row.items():
+            camel_key = key_mapping.get(key, key)
+            if isinstance(value, Decimal):
+                new_row[camel_key] = float(value)
+            else:
+                new_row[camel_key] = value
+        camel_data.append(new_row)
+    return camel_data
 
 
 @api_bp.route('/full_players_costs', methods=['GET'])
