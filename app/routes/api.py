@@ -30,7 +30,7 @@ def build_query(base_sql, allowed_filters, allowed_sorts, allowed_null_fields):
     sort_by = request.args.get('sort_by', default=allowed_sorts[0])
     order = request.args.get('order', default='asc').upper()
     if sort_by not in allowed_sorts or order not in ['ASC', 'DESC']:
-        return None, None, f"Invalid sort parameters", 400
+        return None, None, "Invalid sort parameters", 400
 
     null_conditions = []
     exclude_nulls = request.args.get('exclude_nulls', 'false').lower() == 'true'
