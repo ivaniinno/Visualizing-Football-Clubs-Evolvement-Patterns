@@ -30,7 +30,7 @@ def build_query(base_sql, allowed_filters, allowed_sorts, allowed_null_fields):
     sort_by = request.args.get('sort_by', default=allowed_sorts[0])
     order = request.args.get('order', default='asc').upper()
     if sort_by not in allowed_sorts or order not in ['ASC', 'DESC']:
-        return None, None, "Invalid sort parameters", 400
+        return None, None, f"Invalid sort parameters", 400
 
     null_conditions = []
     exclude_nulls = request.args.get('exclude_nulls', 'false').lower() == 'true'
@@ -200,35 +200,21 @@ def get_full_players_costs():
         description: Results offset for pagination
     responses:
       200:
-        description: Successfully retrieved costs data
-        content:
+        examples:
           application/json:
-            schema:
-              type: array
-              items:
-                type: object
-                properties:
-                  national_team_id:
-                    type: integer
-                  year:
-                    type: integer
-                  total_country_cost:
-                    type: number
-                    format: float
-            example:
-              - national_team_id: 10
-                year: 2023
-                total_country_cost: 1250000.50
+            - NationalTeamID: 3262
+              TotalCountryCost: 4468520
+              Year: 2018
       400:
         description: Invalid request parameters
-        content:
-          application/json:
-            example: {"error": "Invalid fields for null exclusion: ['invalid_field']"}
+        schema:
+          type: object
+          properties:
+            error:
+              type: string
+              example: "Invalid fields for null exclusion: ['invalid_field']"
       500:
         description: Internal server error
-        content:
-          application/json:
-            example: {"error": "Failed to calculate costs"}
     """
     base_query = """
         SELECT 
@@ -305,35 +291,21 @@ def get_average_team_cost():
         description: Pagination offset
     responses:
       200:
-        description: Successfully retrieved average costs
-        content:
+        examples:
           application/json:
-            schema:
-              type: array
-              items:
-                type: object
-                properties:
-                  national_team_id:
-                    type: integer
-                  year:
-                    type: integer
-                  team_cost:
-                    type: number
-                    format: float
-            example:
-              - national_team_id: 7
-                year: 2023
-                team_cost: 250000.75
+            - NationalTeamID: 3262
+              TeamCost: 279282
+              Year: 2018
       400:
-        description: Invalid parameters
-        content:
-          application/json:
-            example: {"error": "Invalid null exclusion field: 'invalid_field'"}
+        description: Invalid request parameters
+        schema:
+          type: object
+          properties:
+            error:
+              type: string
+              example: "Invalid fields for null exclusion: ['invalid_field']"
       500:
-        description: Server error
-        content:
-          application/json:
-            example: {"error": "Cost calculation failed"}
+        description: Internal server error
     """
     base_query = """
         SELECT 
@@ -409,34 +381,21 @@ def get_legionnaires_total_amount():
         description: Pagination offset
     responses:
       200:
-        description: Successfully retrieved legionnaires data
-        content:
+        examples:
           application/json:
-            schema:
-              type: array
-              items:
-                type: object
-                properties:
-                  national_team_id:
-                    type: integer
-                  year:
-                    type: integer
-                  total_legionnaires_amount:
-                    type: integer
-            example:
-              - national_team_id: 5
-                year: 2023
-                total_legionnaires_amount: 15
+            - NationalTeamID: 3262
+              TotalLegionnairesAmount: 364
+              Year: 2018
       400:
-        description: Invalid request
-        content:
-          application/json:
-            example: {"error": "Invalid legionnaires filter parameters"}
+        description: Invalid request parameters
+        schema:
+          type: object
+          properties:
+            error:
+              type: string
+              example: "Invalid fields for null exclusion: ['invalid_field']"
       500:
-        description: Server error
-        content:
-          application/json:
-            example: {"error": "Failed to fetch legionnaires data"}
+        description: Internal server error
     """
     base_query =    """
         SELECT 
@@ -513,35 +472,21 @@ def get_total_average_age():
         description: Pagination offset
     responses:
       200:
-        description: Successfully retrieved age data
-        content:
+        examples:
           application/json:
-            schema:
-              type: array
-              items:
-                type: object
-                properties:
-                  national_team_id:
-                    type: integer
-                  year:
-                    type: integer
-                  average_age_among_clubs:
-                    type: number
-                    format: float
-            example:
-              - national_team_id: 8
-                year: 2023
-                average_age_among_clubs: 26.4
+            - AverageAgeAmongClubs: 25.2750000000000000
+              NationalTeamID: 3262
+              Year: 2018
       400:
         description: Invalid request parameters
-        content:
-          application/json:
-            example: {"error": "Invalid null exclusion field: 'invalid_field'"}
+        schema:
+          type: object
+          properties:
+            error:
+              type: string
+              example: "Invalid fields for null exclusion: ['invalid_field']"
       500:
-        description: Server error
-        content:
-          application/json:
-            example: {"error": "Age calculation failed"}
+        description: Internal server error
     """
     base_query =    """
         SELECT 
@@ -618,35 +563,21 @@ def get_average_points_per_team():
         description: Pagination offset
     responses:
       200:
-        description: Successfully retrieved points data
-        content:
+        examples:
           application/json:
-            schema:
-              type: array
-              items:
-                type: object
-                properties:
-                  team_id:
-                    type: integer
-                  year:
-                    type: integer
-                  average_points:
-                    type: number
-                    format: float
-            example:
-              - team_id: 12
-                year: 2023
-                average_points: 18.7
+            - AveragePoints: 1.24
+              TeamID: 3
+              Year: 2014
       400:
         description: Invalid request parameters
-        content:
-          application/json:
-            example: {"error": "Invalid null exclusion field: 'invalid_field'"}
+        schema:
+          type: object
+          properties:
+            error:
+              type: string
+              example: "Invalid fields for null exclusion: ['invalid_field']"
       500:
-        description: Server error
-        content:
-          application/json:
-            example: {"error": "Failed to fetch points data"}
+        description: Internal server error
     """
     base_query = """
         SELECT 
@@ -719,34 +650,21 @@ def get_club_titles():
         description: Pagination offset
     responses:
       200:
-        description: Successfully retrieved titles data
-        content:
+        examples:
           application/json:
-            schema:
-              type: array
-              items:
-                type: object
-                properties:
-                  team_id:
-                    type: integer
-                  year:
-                    type: integer
-                  number_of_titles_this_year:
-                    type: integer
-            example:
-              - team_id: 7
-                year: 2023
-                number_of_titles_this_year: 2
+            - NumberOfTitlesThisYear: 0
+              TeamID: 3
+              Year: 2014
       400:
-        description: Invalid parameters
-        content:
-          application/json:
-            example: {"error": "Invalid null exclusion field: 'invalid_field'"}
+        description: Invalid request parameters
+        schema:
+          type: object
+          properties:
+            error:
+              type: string
+              example: "Invalid fields for null exclusion: ['invalid_field']"
       500:
-        description: Server error
-        content:
-          application/json:
-            example: {"error": "Failed to fetch titles data"}
+        description: Internal server error
     """
     base_query = """
         SELECT 
@@ -819,34 +737,21 @@ def get_clubs_and_national_players():
         description: Pagination offset
     responses:
       200:
-        description: Successfully retrieved national players data
-        content:
+        examples:
           application/json:
-            schema:
-              type: array
-              items:
-                type: object
-                properties:
-                  team_id:
-                    type: integer
-                  year:
-                    type: integer
-                  players_in_national_team:
-                    type: integer
-            example:
-              - team_id: 5
-                year: 2023
-                players_in_national_team: 8
+            - PlayersInNationalTeam: 9
+              Year: 2018
+              TeamID: 3
       400:
         description: Invalid request parameters
-        content:
-          application/json:
-            example: {"error": "Invalid null exclusion field: 'invalid_field'"}
+        schema:
+          type: object
+          properties:
+            error:
+              type: string
+              example: "Invalid fields for null exclusion: ['invalid_field']"
       500:
-        description: Server error
-        content:
-          application/json:
-            example: {"error": "Failed to fetch national players data"}
+        description: Internal server error
     """
     base_query = """
         SELECT 
@@ -920,35 +825,21 @@ def get_total_team_cost():
         description: Pagination offset
     responses:
       200:
-        description: Successfully retrieved cost data
-        content:
+        examples:
           application/json:
-            schema:
-              type: array
-              items:
-                type: object
-                properties:
-                  team_id:
-                    type: integer
-                  year:
-                    type: integer
-                  team_cost:
-                    type: number
-                    format: float
-            example:
-              - team_id: 15
-                year: 2023
-                team_cost: 1500000.50
+            - TeamCost: 50750
+              TeamID: 3
+              Year: 2014
       400:
-        description: Invalid parameters
-        content:
-          application/json:
-            example: {"error": "Invalid null exclusion field: 'invalid_field'"}
+        description: Invalid request parameters
+        schema:
+          type: object
+          properties:
+            error:
+              type: string
+              example: "Invalid fields for null exclusion: ['invalid_field']"
       500:
-        description: Server error
-        content:
-          application/json:
-            example: {"error": "Failed to fetch cost data"}
+        description: Internal server error
     """
     base_query = """
         SELECT 
@@ -1022,35 +913,21 @@ def get_transfer_balance():
         description: Pagination offset
     responses:
       200:
-        description: Successfully retrieved transfer data
-        content:
+        examples:
           application/json:
-            schema:
-              type: array
-              items:
-                type: object
-                properties:
-                  team_id:
-                    type: integer
-                  year:
-                    type: integer
-                  transfer_balance:
-                    type: number
-                    format: float
-            example:
-              - team_id: 10
-                year: 2023
-                transfer_balance: 500000.75
+            - TeamID: 3
+              TransferBalance: -8300
+              Year: 2014
       400:
         description: Invalid request parameters
-        content:
-          application/json:
-            example: {"error": "Invalid null exclusion field: 'invalid_field'"}
+        schema:
+          type: object
+          properties:
+            error:
+              type: string
+              example: "Invalid fields for null exclusion: ['invalid_field']"
       500:
-        description: Server error
-        content:
-          application/json:
-            example: {"error": "Failed to fetch transfer data"}
+        description: Internal server error
     """
     base_query = """
         SELECT 
@@ -1123,34 +1000,21 @@ def get_legionnaires_per_team():
         description: Pagination offset
     responses:
       200:
-        description: Successfully retrieved legionnaires data
-        content:
+        examples:
           application/json:
-            schema:
-              type: array
-              items:
-                type: object
-                properties:
-                  team_id:
-                    type: integer
-                  year:
-                    type: integer
-                  legioners:
-                    type: integer
-            example:
-              - team_id: 3
-                year: 2023
-                legioners: 5
+            - Legioners: 22
+              TeamID: 3
+              Year: 2014
       400:
         description: Invalid request parameters
-        content:
-          application/json:
-            example: {"error": "Invalid null exclusion field: 'invalid_field'"}
+        schema:
+          type: object
+          properties:
+            error:
+              type: string
+              example: "Invalid fields for null exclusion: ['invalid_field']"
       500:
-        description: Server error
-        content:
-          application/json:
-            example: {"error": "Failed to fetch legionnaires data"}
+        description: Internal server error
     """
     base_query = """
         SELECT 
@@ -1224,35 +1088,21 @@ def get_average_age_per_team():
         description: Pagination offset
     responses:
       200:
-        description: Successfully retrieved age data
-        content:
+        examples:
           application/json:
-            schema:
-              type: array
-              items:
-                type: object
-                properties:
-                  team_id:
-                    type: integer
-                  year:
-                    type: integer
-                  average_age:
-                    type: number
-                    format: float
-            example:
-              - team_id: 10
-                year: 2023
-                average_age: 26.5
+            - AverageAge: 25.8
+              TeamID: 3
+              Year: 2014
       400:
         description: Invalid request parameters
-        content:
-          application/json:
-            example: {"error": "Invalid null exclusion field: 'invalid_field'"}
+        schema:
+          type: object
+          properties:
+            error:
+              type: string
+              example: "Invalid fields for null exclusion: ['invalid_field']"
       500:
-        description: Server error
-        content:
-          application/json:
-            example: {"error": "Failed to fetch age data"}
+        description: Internal server error
     """
     base_query = """
         SELECT 
@@ -1326,35 +1176,21 @@ def get_team_size_ratio():
         description: Pagination offset
     responses:
       200:
-        description: Successfully retrieved size ratio data
-        content:
+        examples:
           application/json:
-            schema:
-              type: array
-              items:
-                type: object
-                properties:
-                  team_id:
-                    type: integer
-                  year:
-                    type: integer
-                  team_size_ratio:
-                    type: number
-                    format: float
-            example:
-              - team_id: 5
-                year: 2023
-                team_size_ratio: 1.2
+            - TeamID: 3
+              TeamSizeRatio: null
+              Year: 2014
       400:
         description: Invalid request parameters
-        content:
-          application/json:
-            example: {"error": "Invalid null exclusion field: 'invalid_field'"}
+        schema:
+          type: object
+          properties:
+            error:
+              type: string
+              example: "Invalid fields for null exclusion: ['invalid_field']"
       500:
-        description: Server error
-        content:
-          application/json:
-            example: {"error": "Failed to fetch size ratio data"}
+        description: Internal server error
     """
     base_query = """
         SELECT 
@@ -1435,40 +1271,23 @@ def get_club_info():
         description: Pagination offset
     responses:
       200:
-        description: Successfully retrieved club data
-        content:
+        examples:
           application/json:
-            schema:
-              type: array
-              items:
-                type: object
-                properties:
-                  team_id:
-                    type: integer
-                  team_name:
-                    type: string
-                  number_of_cups:
-                    type: integer
-                  national_team_id:
-                    type: integer
-                  image_link:
-                    type: string
-            example:
-              - team_id: 1
-                team_name: "FC Champions"
-                number_of_cups: 5
-                national_team_id: 10
-                image_link: "https://example.com/team1.jpg"
+            - ImageLink: https://tmssl.akamaized.net//images/wappen/head/3.png?lm=1656580823
+              NationalTeamID: 3262
+              NumberOfCups: 13
+              TeamID: 3
+              TeamName: Кёльн
       400:
         description: Invalid request parameters
-        content:
-          application/json:
-            example: {"error": "Invalid null exclusion field: 'invalid_field'"}
+        schema:
+          type: object
+          properties:
+            error:
+              type: string
+              example: "Invalid fields for null exclusion: ['invalid_field']"
       500:
-        description: Server error
-        content:
-          application/json:
-            example: {"error": "Failed to retrieve club information"}
+        description: Internal server error
     """
     base_query = """
         SELECT 
@@ -1545,36 +1364,21 @@ def get_country_info():
         description: Pagination offset
     responses:
       200:
-        description: Successfully retrieved country data
-        content:
+        examples:
           application/json:
-            schema:
-              type: array
-              items:
-                type: object
-                properties:
-                  national_team_id:
-                    type: integer
-                  national_team_name:
-                    type: string
-                  club_ids:
-                    type: array
-                    items:
-                      type: integer
-            example:
-              - national_team_id: 1
-                national_team_name: "National Team A"
-                club_ids: [101, 102, 103]
+            - ClubIDs: [3, 15, 16, 18, 24, 27, 33, 39, 44, 60, 79, 82, 89, 533, 2036, 23826]
+              NationalTeamID: 3262
+              NationalTeamName: Германия
       400:
         description: Invalid request parameters
-        content:
-          application/json:
-            example: {"error": "Invalid null exclusion field: 'invalid_field'"}
+        schema:
+          type: object
+          properties:
+            error:
+              type: string
+              example: "Invalid fields for null exclusion: ['invalid_field']"
       500:
-        description: Server error
-        content:
-          application/json:
-            example: {"error": "Failed to retrieve country data"}
+        description: Internal server error
     """
     base_query = """
         SELECT 
@@ -1649,34 +1453,21 @@ def get_national_teams_players_total_amount():
         description: Pagination offset
     responses:
       200:
-        description: Successfully retrieved players count data
-        content:
+        examples:
           application/json:
-            schema:
-              type: array
-              items:
-                type: object
-                properties:
-                  national_team_id:
-                    type: integer
-                  year:
-                    type: integer
-                  national_players_count:
-                    type: integer
-            example:
-              - national_team_id: 5
-                year: 2023
-                national_players_count: 45
+            - NationalPlayersCount: 145
+              NationalTeamID: 3262
+              Year: 2018
       400:
         description: Invalid request parameters
-        content:
-          application/json:
-            example: {"error": "Invalid null exclusion field: 'invalid_field'"}
+        schema:
+          type: object
+          properties:
+            error:
+              type: string
+              example: "Invalid fields for null exclusion: ['invalid_field']"
       500:
-        description: Server error
-        content:
-          application/json:
-            example: {"error": "Failed to fetch players count data"}
+        description: Internal server error
     """
     base_query = """
         SELECT 
