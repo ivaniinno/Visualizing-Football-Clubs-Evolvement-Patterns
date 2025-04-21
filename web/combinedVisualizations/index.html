@@ -9,7 +9,18 @@
 </head>
 
 <body>
-    <h1>Football Data Analysis</h1>
+    <section class="title-segment">
+        <div style="display: flex; align-items: center; gap: 10px;">
+            <h2>Visualizing Football Clubs and National Teams Patterns</h2>
+            <img src="ball_svg.svg" alt="Football Icon" width="80" height="80" />
+        </div>
+        <p>
+            This visualizations aims to extract and emphasize key trends in worldwide club and country football, considering multiple and diverse metrics to balance outcomes quite well. Some of the included metrics are: number of club players involved in national teams, transfer balance of clubs, average age of players within a club, etc.
+        </p>
+        <button onclick="document.getElementById('scatter-section').scrollIntoView({ behavior: 'smooth' });">
+            Explore Visualizations
+        </button>
+    </section>
     <!-- Scatter Plot Section -->
     <div class="visualization-section" id="scatter-section">
         <h2>Club Performance Analysis</h2>

@@ -1,34 +1,49 @@
+/* Import a beautiful font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Poppins', Arial, sans-serif; /* Update font to Poppins */
     margin: 0;
     padding: 20px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #f4f4f9;
-    }
-    
-    h1 {
+    background-color: #f9eadb;
+}
+
+h1, h2 {
+    font-family: 'Poppins', Arial, sans-serif;
+    font-weight: 600;
+    font-size: 1.8rem; 
+}
+
+p, label, select, button {
+    font-family: 'Poppins', Arial, sans-serif;
+    font-weight: 300;
+    font-size: 0.9rem;
+}
+
+h1 {
     color: #333;
     margin-bottom: 30px;
-    }
-    
-    .visualization-section {
+}
+
+.visualization-section {
     width: 95%;
     margin-bottom: 40px;
-    padding: 20px;
-    background-color: white;
+    padding: 15px; 
+    background-color: #f0f0f0; 
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    }
-    
-    .visualization-section h2 {
-    color: #0056b3;
+}
+
+.visualization-section h2 {
+    color: #333; 
     margin-top: 0;
-    }
-    
-    /* Scatter Plot Styles */
-    .main-container {
+}
+
+/* Scatter Plot Styles */
+.main-container {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -36,43 +51,45 @@ body {
     width: 100%;
     height: auto;
     margin: 20px auto;
-    gap: 20px;
-    }
-    
-    #scatter-legend-container {
-    flex: 0 0 20%;
+    gap: 10px; 
+}
+
+#scatter-legend-container {
+    flex: 0 0 16%; 
     background-color: #f9f9f9;
     border: 4px solid #ccc;
     border-radius: 10px;
-    padding: 15px;
+    padding: 10px; 
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     font-family: Arial, sans-serif;
-    font-size: 14px;
+    font-size: 12px; 
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 5px;
     height: auto;
-    margin-left: 20px;
-    }
-    
-    .scatter-container {
-    flex: 0 0 45%;
+    margin-left: 5px;
+    max-height: 78vh; 
+}
+
+.scatter-container {
+    flex: 0 0 50%; 
     display: flex;
     flex-direction: column;
     align-items: center;
     height: auto;
-    }
-    
-    #scatter-plot {
+    max-height: 78vh;
+}
+
+#scatter-plot {
     width: 100%;
-    height: 600px;
+    height: 65vh; 
     border: 7px solid #ccc;
     border-radius: 10px;
-    }
-    
-    .club-info {
-    flex: 0 0 20%;
-    padding: 15px;
+}
+
+.club-info {
+    flex: 0 0 16%; 
+    padding: 10px; 
     border: 4px solid #ccc;
     border-radius: 10px;
     background-color: #ffffff;
@@ -82,34 +99,36 @@ body {
     text-align: center;
     height: auto;
     margin-right: 20px;
-    }
-    
-    .club-info img {
+    max-height: 78vh;
+    font-size: 12px; 
+}
+
+.club-info img {
     width: 70%;
     height: auto;
     margin-bottom: 10px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    }
-    
-    .club-info h3 {
+}
+
+.club-info h3 {
     font-size: 20px;
     margin: 10px 0;
-    color: #007bb8;
-    }
-    
-    .club-info p {
+    color: #333; 
+}
+
+.club-info p {
     font-size: 14px;
     margin: 5px 0;
     color: #555;
-    }
-    
-    .club-info p span {
+}
+
+.club-info p span {
     font-weight: bold;
     color: #333;
-    }
-    
-    /* Heatmap Styles */
-    .map-container {
+}
+
+/* Heatmap Styles */
+.map-container {
     display: flex;
     width: 100%;
     height: 600px;
@@ -117,16 +136,16 @@ body {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
     position: relative;
-    }
-    
-    #map {
+}
+
+#map {
     flex: 3;
     width: 100%;
     height: 100%;
     position: relative;
-    }
-    
-    .country-info {
+}
+
+.country-info {
     flex: 1;
     padding: 15px;
     border-left: 1px solid #ddd;
@@ -134,23 +153,23 @@ body {
     font-size: 14px;
     background-color: #f9f9f9;
     border-radius: 8px;
-    }
-    
-    .country-info h1 {
+}
+
+.country-info h1 {
     margin: 0 0 10px 0;
     color: #333;
-    }
-    
-    .country-info p {
+}
+
+.country-info p {
     margin: 5px 0;
     line-height: 1.5;
-    }
-    
-    .country-info h1 {
-    color: #0056b3;
-    }
-    
-    .legend {
+}
+
+.country-info h1 {
+    color: #333;
+}
+
+.legend {
     position: absolute;
     top: 10px;
     left: 10px;
@@ -159,53 +178,53 @@ body {
     padding: 5px;
     border-radius: 4px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-    }
-    
-    button {
-    background-color: #007bff;
-    color: white;
+}
+
+button {
+    background-color: #f9eadb; 
+    color: #333; 
     border: none;
     padding: 10px 15px;
     border-radius: 4px;
     cursor: pointer;
     font-size: 14px;
     transition: background-color 0.3s;
-    }
-    
-    button:hover {
-    background-color: #0056b3;
-    }
-    
-    .controls {
+}
+
+button:hover {
+    background-color: #e6d3c5; 
+}
+
+.controls {
     display: flex;
     justify-content: space-between;
     width: 100%;
     margin: 20px 0;
     align-items: center;
-    }
-    
-    .zoom-controls {
+}
+
+.zoom-controls {
     margin-top: 10px;
     display: flex;
     gap: 10px;
-    }
-    
-    /* Common timeline styles */
-    .timeline {
+}
+
+/* Common timeline styles */
+.timeline {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 20px auto;
+    margin: 15px auto;
     padding: 15px 20px;
-    background: linear-gradient(135deg, #00aaff, #007bb8);
+    background: linear-gradient(135deg, #f9eadb, #e6d3c5);
     border-radius: 25px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
     width: fit-content;
-    }
-    
-    .timeline-btn {
+}
+
+.timeline-btn {
     background: white;
-    color: #007bb8;
+    color: #333; 
     border: none;
     border-radius: 50%;
     width: 50px;
@@ -216,130 +235,174 @@ body {
     justify-content: center;
     font-size: 20px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-    }
-    
-    .timeline-btn:hover {
+}
+
+.timeline-btn:hover {
     background-color: #e0f7ff;
-    }
-    
-    .timeline-years {
+}
+
+.timeline-years {
     display: flex;
     gap: 15px;
     margin: 0 20px;
     font-family: Arial, sans-serif;
     font-size: 16px;
-    color: white;
-    }
-    
-    .timeline-years span {
+    color: #666; 
+}
+
+.timeline-years span {
     cursor: pointer;
     padding: 5px 10px;
     border-radius: 15px;
     transition: background 0.3s, color 0.3s;
-    }
-    
-    .timeline-years span.active {
-    background: white;
-    color: #007bb8;
+}
+
+.timeline-years span.active {
+    background: #f9eadb; 
+    color: #333;
     font-weight: bold;
-    }
-    
-    .timeline-years span:hover {
-    background: rgba(255, 255, 255, 0.8);
-    color: #007bb8;
-    }
-    
-    .toggle-container {
+}
+
+.timeline-years span:hover {
+    background: #f9eadb; 
+    color: #333;
+}
+
+.toggle-container {
     display: flex;
     align-items: center;
     margin: 10px 0;
     font-family: Arial, sans-serif;
     font-size: 16px;
     color: #333;
-    }
-    
-    .toggle-container input[type="checkbox"] {
+}
+
+.toggle-container input[type="checkbox"] {
     margin-right: 10px;
     width: 20px;
     height: 20px;
     cursor: pointer;
-    }
-    
-    .toggle-label {
+    accent-color: #f9eadb;
+}
+
+.toggle-label {
     cursor: pointer;
-    }
-    
-    .axis-selectors {
+}
+
+.axis-selectors {
     display: flex;
     gap: 15px;
     margin-bottom: 20px;
     align-items: center;
-    }
-    
-    .axis-selectors label {
+}
+
+.axis-selectors label {
     font-weight: bold;
     font-size: 14px;
-    }
-    
-    .axis-selectors select {
+}
+
+.axis-selectors select {
     padding: 5px 10px;
     font-size: 14px;
     border: 1px solid #ccc;
     border-radius: 5px;
     cursor: pointer;
-    }
-    
-    /* Map specific styles */
-    .country {
+}
+
+/* Map specific styles */
+.country {
     stroke: rgb(79, 96, 102);
     stroke-width: 0.75px;
-    }
-    
-    .selectedCountry {
+}
+
+.selectedCountry {
     stroke: #f07004;
     stroke-width: 1.8px;
-    }
-    
-    #country-info-table {
+}
+
+#country-info-table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 10px;
-    }
-    
-    #country-info-table th, #country-info-table td {
+}
+
+#country-info-table th, #country-info-table td {
     border: 1px solid #ddd;
     padding: 8px;
     text-align: left;
-    }
-    
-    #country-info-table th {
+}
+
+#country-info-table th {
     background-color: #f4f4f9;
     font-weight: bold;
-    }
+}
 
 /* Timeline buttons for Heatmap */
 #heatmap-section .timeline button {
-  background-color: white;
-  color: #007bb8;
-  border: 1px solid white;
-  padding: 5px 10px;
-  border-radius: 4px;
-  cursor: pointer;
-  font-size: 15px;
-  transition: background-color 0.3s, color 0.3s;
+    background-color: #f9eadb; 
+    color: #333; 
+    border: 1px solid #333; 
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 15px;
+    transition: background-color 0.3s, color 0.3s;
 }
 
 #heatmap-section .timeline button:hover {
-  background-color: #f0f0f0;
-  color: #0056b3;
+    background-color: #e6d3c5; 
+    color: #0056b3;
 }
 
 #heatmap-section #current-year {
-  color: white;
-  font-size: 20px;
-  font-weight: bold;
+    color: #333;
 }
 
 #heatmap-section .timeline > * {
-  margin: 0 10px;
+    margin: 0 10px;
+}
+
+/* Title Segment Styles */
+.title-segment {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    color: #333; 
+    padding: 20px;
+    box-shadow: none; 
+}
+
+.title-segment h2 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.title-segment p {
+    font-size: 1.5rem;
+    line-height: 1.8;
+    max-width: 800px;
+}
+
+.title-segment button {
+    background-color: #6c757d; 
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.title-segment button:hover {
+    background-color: #5a6268; 
+}
+
+
+html {
+    scroll-behavior: smooth;
 }

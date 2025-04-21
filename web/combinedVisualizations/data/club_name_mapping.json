@@ -1,0 +1,2130 @@
+[
+    {
+        "TeamName": "AЦСМ Поли Яссы",
+        "TranslatedName": "ACSM Poli Iasi"
+    },
+    {
+        "TeamName": "Bangor City",
+        "TranslatedName": "Bangor City"
+    },
+    {
+        "TeamName": "FC Koper",
+        "TranslatedName": "FC Koper"
+    },
+    {
+        "TeamName": "FCI Tallinn",
+        "TranslatedName": "FCI Tallinn"
+    },
+    {
+        "TeamName": "FK TransINVEST",
+        "TranslatedName": "FK TransINVEST"
+    },
+    {
+        "TeamName": "Llandudno",
+        "TranslatedName": "Llandudno"
+    },
+    {
+        "TeamName": "Lusitanos",
+        "TranslatedName": "Lusitanos"
+    },
+    {
+        "TeamName": "M. Петах-Тиква",
+        "TranslatedName": "M. Petah Tikva"
+    },
+    {
+        "TeamName": "Marsaxlokk",
+        "TranslatedName": "Marsaxlokk"
+    },
+    {
+        "TeamName": "Pandurii",
+        "TranslatedName": "Pandurii"
+    },
+    {
+        "TeamName": "SB Анкараспор",
+        "TranslatedName": "SB Ankaraspor"
+    },
+    {
+        "TeamName": "Spartak Myjava",
+        "TranslatedName": "Spartak Myjava"
+    },
+    {
+        "TeamName": "АЕК Афины",
+        "TranslatedName": "AEK Athens"
+    },
+    {
+        "TeamName": "АЕК Ларнака",
+        "TranslatedName": "AEK Larnaca"
+    },
+    {
+        "TeamName": "АЕЛ Лимасол",
+        "TranslatedName": "AEL Limassol"
+    },
+    {
+        "TeamName": "АЗ Алкмар",
+        "TranslatedName": "AZ Alkmaar"
+    },
+    {
+        "TeamName": "АИК",
+        "TranslatedName": "AIK"
+    },
+    {
+        "TeamName": "АП Брера",
+        "TranslatedName": "AP Brera"
+    },
+    {
+        "TeamName": "АПОЭЛ Никосия",
+        "TranslatedName": "APOEL Nicosia"
+    },
+    {
+        "TeamName": "Абердин",
+        "TranslatedName": "Aberdeen"
+    },
+    {
+        "TeamName": "Адана Демирспор",
+        "TranslatedName": "Adana Demirspor"
+    },
+    {
+        "TeamName": "Адмира",
+        "TranslatedName": "Admira"
+    },
+    {
+        "TeamName": "Айнтрахт Ф.",
+        "TranslatedName": "Eintracht F."
+    },
+    {
+        "TeamName": "Акад. Пушкаша",
+        "TranslatedName": "Acad. Puskás"
+    },
+    {
+        "TeamName": "Актобе",
+        "TranslatedName": "Aktobe"
+    },
+    {
+        "TeamName": "Акхисарспор",
+        "TranslatedName": "Akhisarspor"
+    },
+    {
+        "TeamName": "Акюрейри",
+        "TranslatedName": "Akureyri"
+    },
+    {
+        "TeamName": "Аланьяспор",
+        "TranslatedName": "Alanyaspor"
+    },
+    {
+        "TeamName": "Алашкерт",
+        "TranslatedName": "Alashkert"
+    },
+    {
+        "TeamName": "Александрия",
+        "TranslatedName": "Alexandria"
+    },
+    {
+        "TeamName": "Альтах",
+        "TranslatedName": "Altach"
+    },
+    {
+        "TeamName": "Андерлехт",
+        "TranslatedName": "Anderlecht"
+    },
+    {
+        "TeamName": "Анортосис",
+        "TranslatedName": "Anorthosis"
+    },
+    {
+        "TeamName": "Антверпен",
+        "TranslatedName": "Antwerp"
+    },
+    {
+        "TeamName": "Апол. Лимасол",
+        "TranslatedName": "Apol. Limassol"
+    },
+    {
+        "TeamName": "Арарат",
+        "TranslatedName": "Ararat"
+    },
+    {
+        "TeamName": "Арарат-Армения",
+        "TranslatedName": "Ararat-Armenia"
+    },
+    {
+        "TeamName": "Арда",
+        "TranslatedName": "Arda"
+    },
+    {
+        "TeamName": "Арис Лимасол",
+        "TranslatedName": "Aris Limassol"
+    },
+    {
+        "TeamName": "Арис Салоники",
+        "TranslatedName": "Aris Thessaloniki"
+    },
+    {
+        "TeamName": "Арка Гдыня",
+        "TranslatedName": "Arka Gdynia"
+    },
+    {
+        "TeamName": "Арока",
+        "TranslatedName": "Aroka"
+    },
+    {
+        "TeamName": "Арсенал",
+        "TranslatedName": "Arsenal"
+    },
+    {
+        "TeamName": "Арсенал Тиват",
+        "TranslatedName": "Arsenal Tivat"
+    },
+    {
+        "TeamName": "Арсенал Тула",
+        "TranslatedName": "Arsenal Tula"
+    },
+    {
+        "TeamName": "Астана",
+        "TranslatedName": "Astana"
+    },
+    {
+        "TeamName": "Астерас",
+        "TranslatedName": "Asteras"
+    },
+    {
+        "TeamName": "Астон Вилла",
+        "TranslatedName": "Aston Villa"
+    },
+    {
+        "TeamName": "Астра",
+        "TranslatedName": "Astra"
+    },
+    {
+        "TeamName": "Аталанта",
+        "TranslatedName": "Atalanta"
+    },
+    {
+        "TeamName": "Атлантас",
+        "TranslatedName": "Atlantas"
+    },
+    {
+        "TeamName": "Атлетик",
+        "TranslatedName": "Athletic"
+    },
+    {
+        "TeamName": "Атлетик Эскальд",
+        "TranslatedName": "Athletic Escalde"
+    },
+    {
+        "TeamName": "Атлетико Мадрид",
+        "TranslatedName": "Atletico Madrid"
+    },
+    {
+        "TeamName": "Атромитос Афины",
+        "TranslatedName": "Atromitos Athens"
+    },
+    {
+        "TeamName": "Ауда",
+        "TranslatedName": "Auda"
+    },
+    {
+        "TeamName": "Аустрия",
+        "TranslatedName": "Austria"
+    },
+    {
+        "TeamName": "Ашдод",
+        "TranslatedName": "Ashdod"
+    },
+    {
+        "TeamName": "Аякс",
+        "TranslatedName": "Ajax"
+    },
+    {
+        "TeamName": "Б-36 Торсхавн",
+        "TranslatedName": "B-36 Torshavn"
+    },
+    {
+        "TeamName": "Б. Иерусалим",
+        "TranslatedName": "Б. Jerusalem"
+    },
+    {
+        "TeamName": "БАТЭ",
+        "TranslatedName": "BATE"
+    },
+    {
+        "TeamName": "Бавария",
+        "TranslatedName": "Bayern"
+    },
+    {
+        "TeamName": "Базель",
+        "TranslatedName": "Basel"
+    },
+    {
+        "TeamName": "Байер",
+        "TranslatedName": "Bayer"
+    },
+    {
+        "TeamName": "Бала",
+        "TranslatedName": "Bala"
+    },
+    {
+        "TeamName": "Балкани",
+        "TranslatedName": "Balkani"
+    },
+    {
+        "TeamName": "Баллимина",
+        "TranslatedName": "Ballimina"
+    },
+    {
+        "TeamName": "Бальцан",
+        "TranslatedName": "Balzan"
+    },
+    {
+        "TeamName": "Баник Острава",
+        "TranslatedName": "Banik Ostrava"
+    },
+    {
+        "TeamName": "Барри Таун",
+        "TranslatedName": "Barry Town"
+    },
+    {
+        "TeamName": "Барселона",
+        "TranslatedName": "Barcelona"
+    },
+    {
+        "TeamName": "Бачка Топола",
+        "TranslatedName": "Bačka Topola"
+    },
+    {
+        "TeamName": "Башакшехир",
+        "TranslatedName": "Başakşehir"
+    },
+    {
+        "TeamName": "Бенфика",
+        "TranslatedName": "Benfica"
+    },
+    {
+        "TeamName": "Бернли",
+        "TranslatedName": "Burnley"
+    },
+    {
+        "TeamName": "Берое",
+        "TranslatedName": "Beroe"
+    },
+    {
+        "TeamName": "Бетис",
+        "TranslatedName": "Betis"
+    },
+    {
+        "TeamName": "Бешикташ",
+        "TranslatedName": "Besiktas"
+    },
+    {
+        "TeamName": "Биркиркара",
+        "TranslatedName": "Birkirkara"
+    },
+    {
+        "TeamName": "Бней Иегуда",
+        "TranslatedName": "Bnei Yehuda"
+    },
+    {
+        "TeamName": "Богемиан",
+        "TranslatedName": "Bohemians"
+    },
+    {
+        "TeamName": "Богемианс 1905",
+        "TranslatedName": "Bohemians 1905"
+    },
+    {
+        "TeamName": "Бокель",
+        "TranslatedName": "Bokel"
+    },
+    {
+        "TeamName": "Болонья",
+        "TranslatedName": "Bologna"
+    },
+    {
+        "TeamName": "Бордо",
+        "TranslatedName": "Bordeaux"
+    },
+    {
+        "TeamName": "Боруссия Д.",
+        "TranslatedName": "Borussia D."
+    },
+    {
+        "TeamName": "Боруссия М.",
+        "TranslatedName": "Borussia M."
+    },
+    {
+        "TeamName": "Ботев Пловдив",
+        "TranslatedName": "Botev Plovdiv"
+    },
+    {
+        "TeamName": "Ботошани",
+        "TranslatedName": "Botoshani"
+    },
+    {
+        "TeamName": "Браво",
+        "TranslatedName": "Bravo"
+    },
+    {
+        "TeamName": "Брага",
+        "TranslatedName": "Braga"
+    },
+    {
+        "TeamName": "Брайтон",
+        "TranslatedName": "Brighton"
+    },
+    {
+        "TeamName": "Бранн",
+        "TranslatedName": "Brann"
+    },
+    {
+        "TeamName": "Брейдаблик",
+        "TranslatedName": "Breidablik"
+    },
+    {
+        "TeamName": "Брест",
+        "TranslatedName": "Brest"
+    },
+    {
+        "TeamName": "Брондбю",
+        "TranslatedName": "Brøndby"
+    },
+    {
+        "TeamName": "Брюгге",
+        "TranslatedName": "Bruges"
+    },
+    {
+        "TeamName": "Будучност",
+        "TranslatedName": "Budučnost"
+    },
+    {
+        "TeamName": "Будё/Глимт",
+        "TranslatedName": "Budu/Glimt"
+    },
+    {
+        "TeamName": "ВПС",
+        "TranslatedName": "VPS"
+    },
+    {
+        "TeamName": "Вадуц",
+        "TranslatedName": "Vaduz"
+    },
+    {
+        "TeamName": "Валенсия",
+        "TranslatedName": "Valencia"
+    },
+    {
+        "TeamName": "Валлетта",
+        "TranslatedName": "Valletta"
+    },
+    {
+        "TeamName": "Валмиера",
+        "TranslatedName": "Valmiera"
+    },
+    {
+        "TeamName": "Валюр",
+        "TranslatedName": "Valjur"
+    },
+    {
+        "TeamName": "Вардар",
+        "TranslatedName": "Vardar"
+    },
+    {
+        "TeamName": "Вашаш",
+        "TranslatedName": "Vashas"
+    },
+    {
+        "TeamName": "Вележ Мостар",
+        "TranslatedName": "Velež Mostar"
+    },
+    {
+        "TeamName": "Вентспилс",
+        "TranslatedName": "Ventspils"
+    },
+    {
+        "TeamName": "Вест Хэм",
+        "TranslatedName": "West Ham"
+    },
+    {
+        "TeamName": "Виборг",
+        "TranslatedName": "Viborg"
+    },
+    {
+        "TeamName": "Викинг",
+        "TranslatedName": "Viking"
+    },
+    {
+        "TeamName": "Викингур",
+        "TranslatedName": "Vikingur"
+    },
+    {
+        "TeamName": "Виктория Пльзен",
+        "TranslatedName": "Viktoria Pilsen"
+    },
+    {
+        "TeamName": "Виллем II",
+        "TranslatedName": "Willem II"
+    },
+    {
+        "TeamName": "Вильярреал",
+        "TranslatedName": "Villarreal"
+    },
+    {
+        "TeamName": "Виртус",
+        "TranslatedName": "Virtus"
+    },
+    {
+        "TeamName": "Висла Краков",
+        "TranslatedName": "Wisła Kraków"
+    },
+    {
+        "TeamName": "Вит. Гимараэш",
+        "TranslatedName": "Vit. Guimaraes"
+    },
+    {
+        "TeamName": "Витебск",
+        "TranslatedName": "Vitebsk"
+    },
+    {
+        "TeamName": "Витесс",
+        "TranslatedName": "Vitesse"
+    },
+    {
+        "TeamName": "Влазния",
+        "TranslatedName": "Vlasnia"
+    },
+    {
+        "TeamName": "Войводина",
+        "TranslatedName": "Vojvodina"
+    },
+    {
+        "TeamName": "Волеренга",
+        "TranslatedName": "Volerenga"
+    },
+    {
+        "TeamName": "Вольфсберг",
+        "TranslatedName": "Wolfsberg"
+    },
+    {
+        "TeamName": "Вольфсбург",
+        "TranslatedName": "Wolfsburg"
+    },
+    {
+        "TeamName": "Ворскла",
+        "TranslatedName": "Vorskla"
+    },
+    {
+        "TeamName": "Вулверхэмптон",
+        "TranslatedName": "Wolverhampton"
+    },
+    {
+        "TeamName": "Габала",
+        "TranslatedName": "Gabala"
+    },
+    {
+        "TeamName": "Гагра",
+        "TranslatedName": "Gabala"
+    },
+    {
+        "TeamName": "Галатасарай",
+        "TranslatedName": "Galatasaray"
+    },
+    {
+        "TeamName": "Гандзасар",
+        "TranslatedName": "Gandzasar"
+    },
+    {
+        "TeamName": "Генк",
+        "TranslatedName": "Genk"
+    },
+    {
+        "TeamName": "Гент",
+        "TranslatedName": "Ghent"
+    },
+    {
+        "TeamName": "Герта",
+        "TranslatedName": "Hertha"
+    },
+    {
+        "TeamName": "Гзира Юн.",
+        "TranslatedName": "Gzira Yun."
+    },
+    {
+        "TeamName": "Гиляни",
+        "TranslatedName": "Guiliani"
+    },
+    {
+        "TeamName": "Гленавон",
+        "TranslatedName": "Glenavon"
+    },
+    {
+        "TeamName": "Гленторан",
+        "TranslatedName": "Glentoran"
+    },
+    {
+        "TeamName": "Гомель",
+        "TranslatedName": "Gomel"
+    },
+    {
+        "TeamName": "Гонвед",
+        "TranslatedName": "Gonved"
+    },
+    {
+        "TeamName": "Горица",
+        "TranslatedName": "Gorica"
+    },
+    {
+        "TeamName": "Гоу Эхед Иглс",
+        "TranslatedName": "Gow Ahead Eagles"
+    },
+    {
+        "TeamName": "Гранада",
+        "TranslatedName": "Granada"
+    },
+    {
+        "TeamName": "Грассхоппер",
+        "TranslatedName": "Grasshopper"
+    },
+    {
+        "TeamName": "Гурник Забже",
+        "TranslatedName": "Górnik Zabrze"
+    },
+    {
+        "TeamName": "Гётеборг",
+        "TranslatedName": "Gothenburg"
+    },
+    {
+        "TeamName": "Данди Юнайтед",
+        "TranslatedName": "Dundee United"
+    },
+    {
+        "TeamName": "Дандолк",
+        "TranslatedName": "Dundalk"
+    },
+    {
+        "TeamName": "Дачия Кишинёв",
+        "TranslatedName": "Dacia Chisinau"
+    },
+    {
+        "TeamName": "Дебрецен",
+        "TranslatedName": "Debrecen"
+    },
+    {
+        "TeamName": "Дерри Сити",
+        "TranslatedName": "Derry City"
+    },
+    {
+        "TeamName": "Десна",
+        "TranslatedName": "Desna"
+    },
+    {
+        "TeamName": "Дечич",
+        "TranslatedName": "Decic"
+    },
+    {
+        "TeamName": "Дила",
+        "TranslatedName": "Dila"
+    },
+    {
+        "TeamName": "Динамо Батуми",
+        "TranslatedName": "Dinamo Batumi"
+    },
+    {
+        "TeamName": "Динамо Брест",
+        "TranslatedName": "Dinamo Brest"
+    },
+    {
+        "TeamName": "Динамо Бухарест",
+        "TranslatedName": "Dinamo Bucharest"
+    },
+    {
+        "TeamName": "Динамо Загреб",
+        "TranslatedName": "Dinamo Zagreb"
+    },
+    {
+        "TeamName": "Динамо Киев",
+        "TranslatedName": "Dinamo Kiev"
+    },
+    {
+        "TeamName": "Динамо Минск",
+        "TranslatedName": "Dinamo Minsk"
+    },
+    {
+        "TeamName": "Динамо Москва",
+        "TranslatedName": "Dinamo Moscow"
+    },
+    {
+        "TeamName": "Динамо Тбилиси",
+        "TranslatedName": "Dinamo Tbilisi"
+    },
+    {
+        "TeamName": "Динамо-Авто",
+        "TranslatedName": "Dinamo Avto"
+    },
+    {
+        "TeamName": "Дифферданж",
+        "TranslatedName": "Differdange"
+    },
+    {
+        "TeamName": "Днепр-1",
+        "TranslatedName": "Dnipro-1"
+    },
+    {
+        "TeamName": "Домжале",
+        "TranslatedName": "Domžale"
+    },
+    {
+        "TeamName": "Дрита",
+        "TranslatedName": "Drita"
+    },
+    {
+        "TeamName": "Дукагини",
+        "TranslatedName": "Dukagini"
+    },
+    {
+        "TeamName": "Дунав",
+        "TranslatedName": "Dunav"
+    },
+    {
+        "TeamName": "Дунайcка Cтреда",
+        "TranslatedName": "Dunajska Streda"
+    },
+    {
+        "TeamName": "Дюделанж",
+        "TranslatedName": "Dudelange"
+    },
+    {
+        "TeamName": "Европа",
+        "TranslatedName": "Europe"
+    },
+    {
+        "TeamName": "Елгава",
+        "TranslatedName": "Jelgava"
+    },
+    {
+        "TeamName": "Жальгирис",
+        "TranslatedName": "Žalgiris"
+    },
+    {
+        "TeamName": "Железничар",
+        "TranslatedName": "Zhelezniciar"
+    },
+    {
+        "TeamName": "Женесс Эш",
+        "TranslatedName": "Genesse Ash"
+    },
+    {
+        "TeamName": "Жил Висенте",
+        "TranslatedName": "Gil Vicente"
+    },
+    {
+        "TeamName": "Жилина",
+        "TranslatedName": "Žilina"
+    },
+    {
+        "TeamName": "Жирона",
+        "TranslatedName": "Girona"
+    },
+    {
+        "TeamName": "Заглембе Любин",
+        "TranslatedName": "Zaglembe Lubin"
+    },
+    {
+        "TeamName": "Залаэгерсег",
+        "TranslatedName": "Zalaegerszeg"
+    },
+    {
+        "TeamName": "Заря Бельцы",
+        "TranslatedName": "Zarya Balti"
+    },
+    {
+        "TeamName": "Заря Луганск",
+        "TranslatedName": "Zarya Lugansk"
+    },
+    {
+        "TeamName": "Зенит С-Пб",
+        "TranslatedName": "Zenit S-Pb"
+    },
+    {
+        "TeamName": "Зета",
+        "TranslatedName": "Zeta"
+    },
+    {
+        "TeamName": "Зимбру",
+        "TranslatedName": "Zimbru"
+    },
+    {
+        "TeamName": "Зиря",
+        "TranslatedName": "Zirya"
+    },
+    {
+        "TeamName": "Злин",
+        "TranslatedName": "Zlin"
+    },
+    {
+        "TeamName": "Зриньски Мостар",
+        "TranslatedName": "Zrinjski Mostar"
+    },
+    {
+        "TeamName": "Зюлте-Варегем",
+        "TranslatedName": "Sylte Waregem"
+    },
+    {
+        "TeamName": "ИБВ",
+        "TranslatedName": "IBV"
+    },
+    {
+        "TeamName": "Иберия 1999",
+        "TranslatedName": "Iberia 1999"
+    },
+    {
+        "TeamName": "Ильвес",
+        "TranslatedName": "Ilves"
+    },
+    {
+        "TeamName": "Интер",
+        "TranslatedName": "Inter"
+    },
+    {
+        "TeamName": "Интер Эскальдес",
+        "TranslatedName": "Inter Escaldes"
+    },
+    {
+        "TeamName": "Иртыш",
+        "TranslatedName": "Irtysh"
+    },
+    {
+        "TeamName": "Искра",
+        "TranslatedName": "Iskra"
+    },
+    {
+        "TeamName": "Ислочь",
+        "TranslatedName": "Isloch"
+    },
+    {
+        "TeamName": "КР Рейкьявик",
+        "TranslatedName": "KR Reykjavik"
+    },
+    {
+        "TeamName": "КФ Скендербеу",
+        "TranslatedName": "KF Skenderbeu"
+    },
+    {
+        "TeamName": "Кайрат",
+        "TranslatedName": "Kairat"
+    },
+    {
+        "TeamName": "Кайсар",
+        "TranslatedName": "Kaisar"
+    },
+    {
+        "TeamName": "Калев",
+        "TranslatedName": "Kalev"
+    },
+    {
+        "TeamName": "Кальмар",
+        "TranslatedName": "Kalmar"
+    },
+    {
+        "TeamName": "Карабах",
+        "TranslatedName": "Karabakh"
+    },
+    {
+        "TeamName": "Кардифф Мет",
+        "TranslatedName": "Cardiff Met"
+    },
+    {
+        "TeamName": "Карнарвон",
+        "TranslatedName": "Carnarvon"
+    },
+    {
+        "TeamName": "Кауно Жальгирис",
+        "TranslatedName": "Kauno Zalgiris"
+    },
+    {
+        "TeamName": "Кевн Друидс",
+        "TranslatedName": "Kevn Druids"
+    },
+    {
+        "TeamName": "Кечкемет",
+        "TranslatedName": "Kecskemet"
+    },
+    {
+        "TeamName": "Килмарнок",
+        "TranslatedName": "Kilmarnock"
+    },
+    {
+        "TeamName": "Кишварда",
+        "TranslatedName": "Kishvarde"
+    },
+    {
+        "TeamName": "Клаксвик",
+        "TranslatedName": "Klaksvik"
+    },
+    {
+        "TeamName": "Клифтонвилл",
+        "TranslatedName": "Cliftonville"
+    },
+    {
+        "TeamName": "Колос Ковалевка",
+        "TranslatedName": "Kolos Kovalevka"
+    },
+    {
+        "TeamName": "Колрейн",
+        "TranslatedName": "Coleraine"
+    },
+    {
+        "TeamName": "Коннас-Ки",
+        "TranslatedName": "Konnas Kee"
+    },
+    {
+        "TeamName": "Коньяспор",
+        "TranslatedName": "Konyaspor"
+    },
+    {
+        "TeamName": "Копенгаген",
+        "TranslatedName": "Copenhagen"
+    },
+    {
+        "TeamName": "Корвинул",
+        "TranslatedName": "Corvinul"
+    },
+    {
+        "TeamName": "Корк Сити",
+        "TranslatedName": "Cork City"
+    },
+    {
+        "TeamName": "Космос",
+        "TranslatedName": "Cosmos"
+    },
+    {
+        "TeamName": "Краковия",
+        "TranslatedName": "Krakovia"
+    },
+    {
+        "TeamName": "Краснодар",
+        "TranslatedName": "Krasnodar"
+    },
+    {
+        "TeamName": "Кривбасс",
+        "TranslatedName": "Krivbass"
+    },
+    {
+        "TeamName": "Крусейдерс",
+        "TranslatedName": "Kruseiders"
+    },
+    {
+        "TeamName": "КуПС",
+        "TranslatedName": "KuPS"
+    },
+    {
+        "TeamName": "Кукеси",
+        "TranslatedName": "Kukesi"
+    },
+    {
+        "TeamName": "Кызыл-Жар",
+        "TranslatedName": "Kyzyl-Zhar"
+    },
+    {
+        "TeamName": "Кяпаз",
+        "TranslatedName": "Kyapaz"
+    },
+    {
+        "TeamName": "Кёльн",
+        "TranslatedName": "Cologne"
+    },
+    {
+        "TeamName": "ЛАСК",
+        "TranslatedName": "LASK"
+    },
+    {
+        "TeamName": "Ла Фьорита",
+        "TranslatedName": "La Fiorita"
+    },
+    {
+        "TeamName": "Ланс",
+        "TranslatedName": "Lance"
+    },
+    {
+        "TeamName": "Лапи",
+        "TranslatedName": "Lapi"
+    },
+    {
+        "TeamName": "Ларн",
+        "TranslatedName": "Larne"
+    },
+    {
+        "TeamName": "Лахти",
+        "TranslatedName": "Lahti"
+    },
+    {
+        "TeamName": "Лацио",
+        "TranslatedName": "Lazio"
+    },
+    {
+        "TeamName": "Лачи",
+        "TranslatedName": "Latchi"
+    },
+    {
+        "TeamName": "Левадия",
+        "TranslatedName": "Levadia"
+    },
+    {
+        "TeamName": "Левски София",
+        "TranslatedName": "Levski Sofia"
+    },
+    {
+        "TeamName": "Легия Варшава",
+        "TranslatedName": "Legia Warsaw"
+    },
+    {
+        "TeamName": "Лестер",
+        "TranslatedName": "Leicester"
+    },
+    {
+        "TeamName": "Лех",
+        "TranslatedName": "Lech"
+    },
+    {
+        "TeamName": "Лехия Гданьск",
+        "TranslatedName": "Lechia Gdansk"
+    },
+    {
+        "TeamName": "Ливерпуль",
+        "TranslatedName": "Liverpool"
+    },
+    {
+        "TeamName": "Лиепая",
+        "TranslatedName": "Liepaja"
+    },
+    {
+        "TeamName": "Лиллестрём",
+        "TranslatedName": "Lilleström"
+    },
+    {
+        "TeamName": "Лилль",
+        "TranslatedName": "Lille"
+    },
+    {
+        "TeamName": "Линкольн",
+        "TranslatedName": "Lincoln"
+    },
+    {
+        "TeamName": "Линфилд",
+        "TranslatedName": "Linfield"
+    },
+    {
+        "TeamName": "Лион",
+        "TranslatedName": "Lyon"
+    },
+    {
+        "TeamName": "Локо Москва",
+        "TranslatedName": "Loko Moscow"
+    },
+    {
+        "TeamName": "Локо Пловдив",
+        "TranslatedName": "Loko Plovdiv"
+    },
+    {
+        "TeamName": "Локомотив Тб",
+        "TranslatedName": "Lokomotiv Tb"
+    },
+    {
+        "TeamName": "Локомотива",
+        "TranslatedName": "Lokomotiv"
+    },
+    {
+        "TeamName": "Лугано",
+        "TranslatedName": "Lugano"
+    },
+    {
+        "TeamName": "Лудогорец",
+        "TranslatedName": "Ludogorets"
+    },
+    {
+        "TeamName": "Люнгбю",
+        "TranslatedName": "Ljungby"
+    },
+    {
+        "TeamName": "Люцерн",
+        "TranslatedName": "Lucerne"
+    },
+    {
+        "TeamName": "М. Тель-Авив",
+        "TranslatedName": "M. Tel Aviv"
+    },
+    {
+        "TeamName": "МТК",
+        "TranslatedName": "MTK"
+    },
+    {
+        "TeamName": "Мазеруэлл",
+        "TranslatedName": "Motherwell"
+    },
+    {
+        "TeamName": "Майнц",
+        "TranslatedName": "Mainz"
+    },
+    {
+        "TeamName": "Македония",
+        "TranslatedName": "Macedonia"
+    },
+    {
+        "TeamName": "Маккаби Нетания",
+        "TranslatedName": "Maccabi Netanya"
+    },
+    {
+        "TeamName": "Маккаби Хайфа",
+        "TranslatedName": "Maccabi Haifa"
+    },
+    {
+        "TeamName": "Малатьяспор",
+        "TranslatedName": "Malatyaspor"
+    },
+    {
+        "TeamName": "Малишево",
+        "TranslatedName": "Maliszewo"
+    },
+    {
+        "TeamName": "Мальмё",
+        "TranslatedName": "Malmo"
+    },
+    {
+        "TeamName": "Манчестер Сити",
+        "TranslatedName": "Manchester City"
+    },
+    {
+        "TeamName": "Манчестер Юн.",
+        "TranslatedName": "Manchester United"
+    },
+    {
+        "TeamName": "Марибор",
+        "TranslatedName": "Maribor"
+    },
+    {
+        "TeamName": "Мариехамн",
+        "TranslatedName": "Mariehamn"
+    },
+    {
+        "TeamName": "Маритиму",
+        "TranslatedName": "Maritimu"
+    },
+    {
+        "TeamName": "Мариуполь",
+        "TranslatedName": "Mariupol"
+    },
+    {
+        "TeamName": "Марсель",
+        "TranslatedName": "Marseille"
+    },
+    {
+        "TeamName": "Мидтьюлланд",
+        "TranslatedName": "Middtjylland"
+    },
+    {
+        "TeamName": "Милан",
+        "TranslatedName": "Milan"
+    },
+    {
+        "TeamName": "Милсами",
+        "TranslatedName": "Milsamy"
+    },
+    {
+        "TeamName": "Млада Болеслав",
+        "TranslatedName": "Mlada Boleslav"
+    },
+    {
+        "TeamName": "Младост",
+        "TranslatedName": "Mladost"
+    },
+    {
+        "TeamName": "Молде",
+        "TranslatedName": "Molde"
+    },
+    {
+        "TeamName": "Монако",
+        "TranslatedName": "Monaco"
+    },
+    {
+        "TeamName": "Монс Кальпе",
+        "TranslatedName": "Mons Calpe"
+    },
+    {
+        "TeamName": "Морнар Бар",
+        "TranslatedName": "Mornar Bar"
+    },
+    {
+        "TeamName": "Моста",
+        "TranslatedName": "Mosta"
+    },
+    {
+        "TeamName": "Мура",
+        "TranslatedName": "Moura"
+    },
+    {
+        "TeamName": "Мэгпайз",
+        "TranslatedName": "Magpies"
+    },
+    {
+        "TeamName": "Нант",
+        "TranslatedName": "Nantes"
+    },
+    {
+        "TeamName": "Наполи",
+        "TranslatedName": "Napoli"
+    },
+    {
+        "TeamName": "Нарва-Транс",
+        "TranslatedName": "Narva-Trans"
+    },
+    {
+        "TeamName": "Неман",
+        "TranslatedName": "Nieman"
+    },
+    {
+        "TeamName": "Нефтчи",
+        "TranslatedName": "Neftchi"
+    },
+    {
+        "TeamName": "Ницца",
+        "TranslatedName": "Nice"
+    },
+    {
+        "TeamName": "Ноа",
+        "TranslatedName": "Noa"
+    },
+    {
+        "TeamName": "Нордшелланд",
+        "TranslatedName": "Nordsjælland"
+    },
+    {
+        "TeamName": "Норчёпинг",
+        "TranslatedName": "Norrköping"
+    },
+    {
+        "TeamName": "Нымме Калью",
+        "TranslatedName": "Nõmme Kalju"
+    },
+    {
+        "TeamName": "Нью Сэйнтс",
+        "TranslatedName": "New Saints"
+    },
+    {
+        "TeamName": "Ньюкасл",
+        "TranslatedName": "Newcastle"
+    },
+    {
+        "TeamName": "Ньютаун",
+        "TranslatedName": "Newtown"
+    },
+    {
+        "TeamName": "ОФИ Крит",
+        "TranslatedName": "OFI Crete"
+    },
+    {
+        "TeamName": "Одд",
+        "TranslatedName": "Odd"
+    },
+    {
+        "TeamName": "Олимпиакос",
+        "TranslatedName": "Olympiacos"
+    },
+    {
+        "TeamName": "Олимпик Донецк",
+        "TranslatedName": "Olimpik Donetsk"
+    },
+    {
+        "TeamName": "Олимпия",
+        "TranslatedName": "Olympia"
+    },
+    {
+        "TeamName": "Омония Никосия",
+        "TranslatedName": "Omonia Nicosia"
+    },
+    {
+        "TeamName": "Ордабасы",
+        "TranslatedName": "Ordabasy"
+    },
+    {
+        "TeamName": "Орхус",
+        "TranslatedName": "Aarhus"
+    },
+    {
+        "TeamName": "Осасуна",
+        "TranslatedName": "Osasuna"
+    },
+    {
+        "TeamName": "Осиек",
+        "TranslatedName": "Osijek"
+    },
+    {
+        "TeamName": "Остенде",
+        "TranslatedName": "Ostend"
+    },
+    {
+        "TeamName": "ПАОК",
+        "TranslatedName": "PAOK"
+    },
+    {
+        "TeamName": "ПСВ",
+        "TranslatedName": "PSV"
+    },
+    {
+        "TeamName": "ПСЖ",
+        "TranslatedName": "PSG"
+    },
+    {
+        "TeamName": "Пайде",
+        "TranslatedName": "Paide"
+    },
+    {
+        "TeamName": "Пакш",
+        "TranslatedName": "Paks"
+    },
+    {
+        "TeamName": "Панатинаикос",
+        "TranslatedName": "Panathinaikos"
+    },
+    {
+        "TeamName": "Паневежис",
+        "TranslatedName": "Panevezys"
+    },
+    {
+        "TeamName": "Паниониос",
+        "TranslatedName": "Panionios"
+    },
+    {
+        "TeamName": "Партизан",
+        "TranslatedName": "Partizan"
+    },
+    {
+        "TeamName": "Партизани",
+        "TranslatedName": "Partizani"
+    },
+    {
+        "TeamName": "Пасуш Феррейра",
+        "TranslatedName": "Pasos Ferreira"
+    },
+    {
+        "TeamName": "Пафос",
+        "TranslatedName": "Paphos"
+    },
+    {
+        "TeamName": "Пелистер",
+        "TranslatedName": "Pelister"
+    },
+    {
+        "TeamName": "Пенибонт",
+        "TranslatedName": "Penibont"
+    },
+    {
+        "TeamName": "Петрокуб",
+        "TranslatedName": "Petrocube"
+    },
+    {
+        "TeamName": "Погонь Щецин",
+        "TranslatedName": "Pogon Szczecin"
+    },
+    {
+        "TeamName": "Подгорица",
+        "TranslatedName": "Podgorica"
+    },
+    {
+        "TeamName": "Полесье",
+        "TranslatedName": "Polesie"
+    },
+    {
+        "TeamName": "Порту",
+        "TranslatedName": "Porto"
+    },
+    {
+        "TeamName": "Пр. Нидеркорн",
+        "TranslatedName": "Pr. Niederkorn"
+    },
+    {
+        "TeamName": "Приштина",
+        "TranslatedName": "Pristina"
+    },
+    {
+        "TeamName": "Пюник",
+        "TranslatedName": "Pyunik"
+    },
+    {
+        "TeamName": "Пяст Гливице",
+        "TranslatedName": "Piast Gliwice"
+    },
+    {
+        "TeamName": "РБ Зальцбург",
+        "TranslatedName": "RB Salzburg"
+    },
+    {
+        "TeamName": "РБ Лейпциг",
+        "TranslatedName": "RB Leipzig"
+    },
+    {
+        "TeamName": "РФШ",
+        "TranslatedName": "RFU"
+    },
+    {
+        "TeamName": "Работнички",
+        "TranslatedName": "Rabotnicki"
+    },
+    {
+        "TeamName": "Радник Биелина",
+        "TranslatedName": "Radnik Bijeljina"
+    },
+    {
+        "TeamName": "Раднички Краг.",
+        "TranslatedName": "Radnicki Krag."
+    },
+    {
+        "TeamName": "Раднички Ниш",
+        "TranslatedName": "Radnicki Niš"
+    },
+    {
+        "TeamName": "Ракув",
+        "TranslatedName": "Rakuv"
+    },
+    {
+        "TeamName": "Раннерс",
+        "TranslatedName": "Randers"
+    },
+    {
+        "TeamName": "Рапид",
+        "TranslatedName": "Rapid"
+    },
+    {
+        "TeamName": "Расинг Унион",
+        "TranslatedName": "Rasing Union"
+    },
+    {
+        "TeamName": "Реал Мадрид",
+        "TranslatedName": "Real Madrid"
+    },
+    {
+        "TeamName": "Реал Сосьедад",
+        "TranslatedName": "Real Sociedad"
+    },
+    {
+        "TeamName": "Реймс",
+        "TranslatedName": "Reims"
+    },
+    {
+        "TeamName": "Рейнджерс",
+        "TranslatedName": "Rangers"
+    },
+    {
+        "TeamName": "Ренн",
+        "TranslatedName": "Rennes"
+    },
+    {
+        "TeamName": "Ренова",
+        "TranslatedName": "Renova"
+    },
+    {
+        "TeamName": "Рига",
+        "TranslatedName": "Riga"
+    },
+    {
+        "TeamName": "Риека",
+        "TranslatedName": "Rijeka"
+    },
+    {
+        "TeamName": "Ритеряй",
+        "TranslatedName": "Riterai"
+    },
+    {
+        "TeamName": "Риу Аве",
+        "TranslatedName": "Riu Ave"
+    },
+    {
+        "TeamName": "РоПС",
+        "TranslatedName": "RPS"
+    },
+    {
+        "TeamName": "Рома",
+        "TranslatedName": "Roma"
+    },
+    {
+        "TeamName": "Ростов",
+        "TranslatedName": "Rostov"
+    },
+    {
+        "TeamName": "Рубин Казань",
+        "TranslatedName": "Rubin Kazan"
+    },
+    {
+        "TeamName": "Рудар",
+        "TranslatedName": "Rudar"
+    },
+    {
+        "TeamName": "Ружомберок",
+        "TranslatedName": "Ružomberok"
+    },
+    {
+        "TeamName": "Рунавик",
+        "TranslatedName": "Runavik"
+    },
+    {
+        "TeamName": "Русенборг",
+        "TranslatedName": "Rosenborg"
+    },
+    {
+        "TeamName": "СИК",
+        "TranslatedName": "SIK"
+    },
+    {
+        "TeamName": "Сабаил",
+        "TranslatedName": "Sabail"
+    },
+    {
+        "TeamName": "Сабах",
+        "TranslatedName": "Sabah"
+    },
+    {
+        "TeamName": "Самтредиа",
+        "TranslatedName": "Samtredia"
+    },
+    {
+        "TeamName": "Сан-Жулиа",
+        "TranslatedName": "St. Julia"
+    },
+    {
+        "TeamName": "Санкт-Галлен",
+        "TranslatedName": "St. Gallen"
+    },
+    {
+        "TeamName": "Санта-Клара",
+        "TranslatedName": "Santa Clara"
+    },
+    {
+        "TeamName": "Сараево",
+        "TranslatedName": "Sarajevo"
+    },
+    {
+        "TeamName": "Сарпсборг",
+        "TranslatedName": "Sarpsborg"
+    },
+    {
+        "TeamName": "Сассуоло",
+        "TranslatedName": "Sassuolo"
+    },
+    {
+        "TeamName": "Саутгемптон",
+        "TranslatedName": "Southampton"
+    },
+    {
+        "TeamName": "Севилья",
+        "TranslatedName": "Sevilla"
+    },
+    {
+        "TeamName": "Селтик",
+        "TranslatedName": "Celtic"
+    },
+    {
+        "TeamName": "Сельта",
+        "TranslatedName": "Celta"
+    },
+    {
+        "TeamName": "Сент-Джозеф'c",
+        "TranslatedName": "St. Joseph's"
+    },
+    {
+        "TeamName": "Сент-Джонстон",
+        "TranslatedName": "St. Johnstone"
+    },
+    {
+        "TeamName": "Сент-Миррен",
+        "TranslatedName": "St. Mirren"
+    },
+    {
+        "TeamName": "Сент-Патрикс",
+        "TranslatedName": "St. Patrick's"
+    },
+    {
+        "TeamName": "Сент-Этьен",
+        "TranslatedName": "St. Etienne"
+    },
+    {
+        "TeamName": "Серветт",
+        "TranslatedName": "Servette"
+    },
+    {
+        "TeamName": "Серкль Брюгге",
+        "TranslatedName": "Serkl Brugge"
+    },
+    {
+        "TeamName": "Сивасспор",
+        "TranslatedName": "Sivasspor"
+    },
+    {
+        "TeamName": "Сигма Оломоуц",
+        "TranslatedName": "Sigma Olomouc"
+    },
+    {
+        "TeamName": "Силекс",
+        "TranslatedName": "Silex"
+    },
+    {
+        "TeamName": "Силькеборг",
+        "TranslatedName": "Silkeborg"
+    },
+    {
+        "TeamName": "Сиренс",
+        "TranslatedName": "Sirens"
+    },
+    {
+        "TeamName": "Славия Прага",
+        "TranslatedName": "Slavia Prague"
+    },
+    {
+        "TeamName": "Славия София",
+        "TranslatedName": "Slavia Sofia"
+    },
+    {
+        "TeamName": "Слайго Роверc",
+        "TranslatedName": "Sligo Rovers"
+    },
+    {
+        "TeamName": "Слима Уондер.",
+        "TranslatedName": "Sliema Wander."
+    },
+    {
+        "TeamName": "Слобода Тузла",
+        "TranslatedName": "Sloboda Tuzla"
+    },
+    {
+        "TeamName": "Слован Братис.",
+        "TranslatedName": "Slovan Bratis"
+    },
+    {
+        "TeamName": "Слован Либерец",
+        "TranslatedName": "Slovan Liberec"
+    },
+    {
+        "TeamName": "Словацко",
+        "TranslatedName": "Slovatsko"
+    },
+    {
+        "TeamName": "Сочи",
+        "TranslatedName": "Sochi"
+    },
+    {
+        "TeamName": "Спарта Прага",
+        "TranslatedName": "Sparta Prague"
+    },
+    {
+        "TeamName": "Спартак",
+        "TranslatedName": "Spartak"
+    },
+    {
+        "TeamName": "Спартак Москва",
+        "TranslatedName": "Spartak Moscow"
+    },
+    {
+        "TeamName": "Спартак Трнава",
+        "TranslatedName": "Spartak Trnava"
+    },
+    {
+        "TeamName": "Сперанца",
+        "TranslatedName": "Speranza"
+    },
+    {
+        "TeamName": "Спортинг",
+        "TranslatedName": "Sporting"
+    },
+    {
+        "TeamName": "Стабек",
+        "TranslatedName": "Stabek"
+    },
+    {
+        "TeamName": "Стандард",
+        "TranslatedName": "Standard"
+    },
+    {
+        "TeamName": "Страсбур",
+        "TranslatedName": "Strasbourg"
+    },
+    {
+        "TeamName": "Струга",
+        "TranslatedName": "Struga"
+    },
+    {
+        "TeamName": "Стрёмсгодсет",
+        "TranslatedName": "Stromsgodset"
+    },
+    {
+        "TeamName": "Стумбрас",
+        "TranslatedName": "Stumbras"
+    },
+    {
+        "TeamName": "Стьярнан",
+        "TranslatedName": "Stjarnan"
+    },
+    {
+        "TeamName": "Судува",
+        "TranslatedName": "Suduva"
+    },
+    {
+        "TeamName": "Сумгайыт",
+        "TranslatedName": "Sumgait"
+    },
+    {
+        "TeamName": "Сутьеска",
+        "TranslatedName": "Sutjeska"
+    },
+    {
+        "TeamName": "Сфынтул Георге",
+        "TranslatedName": "Sfintul Gheorghe"
+    },
+    {
+        "TeamName": "Сьон",
+        "TranslatedName": "Sion"
+    },
+    {
+        "TeamName": "Сёндерйюске",
+        "TranslatedName": "Sønderjuske"
+    },
+    {
+        "TeamName": "Твенте",
+        "TranslatedName": "Twente"
+    },
+    {
+        "TeamName": "Тетус Петанж",
+        "TranslatedName": "Tetus Petange"
+    },
+    {
+        "TeamName": "Теута",
+        "TranslatedName": "Teuta"
+    },
+    {
+        "TeamName": "Тиквеш",
+        "TranslatedName": "Tikvesh"
+    },
+    {
+        "TeamName": "Тирана",
+        "TranslatedName": "Tirana"
+    },
+    {
+        "TeamName": "Титоград",
+        "TranslatedName": "Titograd"
+    },
+    {
+        "TeamName": "Тобол",
+        "TranslatedName": "Tobol"
+    },
+    {
+        "TeamName": "Торино",
+        "TranslatedName": "Torino"
+    },
+    {
+        "TeamName": "Торпедо Жодино",
+        "TranslatedName": "Torpedo Zhodino"
+    },
+    {
+        "TeamName": "Торпедо Кутаиси",
+        "TranslatedName": "Torpedo Kutaisi"
+    },
+    {
+        "TeamName": "Тоттенхэм",
+        "TranslatedName": "Tottenham"
+    },
+    {
+        "TeamName": "Трабзонспор",
+        "TranslatedName": "Trabzonspor"
+    },
+    {
+        "TeamName": "Тре Пенне",
+        "TranslatedName": "Tre Penne"
+    },
+    {
+        "TeamName": "Тре Фиори",
+        "TranslatedName": "Tre Fiori"
+    },
+    {
+        "TeamName": "Тренчин",
+        "TranslatedName": "Trencin"
+    },
+    {
+        "TeamName": "Трепча 89",
+        "TranslatedName": "Trepþa 89"
+    },
+    {
+        "TeamName": "Тромсё",
+        "TranslatedName": "Tromsø"
+    },
+    {
+        "TeamName": "Тулуза",
+        "TranslatedName": "Toulouse"
+    },
+    {
+        "TeamName": "Тун",
+        "TranslatedName": "Thun"
+    },
+    {
+        "TeamName": "У Крайова",
+        "TranslatedName": "U Craiova"
+    },
+    {
+        "TeamName": "УНА Штрассен",
+        "TranslatedName": "UNA Strassen"
+    },
+    {
+        "TeamName": "УЭ Санта-Колома",
+        "TranslatedName": "UE Santa Coloma"
+    },
+    {
+        "TeamName": "Уйпешт",
+        "TranslatedName": "Ujpest"
+    },
+    {
+        "TeamName": "Университатя",
+        "TranslatedName": "Universitatja"
+    },
+    {
+        "TeamName": "Унион Берлин",
+        "TranslatedName": "Union Berlin"
+    },
+    {
+        "TeamName": "Урарту",
+        "TranslatedName": "Urartu"
+    },
+    {
+        "TeamName": "Утрехт",
+        "TranslatedName": "Utrecht"
+    },
+    {
+        "TeamName": "Уфа",
+        "TranslatedName": "Ufa"
+    },
+    {
+        "TeamName": "ФК Борац",
+        "TranslatedName": "FC Borac"
+    },
+    {
+        "TeamName": "ФК Люфтетари",
+        "TranslatedName": "FC Luftetari"
+    },
+    {
+        "TeamName": "ФК Санта-Колома",
+        "TranslatedName": "FC Santa Coloma"
+    },
+    {
+        "TeamName": "ФК Тузла Сити",
+        "TranslatedName": "FC Tuzla City"
+    },
+    {
+        "TeamName": "ФКСБ",
+        "TranslatedName": "FCCB"
+    },
+    {
+        "TeamName": "Фарул",
+        "TranslatedName": "Farul"
+    },
+    {
+        "TeamName": "Фейеноорд",
+        "TranslatedName": "Feyenoord"
+    },
+    {
+        "TeamName": "Фенербахче",
+        "TranslatedName": "Fenerbahce"
+    },
+    {
+        "TeamName": "Ференцварош",
+        "TranslatedName": "Ferencvaros"
+    },
+    {
+        "TeamName": "Фероникели 74",
+        "TranslatedName": "Feronikeli 74"
+    },
+    {
+        "TeamName": "Фехервар",
+        "TranslatedName": "Fehervar"
+    },
+    {
+        "TeamName": "Фиорентина",
+        "TranslatedName": "Fiorentina"
+    },
+    {
+        "TeamName": "Флора",
+        "TranslatedName": "Flora"
+    },
+    {
+        "TeamName": "Флориана",
+        "TranslatedName": "Floriana"
+    },
+    {
+        "TeamName": "Фола Эш",
+        "TranslatedName": "Fola Ash"
+    },
+    {
+        "TeamName": "Фольгоре",
+        "TranslatedName": "Folgore"
+    },
+    {
+        "TeamName": "Фрайбург",
+        "TranslatedName": "Freiburg"
+    },
+    {
+        "TeamName": "Х. Беэр-Шева",
+        "TranslatedName": "Х. Be'er Sheva"
+    },
+    {
+        "TeamName": "ХБ Торсхавн",
+        "TranslatedName": "HB Torshavn"
+    },
+    {
+        "TeamName": "ХИК",
+        "TranslatedName": "HIC"
+    },
+    {
+        "TeamName": "Хаверфордуэст",
+        "TranslatedName": "Haverfordwest"
+    },
+    {
+        "TeamName": "Хайденхайм",
+        "TranslatedName": "Heidenheim"
+    },
+    {
+        "TeamName": "Хайдук",
+        "TranslatedName": "Hajduk"
+    },
+    {
+        "TeamName": "Хака",
+        "TranslatedName": "Haka"
+    },
+    {
+        "TeamName": "Хаммарбю",
+        "TranslatedName": "Hammarby"
+    },
+    {
+        "TeamName": "Хамрун Спартанс",
+        "TranslatedName": "Hamrun Spartans"
+    },
+    {
+        "TeamName": "Хапоэль Хайфа",
+        "TranslatedName": "Hapoel Haifa"
+    },
+    {
+        "TeamName": "Харт оф Мидл.",
+        "TranslatedName": "Hart of Middle."
+    },
+    {
+        "TeamName": "Хартберг",
+        "TranslatedName": "Hartberg"
+    },
+    {
+        "TeamName": "Хафнарфьордур",
+        "TranslatedName": "Hafnarfjordur"
+    },
+    {
+        "TeamName": "Хегельманн",
+        "TranslatedName": "Hegelmann"
+    },
+    {
+        "TeamName": "Хераклес",
+        "TranslatedName": "Herakles"
+    },
+    {
+        "TeamName": "Хетафе",
+        "TranslatedName": "Getafe"
+    },
+    {
+        "TeamName": "Хиберниан",
+        "TranslatedName": "Hibernian"
+    },
+    {
+        "TeamName": "Хибернианс",
+        "TranslatedName": "Hibernians"
+    },
+    {
+        "TeamName": "Хонка",
+        "TranslatedName": "Honka"
+    },
+    {
+        "TeamName": "Хоффенхайм",
+        "TranslatedName": "Hoffenheim"
+    },
+    {
+        "TeamName": "Хэкен",
+        "TranslatedName": "Hacken"
+    },
+    {
+        "TeamName": "Хёугесунн",
+        "TranslatedName": "Höugesund"
+    },
+    {
+        "TeamName": "ЦСКА 1948",
+        "TranslatedName": "CSKA 1948"
+    },
+    {
+        "TeamName": "ЦСКА Москва",
+        "TranslatedName": "CSKA Moscow"
+    },
+    {
+        "TeamName": "ЦСКА София",
+        "TranslatedName": "CSKA Sofia"
+    },
+    {
+        "TeamName": "Целе",
+        "TranslatedName": "Tsele"
+    },
+    {
+        "TeamName": "Црвена Звезда",
+        "TranslatedName": "Red Star"
+    },
+    {
+        "TeamName": "Цюрих",
+        "TranslatedName": "Zurich"
+    },
+    {
+        "TeamName": "ЧФР",
+        "TranslatedName": "ČFR"
+    },
+    {
+        "TeamName": "Челси",
+        "TranslatedName": "Chelsea"
+    },
+    {
+        "TeamName": "Черно Mоре",
+        "TranslatedName": "Černo More"
+    },
+    {
+        "TeamName": "Чихура",
+        "TranslatedName": "Chihura"
+    },
+    {
+        "TeamName": "Чукарички",
+        "TranslatedName": "Chukarichki"
+    },
+    {
+        "TeamName": "Шальке",
+        "TranslatedName": "Schalke"
+    },
+    {
+        "TeamName": "Шамахы",
+        "TranslatedName": "Chamakhy"
+    },
+    {
+        "TeamName": "Шарлеруа",
+        "TranslatedName": "Charleroi"
+    },
+    {
+        "TeamName": "Шахтер",
+        "TranslatedName": "Shakhtar"
+    },
+    {
+        "TeamName": "Шахтёр К.",
+        "TranslatedName": "Shakhtar K."
+    },
+    {
+        "TeamName": "Шахтёр С.",
+        "TranslatedName": "Shakhtar S."
+    },
+    {
+        "TeamName": "Шелбурн",
+        "TranslatedName": "Shelburne"
+    },
+    {
+        "TeamName": "Шепши",
+        "TranslatedName": "Shepshey"
+    },
+    {
+        "TeamName": "Шериф",
+        "TranslatedName": "Sheriff"
+    },
+    {
+        "TeamName": "Ширак",
+        "TranslatedName": "Shirak"
+    },
+    {
+        "TeamName": "Широки Бриег",
+        "TranslatedName": "Shiroki Brieg"
+    },
+    {
+        "TeamName": "Шкендия",
+        "TranslatedName": "Shkendija"
+    },
+    {
+        "TeamName": "Шкупи",
+        "TranslatedName": "Szkupi"
+    },
+    {
+        "TeamName": "Шлёнск Вроцлав",
+        "TranslatedName": "Szląsk Wrocław"
+    },
+    {
+        "TeamName": "Штурм",
+        "TranslatedName": "Sturm"
+    },
+    {
+        "TeamName": "Штуттгарт",
+        "TranslatedName": "Stuttgart"
+    },
+    {
+        "TeamName": "Шэмрок Роверс",
+        "TranslatedName": "Shamrock Rovers"
+    },
+    {
+        "TeamName": "Шяуляй",
+        "TranslatedName": "Siauliai"
+    },
+    {
+        "TeamName": "Эвертон",
+        "TranslatedName": "Everton"
+    },
+    {
+        "TeamName": "Эгнатия",
+        "TranslatedName": "Egnatia"
+    },
+    {
+        "TeamName": "Эльфсборг",
+        "TranslatedName": "Elfsborg"
+    },
+    {
+        "TeamName": "Энгордань",
+        "TranslatedName": "Engordaan"
+    },
+    {
+        "TeamName": "Эсбьерг",
+        "TranslatedName": "Esbjerg"
+    },
+    {
+        "TeamName": "Эспаньол",
+        "TranslatedName": "Espanyol"
+    },
+    {
+        "TeamName": "Эсперанж",
+        "TranslatedName": "Esperange"
+    },
+    {
+        "TeamName": "Эстерсунд",
+        "TranslatedName": "Östersund"
+    },
+    {
+        "TeamName": "Ювентус",
+        "TranslatedName": "Juventus"
+    },
+    {
+        "TeamName": "Юнион",
+        "TranslatedName": "Union"
+    },
+    {
+        "TeamName": "Юргорден",
+        "TranslatedName": "Djurgården"
+    },
+    {
+        "TeamName": "Яблонец",
+        "TranslatedName": "Jablonec"
+    },
+    {
+        "TeamName": "Ягеллония",
+        "TranslatedName": "Jagiellonia"
+    },
+    {
+        "TeamName": "Янг Бойз",
+        "TranslatedName": "Young Boys"
+    },
+    {
+        "TeamName": "Янина",
+        "TranslatedName": "Janina"
+    }
+]
