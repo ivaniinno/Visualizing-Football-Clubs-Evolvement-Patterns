@@ -1,0 +1,2807 @@
+[
+    {
+        "NationalTeamID": 3262,
+        "Year": 2014,
+        "TotalCountryCost": 2240540
+    },
+    {
+        "NationalTeamID": 3262,
+        "Year": 2015,
+        "TotalCountryCost": 2458970
+    },
+    {
+        "NationalTeamID": 3262,
+        "Year": 2016,
+        "TotalCountryCost": 2671670
+    },
+    {
+        "NationalTeamID": 3262,
+        "Year": 2017,
+        "TotalCountryCost": 3661260
+    },
+    {
+        "NationalTeamID": 3262,
+        "Year": 2018,
+        "TotalCountryCost": 4468520
+    },
+    {
+        "NationalTeamID": 3262,
+        "Year": 2019,
+        "TotalCountryCost": 4211330
+    },
+    {
+        "NationalTeamID": 3262,
+        "Year": 2020,
+        "TotalCountryCost": 4554040
+    },
+    {
+        "NationalTeamID": 3262,
+        "Year": 2021,
+        "TotalCountryCost": 4164340
+    },
+    {
+        "NationalTeamID": 3262,
+        "Year": 2022,
+        "TotalCountryCost": 4407110
+    },
+    {
+        "NationalTeamID": 3262,
+        "Year": 2023,
+        "TotalCountryCost": 4616670
+    },
+    {
+        "NationalTeamID": 3262,
+        "Year": 2024,
+        "TotalCountryCost": 4242850
+    },
+    {
+        "NationalTeamID": 3299,
+        "Year": 2014,
+        "TotalCountryCost": 3518700
+    },
+    {
+        "NationalTeamID": 3299,
+        "Year": 2015,
+        "TotalCountryCost": 3987960
+    },
+    {
+        "NationalTeamID": 3299,
+        "Year": 2016,
+        "TotalCountryCost": 4913490
+    },
+    {
+        "NationalTeamID": 3299,
+        "Year": 2017,
+        "TotalCountryCost": 7100080
+    },
+    {
+        "NationalTeamID": 3299,
+        "Year": 2018,
+        "TotalCountryCost": 8626450
+    },
+    {
+        "NationalTeamID": 3299,
+        "Year": 2019,
+        "TotalCountryCost": 7355920
+    },
+    {
+        "NationalTeamID": 3299,
+        "Year": 2020,
+        "TotalCountryCost": 8190200
+    },
+    {
+        "NationalTeamID": 3299,
+        "Year": 2021,
+        "TotalCountryCost": 8174200
+    },
+    {
+        "NationalTeamID": 3299,
+        "Year": 2022,
+        "TotalCountryCost": 9515000
+    },
+    {
+        "NationalTeamID": 3299,
+        "Year": 2023,
+        "TotalCountryCost": 10329590
+    },
+    {
+        "NationalTeamID": 3299,
+        "Year": 2024,
+        "TotalCountryCost": 9701900
+    },
+    {
+        "NationalTeamID": 3300,
+        "Year": 2014,
+        "TotalCountryCost": 846450
+    },
+    {
+        "NationalTeamID": 3300,
+        "Year": 2015,
+        "TotalCountryCost": 876220
+    },
+    {
+        "NationalTeamID": 3300,
+        "Year": 2016,
+        "TotalCountryCost": 956140
+    },
+    {
+        "NationalTeamID": 3300,
+        "Year": 2017,
+        "TotalCountryCost": 1009500
+    },
+    {
+        "NationalTeamID": 3300,
+        "Year": 2018,
+        "TotalCountryCost": 1186670
+    },
+    {
+        "NationalTeamID": 3300,
+        "Year": 2019,
+        "TotalCountryCost": 959760
+    },
+    {
+        "NationalTeamID": 3300,
+        "Year": 2020,
+        "TotalCountryCost": 1290040
+    },
+    {
+        "NationalTeamID": 3300,
+        "Year": 2021,
+        "TotalCountryCost": 1410630
+    },
+    {
+        "NationalTeamID": 3300,
+        "Year": 2022,
+        "TotalCountryCost": 1505890
+    },
+    {
+        "NationalTeamID": 3300,
+        "Year": 2023,
+        "TotalCountryCost": 1549840
+    },
+    {
+        "NationalTeamID": 3300,
+        "Year": 2024,
+        "TotalCountryCost": 1393170
+    },
+    {
+        "NationalTeamID": 3375,
+        "Year": 2014,
+        "TotalCountryCost": 2809100
+    },
+    {
+        "NationalTeamID": 3375,
+        "Year": 2015,
+        "TotalCountryCost": 3110000
+    },
+    {
+        "NationalTeamID": 3375,
+        "Year": 2016,
+        "TotalCountryCost": 3574000
+    },
+    {
+        "NationalTeamID": 3375,
+        "Year": 2017,
+        "TotalCountryCost": 4704500
+    },
+    {
+        "NationalTeamID": 3375,
+        "Year": 2018,
+        "TotalCountryCost": 5585250
+    },
+    {
+        "NationalTeamID": 3375,
+        "Year": 2019,
+        "TotalCountryCost": 4958300
+    },
+    {
+        "NationalTeamID": 3375,
+        "Year": 2020,
+        "TotalCountryCost": 4843730
+    },
+    {
+        "NationalTeamID": 3375,
+        "Year": 2021,
+        "TotalCountryCost": 4845180
+    },
+    {
+        "NationalTeamID": 3375,
+        "Year": 2022,
+        "TotalCountryCost": 4770510
+    },
+    {
+        "NationalTeamID": 3375,
+        "Year": 2023,
+        "TotalCountryCost": 5383740
+    },
+    {
+        "NationalTeamID": 3375,
+        "Year": 2024,
+        "TotalCountryCost": 4883050
+    },
+    {
+        "NationalTeamID": 3376,
+        "Year": 2014,
+        "TotalCountryCost": 2034690
+    },
+    {
+        "NationalTeamID": 3376,
+        "Year": 2015,
+        "TotalCountryCost": 2309280
+    },
+    {
+        "NationalTeamID": 3376,
+        "Year": 2016,
+        "TotalCountryCost": 2829620
+    },
+    {
+        "NationalTeamID": 3376,
+        "Year": 2017,
+        "TotalCountryCost": 3780750
+    },
+    {
+        "NationalTeamID": 3376,
+        "Year": 2018,
+        "TotalCountryCost": 4748430
+    },
+    {
+        "NationalTeamID": 3376,
+        "Year": 2019,
+        "TotalCountryCost": 3971990
+    },
+    {
+        "NationalTeamID": 3376,
+        "Year": 2020,
+        "TotalCountryCost": 4384580
+    },
+    {
+        "NationalTeamID": 3376,
+        "Year": 2021,
+        "TotalCountryCost": 4256160
+    },
+    {
+        "NationalTeamID": 3376,
+        "Year": 2022,
+        "TotalCountryCost": 4057870
+    },
+    {
+        "NationalTeamID": 3376,
+        "Year": 2023,
+        "TotalCountryCost": 4253360
+    },
+    {
+        "NationalTeamID": 3376,
+        "Year": 2024,
+        "TotalCountryCost": 4102650
+    },
+    {
+        "NationalTeamID": 3377,
+        "Year": 2014,
+        "TotalCountryCost": 1191800
+    },
+    {
+        "NationalTeamID": 3377,
+        "Year": 2015,
+        "TotalCountryCost": 1317080
+    },
+    {
+        "NationalTeamID": 3377,
+        "Year": 2016,
+        "TotalCountryCost": 1533080
+    },
+    {
+        "NationalTeamID": 3377,
+        "Year": 2017,
+        "TotalCountryCost": 2527480
+    },
+    {
+        "NationalTeamID": 3377,
+        "Year": 2018,
+        "TotalCountryCost": 3145500
+    },
+    {
+        "NationalTeamID": 3377,
+        "Year": 2019,
+        "TotalCountryCost": 2727590
+    },
+    {
+        "NationalTeamID": 3377,
+        "Year": 2020,
+        "TotalCountryCost": 3177240
+    },
+    {
+        "NationalTeamID": 3377,
+        "Year": 2021,
+        "TotalCountryCost": 3352680
+    },
+    {
+        "NationalTeamID": 3377,
+        "Year": 2022,
+        "TotalCountryCost": 3459680
+    },
+    {
+        "NationalTeamID": 3377,
+        "Year": 2023,
+        "TotalCountryCost": 3570530
+    },
+    {
+        "NationalTeamID": 3377,
+        "Year": 2024,
+        "TotalCountryCost": 2880330
+    },
+    {
+        "NationalTeamID": 3378,
+        "Year": 2014,
+        "TotalCountryCost": 252210
+    },
+    {
+        "NationalTeamID": 3378,
+        "Year": 2015,
+        "TotalCountryCost": 284780
+    },
+    {
+        "NationalTeamID": 3378,
+        "Year": 2016,
+        "TotalCountryCost": 290630
+    },
+    {
+        "NationalTeamID": 3378,
+        "Year": 2017,
+        "TotalCountryCost": 335530
+    },
+    {
+        "NationalTeamID": 3378,
+        "Year": 2018,
+        "TotalCountryCost": 332710
+    },
+    {
+        "NationalTeamID": 3378,
+        "Year": 2019,
+        "TotalCountryCost": 245150
+    },
+    {
+        "NationalTeamID": 3378,
+        "Year": 2020,
+        "TotalCountryCost": 339980
+    },
+    {
+        "NationalTeamID": 3378,
+        "Year": 2021,
+        "TotalCountryCost": 355470
+    },
+    {
+        "NationalTeamID": 3378,
+        "Year": 2022,
+        "TotalCountryCost": 390230
+    },
+    {
+        "NationalTeamID": 3378,
+        "Year": 2023,
+        "TotalCountryCost": 455770
+    },
+    {
+        "NationalTeamID": 3378,
+        "Year": 2024,
+        "TotalCountryCost": 446780
+    },
+    {
+        "NationalTeamID": 3379,
+        "Year": 2014,
+        "TotalCountryCost": 469290
+    },
+    {
+        "NationalTeamID": 3379,
+        "Year": 2015,
+        "TotalCountryCost": 522500
+    },
+    {
+        "NationalTeamID": 3379,
+        "Year": 2016,
+        "TotalCountryCost": 667020
+    },
+    {
+        "NationalTeamID": 3379,
+        "Year": 2017,
+        "TotalCountryCost": 755240
+    },
+    {
+        "NationalTeamID": 3379,
+        "Year": 2018,
+        "TotalCountryCost": 1089270
+    },
+    {
+        "NationalTeamID": 3379,
+        "Year": 2019,
+        "TotalCountryCost": 1004910
+    },
+    {
+        "NationalTeamID": 3379,
+        "Year": 2020,
+        "TotalCountryCost": 1028830
+    },
+    {
+        "NationalTeamID": 3379,
+        "Year": 2021,
+        "TotalCountryCost": 1052300
+    },
+    {
+        "NationalTeamID": 3379,
+        "Year": 2022,
+        "TotalCountryCost": 1311940
+    },
+    {
+        "NationalTeamID": 3379,
+        "Year": 2023,
+        "TotalCountryCost": 1410270
+    },
+    {
+        "NationalTeamID": 3379,
+        "Year": 2024,
+        "TotalCountryCost": 1069320
+    },
+    {
+        "NationalTeamID": 3380,
+        "Year": 2014,
+        "TotalCountryCost": 154480
+    },
+    {
+        "NationalTeamID": 3380,
+        "Year": 2015,
+        "TotalCountryCost": 152940
+    },
+    {
+        "NationalTeamID": 3380,
+        "Year": 2016,
+        "TotalCountryCost": 156680
+    },
+    {
+        "NationalTeamID": 3380,
+        "Year": 2017,
+        "TotalCountryCost": 181480
+    },
+    {
+        "NationalTeamID": 3380,
+        "Year": 2018,
+        "TotalCountryCost": 289360
+    },
+    {
+        "NationalTeamID": 3380,
+        "Year": 2019,
+        "TotalCountryCost": 255590
+    },
+    {
+        "NationalTeamID": 3380,
+        "Year": 2020,
+        "TotalCountryCost": 330220
+    },
+    {
+        "NationalTeamID": 3380,
+        "Year": 2021,
+        "TotalCountryCost": 408380
+    },
+    {
+        "NationalTeamID": 3380,
+        "Year": 2022,
+        "TotalCountryCost": 389740
+    },
+    {
+        "NationalTeamID": 3380,
+        "Year": 2023,
+        "TotalCountryCost": 399000
+    },
+    {
+        "NationalTeamID": 3380,
+        "Year": 2024,
+        "TotalCountryCost": 309920
+    },
+    {
+        "NationalTeamID": 3381,
+        "Year": 2014,
+        "TotalCountryCost": 659310
+    },
+    {
+        "NationalTeamID": 3381,
+        "Year": 2015,
+        "TotalCountryCost": 762940
+    },
+    {
+        "NationalTeamID": 3381,
+        "Year": 2016,
+        "TotalCountryCost": 618060
+    },
+    {
+        "NationalTeamID": 3381,
+        "Year": 2017,
+        "TotalCountryCost": 555630
+    },
+    {
+        "NationalTeamID": 3381,
+        "Year": 2018,
+        "TotalCountryCost": 565000
+    },
+    {
+        "NationalTeamID": 3381,
+        "Year": 2019,
+        "TotalCountryCost": 494730
+    },
+    {
+        "NationalTeamID": 3381,
+        "Year": 2020,
+        "TotalCountryCost": 661460
+    },
+    {
+        "NationalTeamID": 3381,
+        "Year": 2021,
+        "TotalCountryCost": 772570
+    },
+    {
+        "NationalTeamID": 3381,
+        "Year": 2022,
+        "TotalCountryCost": 920650
+    },
+    {
+        "NationalTeamID": 3381,
+        "Year": 2023,
+        "TotalCountryCost": 944910
+    },
+    {
+        "NationalTeamID": 3381,
+        "Year": 2024,
+        "TotalCountryCost": 879230
+    },
+    {
+        "NationalTeamID": 3382,
+        "Year": 2014,
+        "TotalCountryCost": 435100
+    },
+    {
+        "NationalTeamID": 3382,
+        "Year": 2015,
+        "TotalCountryCost": 490990
+    },
+    {
+        "NationalTeamID": 3382,
+        "Year": 2016,
+        "TotalCountryCost": 586230
+    },
+    {
+        "NationalTeamID": 3382,
+        "Year": 2017,
+        "TotalCountryCost": 613470
+    },
+    {
+        "NationalTeamID": 3382,
+        "Year": 2018,
+        "TotalCountryCost": 794160
+    },
+    {
+        "NationalTeamID": 3382,
+        "Year": 2019,
+        "TotalCountryCost": 761790
+    },
+    {
+        "NationalTeamID": 3382,
+        "Year": 2020,
+        "TotalCountryCost": 825580
+    },
+    {
+        "NationalTeamID": 3382,
+        "Year": 2021,
+        "TotalCountryCost": 814710
+    },
+    {
+        "NationalTeamID": 3382,
+        "Year": 2022,
+        "TotalCountryCost": 964530
+    },
+    {
+        "NationalTeamID": 3382,
+        "Year": 2023,
+        "TotalCountryCost": 1073610
+    },
+    {
+        "NationalTeamID": 3382,
+        "Year": 2024,
+        "TotalCountryCost": 737080
+    },
+    {
+        "NationalTeamID": 3383,
+        "Year": 2014,
+        "TotalCountryCost": 178360
+    },
+    {
+        "NationalTeamID": 3383,
+        "Year": 2015,
+        "TotalCountryCost": 170370
+    },
+    {
+        "NationalTeamID": 3383,
+        "Year": 2016,
+        "TotalCountryCost": 204740
+    },
+    {
+        "NationalTeamID": 3383,
+        "Year": 2017,
+        "TotalCountryCost": 304330
+    },
+    {
+        "NationalTeamID": 3383,
+        "Year": 2018,
+        "TotalCountryCost": 346060
+    },
+    {
+        "NationalTeamID": 3383,
+        "Year": 2019,
+        "TotalCountryCost": 350870
+    },
+    {
+        "NationalTeamID": 3383,
+        "Year": 2020,
+        "TotalCountryCost": 372490
+    },
+    {
+        "NationalTeamID": 3383,
+        "Year": 2021,
+        "TotalCountryCost": 456770
+    },
+    {
+        "NationalTeamID": 3383,
+        "Year": 2022,
+        "TotalCountryCost": 518710
+    },
+    {
+        "NationalTeamID": 3383,
+        "Year": 2023,
+        "TotalCountryCost": 477680
+    },
+    {
+        "NationalTeamID": 3383,
+        "Year": 2024,
+        "TotalCountryCost": 359930
+    },
+    {
+        "NationalTeamID": 3384,
+        "Year": 2014,
+        "TotalCountryCost": 242590
+    },
+    {
+        "NationalTeamID": 3384,
+        "Year": 2015,
+        "TotalCountryCost": 296360
+    },
+    {
+        "NationalTeamID": 3384,
+        "Year": 2016,
+        "TotalCountryCost": 258740
+    },
+    {
+        "NationalTeamID": 3384,
+        "Year": 2017,
+        "TotalCountryCost": 323770
+    },
+    {
+        "NationalTeamID": 3384,
+        "Year": 2018,
+        "TotalCountryCost": 369170
+    },
+    {
+        "NationalTeamID": 3384,
+        "Year": 2019,
+        "TotalCountryCost": 290570
+    },
+    {
+        "NationalTeamID": 3384,
+        "Year": 2020,
+        "TotalCountryCost": 275510
+    },
+    {
+        "NationalTeamID": 3384,
+        "Year": 2021,
+        "TotalCountryCost": 354340
+    },
+    {
+        "NationalTeamID": 3384,
+        "Year": 2022,
+        "TotalCountryCost": 355670
+    },
+    {
+        "NationalTeamID": 3384,
+        "Year": 2023,
+        "TotalCountryCost": 394000
+    },
+    {
+        "NationalTeamID": 3384,
+        "Year": 2024,
+        "TotalCountryCost": 348440
+    },
+    {
+        "NationalTeamID": 3394,
+        "Year": 2014,
+        "TotalCountryCost": 133390
+    },
+    {
+        "NationalTeamID": 3394,
+        "Year": 2015,
+        "TotalCountryCost": 112690
+    },
+    {
+        "NationalTeamID": 3394,
+        "Year": 2016,
+        "TotalCountryCost": 156810
+    },
+    {
+        "NationalTeamID": 3394,
+        "Year": 2017,
+        "TotalCountryCost": 155730
+    },
+    {
+        "NationalTeamID": 3394,
+        "Year": 2018,
+        "TotalCountryCost": 188220
+    },
+    {
+        "NationalTeamID": 3394,
+        "Year": 2019,
+        "TotalCountryCost": 138510
+    },
+    {
+        "NationalTeamID": 3394,
+        "Year": 2020,
+        "TotalCountryCost": 135340
+    },
+    {
+        "NationalTeamID": 3394,
+        "Year": 2021,
+        "TotalCountryCost": 132225
+    },
+    {
+        "NationalTeamID": 3394,
+        "Year": 2022,
+        "TotalCountryCost": 176220
+    },
+    {
+        "NationalTeamID": 3394,
+        "Year": 2023,
+        "TotalCountryCost": 209110
+    },
+    {
+        "NationalTeamID": 3394,
+        "Year": 2024,
+        "TotalCountryCost": 143950
+    },
+    {
+        "NationalTeamID": 3436,
+        "Year": 2014,
+        "TotalCountryCost": 144240
+    },
+    {
+        "NationalTeamID": 3436,
+        "Year": 2015,
+        "TotalCountryCost": 158080
+    },
+    {
+        "NationalTeamID": 3436,
+        "Year": 2016,
+        "TotalCountryCost": 166150
+    },
+    {
+        "NationalTeamID": 3436,
+        "Year": 2017,
+        "TotalCountryCost": 160080
+    },
+    {
+        "NationalTeamID": 3436,
+        "Year": 2018,
+        "TotalCountryCost": 227300
+    },
+    {
+        "NationalTeamID": 3436,
+        "Year": 2019,
+        "TotalCountryCost": 194750
+    },
+    {
+        "NationalTeamID": 3436,
+        "Year": 2020,
+        "TotalCountryCost": 246530
+    },
+    {
+        "NationalTeamID": 3436,
+        "Year": 2021,
+        "TotalCountryCost": 325730
+    },
+    {
+        "NationalTeamID": 3436,
+        "Year": 2022,
+        "TotalCountryCost": 343530
+    },
+    {
+        "NationalTeamID": 3436,
+        "Year": 2023,
+        "TotalCountryCost": 436250
+    },
+    {
+        "NationalTeamID": 3436,
+        "Year": 2024,
+        "TotalCountryCost": 324270
+    },
+    {
+        "NationalTeamID": 3438,
+        "Year": 2014,
+        "TotalCountryCost": 119910
+    },
+    {
+        "NationalTeamID": 3438,
+        "Year": 2015,
+        "TotalCountryCost": 139260
+    },
+    {
+        "NationalTeamID": 3438,
+        "Year": 2016,
+        "TotalCountryCost": 131230
+    },
+    {
+        "NationalTeamID": 3438,
+        "Year": 2017,
+        "TotalCountryCost": 145350
+    },
+    {
+        "NationalTeamID": 3438,
+        "Year": 2018,
+        "TotalCountryCost": 191620
+    },
+    {
+        "NationalTeamID": 3438,
+        "Year": 2019,
+        "TotalCountryCost": 201870
+    },
+    {
+        "NationalTeamID": 3438,
+        "Year": 2020,
+        "TotalCountryCost": 203920
+    },
+    {
+        "NationalTeamID": 3438,
+        "Year": 2021,
+        "TotalCountryCost": 188120
+    },
+    {
+        "NationalTeamID": 3438,
+        "Year": 2022,
+        "TotalCountryCost": 261980
+    },
+    {
+        "NationalTeamID": 3438,
+        "Year": 2023,
+        "TotalCountryCost": 291270
+    },
+    {
+        "NationalTeamID": 3438,
+        "Year": 2024,
+        "TotalCountryCost": 201290
+    },
+    {
+        "NationalTeamID": 3440,
+        "Year": 2014,
+        "TotalCountryCost": 150670
+    },
+    {
+        "NationalTeamID": 3440,
+        "Year": 2015,
+        "TotalCountryCost": 151360
+    },
+    {
+        "NationalTeamID": 3440,
+        "Year": 2016,
+        "TotalCountryCost": 139000
+    },
+    {
+        "NationalTeamID": 3440,
+        "Year": 2017,
+        "TotalCountryCost": 125430
+    },
+    {
+        "NationalTeamID": 3440,
+        "Year": 2018,
+        "TotalCountryCost": 130410
+    },
+    {
+        "NationalTeamID": 3440,
+        "Year": 2019,
+        "TotalCountryCost": 130180
+    },
+    {
+        "NationalTeamID": 3440,
+        "Year": 2020,
+        "TotalCountryCost": 148360
+    },
+    {
+        "NationalTeamID": 3440,
+        "Year": 2021,
+        "TotalCountryCost": 150710
+    },
+    {
+        "NationalTeamID": 3440,
+        "Year": 2022,
+        "TotalCountryCost": 134720
+    },
+    {
+        "NationalTeamID": 3440,
+        "Year": 2023,
+        "TotalCountryCost": 195270
+    },
+    {
+        "NationalTeamID": 3440,
+        "Year": 2024,
+        "TotalCountryCost": 240140
+    },
+    {
+        "NationalTeamID": 3442,
+        "Year": 2014,
+        "TotalCountryCost": 137030
+    },
+    {
+        "NationalTeamID": 3442,
+        "Year": 2015,
+        "TotalCountryCost": 145710
+    },
+    {
+        "NationalTeamID": 3442,
+        "Year": 2016,
+        "TotalCountryCost": 177740
+    },
+    {
+        "NationalTeamID": 3442,
+        "Year": 2017,
+        "TotalCountryCost": 169450
+    },
+    {
+        "NationalTeamID": 3442,
+        "Year": 2018,
+        "TotalCountryCost": 218480
+    },
+    {
+        "NationalTeamID": 3442,
+        "Year": 2019,
+        "TotalCountryCost": 184480
+    },
+    {
+        "NationalTeamID": 3442,
+        "Year": 2020,
+        "TotalCountryCost": 262950
+    },
+    {
+        "NationalTeamID": 3442,
+        "Year": 2021,
+        "TotalCountryCost": 277780
+    },
+    {
+        "NationalTeamID": 3442,
+        "Year": 2022,
+        "TotalCountryCost": 236210
+    },
+    {
+        "NationalTeamID": 3442,
+        "Year": 2023,
+        "TotalCountryCost": 258200
+    },
+    {
+        "NationalTeamID": 3442,
+        "Year": 2024,
+        "TotalCountryCost": 223050
+    },
+    {
+        "NationalTeamID": 3443,
+        "Year": 2014,
+        "TotalCountryCost": 53780
+    },
+    {
+        "NationalTeamID": 3443,
+        "Year": 2015,
+        "TotalCountryCost": 57875
+    },
+    {
+        "NationalTeamID": 3443,
+        "Year": 2016,
+        "TotalCountryCost": 46410
+    },
+    {
+        "NationalTeamID": 3443,
+        "Year": 2017,
+        "TotalCountryCost": 43100
+    },
+    {
+        "NationalTeamID": 3443,
+        "Year": 2018,
+        "TotalCountryCost": 40705
+    },
+    {
+        "NationalTeamID": 3443,
+        "Year": 2019,
+        "TotalCountryCost": 41800
+    },
+    {
+        "NationalTeamID": 3443,
+        "Year": 2020,
+        "TotalCountryCost": 45600
+    },
+    {
+        "NationalTeamID": 3443,
+        "Year": 2021,
+        "TotalCountryCost": 48180
+    },
+    {
+        "NationalTeamID": 3443,
+        "Year": 2022,
+        "TotalCountryCost": 54155
+    },
+    {
+        "NationalTeamID": 3443,
+        "Year": 2023,
+        "TotalCountryCost": 52715
+    },
+    {
+        "NationalTeamID": 3443,
+        "Year": 2024,
+        "TotalCountryCost": 29275
+    },
+    {
+        "NationalTeamID": 3445,
+        "Year": 2014,
+        "TotalCountryCost": 141770
+    },
+    {
+        "NationalTeamID": 3445,
+        "Year": 2015,
+        "TotalCountryCost": 152790
+    },
+    {
+        "NationalTeamID": 3445,
+        "Year": 2016,
+        "TotalCountryCost": 188230
+    },
+    {
+        "NationalTeamID": 3445,
+        "Year": 2017,
+        "TotalCountryCost": 209960
+    },
+    {
+        "NationalTeamID": 3445,
+        "Year": 2018,
+        "TotalCountryCost": 243230
+    },
+    {
+        "NationalTeamID": 3445,
+        "Year": 2019,
+        "TotalCountryCost": 222430
+    },
+    {
+        "NationalTeamID": 3445,
+        "Year": 2020,
+        "TotalCountryCost": 267100
+    },
+    {
+        "NationalTeamID": 3445,
+        "Year": 2021,
+        "TotalCountryCost": 265090
+    },
+    {
+        "NationalTeamID": 3445,
+        "Year": 2022,
+        "TotalCountryCost": 251080
+    },
+    {
+        "NationalTeamID": 3445,
+        "Year": 2023,
+        "TotalCountryCost": 309690
+    },
+    {
+        "NationalTeamID": 3445,
+        "Year": 2024,
+        "TotalCountryCost": 331460
+    },
+    {
+        "NationalTeamID": 3447,
+        "Year": 2014,
+        "TotalCountryCost": 186850
+    },
+    {
+        "NationalTeamID": 3447,
+        "Year": 2015,
+        "TotalCountryCost": 160910
+    },
+    {
+        "NationalTeamID": 3447,
+        "Year": 2016,
+        "TotalCountryCost": 174930
+    },
+    {
+        "NationalTeamID": 3447,
+        "Year": 2017,
+        "TotalCountryCost": 180455
+    },
+    {
+        "NationalTeamID": 3447,
+        "Year": 2018,
+        "TotalCountryCost": 209960
+    },
+    {
+        "NationalTeamID": 3447,
+        "Year": 2019,
+        "TotalCountryCost": 176155
+    },
+    {
+        "NationalTeamID": 3447,
+        "Year": 2020,
+        "TotalCountryCost": 202485
+    },
+    {
+        "NationalTeamID": 3447,
+        "Year": 2021,
+        "TotalCountryCost": 184790
+    },
+    {
+        "NationalTeamID": 3447,
+        "Year": 2022,
+        "TotalCountryCost": 184530
+    },
+    {
+        "NationalTeamID": 3447,
+        "Year": 2023,
+        "TotalCountryCost": 186830
+    },
+    {
+        "NationalTeamID": 3447,
+        "Year": 2024,
+        "TotalCountryCost": 143000
+    },
+    {
+        "NationalTeamID": 3448,
+        "Year": 2014,
+        "TotalCountryCost": 911250
+    },
+    {
+        "NationalTeamID": 3448,
+        "Year": 2015,
+        "TotalCountryCost": 833670
+    },
+    {
+        "NationalTeamID": 3448,
+        "Year": 2016,
+        "TotalCountryCost": 705280
+    },
+    {
+        "NationalTeamID": 3448,
+        "Year": 2017,
+        "TotalCountryCost": 809800
+    },
+    {
+        "NationalTeamID": 3448,
+        "Year": 2018,
+        "TotalCountryCost": 1202920
+    },
+    {
+        "NationalTeamID": 3448,
+        "Year": 2019,
+        "TotalCountryCost": 922010
+    },
+    {
+        "NationalTeamID": 3448,
+        "Year": 2020,
+        "TotalCountryCost": 1011050
+    },
+    {
+        "NationalTeamID": 3448,
+        "Year": 2021,
+        "TotalCountryCost": 992600
+    },
+    {
+        "NationalTeamID": 3448,
+        "Year": 2022,
+        "TotalCountryCost": 750890
+    },
+    {
+        "NationalTeamID": 3448,
+        "Year": 2023,
+        "TotalCountryCost": 945630
+    },
+    {
+        "NationalTeamID": 3448,
+        "Year": 2024,
+        "TotalCountryCost": 774670
+    },
+    {
+        "NationalTeamID": 3450,
+        "Year": 2014,
+        "TotalCountryCost": 88530
+    },
+    {
+        "NationalTeamID": 3450,
+        "Year": 2015,
+        "TotalCountryCost": 76170
+    },
+    {
+        "NationalTeamID": 3450,
+        "Year": 2016,
+        "TotalCountryCost": 80420
+    },
+    {
+        "NationalTeamID": 3450,
+        "Year": 2017,
+        "TotalCountryCost": 97110
+    },
+    {
+        "NationalTeamID": 3450,
+        "Year": 2018,
+        "TotalCountryCost": 108390
+    },
+    {
+        "NationalTeamID": 3450,
+        "Year": 2019,
+        "TotalCountryCost": 98500
+    },
+    {
+        "NationalTeamID": 3450,
+        "Year": 2020,
+        "TotalCountryCost": 82020
+    },
+    {
+        "NationalTeamID": 3450,
+        "Year": 2021,
+        "TotalCountryCost": 69310
+    },
+    {
+        "NationalTeamID": 3450,
+        "Year": 2022,
+        "TotalCountryCost": 73250
+    },
+    {
+        "NationalTeamID": 3450,
+        "Year": 2023,
+        "TotalCountryCost": 61550
+    },
+    {
+        "NationalTeamID": 3450,
+        "Year": 2024,
+        "TotalCountryCost": 35785
+    },
+    {
+        "NationalTeamID": 3468,
+        "Year": 2014,
+        "TotalCountryCost": 82440
+    },
+    {
+        "NationalTeamID": 3468,
+        "Year": 2015,
+        "TotalCountryCost": 85245
+    },
+    {
+        "NationalTeamID": 3468,
+        "Year": 2016,
+        "TotalCountryCost": 98250
+    },
+    {
+        "NationalTeamID": 3468,
+        "Year": 2017,
+        "TotalCountryCost": 92135
+    },
+    {
+        "NationalTeamID": 3468,
+        "Year": 2018,
+        "TotalCountryCost": 110845
+    },
+    {
+        "NationalTeamID": 3468,
+        "Year": 2019,
+        "TotalCountryCost": 105040
+    },
+    {
+        "NationalTeamID": 3468,
+        "Year": 2020,
+        "TotalCountryCost": 135075
+    },
+    {
+        "NationalTeamID": 3468,
+        "Year": 2021,
+        "TotalCountryCost": 162860
+    },
+    {
+        "NationalTeamID": 3468,
+        "Year": 2022,
+        "TotalCountryCost": 160190
+    },
+    {
+        "NationalTeamID": 3468,
+        "Year": 2023,
+        "TotalCountryCost": 163780
+    },
+    {
+        "NationalTeamID": 3468,
+        "Year": 2024,
+        "TotalCountryCost": 145130
+    },
+    {
+        "NationalTeamID": 3503,
+        "Year": 2014,
+        "TotalCountryCost": 56740
+    },
+    {
+        "NationalTeamID": 3503,
+        "Year": 2015,
+        "TotalCountryCost": 53400
+    },
+    {
+        "NationalTeamID": 3503,
+        "Year": 2016,
+        "TotalCountryCost": 60220
+    },
+    {
+        "NationalTeamID": 3503,
+        "Year": 2017,
+        "TotalCountryCost": 57245
+    },
+    {
+        "NationalTeamID": 3503,
+        "Year": 2018,
+        "TotalCountryCost": 64240
+    },
+    {
+        "NationalTeamID": 3503,
+        "Year": 2019,
+        "TotalCountryCost": 59240
+    },
+    {
+        "NationalTeamID": 3503,
+        "Year": 2020,
+        "TotalCountryCost": 60910
+    },
+    {
+        "NationalTeamID": 3503,
+        "Year": 2021,
+        "TotalCountryCost": 78990
+    },
+    {
+        "NationalTeamID": 3503,
+        "Year": 2022,
+        "TotalCountryCost": 68240
+    },
+    {
+        "NationalTeamID": 3503,
+        "Year": 2023,
+        "TotalCountryCost": 95970
+    },
+    {
+        "NationalTeamID": 3503,
+        "Year": 2024,
+        "TotalCountryCost": 76020
+    },
+    {
+        "NationalTeamID": 3509,
+        "Year": 2014,
+        "TotalCountryCost": 13670
+    },
+    {
+        "NationalTeamID": 3509,
+        "Year": 2015,
+        "TotalCountryCost": 10580
+    },
+    {
+        "NationalTeamID": 3509,
+        "Year": 2016,
+        "TotalCountryCost": 8185
+    },
+    {
+        "NationalTeamID": 3509,
+        "Year": 2017,
+        "TotalCountryCost": 11130
+    },
+    {
+        "NationalTeamID": 3509,
+        "Year": 2018,
+        "TotalCountryCost": 10735
+    },
+    {
+        "NationalTeamID": 3509,
+        "Year": 2019,
+        "TotalCountryCost": 10890
+    },
+    {
+        "NationalTeamID": 3509,
+        "Year": 2020,
+        "TotalCountryCost": 11490
+    },
+    {
+        "NationalTeamID": 3509,
+        "Year": 2021,
+        "TotalCountryCost": 13380
+    },
+    {
+        "NationalTeamID": 3509,
+        "Year": 2022,
+        "TotalCountryCost": 21520
+    },
+    {
+        "NationalTeamID": 3509,
+        "Year": 2023,
+        "TotalCountryCost": 29010
+    },
+    {
+        "NationalTeamID": 3509,
+        "Year": 2024,
+        "TotalCountryCost": 18330
+    },
+    {
+        "NationalTeamID": 3555,
+        "Year": 2014,
+        "TotalCountryCost": 19225
+    },
+    {
+        "NationalTeamID": 3555,
+        "Year": 2015,
+        "TotalCountryCost": 26145
+    },
+    {
+        "NationalTeamID": 3555,
+        "Year": 2016,
+        "TotalCountryCost": 35655
+    },
+    {
+        "NationalTeamID": 3555,
+        "Year": 2017,
+        "TotalCountryCost": 39740
+    },
+    {
+        "NationalTeamID": 3555,
+        "Year": 2018,
+        "TotalCountryCost": 42395
+    },
+    {
+        "NationalTeamID": 3555,
+        "Year": 2019,
+        "TotalCountryCost": 41835
+    },
+    {
+        "NationalTeamID": 3555,
+        "Year": 2020,
+        "TotalCountryCost": 41490
+    },
+    {
+        "NationalTeamID": 3555,
+        "Year": 2021,
+        "TotalCountryCost": 46600
+    },
+    {
+        "NationalTeamID": 3555,
+        "Year": 2022,
+        "TotalCountryCost": 47900
+    },
+    {
+        "NationalTeamID": 3555,
+        "Year": 2023,
+        "TotalCountryCost": 44855
+    },
+    {
+        "NationalTeamID": 3555,
+        "Year": 2024,
+        "TotalCountryCost": 33660
+    },
+    {
+        "NationalTeamID": 3556,
+        "Year": 2014,
+        "TotalCountryCost": 167750
+    },
+    {
+        "NationalTeamID": 3556,
+        "Year": 2015,
+        "TotalCountryCost": 167600
+    },
+    {
+        "NationalTeamID": 3556,
+        "Year": 2016,
+        "TotalCountryCost": 203850
+    },
+    {
+        "NationalTeamID": 3556,
+        "Year": 2017,
+        "TotalCountryCost": 184030
+    },
+    {
+        "NationalTeamID": 3556,
+        "Year": 2018,
+        "TotalCountryCost": 181760
+    },
+    {
+        "NationalTeamID": 3556,
+        "Year": 2019,
+        "TotalCountryCost": 220960
+    },
+    {
+        "NationalTeamID": 3556,
+        "Year": 2020,
+        "TotalCountryCost": 276530
+    },
+    {
+        "NationalTeamID": 3556,
+        "Year": 2021,
+        "TotalCountryCost": 291210
+    },
+    {
+        "NationalTeamID": 3556,
+        "Year": 2022,
+        "TotalCountryCost": 277480
+    },
+    {
+        "NationalTeamID": 3556,
+        "Year": 2023,
+        "TotalCountryCost": 294140
+    },
+    {
+        "NationalTeamID": 3556,
+        "Year": 2024,
+        "TotalCountryCost": 188880
+    },
+    {
+        "NationalTeamID": 3557,
+        "Year": 2014,
+        "TotalCountryCost": 128420
+    },
+    {
+        "NationalTeamID": 3557,
+        "Year": 2015,
+        "TotalCountryCost": 130570
+    },
+    {
+        "NationalTeamID": 3557,
+        "Year": 2016,
+        "TotalCountryCost": 142170
+    },
+    {
+        "NationalTeamID": 3557,
+        "Year": 2017,
+        "TotalCountryCost": 159750
+    },
+    {
+        "NationalTeamID": 3557,
+        "Year": 2018,
+        "TotalCountryCost": 135070
+    },
+    {
+        "NationalTeamID": 3557,
+        "Year": 2019,
+        "TotalCountryCost": 145010
+    },
+    {
+        "NationalTeamID": 3557,
+        "Year": 2020,
+        "TotalCountryCost": 157310
+    },
+    {
+        "NationalTeamID": 3557,
+        "Year": 2021,
+        "TotalCountryCost": 182510
+    },
+    {
+        "NationalTeamID": 3557,
+        "Year": 2022,
+        "TotalCountryCost": 189740
+    },
+    {
+        "NationalTeamID": 3557,
+        "Year": 2023,
+        "TotalCountryCost": 222320
+    },
+    {
+        "NationalTeamID": 3557,
+        "Year": 2024,
+        "TotalCountryCost": 184630
+    },
+    {
+        "NationalTeamID": 3561,
+        "Year": 2014,
+        "TotalCountryCost": 38400
+    },
+    {
+        "NationalTeamID": 3561,
+        "Year": 2015,
+        "TotalCountryCost": 48850
+    },
+    {
+        "NationalTeamID": 3561,
+        "Year": 2016,
+        "TotalCountryCost": 50740
+    },
+    {
+        "NationalTeamID": 3561,
+        "Year": 2017,
+        "TotalCountryCost": 54890
+    },
+    {
+        "NationalTeamID": 3561,
+        "Year": 2018,
+        "TotalCountryCost": 49620
+    },
+    {
+        "NationalTeamID": 3561,
+        "Year": 2019,
+        "TotalCountryCost": 39025
+    },
+    {
+        "NationalTeamID": 3561,
+        "Year": 2020,
+        "TotalCountryCost": 40920
+    },
+    {
+        "NationalTeamID": 3561,
+        "Year": 2021,
+        "TotalCountryCost": 47360
+    },
+    {
+        "NationalTeamID": 3561,
+        "Year": 2022,
+        "TotalCountryCost": 43650
+    },
+    {
+        "NationalTeamID": 3561,
+        "Year": 2023,
+        "TotalCountryCost": 42600
+    },
+    {
+        "NationalTeamID": 3561,
+        "Year": 2024,
+        "TotalCountryCost": 31260
+    },
+    {
+        "NationalTeamID": 3574,
+        "Year": 2014,
+        "TotalCountryCost": 15885
+    },
+    {
+        "NationalTeamID": 3574,
+        "Year": 2015,
+        "TotalCountryCost": 16590
+    },
+    {
+        "NationalTeamID": 3574,
+        "Year": 2016,
+        "TotalCountryCost": 21250
+    },
+    {
+        "NationalTeamID": 3574,
+        "Year": 2017,
+        "TotalCountryCost": 19170
+    },
+    {
+        "NationalTeamID": 3574,
+        "Year": 2018,
+        "TotalCountryCost": 22870
+    },
+    {
+        "NationalTeamID": 3574,
+        "Year": 2019,
+        "TotalCountryCost": 18765
+    },
+    {
+        "NationalTeamID": 3574,
+        "Year": 2020,
+        "TotalCountryCost": 20420
+    },
+    {
+        "NationalTeamID": 3574,
+        "Year": 2021,
+        "TotalCountryCost": 23190
+    },
+    {
+        "NationalTeamID": 3574,
+        "Year": 2022,
+        "TotalCountryCost": 20980
+    },
+    {
+        "NationalTeamID": 3574,
+        "Year": 2023,
+        "TotalCountryCost": 20975
+    },
+    {
+        "NationalTeamID": 3574,
+        "Year": 2024,
+        "TotalCountryCost": 20420
+    },
+    {
+        "NationalTeamID": 3580,
+        "Year": 2014,
+        "TotalCountryCost": 16330
+    },
+    {
+        "NationalTeamID": 3580,
+        "Year": 2015,
+        "TotalCountryCost": 16645
+    },
+    {
+        "NationalTeamID": 3580,
+        "Year": 2016,
+        "TotalCountryCost": 15845
+    },
+    {
+        "NationalTeamID": 3580,
+        "Year": 2017,
+        "TotalCountryCost": 15960
+    },
+    {
+        "NationalTeamID": 3580,
+        "Year": 2018,
+        "TotalCountryCost": 21470
+    },
+    {
+        "NationalTeamID": 3580,
+        "Year": 2019,
+        "TotalCountryCost": 16830
+    },
+    {
+        "NationalTeamID": 3580,
+        "Year": 2020,
+        "TotalCountryCost": 19450
+    },
+    {
+        "NationalTeamID": 3580,
+        "Year": 2021,
+        "TotalCountryCost": 19330
+    },
+    {
+        "NationalTeamID": 3580,
+        "Year": 2022,
+        "TotalCountryCost": 18020
+    },
+    {
+        "NationalTeamID": 3580,
+        "Year": 2023,
+        "TotalCountryCost": 20360
+    },
+    {
+        "NationalTeamID": 3580,
+        "Year": 2024,
+        "TotalCountryCost": 16200
+    },
+    {
+        "NationalTeamID": 3587,
+        "Year": 2014,
+        "TotalCountryCost": 15385
+    },
+    {
+        "NationalTeamID": 3587,
+        "Year": 2015,
+        "TotalCountryCost": 20640
+    },
+    {
+        "NationalTeamID": 3587,
+        "Year": 2016,
+        "TotalCountryCost": 27255
+    },
+    {
+        "NationalTeamID": 3587,
+        "Year": 2017,
+        "TotalCountryCost": 26935
+    },
+    {
+        "NationalTeamID": 3587,
+        "Year": 2018,
+        "TotalCountryCost": 32855
+    },
+    {
+        "NationalTeamID": 3587,
+        "Year": 2019,
+        "TotalCountryCost": 31700
+    },
+    {
+        "NationalTeamID": 3587,
+        "Year": 2020,
+        "TotalCountryCost": 35815
+    },
+    {
+        "NationalTeamID": 3587,
+        "Year": 2021,
+        "TotalCountryCost": 39900
+    },
+    {
+        "NationalTeamID": 3587,
+        "Year": 2022,
+        "TotalCountryCost": 42100
+    },
+    {
+        "NationalTeamID": 3587,
+        "Year": 2023,
+        "TotalCountryCost": 43030
+    },
+    {
+        "NationalTeamID": 3587,
+        "Year": 2024,
+        "TotalCountryCost": 34380
+    },
+    {
+        "NationalTeamID": 3588,
+        "Year": 2014,
+        "TotalCountryCost": 62605
+    },
+    {
+        "NationalTeamID": 3588,
+        "Year": 2015,
+        "TotalCountryCost": 71985
+    },
+    {
+        "NationalTeamID": 3588,
+        "Year": 2016,
+        "TotalCountryCost": 70340
+    },
+    {
+        "NationalTeamID": 3588,
+        "Year": 2017,
+        "TotalCountryCost": 62550
+    },
+    {
+        "NationalTeamID": 3588,
+        "Year": 2018,
+        "TotalCountryCost": 70040
+    },
+    {
+        "NationalTeamID": 3588,
+        "Year": 2019,
+        "TotalCountryCost": 60420
+    },
+    {
+        "NationalTeamID": 3588,
+        "Year": 2020,
+        "TotalCountryCost": 64560
+    },
+    {
+        "NationalTeamID": 3588,
+        "Year": 2021,
+        "TotalCountryCost": 68770
+    },
+    {
+        "NationalTeamID": 3588,
+        "Year": 2022,
+        "TotalCountryCost": 74200
+    },
+    {
+        "NationalTeamID": 3588,
+        "Year": 2023,
+        "TotalCountryCost": 79610
+    },
+    {
+        "NationalTeamID": 3588,
+        "Year": 2024,
+        "TotalCountryCost": 65080
+    },
+    {
+        "NationalTeamID": 3668,
+        "Year": 2014,
+        "TotalCountryCost": 71740
+    },
+    {
+        "NationalTeamID": 3668,
+        "Year": 2015,
+        "TotalCountryCost": 93630
+    },
+    {
+        "NationalTeamID": 3668,
+        "Year": 2016,
+        "TotalCountryCost": 92050
+    },
+    {
+        "NationalTeamID": 3668,
+        "Year": 2017,
+        "TotalCountryCost": 116240
+    },
+    {
+        "NationalTeamID": 3668,
+        "Year": 2018,
+        "TotalCountryCost": 106540
+    },
+    {
+        "NationalTeamID": 3668,
+        "Year": 2019,
+        "TotalCountryCost": 88095
+    },
+    {
+        "NationalTeamID": 3668,
+        "Year": 2020,
+        "TotalCountryCost": 106960
+    },
+    {
+        "NationalTeamID": 3668,
+        "Year": 2021,
+        "TotalCountryCost": 115920
+    },
+    {
+        "NationalTeamID": 3668,
+        "Year": 2022,
+        "TotalCountryCost": 125310
+    },
+    {
+        "NationalTeamID": 3668,
+        "Year": 2023,
+        "TotalCountryCost": 125320
+    },
+    {
+        "NationalTeamID": 3668,
+        "Year": 2024,
+        "TotalCountryCost": 121320
+    },
+    {
+        "NationalTeamID": 3669,
+        "Year": 2014,
+        "TotalCountryCost": 38945
+    },
+    {
+        "NationalTeamID": 3669,
+        "Year": 2015,
+        "TotalCountryCost": 43550
+    },
+    {
+        "NationalTeamID": 3669,
+        "Year": 2016,
+        "TotalCountryCost": 60460
+    },
+    {
+        "NationalTeamID": 3669,
+        "Year": 2017,
+        "TotalCountryCost": 54010
+    },
+    {
+        "NationalTeamID": 3669,
+        "Year": 2018,
+        "TotalCountryCost": 50980
+    },
+    {
+        "NationalTeamID": 3669,
+        "Year": 2019,
+        "TotalCountryCost": 53600
+    },
+    {
+        "NationalTeamID": 3669,
+        "Year": 2020,
+        "TotalCountryCost": 54200
+    },
+    {
+        "NationalTeamID": 3669,
+        "Year": 2021,
+        "TotalCountryCost": 69665
+    },
+    {
+        "NationalTeamID": 3669,
+        "Year": 2022,
+        "TotalCountryCost": 60710
+    },
+    {
+        "NationalTeamID": 3669,
+        "Year": 2023,
+        "TotalCountryCost": 65700
+    },
+    {
+        "NationalTeamID": 3669,
+        "Year": 2024,
+        "TotalCountryCost": 22215
+    },
+    {
+        "NationalTeamID": 3699,
+        "Year": 2014,
+        "TotalCountryCost": 406900
+    },
+    {
+        "NationalTeamID": 3699,
+        "Year": 2015,
+        "TotalCountryCost": 337215
+    },
+    {
+        "NationalTeamID": 3699,
+        "Year": 2016,
+        "TotalCountryCost": 329280
+    },
+    {
+        "NationalTeamID": 3699,
+        "Year": 2017,
+        "TotalCountryCost": 327770
+    },
+    {
+        "NationalTeamID": 3699,
+        "Year": 2018,
+        "TotalCountryCost": 372070
+    },
+    {
+        "NationalTeamID": 3699,
+        "Year": 2019,
+        "TotalCountryCost": 306050
+    },
+    {
+        "NationalTeamID": 3699,
+        "Year": 2020,
+        "TotalCountryCost": 413420
+    },
+    {
+        "NationalTeamID": 3699,
+        "Year": 2021,
+        "TotalCountryCost": 467230
+    },
+    {
+        "NationalTeamID": 3699,
+        "Year": 2022,
+        "TotalCountryCost": 408610
+    },
+    {
+        "NationalTeamID": 3699,
+        "Year": 2023,
+        "TotalCountryCost": 440000
+    },
+    {
+        "NationalTeamID": 3699,
+        "Year": 2024,
+        "TotalCountryCost": 310850
+    },
+    {
+        "NationalTeamID": 3851,
+        "Year": 2014,
+        "TotalCountryCost": 22335
+    },
+    {
+        "NationalTeamID": 3851,
+        "Year": 2015,
+        "TotalCountryCost": 25405
+    },
+    {
+        "NationalTeamID": 3851,
+        "Year": 2016,
+        "TotalCountryCost": 33010
+    },
+    {
+        "NationalTeamID": 3851,
+        "Year": 2017,
+        "TotalCountryCost": 32965
+    },
+    {
+        "NationalTeamID": 3851,
+        "Year": 2018,
+        "TotalCountryCost": 34330
+    },
+    {
+        "NationalTeamID": 3851,
+        "Year": 2019,
+        "TotalCountryCost": 28955
+    },
+    {
+        "NationalTeamID": 3851,
+        "Year": 2020,
+        "TotalCountryCost": 30910
+    },
+    {
+        "NationalTeamID": 3851,
+        "Year": 2021,
+        "TotalCountryCost": 36645
+    },
+    {
+        "NationalTeamID": 3851,
+        "Year": 2022,
+        "TotalCountryCost": 45220
+    },
+    {
+        "NationalTeamID": 3851,
+        "Year": 2023,
+        "TotalCountryCost": 47790
+    },
+    {
+        "NationalTeamID": 3851,
+        "Year": 2024,
+        "TotalCountryCost": 28810
+    },
+    {
+        "NationalTeamID": 3864,
+        "Year": 2014,
+        "TotalCountryCost": 4550
+    },
+    {
+        "NationalTeamID": 3864,
+        "Year": 2015,
+        "TotalCountryCost": 3855
+    },
+    {
+        "NationalTeamID": 3864,
+        "Year": 2016,
+        "TotalCountryCost": 6080
+    },
+    {
+        "NationalTeamID": 3864,
+        "Year": 2017,
+        "TotalCountryCost": 4430
+    },
+    {
+        "NationalTeamID": 3864,
+        "Year": 2018,
+        "TotalCountryCost": 4750
+    },
+    {
+        "NationalTeamID": 3864,
+        "Year": 2019,
+        "TotalCountryCost": 4275
+    },
+    {
+        "NationalTeamID": 3864,
+        "Year": 2020,
+        "TotalCountryCost": 13605
+    },
+    {
+        "NationalTeamID": 3864,
+        "Year": 2021,
+        "TotalCountryCost": 14840
+    },
+    {
+        "NationalTeamID": 3864,
+        "Year": 2022,
+        "TotalCountryCost": 11705
+    },
+    {
+        "NationalTeamID": 3864,
+        "Year": 2023,
+        "TotalCountryCost": 12385
+    },
+    {
+        "NationalTeamID": 3864,
+        "Year": 2024,
+        "TotalCountryCost": 11275
+    },
+    {
+        "NationalTeamID": 5547,
+        "Year": 2014,
+        "TotalCountryCost": 90200
+    },
+    {
+        "NationalTeamID": 5547,
+        "Year": 2015,
+        "TotalCountryCost": 106710
+    },
+    {
+        "NationalTeamID": 5547,
+        "Year": 2016,
+        "TotalCountryCost": 115400
+    },
+    {
+        "NationalTeamID": 5547,
+        "Year": 2017,
+        "TotalCountryCost": 110940
+    },
+    {
+        "NationalTeamID": 5547,
+        "Year": 2018,
+        "TotalCountryCost": 130940
+    },
+    {
+        "NationalTeamID": 5547,
+        "Year": 2019,
+        "TotalCountryCost": 91100
+    },
+    {
+        "NationalTeamID": 5547,
+        "Year": 2020,
+        "TotalCountryCost": 104440
+    },
+    {
+        "NationalTeamID": 5547,
+        "Year": 2021,
+        "TotalCountryCost": 102370
+    },
+    {
+        "NationalTeamID": 5547,
+        "Year": 2022,
+        "TotalCountryCost": 135140
+    },
+    {
+        "NationalTeamID": 5547,
+        "Year": 2023,
+        "TotalCountryCost": 131890
+    },
+    {
+        "NationalTeamID": 5547,
+        "Year": 2024,
+        "TotalCountryCost": 111680
+    },
+    {
+        "NationalTeamID": 5673,
+        "Year": 2014,
+        "TotalCountryCost": 10100
+    },
+    {
+        "NationalTeamID": 5673,
+        "Year": 2015,
+        "TotalCountryCost": 15550
+    },
+    {
+        "NationalTeamID": 5673,
+        "Year": 2016,
+        "TotalCountryCost": 10750
+    },
+    {
+        "NationalTeamID": 5673,
+        "Year": 2017,
+        "TotalCountryCost": 7430
+    },
+    {
+        "NationalTeamID": 5673,
+        "Year": 2018,
+        "TotalCountryCost": 6750
+    },
+    {
+        "NationalTeamID": 5673,
+        "Year": 2019,
+        "TotalCountryCost": 5400
+    },
+    {
+        "NationalTeamID": 5673,
+        "Year": 2020,
+        "TotalCountryCost": 8100
+    },
+    {
+        "NationalTeamID": 5673,
+        "Year": 2021,
+        "TotalCountryCost": 7700
+    },
+    {
+        "NationalTeamID": 5673,
+        "Year": 2022,
+        "TotalCountryCost": 6350
+    },
+    {
+        "NationalTeamID": 5673,
+        "Year": 2023,
+        "TotalCountryCost": 6530
+    },
+    {
+        "NationalTeamID": 5673,
+        "Year": 2024,
+        "TotalCountryCost": 4950
+    },
+    {
+        "NationalTeamID": 6090,
+        "Year": 2014,
+        "TotalCountryCost": 36600
+    },
+    {
+        "NationalTeamID": 6090,
+        "Year": 2015,
+        "TotalCountryCost": 51465
+    },
+    {
+        "NationalTeamID": 6090,
+        "Year": 2016,
+        "TotalCountryCost": 64200
+    },
+    {
+        "NationalTeamID": 6090,
+        "Year": 2017,
+        "TotalCountryCost": 45250
+    },
+    {
+        "NationalTeamID": 6090,
+        "Year": 2018,
+        "TotalCountryCost": 44975
+    },
+    {
+        "NationalTeamID": 6090,
+        "Year": 2019,
+        "TotalCountryCost": 34275
+    },
+    {
+        "NationalTeamID": 6090,
+        "Year": 2020,
+        "TotalCountryCost": 38720
+    },
+    {
+        "NationalTeamID": 6090,
+        "Year": 2021,
+        "TotalCountryCost": 52450
+    },
+    {
+        "NationalTeamID": 6090,
+        "Year": 2022,
+        "TotalCountryCost": 40080
+    },
+    {
+        "NationalTeamID": 6090,
+        "Year": 2023,
+        "TotalCountryCost": 36340
+    },
+    {
+        "NationalTeamID": 6090,
+        "Year": 2024,
+        "TotalCountryCost": 21190
+    },
+    {
+        "NationalTeamID": 6133,
+        "Year": 2014,
+        "TotalCountryCost": 24715
+    },
+    {
+        "NationalTeamID": 6133,
+        "Year": 2015,
+        "TotalCountryCost": 24570
+    },
+    {
+        "NationalTeamID": 6133,
+        "Year": 2016,
+        "TotalCountryCost": 19570
+    },
+    {
+        "NationalTeamID": 6133,
+        "Year": 2017,
+        "TotalCountryCost": 20510
+    },
+    {
+        "NationalTeamID": 6133,
+        "Year": 2018,
+        "TotalCountryCost": 22070
+    },
+    {
+        "NationalTeamID": 6133,
+        "Year": 2019,
+        "TotalCountryCost": 22860
+    },
+    {
+        "NationalTeamID": 6133,
+        "Year": 2020,
+        "TotalCountryCost": 25630
+    },
+    {
+        "NationalTeamID": 6133,
+        "Year": 2021,
+        "TotalCountryCost": 24010
+    },
+    {
+        "NationalTeamID": 6133,
+        "Year": 2022,
+        "TotalCountryCost": 22410
+    },
+    {
+        "NationalTeamID": 6133,
+        "Year": 2023,
+        "TotalCountryCost": 22620
+    },
+    {
+        "NationalTeamID": 6133,
+        "Year": 2024,
+        "TotalCountryCost": 15700
+    },
+    {
+        "NationalTeamID": 6219,
+        "Year": 2014,
+        "TotalCountryCost": 27010
+    },
+    {
+        "NationalTeamID": 6219,
+        "Year": 2015,
+        "TotalCountryCost": 25620
+    },
+    {
+        "NationalTeamID": 6219,
+        "Year": 2016,
+        "TotalCountryCost": 24210
+    },
+    {
+        "NationalTeamID": 6219,
+        "Year": 2017,
+        "TotalCountryCost": 26980
+    },
+    {
+        "NationalTeamID": 6219,
+        "Year": 2018,
+        "TotalCountryCost": 44090
+    },
+    {
+        "NationalTeamID": 6219,
+        "Year": 2019,
+        "TotalCountryCost": 41240
+    },
+    {
+        "NationalTeamID": 6219,
+        "Year": 2020,
+        "TotalCountryCost": 47420
+    },
+    {
+        "NationalTeamID": 6219,
+        "Year": 2021,
+        "TotalCountryCost": 39315
+    },
+    {
+        "NationalTeamID": 6219,
+        "Year": 2022,
+        "TotalCountryCost": 41305
+    },
+    {
+        "NationalTeamID": 6219,
+        "Year": 2023,
+        "TotalCountryCost": 44460
+    },
+    {
+        "NationalTeamID": 6219,
+        "Year": 2024,
+        "TotalCountryCost": 36270
+    },
+    {
+        "NationalTeamID": 8605,
+        "Year": 2014,
+        "TotalCountryCost": 46870
+    },
+    {
+        "NationalTeamID": 8605,
+        "Year": 2015,
+        "TotalCountryCost": 50920
+    },
+    {
+        "NationalTeamID": 8605,
+        "Year": 2016,
+        "TotalCountryCost": 50400
+    },
+    {
+        "NationalTeamID": 8605,
+        "Year": 2017,
+        "TotalCountryCost": 55070
+    },
+    {
+        "NationalTeamID": 8605,
+        "Year": 2018,
+        "TotalCountryCost": 83995
+    },
+    {
+        "NationalTeamID": 8605,
+        "Year": 2019,
+        "TotalCountryCost": 68590
+    },
+    {
+        "NationalTeamID": 8605,
+        "Year": 2020,
+        "TotalCountryCost": 60010
+    },
+    {
+        "NationalTeamID": 8605,
+        "Year": 2021,
+        "TotalCountryCost": 65700
+    },
+    {
+        "NationalTeamID": 8605,
+        "Year": 2022,
+        "TotalCountryCost": 76740
+    },
+    {
+        "NationalTeamID": 8605,
+        "Year": 2023,
+        "TotalCountryCost": 86890
+    },
+    {
+        "NationalTeamID": 8605,
+        "Year": 2024,
+        "TotalCountryCost": 83920
+    },
+    {
+        "NationalTeamID": 9110,
+        "Year": 2014,
+        "TotalCountryCost": 79600
+    },
+    {
+        "NationalTeamID": 9110,
+        "Year": 2015,
+        "TotalCountryCost": 88420
+    },
+    {
+        "NationalTeamID": 9110,
+        "Year": 2016,
+        "TotalCountryCost": 110960
+    },
+    {
+        "NationalTeamID": 9110,
+        "Year": 2017,
+        "TotalCountryCost": 114650
+    },
+    {
+        "NationalTeamID": 9110,
+        "Year": 2018,
+        "TotalCountryCost": 117050
+    },
+    {
+        "NationalTeamID": 9110,
+        "Year": 2019,
+        "TotalCountryCost": 146370
+    },
+    {
+        "NationalTeamID": 9110,
+        "Year": 2020,
+        "TotalCountryCost": 157690
+    },
+    {
+        "NationalTeamID": 9110,
+        "Year": 2021,
+        "TotalCountryCost": 111250
+    },
+    {
+        "NationalTeamID": 9110,
+        "Year": 2022,
+        "TotalCountryCost": 100420
+    },
+    {
+        "NationalTeamID": 9110,
+        "Year": 2023,
+        "TotalCountryCost": 98575
+    },
+    {
+        "NationalTeamID": 9110,
+        "Year": 2024,
+        "TotalCountryCost": 48840
+    },
+    {
+        "NationalTeamID": 10521,
+        "Year": 2014,
+        "TotalCountryCost": 800
+    },
+    {
+        "NationalTeamID": 10521,
+        "Year": 2015,
+        "TotalCountryCost": 1075
+    },
+    {
+        "NationalTeamID": 10521,
+        "Year": 2016,
+        "TotalCountryCost": 1025
+    },
+    {
+        "NationalTeamID": 10521,
+        "Year": 2017,
+        "TotalCountryCost": 1200
+    },
+    {
+        "NationalTeamID": 10521,
+        "Year": 2018,
+        "TotalCountryCost": 1500
+    },
+    {
+        "NationalTeamID": 10521,
+        "Year": 2019,
+        "TotalCountryCost": 3325
+    },
+    {
+        "NationalTeamID": 10521,
+        "Year": 2020,
+        "TotalCountryCost": 3610
+    },
+    {
+        "NationalTeamID": 10521,
+        "Year": 2021,
+        "TotalCountryCost": 4285
+    },
+    {
+        "NationalTeamID": 10521,
+        "Year": 2022,
+        "TotalCountryCost": 4935
+    },
+    {
+        "NationalTeamID": 10521,
+        "Year": 2023,
+        "TotalCountryCost": 5935
+    },
+    {
+        "NationalTeamID": 10521,
+        "Year": 2024,
+        "TotalCountryCost": 5050
+    },
+    {
+        "NationalTeamID": 10533,
+        "Year": 2014,
+        "TotalCountryCost": 550
+    },
+    {
+        "NationalTeamID": 10533,
+        "Year": 2015,
+        "TotalCountryCost": 400
+    },
+    {
+        "NationalTeamID": 10533,
+        "Year": 2016,
+        "TotalCountryCost": 1900
+    },
+    {
+        "NationalTeamID": 10533,
+        "Year": 2017,
+        "TotalCountryCost": 2025
+    },
+    {
+        "NationalTeamID": 10533,
+        "Year": 2018,
+        "TotalCountryCost": 12630
+    },
+    {
+        "NationalTeamID": 10533,
+        "Year": 2019,
+        "TotalCountryCost": 10230
+    },
+    {
+        "NationalTeamID": 10533,
+        "Year": 2020,
+        "TotalCountryCost": 9765
+    },
+    {
+        "NationalTeamID": 10533,
+        "Year": 2021,
+        "TotalCountryCost": 14180
+    },
+    {
+        "NationalTeamID": 10533,
+        "Year": 2022,
+        "TotalCountryCost": 17480
+    },
+    {
+        "NationalTeamID": 10533,
+        "Year": 2023,
+        "TotalCountryCost": 22310
+    },
+    {
+        "NationalTeamID": 10533,
+        "Year": 2024,
+        "TotalCountryCost": 14300
+    },
+    {
+        "NationalTeamID": 11953,
+        "Year": 2014,
+        "TotalCountryCost": 18545
+    },
+    {
+        "NationalTeamID": 11953,
+        "Year": 2015,
+        "TotalCountryCost": 38300
+    },
+    {
+        "NationalTeamID": 11953,
+        "Year": 2016,
+        "TotalCountryCost": 34125
+    },
+    {
+        "NationalTeamID": 11953,
+        "Year": 2017,
+        "TotalCountryCost": 33370
+    },
+    {
+        "NationalTeamID": 11953,
+        "Year": 2018,
+        "TotalCountryCost": 31540
+    },
+    {
+        "NationalTeamID": 11953,
+        "Year": 2019,
+        "TotalCountryCost": 28490
+    },
+    {
+        "NationalTeamID": 11953,
+        "Year": 2020,
+        "TotalCountryCost": 31025
+    },
+    {
+        "NationalTeamID": 11953,
+        "Year": 2021,
+        "TotalCountryCost": 33505
+    },
+    {
+        "NationalTeamID": 11953,
+        "Year": 2022,
+        "TotalCountryCost": 27935
+    },
+    {
+        "NationalTeamID": 11953,
+        "Year": 2023,
+        "TotalCountryCost": 24745
+    },
+    {
+        "NationalTeamID": 11953,
+        "Year": 2024,
+        "TotalCountryCost": 18275
+    },
+    {
+        "NationalTeamID": 37574,
+        "Year": 2014,
+        "TotalCountryCost": 800
+    },
+    {
+        "NationalTeamID": 37574,
+        "Year": 2015,
+        "TotalCountryCost": 1705
+    },
+    {
+        "NationalTeamID": 37574,
+        "Year": 2016,
+        "TotalCountryCost": 3300
+    },
+    {
+        "NationalTeamID": 37574,
+        "Year": 2017,
+        "TotalCountryCost": 2175
+    },
+    {
+        "NationalTeamID": 37574,
+        "Year": 2018,
+        "TotalCountryCost": 2455
+    },
+    {
+        "NationalTeamID": 37574,
+        "Year": 2019,
+        "TotalCountryCost": 3530
+    },
+    {
+        "NationalTeamID": 37574,
+        "Year": 2020,
+        "TotalCountryCost": 2250
+    },
+    {
+        "NationalTeamID": 37574,
+        "Year": 2021,
+        "TotalCountryCost": 7735
+    },
+    {
+        "NationalTeamID": 37574,
+        "Year": 2022,
+        "TotalCountryCost": 7720
+    },
+    {
+        "NationalTeamID": 37574,
+        "Year": 2023,
+        "TotalCountryCost": 8960
+    },
+    {
+        "NationalTeamID": 37574,
+        "Year": 2024,
+        "TotalCountryCost": 8170
+    },
+    {
+        "NationalTeamID": 53982,
+        "Year": 2014,
+        "TotalCountryCost": 1375
+    },
+    {
+        "NationalTeamID": 53982,
+        "Year": 2015,
+        "TotalCountryCost": 1825
+    },
+    {
+        "NationalTeamID": 53982,
+        "Year": 2016,
+        "TotalCountryCost": 4025
+    },
+    {
+        "NationalTeamID": 53982,
+        "Year": 2017,
+        "TotalCountryCost": 6365
+    },
+    {
+        "NationalTeamID": 53982,
+        "Year": 2018,
+        "TotalCountryCost": 16605
+    },
+    {
+        "NationalTeamID": 53982,
+        "Year": 2019,
+        "TotalCountryCost": 20140
+    },
+    {
+        "NationalTeamID": 53982,
+        "Year": 2020,
+        "TotalCountryCost": 25345
+    },
+    {
+        "NationalTeamID": 53982,
+        "Year": 2021,
+        "TotalCountryCost": 27270
+    },
+    {
+        "NationalTeamID": 53982,
+        "Year": 2022,
+        "TotalCountryCost": 30875
+    },
+    {
+        "NationalTeamID": 53982,
+        "Year": 2023,
+        "TotalCountryCost": 43205
+    },
+    {
+        "NationalTeamID": 53982,
+        "Year": 2024,
+        "TotalCountryCost": 31160
+    }
+]
